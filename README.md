@@ -1,3 +1,3 @@
 GrimDawn localization file
 ========
-Check diffrences between 2 versions: 
+Check differences between 2 versions: https://github.com/esclaveDuReve/GrimDawn/compare/beta19
