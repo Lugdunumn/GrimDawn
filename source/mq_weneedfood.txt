@@ -1,0 +1,21 @@
+The Trek to Homestead
+We Need Food
+Speak to Barnabas
+With the Cronley and his gang dealt with, Captain Bourbon feels it is imperative to deal with the prison's dwindling food supplies. Mornay instructed you to speak to Barnabas about a potential solution to the problem.
+Speak to Barnabas in Devil's Crossing
+Find Bridge
+With the bridge connecting to the Arkovian Foothills repaired, you must now carve your way through the wilderness to rediscover a way to the once thriving farming community that supplied the Burrwitch region with its harvests. Start by following the road out into the Arkovian Foothills, all the way through Old Arkovia. If the bridge near Twin Falls still stands, you can cross it to enter the farmlands, otherwise you may have to find another path. Barnabas mentioned an old smuggling route that ran through the Broken Hills. If you cannot traverse the bridge, you should look for Smuggler's Pass instead. (NOTE: This quest cannot be completed in this build)
+Cross the bridge near Twin Falls to enter Homestead
+(Or) Travel through Smuggler's Pass
+
+Explore the Farmlands
+You have found the farmlands to the northwest. You should explore Homestead to determine whether it is still fit for farming, and if anyone still survives out here.
+Explore the Farmlands in Homestead
+
+Speak to Douglass
+You have found a small settlement up in the hills of Homestead. Within it, hardy and determined farmers are scraping by in this grim new world. You should speak to Douglass Oldbarrow in Homestead to see if they would be willing to trade with Devil's Crossing for food.
+Speak to Douglass Oldbarrow in Homestead
+
+
+
+
