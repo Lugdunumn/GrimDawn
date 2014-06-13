@@ -137,3 +137,15 @@ tagTutorialTip43TextB=To learn a blueprint, right-click on it. If you have not y
 tagTutorialTip44Title=The Blacksmith is Missing!
 tagTutorialTip44TextA=You have learned a new blueprint, but you do not have a Blacksmith capable of crafting the item for you.{^n}{^n}You must first find a Blacksmith before you can craft items.{^n}{^n}The Blacksmith will know how to craft this new blueprint immediately.
 tagTutorialTip44TextB=
+
+tagTutorialTip45Title=Constitution
+tagTutorialTip45TextA=When combat ends and your health bar is not full, a secondary regeneration system activates called Constitution.{^N}{^N}Constitution will rapidly refill your health bar, but will also be drained in the process. The yellow indicator over your health bar is your Constitution.{^N}{^N}
+tagTutorialTip45TextB=Constitution automatically refills when you find Food Rations or Vital Essence, and when you reach the next Character Level or Die.{^N}{^N}If your Constitution runs out, you will no longer rapidly regenerate health outside of combat.{^N}{^N}
+
+tagTutorialTip46Title=Out of Constitution
+tagTutorialTip46TextA=You have run out of Constitution and will no longer rapidly regenerate health out of combat. You can restore your Constitution with Food Rations or Vital Essence.
+
+tagTutorialTip47Title=Dismantling
+tagTutorialTip47TextA=You have unlocked a new feature for the Inventor, allowing you to break down items into Scrap, with a chance of generating a Component piece. The more powerful the item, the more likely it will generate powerful Components.
+tagTutorialTip47SubtitleA=Dismantling an Item
+tagTutorialTip47TextB=To Dismantle an item, you will require Dynamite and iron bits. A Dismantled item is destroyed forever. Place an item of at least Magical quality in the Inventor's Dismantling UI to begin.{^N}{^N}Upon pressing the Dismantle button, the required Dynamite and iron bits cost is deducted from your inventory and the item is converted to basic parts.{^N}{^N}

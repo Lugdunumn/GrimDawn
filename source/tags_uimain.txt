@@ -1,4 +1,4 @@
-﻿tagTitleScreenText=Grim Dawn Alpha{^n}©2014 Crate Entertainment, LLC{^n}{^n}Welcome to the Grim Dawn Alpha! We appreciate your feedback.{^n}{^n}Please visit us at www.grimdawn.com to participate{^n}in the ongoing development of Grim Dawn!
+﻿tagTitleScreenText=Grim Dawn Early Access{^n}©2014 Crate Entertainment, LLC{^n}{^n}Welcome to Grim Dawn Early Access! We appreciate your feedback.{^n}{^n}Please visit us at www.grimdawn.com to participate{^n}in the ongoing development of Grim Dawn!
 tagMenu01=Play Game
 tagMenu02=Custom Game
 tagMenu03=Information
@@ -225,20 +225,22 @@ tagWindowed=Windowed
 tagVideoOptionDepthOfField=Depth of Field
 tagVideoOptionSoftParticles=Soft Particles
 tagVideoOptionUIScale=UI Scale
+
 tagMultiplayer01=Game Name
 tagMultiplayer02=Difficulty
 tagMultiplayer03=Map
 tagMultiplayer04=Players
 tagMultiplayer05=Ping
 tagMultiplayer06=Summary
-tagMultiplayer07=Filter :
+tagMultiplayer07=Game Name Filter:
 tagMultiplayer08=Hide :
 tagMultiplayer09=Map Unavailable
-tagMultiplayer10=Full Games
-tagMultiplayer11=Locked Games
+tagMultiplayer10=Hide Full Games
+tagMultiplayer11=Hide Locked Games
 tagMultiplayer12={%d0} / {%d1} 
 tagMultiplayer13={%d0} hr {%d1} min {%d2} sec
 tagMultiplayer14=Locked
+
 tagMultiStats01=Map :
 tagMultiStats02=Players :  {%d0} / {%d1}
 tagMultiStats03=Difficulty :
@@ -246,6 +248,7 @@ tagMultiStats04=Elapsed Time :
 tagMultiStats05=Level Range +/-
 tagMultiButtonRefresh=Refresh
 tagMultiNameFormat={%t0} (Level {%d0})
+
 tagDefaultMap=Grim Dawn
 tagMenuErrorTitle=Information
 tagMenuError07=Please select a name for your character.
@@ -315,12 +318,7 @@ tagLanguagePatchError=Grim Dawn was unable to update the original Grim Dawn dial
 tagMenuPatcher01=Updating original Grim Dawn files …
 tagMenuPatcher02=Error with file : 
 tagGameSummary={%d0} Games / {%d1} Players
-tagLobbyLock=Password Locked 
-tagLobbyDifficulty=Difficulty
-tagLobbyAutoparty=Auto-Party Enabled 
-tagLobbyLanguage=Language 
-tagLobbyPVP=PVP Enabled
-tagLobbyPlayers=Players in Game/Max Players
+
 tagCharCreatePVP=PVP
 tagCharCreateAutoParty=Auto-Party
 tagCharCreatePVPwarning=You have just enabled PVP (Player Versus Player) mode.  In this mode, you can attack other players, and they can attack you.  Note: A game can be either PVP or Auto-Party, but not both.
@@ -330,6 +328,17 @@ tagCharImportTQCampaign=Grim Dawn Campaign Characters
 tagCharImportTQCustom=Grim Dawn Custom Characters
 tagCharImportTQXCampaign=Grim Dawn Campaign Characters
 tagCharImportTitle=Import Character
+
+tagLobbyLock=Password Locked 
+tagLobbyDifficulty=Difficulty
+tagLobbyAutoparty=Auto-Party Enabled 
+tagLobbyLanguage=Language 
+tagLobbyPVP=PVP Enabled
+tagLobbyNormalDifficulty=Normal Difficulty
+tagLobbyEliteDifficulty=Elite Difficulty
+tagLobbyUltimateDifficulty=Ultimate Difficulty
+tagLobbyChallenge=Veteran Difficulty
+tagLobbyPlayers=Players in Game/Max Players
 tagLobbySearchTitle=Advanced Search
 tagLobbySearchPingBelow=Ping Below
 tagLobbySearchMaxPlayers=Max Players
@@ -348,6 +357,36 @@ tagLobbyDirectIP=IP:
 tagLobbyDirectPort=Port:
 tagLobbyDirectSave=Save
 tagLobbyDirectCancel=Cancel
+tagLobbyCurrentQuest=Current Quest:
+tagLobbyPlayersTitle=Players:
+tagLobbyServerTypeTitle=Server Type:
+tagLobbyServerTypeAll=All
+tagLobbyServerTypeFriends=Friends
+tagLobbyServerTypeRecent=Recent
+
+tagCharDetailsPlayerLevel=Level:
+tagCharDetailsItemLevel=Item Level:
+tagCharDetailsPlayerLocation=Location:
+tagCharDetailsFaction=Faction Status:
+tagCharDetailsActiveQuests=Active Quests:
+
+tagDirectConnectMenuConnecting=Connecting to Server {%t0}
+tagDirectConnectMenuStatus1=Contacting Server...
+tagDirectConnectMenuStatus2=Connecting to Server...
+tagDirectConnectMenuStatus3=Connection complete, launching game.
+
+
+tagFriendOffline=Offline
+tagFriendOnline=Online
+tagFriendBusy=Busy
+tagFriendAway=Away
+tagFriendUnknown=Status Unknown
+tagFriendPlayingGrimDawnSP=Playing Grim Dawn Offline
+tagFriendPlayingGrimDawnMP=Playing Grim Dawn Online
+tagFriendAddButton=Add Friend
+tagFriendJoinGameButton=Join Game
+
+
 tagOptionOff=Off
 tagVideoOptionTripleBuffering=Triple Buffering
 tagVideoOptionCameraShake=Camera Shake
@@ -363,4 +402,4 @@ tagOverwriteKeymap=The function ^y{%t0}^w has already been mapped to ^y{%t1}^w. 
 tagHardDiskError=Your computer is currently low on hard drive space.  Grim Dawn may have difficulty saving your game.   To avoid this problem, please create more room on your hardrive.
 tagMenuError10=Unable to connect to server.  The mod or map version does not match the host.
 
-tagReportUsageStats=Welcome to the Grim Dawn Alpha.{^n}Help us improve Grim Dawn by periodically reporting anonymous system and gameplay stats?
+tagReportUsageStats=Welcome to the Grim Dawn Early Access.{^n}Help us improve Grim Dawn by periodically reporting anonymous system and gameplay stats?

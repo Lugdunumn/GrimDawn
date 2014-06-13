@@ -1,6 +1,8 @@
 Barnabas
 I've heard from Douglass in Homestead. It appears he is ready to do trade with us. Devil's Crossing will be stocked with harvest in no time and it's all thanks to yer efforts. Cheers!
 I do what I can.
+Your allies already made good work of everythin' I needed done.
+Very well.
 Any progress with Homestead?
 Still working on a deal.
 Any progress with Homestead?
@@ -69,6 +71,10 @@ Have you seen the bodies floating out there?{^n}{^n}Surface water around here is
 Is this enough Scrap?
 Impressive! We hadn' had much luck scavenging for supplies on account of the Dead swarming Lower Crossing. You seem to handle them well enough though. I will get the wind pump up and running in no time. Devil's Crossing will have safe drinking water again, and it's all thanks to you.  {^n}{^n}The first glass is on me.
 Glad I could help.
+
+Did my ally deliver the scrap?
+Yes indeed! We hadn' had much luck scavenging for supplies on account of the Dead swarming Lower Crossing. You seem to handle them well enough though. Devil's Crossing will have safe drinking water again, and it's all thanks to you.  {^n}{^n}The first glass is on me.
+Glad we could help.
 
 So yer the one that we almost hung! I didn' really see the sense in it, but then again, no one really cares what Ol' Barnabas thinks. {^n}{^n}You really should go speak with the Captain. He'll be the one deciding whether there's a place for you here at Devil's Crossing.
 Take care.
