@@ -1,4 +1,6 @@
 Alicia
+Please move on. We have nothing to offer you.
+Just passing through. Goodbye.
 Have you delivered the scrap to Silas?
 I bribed him so he leaves you alone for good.
 Thank you! I never would have imagined that we would be free of this oppression, but it appears Silas' loyalty could be bought. Please, take the scrap we collected for the tribute. It is the least we could do.
@@ -13,9 +15,9 @@ Good luck. Farewell.
 Yes, he seemed pleased.
 Thank you! He fled shortly after he heard the news that Cronley is dead. I guess he got himself one last tribute.
 You're welcome. Take care.
-We are finally free of the Cronley's oppression and it's all thanks to you.
+We are finally free of Cronley's oppression and it's all thanks to you.
 Glad I could help.
-News of Cronley's demise has spread like wildfire. Our overseer, Silas, fled at first word. We are finally free of the Cronley's oppression and it's all thanks to you!
+News of Cronley's demise has spread like wildfire. Our overseer, Silas, fled at first word. We are finally free of Cronley's oppression and it's all thanks to you!
 They should not bother you any more.
 I don't know how we could possibly repay you, but please take this scrap. We were preparing it for our next tribute to Silas, but now we won't have to.
 Thank you.
