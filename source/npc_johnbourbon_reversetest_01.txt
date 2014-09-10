@@ -151,8 +151,6 @@ The bodies of the dead are rising again in some horrible unlife. Corpses don't j
 Where can I find Burial Hill?
 You will need to fight your way through Lower Crossing. Once you've crossed the stream on the far side of town, there will be a beaten path leading up to Burial Hill. {^n}{^n}I know I'm asking a lot of you, but I'd be asking a lot of my people to welcome you with open arms too. Help us in our hour of need, and I will open Devil's Crossing to you.
 I'll find what's reanimating those corpses.
-I'll find what's reanimating those corpses.
-I'll find what's reanimating those corpses.
 I need some time to consider all this.
 I'd like to ask about something else.
 Very well, but make it quick. The longer you linger, the more Dead gather at Lower Crossing.

@@ -1,4 +1,4 @@
-Devil's Crossing
+The Resistance
 Securing Burrwitch
 Find the Burrwitch Portal
 Recon data from John Bourbon's scouts indicates that Burrwitch must be critical to Aetherial operations in the area. {^n}{^n}Perhaps the mastermind behind all this tragedy is hiding somewhere in the village. Before you can search for it, however, you must secure a means of entry. {^n}{^n}Find a riftgate within Burrwitch and secure it for the Survivors. Burrwitch is located to the north of Devil's Crossing, past Wightmire.

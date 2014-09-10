@@ -1,4 +1,4 @@
-Resistance Saga
+The Resistance
 The Warden
 Access the Wardens Cellar
 John Bourbon believes that the Aetherial responsible for the atrocities at Burrwitch has possessed the body of the former warden of Devil's Crossing, Warden Krieg. {^n}{^n}According to the logs in the prison, Warden Krieg, or whatever he has become, was experimenting on prisoners in a secret laboratory underneath his mansion in Burrwitch proper. {^n}{^n}The laboratory can be accessed via the Warden's cellar underneath his estate in Burrwitch.
