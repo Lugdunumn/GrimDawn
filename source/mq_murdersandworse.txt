@@ -9,7 +9,7 @@ Repair the bridge (skippable)
 Before you can venture out to the Arkovian Foothills to the northwest, the bridge must first be repaired. In order to repair the bridge, you must provide the necessary materials at its construction site.
 Repair the bridge leading northwest out of Devil's Crossing
 
-Scout out Broken Hill (bandit event)
+Kill Edmund
 With the bridge repaired, you need to enter the Arkovian Foothills and let the outlaws know that Devil's Crossing is not a prize for the taking.
 Kill Edmund "Shanks" Doyle
 

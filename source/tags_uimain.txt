@@ -18,6 +18,14 @@ tagMenuButton08=Default
 tagMenuButton09=Ok
 tagMenuButton10=Refresh
 tagMenuChar={%d0} ~ {%d1}
+
+# Temporary popup message for alpha multiplayer build warning
+tagMenuMPWarning=Welcome to Multiplayer Testing! Warning: during the test phase, you will encounter bugs, crashes and performance issues. Please post problems to the Grim Dawn forum.
+
+#
+# Play Menu
+#
+
 tagMenuGame01=Single Player
 tagMenuGame02=Join Multiplayer
 tagMenuGame03=Host Multiplayer
@@ -45,15 +53,43 @@ tagMenuImport03=Name
 tagMenuImport04=Class
 tagMenuImport05=Level
 tagMenuImport06=Rename Character:
+
 tagRDifficultyTitle01=Normal
 tagRDifficultyTitle02=Elite
 tagRDifficultyTitle03=Ultimate
-tagChallengeDifficulty=Veteran Difficulty
+tagChallengeDifficulty=Veteran
 tagHardcore=Hardcore
 tagChallenge=Veteran
 tagRDifficultyDesc01=Complete this difficulty mode to unlock harder difficulty modes.
 tagRDifficultyDesc02=The game must be completed in Normal difficulty to play Veteran difficulty.
 tagRDifficultyDesc03=The game must be completed in Veteran difficulty to play Elite difficulty.
+tagDifficultyTitleSet=Choose Difficulty:
+tagDifficultyTitleShow=Difficulties Available to Join:
+tagDifficultyNormal=Normal Difficulty
+tagDifficultyNormalVeteran=Veteran Difficulty
+tagDifficultyElite=Elite Difficulty
+tagDifficultyUltimate=Ultimate Difficulty
+tagDifficultyJoinNormal=Normal Difficulty Only
+tagDifficultyJoinElite=Up to Elite Difficulty
+tagDifficultyJoinUltimate=Up to Ultimate Difficulty
+tagDifficultyJoinAny=Any Difficulty
+
+tagPlayOptionsAccept=Accept
+tagPlayOptionsCancel=Cancel
+tagPlayGameModeCampaign=Main Campaign
+tagPlayGameModeCustom=Custom Game
+tagPlayGameModeSurvival=Survival Mode
+
+tagGameStateInit=Initializing...
+tagGameStateLoading=Loading...
+tagGameStateStarting=Starting Game...
+tagGameStateConnecting=Connecting to Server...
+tagGameStateData=Waiting for Server...
+
+#
+# Options
+#
+
 tagGameplayTitle=General
 tagGameplayDesc01=This will display help pop-ups in the game.
 tagGameplayDesc02=This enables a right click sell option when using the market window.
@@ -176,10 +212,14 @@ tagAudioOption08=More Often
 tagAudioOption09=Enable EAX
 tagAudioOption10=Enable Hardware Mixing
 tagAudioOption11=Ambient FX Volume
+tagSoundDevice=Audio Device
 tagSpeakerSetup=Speaker Setup
-tagHeadphoneSpeakers=Headphone Speakers
-tag41Speakers=4 Speakers
-tag51Speakers=5.1 Speakers
+tagHeadphoneSpeakers=Headphones
+tagStereoSpeakers=Stereo
+tagQuadraphonicSpeakers=Quadraphonic
+tagSurroundSpeakers=Surround
+tag51Speakers=5.1 Surround
+tag71Speakers=7.1 Surround
 tagVideoTitle=Video
 tagVideoResolution01=800 x 600
 tagVideoResolution02=1024 x 768
@@ -226,6 +266,46 @@ tagVideoOptionDepthOfField=Depth of Field
 tagVideoOptionSoftParticles=Soft Particles
 tagVideoOptionUIScale=UI Scale
 
+tagNetworkTitle=Network
+tagUpnpTitle=UPnP:
+tagUpnpStatus=UPnP Status:
+tagUpnpAvailable=Available
+tagUpnpNotAvailable=Not Available
+tagUpnpHelp=Help
+tagUpnpControl=Enable UPnP
+tagNetworkStatusTitle=Network Status:
+tagNetworkStatusTest=Test
+tagNetworkNoOpts=Network Options are unavailable in game.{^n}Please exit to the Main Menu and open the Options Menu.
+tagCloudSaving=Enable Cloud Saving
+tagResetCloud=Delete Cloud Saves
+
+tagUPnPCheckFail=UPnP Services are not available to configure your router to host a Grim Dawn Server.  Please check your router settings and enable UPnP, or, if that is not possible, manually configure your router to open port 27016 for both the UDP and TCP protocols.
+
+tagUPnPNotAvailableHelp=UPnP is not available.  Grim Dawn will not be able to auto-configure your router to Host an Internet server.  Please check your router settings and enable UPnP or manually configure your router to open port 27016 for both the UDP and TCP protocols.
+
+tagUPnPEnabledHelp=UPnP is enabled.  No manual configuration is needed.
+tagUPnPDisabledHelp=UPnP is disabled.  Port 27016 must be opened on your router for both the UDP and TCP protocols to host a Grim Dawn server.
+
+tagUPnPHelp=UPnP is a protocol that allows Grim Dawn to Communicate with and control your router.  To host an Internet server, ports must be opened on your router.  UPnP allows Grim Dawn to open those ports, and close them on exit, with no manual configuration required.
+
+tagIPCheckHelp=The network configuration test checks that the local router has a valid external IP address, and that the address matches the external address visible to the internet.
+
+tagIPCheckFail=The public IP address reported by your router does not match the public IP address externally visible to the Internet.  Usually, this is caused by attempting to host a Grim Dawn Server from behind more than one router.  Please check your router configuration and restart Grim Dawn.
+
+tagIPCheckFailMaybe=The public IP address reported by your router (%t0) is not a valid IP address.  It is possible that your router is functioning properly and did not report the public IP correctly.  However, if you are unable to host a Grim Dawn server, please check your router configuration.  In particular, you should check to make sure that the Grim Dawn server is not behind more than one router.  Some Internet providers use bundled modem/router devices.  If there is another router between the Grim Dawn server and the bundled device you will not be able to host an internet server.
+
+tagIPCheckPass=Network configuration test passed.  The public IP address reported by your router matches that which is externally visible on the internet.
+
+tagIPCheckUnable=Unable to test network configuration.  This check requires that the local router has the UPnP protocol enabled, and that UPnP support is enabled in Grim Dawn.  If it is not enabled, please enable it, restart Grim Dawn, and re-run this test.
+
+tagIPCheckUnableIP=Unable to obtain the externally visible IP address.  The test cannot be run at this time.
+
+tagIPTesting=Testing Configuration...
+tagIPLocalPublic=Public IP reported by your router:
+tagIPExternalPublic=Public IP visible to the Internet:
+tagIPInvalid=<Unable to obtain address>
+
+
 tagMultiplayer01=Game Name
 tagMultiplayer02=Difficulty
 tagMultiplayer03=Map
@@ -233,13 +313,13 @@ tagMultiplayer04=Players
 tagMultiplayer05=Ping
 tagMultiplayer06=Summary
 tagMultiplayer07=Game Name Filter:
-tagMultiplayer08=Hide :
 tagMultiplayer09=Map Unavailable
 tagMultiplayer10=Hide Full Games
 tagMultiplayer11=Hide Locked Games
 tagMultiplayer12={%d0} / {%d1} 
 tagMultiplayer13={%d0} hr {%d1} min {%d2} sec
 tagMultiplayer14=Locked
+tagMultiplayer15=Version
 
 tagMultiStats01=Map :
 tagMultiStats02=Players :  {%d0} / {%d1}
@@ -265,12 +345,13 @@ tagMenuError18=Unable to connect.  The game you are trying to join is full.
 tagMenuError19=Unable to connect.  You have not unlocked that difficulty level with this character.
 tagMenuError20=Invalid Password.
 tagMenuError21=This game requires custom map: {%t0}
+tagMenuError21a=This game is using an incompatible game mode. Your mode: "{%s0"}, Server's mode: "{%s1}"
+tagMenuError21b=Hardcore and non-hardcore players cannot play together.  Please select another game.
 tagMenuError22=This game is full.  Please select another.
 tagMenuError23=This game requires characters to be between level {%d0} ~ {%d1}.  Please select another game.
 tagMenuError24=Some of your changes will not take effect until you restart the game.
 tagMenuError25=You have made some changes to options in the game.  Do you wish to apply those changes?
 tagMenuError26=Unable to Connect to Server - Invalid CD Key
-tagMenuError27=Click "{^y}Refresh{^w}" to view available servers.
 tagMenuError28=Invalid CD Key
 tagMenuError29=CD Key Already in Use
 tagMenuError30=CD Key Has Been Disabled
@@ -286,6 +367,7 @@ tagMenuError39=Error downloading update file.
 tagMenuError40=Invalid player file.
 tagMenuError41=Please insert the original Grim Dawn disc.
 tagMenuError42=Steam authentication failed.
+tagConnectAborted=Connect Aborted.
 tagMenuWarning01=Warning:  This will create a copy of your character {%s}.  This copied character can only be used in Custom Games.
 tagMenuWarning02=Would you like to rename this Custom Only Character?
 tagMenuWarning03=Leave blank and press "OK" to keep {%s} as the new characters name.
@@ -334,6 +416,7 @@ tagLobbyDifficulty=Difficulty
 tagLobbyAutoparty=Auto-Party Enabled 
 tagLobbyLanguage=Language 
 tagLobbyPVP=PVP Enabled
+tagLobbyHardcore=Hardcore Enabled
 tagLobbyNormalDifficulty=Normal Difficulty
 tagLobbyEliteDifficulty=Elite Difficulty
 tagLobbyUltimateDifficulty=Ultimate Difficulty
@@ -357,7 +440,6 @@ tagLobbyDirectIP=IP:
 tagLobbyDirectPort=Port:
 tagLobbyDirectSave=Save
 tagLobbyDirectCancel=Cancel
-tagLobbyCurrentQuest=Current Quest:
 tagLobbyPlayersTitle=Players:
 tagLobbyServerTypeTitle=Server Type:
 tagLobbyServerTypeAll=All
@@ -381,8 +463,8 @@ tagFriendOnline=Online
 tagFriendBusy=Busy
 tagFriendAway=Away
 tagFriendUnknown=Status Unknown
-tagFriendPlayingGrimDawnSP=Playing Grim Dawn Offline
-tagFriendPlayingGrimDawnMP=Playing Grim Dawn Online
+tagFriendPlayingGrimDawnSP=In Game (Single Player)
+tagFriendPlayingGrimDawnMP=In Game (Multiplayer)
 tagFriendAddButton=Add Friend
 tagFriendJoinGameButton=Join Game
 
@@ -397,9 +479,16 @@ tagTQ1ModInvalid=This map was created with an older version of Grim Dawn.
 tagBrightness=Brightness
 tagContrast=Contrast
 tagGamma=Fullscreen Gamma
+tagColorblind=Color Blindness
+tagNormal=Normal
+tagProtanopia=Protanopia
+tagDeuteranopia=Deuteranopia
+tagTritanopia=Tritanopia
 
 tagOverwriteKeymap=The function ^y{%t0}^w has already been mapped to ^y{%t1}^w. Do you wish to overwrite? 
 tagHardDiskError=Your computer is currently low on hard drive space.  Grim Dawn may have difficulty saving your game.   To avoid this problem, please create more room on your hardrive.
 tagMenuError10=Unable to connect to server.  The mod or map version does not match the host.
 
-tagReportUsageStats=Welcome to the Grim Dawn Early Access.{^n}Help us improve Grim Dawn by periodically reporting anonymous system and gameplay stats?
+tagReportUsageStats=Help us improve Grim Dawn by periodically reporting anonymous system and gameplay stats?
+tagImportToSteamCloud=Steam Cloud Saving is enabled. Import existing characters?
+tagResetCloudWarning=Are you sure you want to delete all characters and data stored in the cloud?

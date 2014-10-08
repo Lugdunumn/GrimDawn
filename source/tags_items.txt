@@ -200,6 +200,7 @@ tagWeaponGun1hC015=Burrwitch Peacekeeper
 tagWeaponGun1hC015Desc="Trusted sidearm of Sheriff Harmon Griffith."
 tagWeaponGun1hC016=Menhir's Pennance
 tagWeaponGun1hC017=Oathbreaker
+tagWeaponGun1hC018=Corpseflayer
 
 tagWeaponGun1hD001=Deviltongue Blaster
 tagWeaponGun1hD002=Havoc
@@ -234,13 +235,14 @@ tagWeaponGun2hC002Desc="One shot, one kill"
 tagWeaponGun2hC003=Hellmaw Shotgun
 tagWeaponGun2hC004=Devil's Mark
 tagWeaponGun2hC005=Will of Fate
-tagWeaponGun2hC005Desc="Every bullet is destined to meet its true mark."
+tagWeaponGun2hC005Desc="Every bullet is destined to meet its true mark, regardless of who stands in its way."
 tagWeaponGun2hC006=The Scarlet Marksman
 tagWeaponGun2hC007=Salt-core Bolter
 tagWeaponGun2hC007Desc="A scrapped-together weapon designed to destroy Aetherials."
 tagWeaponGun2hC008=Wrathbringer
 tagWeaponGun2hC009=Thunderclap
 tagWeaponGun2hC010=Sharpshooter's Bolt Rifle
+tagWeaponGun2hC011=Brimstone Repeater
 
 tagWeaponGun2hD001=The Adversary
 tagWeaponGun2hD002=Witching Hour
@@ -431,7 +433,7 @@ tagFocusA003=Runebound Archive
 tagFocusA004=Leatherbound Spellbook
 tagFocusA005=Eldritch Tome
 tagFocusA006=Arcane Codex
-tagFocusA013=Arcane Codex
+tagFocusA013=Exalted Codex
 
 tagFocusA007=Runed Bone
 tagFocusA008=Fiendish Effigy
@@ -439,7 +441,7 @@ tagFocusA009=Etched Horn
 tagFocusA010=Glyphed Skull
 tagFocusA011=Savage Wand
 tagFocusA012=Eldritch Wand
-tagFocusA014=Eldritch Wand
+tagFocusA014=Exalted Wand
 
 tagFocusB001=Zarthuzellan's Codex
 tagFocusB001Desc="Filled with fiery invocations to consecrate the nonbelievers."
@@ -467,6 +469,7 @@ tagFocusC010=Sacred Texts of Menhir
 tagFocusC010Desc="Scripture once carried by the devout knights of Menhir."
 tagFocusC011=Nocturnis
 tagFocusC012=Channeling Orb of the Covenant
+tagFocusC013=Tome of Plagues
 
 tagFocusD001=Fiend's Resolve
 tagFocusD002=Aldanar's Vanity
@@ -567,6 +570,23 @@ tagArmorClass01=Caster Armor
 tagArmorClass02=Light Armor
 tagArmorClass03=Heavy Armor
 
+#WeaponClass
+tagOneHanded=One-Handed
+tagTwoHanded=Two-Handed
+tagOffHand=Off-Hand
+
+#MiscClass
+tagRing=Ring
+tagAmulet=Amulet
+tagMedal=Medal
+tagBelt=Belt
+
+#QualityClass
+tagMagic=Magic
+tagRare=Rare
+tagEpic=Epic
+tagLegend=Legendary
+
 #ArmorHead
 
 tagHeadA001=Helm
@@ -594,6 +614,8 @@ tagHeadB007=Adept's Hood
 tagHeadB008=Ranger's Helm
 tagHeadB009=Adept's Circlet
 tagHeadB010=Ranger's Casque
+tagHeadB011=Haunted Circlet
+tagHeadB012=Haunted Diadem
 
 tagHeadC001=Stormcaller's Circlet
 tagHeadC002=Berserker's Cowl
@@ -622,6 +644,8 @@ tagHeadC020=Sharpshooter's Glass Eye
 tagHeadC021=Unholy Visage of the Covenant
 tagHeadC022=Cowl of the Paragon
 tagHeadC023=Dawnguard Helm
+tagHeadC024=Miasma Hood
+tagHeadC025=Eyes of Flame
 
 tagHeadD001=Maw of Despair
 tagHeadD001Desc="Look upon me and despair, for your hour has struck."
@@ -654,6 +678,10 @@ tagShoulderB004=Ascended Shoulderplates
 tagShoulderB005=Murderer's Spaulders
 tagShoulderB006=Murderer's Epaulets
 tagShoulderB007=Isaac's Spaulders
+tagShoulderB008=Haunted Mantle
+tagShoulderB009=Haunted Epaulets
+tagShoulderB010=Archmage's Mantle
+tagShoulderB011=Archmage's Epaulets
 
 tagShoulderC001=Razorback's Spined Mantle
 tagShoulderC001Desc="Stitched together from the carcass of Razorback."
@@ -673,6 +701,7 @@ tagShoulderC011=Sharpshooter's Cover
 tagShoulderC012=Unholy Mantle of the Covenant
 tagShoulderC013=Shoulderguard of the Paragon
 tagShoulderC014=Dawnguard Epaulets
+tagShoulderC015=Brimstone Shoulderguard
 
 tagShoulderD001=Fateweaver's Mantle
 tagShoulderD001Desc="The strands of fate, like an endless weave, intertwine and fray with the passing ages of man."
@@ -713,9 +742,15 @@ tagTorsoA017C=Robe
 tagTorsoB001=Murderer's Armor
 tagTorsoB002=Murderer's Breastplate
 tagTorsoB003=Fortified Doublet
+tagTorsoB004=Haunted Robes
+tagTorsoB005=Haunted Vestment
+tagTorsoB006=Ascended Robes
+tagTorsoB007=Ascended Vestment
+tagTorsoB008=Archmage's Robes
+tagTorsoB009=Archmage's Vestment
 
 tagTorsoC001=
-tagTorsoC002=Nightstalker's Chestguard
+tagTorsoC002=Nighthunter's Chestguard
 tagTorsoC003=Gunslinger's Jacket
 tagTorsoC004=Malduin's Cloth
 tagTorsoC005=Doomforged Breastplate
@@ -740,6 +775,7 @@ tagTorsoC020=Sharpshooter's Coat
 tagTorsoC021=Dawnguard Plate
 tagTorsoC022=Zolhan's Battle Plate
 tagTorsoC022Desc="Armor commissioned by the famed battle master, Zolhan."
+tagTorsoC023=Miasma Robes
 
 tagTorsoD001=Fiendscale Jacket
 tagTorsoD002=Devil's Cage Hauberk
@@ -768,7 +804,7 @@ tagWaistA004=Leather Belt
 tagWaistA005=Chain Belt
 tagWaistA006=Infantry Waistguard
 tagWaistA007=Platemail Girdle
-tagWaistA008=Assault Belt
+tagWaistA008=Assault Waistguard
 tagWaistA009=Imperial Belt
 tagWaistA010=Exalted Belt
 
@@ -827,7 +863,7 @@ tagHandsC001=Shadow's Grasp
 tagHandsC002=Zealot's Gauntlets
 tagHandsC003=Bladedancer's Handguards
 tagHandsC004=Spellbinder's Grip
-tagHandsC005=Marauder's Quickdraw Gloves
+tagHandsC005=Marauder's Gloves
 tagHandsC006=Soul's Touch
 tagHandsC007=Inscribed Bracers
 tagHandsC008=Brawler's Gloves
@@ -841,6 +877,7 @@ tagHandsC013=Menhir's Touch
 tagHandsC014=Handguards of Redemption
 tagHandsC015=Dawnguard Gauntlets
 tagHandsC016=Embergrip Handguards
+tagHandsC017=Quickdraw Gloves
 
 tagHandsD001=Grasp of Unchained Might
 tagHandsD001Desc="Gloves blessed with the ferocity of Oleron himself."
@@ -914,7 +951,7 @@ tagFeetC003=Boots of Unseeing Swiftness
 tagFeetC003Desc="These boots appear to be of a make and material unlike any of this world."
 tagFeetC004=Stonewrought Groundbreakers
 tagFeetC005=Explorer's Footpads
-tagFeetC006=Bloodreaper's Boots
+tagFeetC006=Bloodhound Greaves
 tagFeetC007=The Final March
 tagFeetC007Desc="Each step bears the weight of a thousand soldiers who lost their lives to Chthonian Forces."
 tagFeetC008=Rifthound Leather Boots
@@ -957,6 +994,9 @@ tagRingA010=Topaz Signet
 tagRingA011=Ruby Ring
 tagRingA012=Inscribed Band
 tagRingA013=Diamond Signet
+tagRingA014=Imperial Ring
+tagRingA015=Obsidian Band
+tagRingA016=Imperial Signet
 
 tagRingB001=Reddan Memento Ring
 tagRingB001Desc="A worn out inscription along the band says: With love - Amelia"
@@ -991,6 +1031,14 @@ tagRingC019Desc="Death...."
 tagRingC020A=Alkamos' Anguish
 tagRingC020B=Alkamos' Torment
 tagRingC020Desc="Agony..."
+tagRingC021=Band of Black Ice
+tagRingC022=Ring of Vile Intent
+tagRingC023=Chillsurge Ring
+tagRingC023Desc="The sapphires within this ring absorb heat with the slightest touch."
+tagRingC024=Ring of Eternal Rot
+tagRingC025=Seal of the Blazing Inferno
+tagRingC026=Sentinel's Seal
+tagRingC027=Quickening Gem
 
 tagRingD001=Signet of the Fallen
 tagRingD002=Glyph of Kelphat'Zoth
@@ -1023,6 +1071,9 @@ tagNecklaceA010=Topaz Pendant
 tagNecklaceA011=Ruby Necklace
 tagNecklaceA012=Inscribed Amulet
 tagNecklaceA013=Diamond Pendant
+tagNecklaceA014=Imperial Necklace
+tagNecklaceA015=Obsidian Amulet
+tagNecklaceA016=Imperial Pendant
 
 tagNecklaceB001=Putrid Necklace
 tagNecklaceB001Desc="The skull is coated with a putrid slime."
@@ -1053,6 +1104,13 @@ tagNecklaceC017=Pendant of the Royal Crown
 tagNecklaceC018=Pendant of Valiance
 tagNecklaceC019=Wretched Necessity
 tagNecklaceC019Desc="A mere glance at this gem creates an intense desire to take it as your own."
+tagNecklaceC020=Stormcaller's Gem
+tagNecklaceC021=Blightshard Amulet
+tagNecklaceC022=Shieldmaiden's Guard
+tagNecklaceC023=Frozen Core
+tagNecklaceC024=Amulet of Scorched Earth
+tagNecklaceC025=Plaguemancer's Amulet
+tagNecklaceC026=Cerulean Shard
 
 tagNecklaceD001=Will of Bysmiel
 tagNecklaceD002=Thread of Mortality
@@ -1080,6 +1138,8 @@ tagMedalA002=Badge
 tagMedalA003=Mark
 tagMedalA004=Crest
 tagMedalA005=Star
+tagMedalA006=Imperial Crest
+tagMedalA007=Imperial Star
 
 tagMedalB001=Ranger's Ribbon
 tagMedalB002=Ranger's Badge
@@ -1099,6 +1159,10 @@ tagMedalC010Desc="Symbol of the Crimson Company, a ruthlessly effective mercenar
 tagMedalC011=Menhir's Sign
 tagMedalC012=Unholy Sigil of the Covenant
 tagMedalC013=Ribbon of Valiance
+tagMedalC014=Enchanter's Insignia
+tagMedalC015=Heretic's Sigil
+tagMedalC016=Tempest Sigil
+tagMedalC017=Mark of the False Gods
 
 tagMedalD001=Mark of the Apostate
 tagMedalD001Desc="Symbol once forced upon heretics, later worn with pride by worshippers of the witch gods."
@@ -1178,12 +1242,20 @@ tagBlueprint_ComponentA08=Blueprint: Runestone
 tagBlueprint_ComponentA09=Blueprint: Sanctified Bone
 tagBlueprint_ComponentA10=Blueprint: Spined Carapace
 tagBlueprint_ComponentA11=Blueprint: VengefulWraith
+tagBlueprint_ComponentA12=Blueprint: Wardstone
+tagBlueprint_ComponentA13=Blueprint: Silk Swatch
+tagBlueprint_ComponentA14=Blueprint: Scaly Hide
+tagBlueprint_ComponentA15=Blueprint: Purified Salt
+tagBlueprint_ComponentA16=Blueprint: Hollowed Fang
+tagBlueprint_ComponentA17=Blueprint: Imbued Silver
+tagBlueprint_ComponentA18=Blueprint: Blessed Whetstone
 tagBlueprint_ComponentC01=Blueprint: Oleron's Blood
 tagBlueprint_ComponentC02=Blueprint: Shard of Beronath
 tagBlueprint_ComponentC03=Blueprint: Arcane Spark
 tagBlueprint_ComponentC04=Blueprint: Prismatic Diamond
 tagBlueprint_ComponentC05=Blueprint: Haunted Steel
 tagBlueprint_ComponentC06=Blueprint: Mark of Mogdrogen
+tagBlueprint_ComponentC07=Blueprint: Silvercore Bolts
 
 
 tagBlueprint_WaistB001=Blueprint: Bounty Hunter's Girdle
@@ -1252,10 +1324,10 @@ tagBlueprint_MaterialA01=Blueprint: Aether Cluster
 
 #Relics
 
-tagDeviceBonus=Completion Bonus:
-tagDeviceTier01=Empowered
-tagDeviceTier02=Transcendent
-tagDeviceTier03=Mythical
+tagDeviceBonus=Completion Bonus
+tagDeviceTier01=Empowered Artifact
+tagDeviceTier02=Transcendent Artifact
+tagDeviceTier03=Mythical Artifact
 
 tagRelicB001=Calamity
 tagRelicB001Desc="Unbridled destruction."
@@ -1461,6 +1533,14 @@ tagConsumableBlueprintA15=Recipe: Elixir of the Void
 tagConsumableBlueprintA15Desc="A concoction often used by the Cult of Ch'thon to bring them closer to their god."
 tagConsumableBlueprintA16=Recipe: Elixir of the Hunt
 tagConsumableBlueprintA16Desc="A mixture used by hunters to better track their prey."
+tagConsumableBlueprintA17=Recipe: Royal Jelly Extract
+tagConsumableBlueprintA18=Recipe: Royal Jelly Essence
+tagConsumableBlueprintA19=Recipe: Royal Jelly Salve
+tagConsumableBlueprintA19Desc="A secret medicinal technique of the Rovers."
+tagConsumableBlueprintA20=Recipe: Royal Jelly Ointment
+tagConsumableBlueprintA20Desc="A secret medicinal technique of the Rovers."
+tagConsumableBlueprintA21=Recipe: Celestial Bane
+tagConsumableBlueprintA21Desc="Elixir of demigods which shields mortals from divine retribution."
 
 tagConsumable_RoyalJellyBalm=Royal Jelly Balm
 tagConsumable_RoyalJellyBalmDesc="A soothing concoction made from concentrated Royal Jelly."
@@ -1496,6 +1576,16 @@ tagConsumableA15=Elixir of the Void
 tagConsumableA15Desc="A powerful elixir derived by foul blood magic."
 tagConsumableA16=Elixir of the Hunt
 tagConsumableA16Desc="A powerful elixir employed by hunters and assassins to better track their prey."
+tagConsumableA17=Royal Jelly Extract
+tagConsumableA17Desc="A concentrated form of Royal Jelly which sharpens the mind."
+tagConsumableA18=Royal Jelly Essence
+tagConsumableA18Desc="A revitalizing tonic made from wasp Royal Jelly."
+tagConsumableA19=Royal Jelly Salve
+tagConsumableA19Desc="A soothing concoction made from concentrated Royal Jelly."
+tagConsumableA20=Royal Jelly Ointment
+tagConsumableA20Desc="A soothing concoction made from concentrated Royal Jelly."
+tagConsumableA21=Celestial Bane
+tagConsumableA21Desc="Elixir of demigods which shields mortals from divine retribution."
 
 
 #ItemNote
@@ -1512,9 +1602,10 @@ tagEnchantmentUnusable=[Cannot Use - Requirements Not Met]
 #ItemComponents
 
 tagComponentIncomplete=Partial Component
-tagComponentComplete=Completed Component
+tagComponentComplete=Component
 tagComponentNumber={%s0 - %d1 / %d2}
-tagComponentBonus=Completion Bonus:
+tagComponentNumberRare={%s0} {%s1 - %d2 / %d3}
+tagComponentBonus=Completion Bonus
 tagComponentQualities=Component Qualities:
 tagComponentHelp=[Right-Click to Apply or Combine]
 tagComponentError=[Cannot Use - Requirements Not Met]
@@ -1704,6 +1795,9 @@ tagCompA060Desc="A shell that has survived seemingly impossible blows."^w^n(Used
 tagCompA061Name=Viscous Venom
 tagCompA061Desc="Acidic bile from a particularly toxic creature."^w^n(Used in all armor)
 
+tagCompA062Name=Reinforced Shell
+tagCompA062Desc="A nearly impervious shell made all the more formidable by a series of razor sharp spines."^w^n(Used in shields)
+
 
 tagCompB001Name=^kBindings of Bysmiel
 tagCompB001Desc="Spellwoven bindings used by the coven of Bysmiel to strengthen control over summoned beings."^w^n(Used in chest armor)
@@ -1807,10 +1901,10 @@ tagPotionDirections=[Right-Click to Consume]
 tagCombineStacks=[While holding, right-click to combine stacks]
 
 # Bonuses
-
-tagBonusLifePercentAbs={^E}Restores {^H}{%.0f0}% + {%.0f1} {^E}Life
-tagBonusLifePercent={^E}Restores {^H}{%.0f0}% {^E}Life
-tagBonusLifeAbs={^E}Restores {^H}{%.0f0} {^E}Life
+tagBonusLifePercentPercent={^E}Restores {^H}{%.0f0}% {^E}Health {^H}+{%.0f1}% {^E}Over Time
+tagBonusLifePercentAbs={^E}Restores {^H}{%.0f0}% + {%.0f1} {^E}Health
+tagBonusLifePercent={^E}Restores {^H}{%.0f0}% {^E}Health
+tagBonusLifeAbs={^E}Restores {^H}{%.0f0} {^E}Health
 tagBonusManaPercentAbs={^E}Restores {^H}{%.0f0}% + {%.0f1} {^E}Energy
 tagBonusManaPercent={^E}Restores {^H}{%.0f0}% {^E}Energy
 tagBonusManaAbs={^E}Restores {^H}{%.0f0}% {^E}Energy
@@ -1876,6 +1970,12 @@ tagItemSetC017Desc="Armor worn only by the most zealous defenders of the holy fa
 tagItemSetC018Name=Wrath of Alkamos
 tagItemSetC018Desc="Sigils of Alkamos, Lord Executioner of Arkovia"
 
+tagItemSetC019Name=Miasma
+tagItemSetC019Desc="Regalia worn by Dreeg's Chosen."
+
+tagItemSetC020Name=Brimstone
+tagItemSetC020Desc="Armor and weapon carried by the devout of Ulzuin."
+
 tagItemSetD001Name=Justicar Armor
 tagItemSetD001Desc="Armor of Horvald the Silent, Grand Arbiter of the Guardians of Menhir."
 
@@ -1933,6 +2033,7 @@ tagPrefixAA017=Subjugator's
 tagPrefixAA018=Wanderer's
 
 tagPrefixAA019=Tenacious
+tagPrefixAA020=Invigorating
 
 tagPrefixAD001=Impenetrable
 tagPrefixAD002=Insulating
@@ -1961,6 +2062,12 @@ tagPrefixAD024=Thawing
 tagPrefixAD025=Durable
 tagPrefixAD026=Enduring
 tagPrefixAD027=Impenetrable
+tagPrefixAD028=Tough
+tagPrefixAD029=Everlasting
+tagPrefixAD030=Unbreakable
+tagPrefixAD031=Adamant
+tagPrefixAD032=Staunch
+
 
 tagPrefixAO001=Superior
 tagPrefixAO002=Crushing
@@ -1999,6 +2106,9 @@ tagPrefixB019_WpnMelee1h_A=Aetherfire
 tagPrefixB020_WpnMelee1h_A=Sinister
 tagPrefixB021_WpnMelee1h_A=Heart Piercing
 tagPrefixB022_WpnMelee1h_A=Frenzied
+tagPrefixB023_WpnMelee1h_A=Glacial
+tagPrefixB024_WpnMelee1h_A=Thunderstruck
+tagPrefixB025_WpnMelee1h_A=Rimefrost
 
 tagPrefixB001_Ar_A=Celestial
 tagPrefixB002_Ar_A=Rampage
@@ -2029,6 +2139,8 @@ tagPrefixB026_Ar_A=Cutthroat's
 tagPrefixB027_Ar_A=Bloodletter's
 tagPrefixB028_Ar_A=Stonehide
 tagPrefixB029_Ar_A=General's
+tagPrefixB030_Ar_A=Glacial
+tagPrefixB031_Ar_A=Thunderstruck
 
 tagPrefixB001_Class_A=Commando's
 tagPrefixB002_Class_A=Witchblade's
@@ -2115,7 +2227,7 @@ tagSuffixA042=of Renewal
 tagSuffixA043=of the Tortoise
 tagSuffixA044=of the Wolverine
 tagSuffixA045=of the Badger
-tagSuffixA046=of the Slith
+tagSuffixA046=of the Serpent
 tagSuffixA047=of the Sea
 tagSuffixA048=of the Mountain
 
@@ -2130,6 +2242,7 @@ tagSuffixA056=of the Wastes
 tagSuffixA057=of the Swamp
 tagSuffixA058=of the Wind
 tagSuffixA059=of the Wraith
+tagSuffixA060=of Spellweaving
 
 tagSuffixB001_Wpn_A=of Conflagration
 tagSuffixB002_Wpn_A=of Insanity
@@ -2158,6 +2271,17 @@ tagSuffixB024_Wpn_A=of the Elements
 tagSuffixB025_Wpn_A=of Binding
 tagSuffixB026_Wpn_A=of Affliction
 tagSuffixB027_Wpn_A=of Piercing Darkness
+tagSuffixB028_Wpn_A=of the Winter Storm
+tagSuffixB029_Wpn_A=of Squalls
+tagSuffixB030_Wpn_A=of the Hurricane
+tagSuffixB031_Wpn_A=of Arcane Balance
+tagSuffixB032_Wpn_A=of the Flamecaller
+tagSuffixB033_Wpn_A=of the Arcane Blaze
+tagSuffixB034_Wpn_A=of Voidfire
+tagSuffixB035_Wpn_A=of Fallen Skies
+tagSuffixB036_Wpn_A=of Solael's Malice
+tagSuffixB037_Wpn_A=of Shattered Reality
+tagSuffixB038_Wpn_A=of the Cabal
 
 tagSuffixB001_Ar_A=of Arcane Lore
 tagSuffixB002_Ar_A=of Menhir's Wall
@@ -2194,8 +2318,20 @@ tagSuffixB032_Ar_A=of Insight
 tagSuffixB033_Ar_A=of Desolation
 tagSuffixB034_Ar_A=of Survival
 tagSuffixB035_Ar_A=of Kings
+tagSuffixB036_Ar_A=of Destruction
+tagSuffixB037_Ar_A=of Amarasta's Flurry
+tagSuffixB038_Ar_A=of Maiven's Wit
+tagSuffixB039_Ar_A=of the Winter Storm
+tagSuffixB040_Ar_A=of Squalls
+tagSuffixB041_Ar_A=of Arcane Balance
+tagSuffixB042_Ar_A=of the Arcane Blaze
+tagSuffixB043_Ar_A=of Voidfire
+tagSuffixB044_Ar_A=of Fallen Skies
+tagSuffixB045_Ar_A=of Shattered Reality
+tagSuffixB046_Ar_A=of the Cabal
+tagSuffixB047_Ar_A=of Blight
 
-tagSuffixB001_Sh_A=of Immortality
+tagSuffixB001_Sh_A=of Redoubt
 tagSuffixB002_Sh_A=of Valor
 tagSuffixB003_Sh_A=of the Protector
 tagSuffixB004_Sh_A=of the Oracle
@@ -2207,7 +2343,7 @@ tagSuffixB009_Sh_A=of Torrents
 tagSuffixB010_Sh_A=of Blight
 tagSuffixB011_Sh_A=of the Defiler
 tagSuffixB012_Sh_A=of the Abomination
-tagSuffixB013_Sh_A=of Corruption
+tagSuffixB013_Sh_A=of Solael's Malice
 tagSuffixB014_Sh_A=of Vengeance
 tagSuffixB015_Sh_A=of the Sage
 tagSuffixB016_Sh_A=of the Guardian
@@ -2223,6 +2359,18 @@ tagSuffixB025_Sh_A=of Affliction
 tagSuffixB026_Sh_A=of the Sands
 tagSuffixB027_Sh_A=of Death's Chill
 tagSuffixB028_Sh_A=of Storms
+tagSuffixB029_Sh_A=of Conflagration
+tagSuffixB030_Sh_A=of the Winter Storm
+tagSuffixB031_Sh_A=of Squalls
+tagSuffixB032_Sh_A=of Immortality
+tagSuffixB033_Sh_A=of Arcane Balance
+tagSuffixB034_Sh_A=of the Flamecaller
+tagSuffixB035_Sh_A=of the Arcane Blaze
+tagSuffixB036_Sh_A=of Voidfire
+tagSuffixB037_Sh_A=of Fallen Skies
+tagSuffixB038_Sh_A=of Shattered Reality
+tagSuffixB039_Sh_A=of the Cabal
+tagSuffixB040_Sh_A=of Corruption
 
 #ItemSkills
 

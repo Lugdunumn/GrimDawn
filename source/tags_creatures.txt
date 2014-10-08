@@ -13,18 +13,12 @@ tagHumanRover_GuardGeneric_MeleeA01=Rover Enforcer
 tagAetherCrystalA01=Aether Crystal
 tagAnomalyB01=Warp Elemental
 tagWindDevil_PoisonA01=Poison Wind Devil
-
-tagEnemyPossessedA01=Possessed Noble
-tagEnemyPossessedB01=Possessed Spellbinder
-tagEnemyPossessedC01=Possessed Warlock
+tagAetherObeliskA01=Aetherial Obelisk
+tagAetherObeliskB01=Aetherial Terraformer
 
 tagEnemyAetherialA01=Aetherial Watcher
 tagEnemyAetherialB01=Aetherial Wraith
 tagEnemyAetherialC01=Aetherial Spectre
-
-tagAetherialPhantomHeroH01=Aetherblaze
-tagAetherialPhantomHeroH02=Corpus ~ Supporter
-tagAetherialPhantomHeroH03=Espiris ~ Regenerator
 
 #CreatureBoar
 
@@ -35,7 +29,9 @@ tagEnemyBoarB01=Ironhide Stonetusk
 tagBoarHeroH01=Dreadtusk, the Hunter's Bane
 tagBoarHeroH02=Ragesnout ~ Swift
 tagBoarHeroH03=Hellmane ~ Burning
-tagBoarHeroH04=Rotmane~ Diseased
+tagBoarHeroH04=Rotmane ~ Diseased
+tagBoarHeroH05=Aetherean ~ Corrupted
+tagBoarHeroH06=Riftsnout ~ Voidtouched
 
 
 #CreatureBoneRat
@@ -53,6 +49,7 @@ tagBoneRatHeroH02=Razorback
 tagBoneRatHeroH03=Rotbite ~ Diseased
 tagBoneRatHeroH04=Bilewart ~ Swift
 tagBoneRatHeroH05=Rimeclaw ~ Frozen
+tagBoneRatHeroH06=Wrathclaw ~ Corrupted
 
 tagBoneRatMiniBoss01=Grundleplith the Hoarder
 
@@ -61,7 +58,6 @@ tagBoneRatMiniBoss01=Grundleplith the Hoarder
 tagEnemyChthonianMinionA01=Chthonian Harbinger
 tagEnemyChthonianMinionB01=Chthonian Bloodletter
 tagEnemyChthonianMinionC01=Chthonian Blightbringer
-
 
 tagChthonianMinionHeroH01=Charn'Daroth
 tagChthonianMinionHeroH02=Elnar'Daroth
@@ -95,6 +91,8 @@ tagDranghoulHeroH02=Rugaru, the Houndmaster
 tagDranghoulHeroH03=Ooglar ~ Unstoppable
 tagDranghoulHeroH04=Reeve ~ Burning
 tagDranghoulHeroH05=Wovaar ~ Frozen
+tagDranghoulHeroH06=Ravadaar ~ Corrupted
+tagDranghoulHeroH07=Vinaldaar ~ Voidtouched
 
 #CreatureFleshHulk
 
@@ -131,6 +129,7 @@ tagHeroGhostH02=Lord Blacktail ~ Reflective
 tagHeroGhostH03=Lady Rosenthal ~ Regenerator
 tagHeroGhostH04=Stormshriek ~ Electrified
 tagHeroGhostH05=Lord Oldrakan ~ Swift
+tagHeroGhostH06=Aetherwraith ~ Corrupted
 
 tagGhostBoss01=Baron Wradlith, Lord of the Lost Souls
 tagGhostBoss02=Nomos Dred
@@ -150,6 +149,7 @@ tagGolemRockHeroH02=Haldras Flamespitter
 tagGolemRockHeroH03=Stoneheart ~ Reflective
 tagGolemRockHeroH04=Stonegrinder ~ Charger
 tagGolemRockHeroH05=Rimestone ~ Frozen
+tagGolemRockHeroH06=Voidstone ~ Voidtouched
 
 #CreatureGrobles
 
@@ -214,14 +214,14 @@ tagHarpyHeroH02=Blazewing
 tagHarpyHeroH03=Tyrronax, the Great Watcher
 tagHarpyHeroH04=Scyliss, the Stormtouched ~ Electrified
 tagHarpyHeroH05=Holdrexna, the Windwalker ~ Swift
+tagHarpyHeroH06=Wrathwing ~ Corrupted
 
 tagHarpyBossB01=Lutra the Abandoned
 
 #CreatureHarvestman
 
-tagEnemyHarvestmanA01=
-tagEnemyHarvestmanB01=
-tagEnemyHarvestmanC01=
+tagEnemyHarvestmanA01=Haunted Scarecrow
+tagEnemyHarvestmanB01=Haunted Harvester
 
 tagHarvestmanHeroH01=Nemedian, the Reaper
 tagHarvestmanHeroH02=Effigus, the Infested
@@ -291,10 +291,25 @@ tagHumanRoverA_A01=Rover
 tagHumanRoverA_B01=Rover Scout
 tagHumanRoverA_C01=Rover Enforcer
 
+#CreatureHumanPossessed
+
+tagHumanPossessedA01=Possessed Apprentice
+tagHumanPossessedA02=Possessed Arcanist
+tagHumanPossessedB01=Possessed Elementalist
+tagHumanPossessedC01=Possessed Archmage
+
+tagHumanPossessedHeroH01=Allaris Starfire
+tagHumanPossessedHeroH02=Aetherblaze
+tagHumanPossessedHeroH03=Kamladris, the Rimeheart
+tagHumanPossessedHeroH04=Corpus ~ Reflective
+tagHumanPossessedHeroH05=Espiris ~ Supporter
+
 #CreatureInsectDermapteran
 
-tagEnemyDermapteranWarriorA01=Dermapteran Reaver
-tagEnemyWeavilA01=Dermapteran Weavil
+tagEnemyDermapteranA01=Dermapteran Weavil
+tagEnemyDermapteranB01=Dermapteran Sentinel
+tagEnemyDermapteranB02=Dermapteran Reaver
+tagEnemyDermapteranC01=Dermapteran Vizier
 
 tagEnemySummonWeavilA01=Infestor
 
@@ -302,6 +317,7 @@ tagDermapteranHeroH01=Harpallax, the Suneater
 tagDermapteranHeroH02=Corrosinax
 tagDermapteranHeroH03=Wasparex ~ Swift
 tagDermapteranHeroH04=Olmarix ~ Electrified
+tagDermapteranHeroH05=Vildrix ~ Voidtouched
 
 #CreatureInsectMosquito
 
@@ -312,6 +328,8 @@ tagEnemyInsectMosquitoC01=Mireborn Matriarch
 tagInsectMosquitoHeroH01=Vladox, the Bloodletter
 tagInsectMosquitoHeroH02=Sarlap ~ Electrified
 tagInsectMosquitoHeroH03=Jornax, the Voracious ~ Swift
+tagInsectMosquitoHeroH04=Narlax ~ Corrupted
+tagInsectMosquitoHeroH05=Oorlax ~ Voidtouched
 
 #CreatureInsectWasp
 
@@ -324,6 +342,8 @@ tagInsectWaspHeroH02=Caraprax ~ Defender
 tagInsectWaspHeroH03=Harprax, the Queen's Will ~ Supporter
 tagInsectWaspHeroH04=Ralkara ~ Regenerator
 tagInsectWaspHeroH05=Folcrax ~ Frozen
+tagInsectWaspHeroH06=Walacrax ~ Corrupted
+tagInsectWaspHeroH07=Ooldacrax ~ Voidtouched
 
 tagInsectWaspBoss01=Ulraprax, the Hive Matriarch
 tagInsectWaspBoss02=Ronaprax, the Grand Queen
@@ -339,16 +359,45 @@ tagInsectSwarmHeroH01=Issk, the Hive Mind
 tagInsectSwarmHeroH02=Avarix ~ Electrified
 tagInsectSwarmHeroH03=Omnol, the Blight ~ Diseased
 
-#Manticores
+#CreatureManticores
 
-tagEnemyManticoreB01=Manticore Blackmane
-tagEnemyManticoreB02=Manticore Nightstalker
+tagEnemyManticoreA01=Manticore Blackmane
+tagEnemyManticoreB01=Manticore Nightstalker
 tagEnemyManticoreC01=Manticore Alpha
 
 tagManticoreHeroH01=Raxa, the Jade Huntress
 tagManticoreHeroH02=Neleron, the Eyes of Death
-tagManticoreHeroH03=Uroxis Swiftclaw ~ Swift
-tagManticoreHeroH04=Waroxis Crimsonclaw ~ Bruiser
+tagManticoreHeroH03=Ar'kall, the Black Heart
+tagManticoreHeroH04=Uroxis Swiftclaw ~ Swift
+tagManticoreHeroH05=Waroxis Crimsonclaw ~ Bruiser
+tagManticoreHeroH06=Blazara Firemane
+
+#CreatureObsidianDefiler
+
+tagEnemyObsidianDefilerA01=Obsidian Shaleborn
+tagEnemyObsidianDefilerB01=Obsidian Defiler
+tagEnemyObsidianDefilerC01=Obsidian Ravager
+
+tagObsidianDefilerHeroH01=Obsidius, the Titan
+tagObsidianDefilerHeroH02=Ch'thallis, the Usurper
+tagObsidianDefilerHeroH03=Kelphat'Idoth ~ Electrified
+tagObsidianDefilerHeroH04=Orudin'Idoth ~ Frozen
+tagObsidianDefilerHeroH05=Drygol'Ukog ~ Charger
+
+#CreaturePrawns
+
+tagEnemyPrawnA01=Scrapheap Rift Scourge
+tagEnemyPrawnA02=Acidbile Rift Scourge
+tagEnemyPrawnB01=Stormscale Rift Scourge
+tagEnemyPrawnB02=Bladespine Rift Scourge
+tagEnemyPrawnC01=Infested Rift Scourge
+tagEnemyPrawnSummonA01=Swarmborn Rift Scourge
+
+tagPrawnHeroH01=Ravacrix, the Ravenous
+tagPrawnHeroH02=Palacrix, the Ancient
+tagPrawnHeroH03=Velacrix, the Plagueswarm
+tagPrawnHeroH04=Elcrix ~ Electrified
+tagPrawnHeroH05=Flocrix ~ Burning
 
 #CreatureRaptor
 
@@ -367,6 +416,7 @@ tagRaptorHeroH02=Aragonax, the Spirit Eater
 tagRaptorHeroH03=Baldim, the Chaosbringer
 tagRaptorHeroH04=Bonesnarl ~ Unstoppable
 tagRaptorHeroH05=Idran, the Anomaly ~ Regenerator
+tagRaptorHeroH06=Balra ~ Voidtouched
 
 #CreatureRiftHound
 
@@ -398,6 +448,7 @@ tagScavengerHeroH02=Bloodclaw
 tagScavengerHeroH03=Whitemane, the Thunderstruck
 tagScavengerHeroH04=Ernol Carrioneater ~ Diseased
 tagScavengerHeroH05=Crimsontail ~ Supporter
+tagScavengerHeroH06=Rav ~ Voidtouched
 
 #CreatureShadowman
 
@@ -413,6 +464,9 @@ tagEnemySkeletalGolemC01=Skeletal Monstrosity
 tagSkeletalGolemHeroH01=Grulgor, the Tormented ~ Diseased
 tagSkeletalGolemHeroH02=Falgarr, the Ice Watcher ~ Frozen
 tagSkeletalGolemHeroH03=Bralgarr, the Flame Watcher ~ Burning
+tagSkeletalGolemHeroH04=Wralgarr, the Aethertouched ~ Corrupted
+tagSkeletalGolemHeroH05=Olagarr, the Chaosbringer ~ Voidtouched
+
 
 tagSkeletalGolemBossB01=Ilgorr, the Eternal
 
@@ -470,6 +524,7 @@ tagSlithHeroH02=Jaron, Lord of the Storm
 tagSlithHeroH03=Lorkhan, Lord of the Deep
 tagSlithHeroH04=Farnlan, the Vile ~ Unstoppable
 tagSlithHeroH05=Eidonax ~ Swift
+tagSlithHeroH06=Avaladran ~ Corrupted
 
 tagSlithBossB01=Viloth, the Corruptor
 tagSlithBossB02=Primordian, the Forgotten One
@@ -480,7 +535,7 @@ tagEnemyMurkTide_SlithWarriorC01=Murktide Champion
 tagEnemyMurkTide_SlithShamanB01=Murktide Shaman
 tagEnemyMurkTide_SlithShamanC01=Murktide Evocator
 
-#Spider
+#CreatureSpider
 
 tagEnemySpiderA01=Dreadweave Arachnid
 tagEnemySpiderA02=Dreadweave Spitter
@@ -496,7 +551,7 @@ tagSpiderHeroH04=Triinix, the Weaver
 tagSpiderHeroH05=Larna, the Fateweaver ~ Shielded
 tagSpiderHeroH06=Uldina, the Broodmother ~ Defender
 
-#ThornedHorror
+#CreatureThornedHorror
 
 tagEnemyThornedHorrorA01=Briarthorn Horror
 tagEnemyThornedHorrorB01=Briarthorn Terror
@@ -511,12 +566,12 @@ tagThornedHorrorHeroH06=Rimebark ~ Frozen
 tagThornedHorrorHeroH07=Aetheros
 
 
-#Traps
+#CreatureTraps
 
 tagEnemyTrapA01=Flare Trap
 tagEnemyTrapA02=Launcher Trap
 
-#Trolls
+#CreatureTrolls
 
 tagEnemyTrollHalfA01=Mistborn Brute
 tagEnemyTrollHalfA02=Mistborn Herder
@@ -543,7 +598,18 @@ tagTrollHeroH05=Wontlak ~ Frozen
 tagBossTrollB01=Gulgoth, the Rampaging
 tagBossTrollB02=Voldrak, the Destroyer
 
-#Underdwellers
+tagEnemyTrollCorruptedA01=Fleshwarped Troll
+tagEnemyTrollCorruptedB01=Fleshwarped Vanguard
+tagEnemyTrollCorruptedB02=Fleshwarped Deadeye
+tagEnemyTrollCorruptedC01=Fleshwarped Commander
+
+tagTrollCorruptedHeroH01=Sulkarr, the Stormtouched
+tagTrollCorruptedHeroH02=Horcris, the Terror
+tagTrollCorruptedHeroH03=Corruptis
+tagTrollCorruptedHeroH04=Caladrak ~ Unstoppable
+tagTrollCorruptedHeroH05=Faldrak ~ Reflective
+
+#CreatureUnderdwellers
 
 tagEnemyCaveTrollHalfA01=Underdweller Brute
 tagEnemyCaveTrollHalfB01=Underdweller Savage
@@ -556,6 +622,11 @@ tagEnemyCaveSpiderA01=Terrorweave Spiderling
 tagEnemyCaveSpiderB01=Terrorweave Arachnid
 tagEnemyCaveSpiderB02=Terrorweave Widow
 tagEnemyCaveSpiderC01=Terrorweave Matriarch
+tagEnemyCavePrawnA01=Terrorscale Rift Scourge
+tagEnemyCavePrawnA02=Terrorspark Rift Scourge
+tagEnemyCavePrawnB01=Terrorclaw Rift Scourge
+tagEnemyCavePrawnC01=Bursting Rift Scourge
+tagEnemyCavePrawnSummonA01=Caveborn Rift Scourge
 
 tagCaveTrollHalfHeroH01=Glukrok, the Darkdweller
 tagCaveTrollHalfHeroH02=Algrok, the Blind Berserker
@@ -563,12 +634,15 @@ tagCaveTrollHalfHeroH03=Savarok ~ Shielded
 tagCaveGrobleHeroH01=Akala ~ Swift
 tagCaveGrobleHeroH02=Ulbalak ~ Supporter
 tagCaveTrollHeroH01=Balglak, the Cave Warden
-tagCaveTrollHeroH02=Toros ~ Charger
+tagCaveTrollHeroH02=Rovos ~ Reflective
 tagCaveSpiderHeroH01=Ungoliax, the Darkness
 tagCaveSpiderHeroH02=Vilaxna ~ Regenerator
 tagCaveSpiderHeroH03=Ravnix ~ Swift
+tagCavePrawnHeroH01=Terrocrix
+tagCavePrawnHeroH02=Chiricrix ~ Frozen
+tagCavePrawnHeroH03=Blucrix ~ Defender
 
-#Vultures
+#CreatureVultures
 
 tagEnemyVultureSummon=Arkovian Rocktalon
 tagEnemyVultureA01=Arkovian Rocktalon
@@ -577,8 +651,10 @@ tagEnemyVultureB01=Arkovian Plaguebeak
 tagHeroVultureH01=Volaxna, the Bloodgorger
 tagHeroVultureH02=Plaguewing ~ Diseased
 tagHeroVultureH03=Harrowbeak ~ Unstoppable
+tagHeroVultureH04=Wrathtalon ~ Corrupted
+tagHeroVultureH05=Voidtalon ~ Voidtouched
 
-#Worm
+#CreatureWorm
 
 tagEnemyWormA01=Earthbreaker Burrower
 tagEnemyWormB01=Earthbreaker Rotworm
@@ -586,6 +662,8 @@ tagEnemyWormB01=Earthbreaker Rotworm
 tagWormHeroH01=Gravner, the Bile-Eater
 tagWormHeroH02=Groundsplitter ~ Electrified
 tagWormHeroH03=Stonespitter ~ Shielded
+tagWormHeroH04=Wrathworm ~ Corrupted
+tagWormHeroH05=Riftworm ~ Voidtouched
 
 #CreatureZombie
 
@@ -646,6 +724,8 @@ tagPetRavenA01=Great Raven
 tagPetHellhoundA01=Hellhound
 tagPetWhirlwindA01=Whirlwind
 
+tagPetIceWallA01=Ice Barrier
+
 tagPetBladeSwarmA01=Blade Spirit
 
 tagPetThermiteMineA01=Flare Mine
@@ -653,9 +733,10 @@ tagPetMortarTrapA01=Mortar Trap
 
 tagItemFleshHulkA01=Flesh Hulk
 tagItemGuardianA01=Stalwart Guardian
-tagItemGuardianA02=Frenzied Guardian
+tagItemGuardianA02=Reckless Guardian
 tagItemAncestorA01=Ancestral Spirit
 tagItemRevenantA01=Revenant of Og'Napesh
+tagItemPrawnA01=Blighted Rift Scourge
 tagRelicStormhound=Stormhound
 tagRelicNemesis=Nemesis
 tagRelicSwarm=Swarmling
@@ -666,6 +747,9 @@ tagEnemySummonHellspawn=Hellspawn
 tagEnemySummonChthonianMinion=Salazar's Harbinger
 tagEnemySummonDariusAetherCrystal=Unstable Aether Formation
 tagEnemySummonRifthound=Azure Rifthound
+tagEnemySummonObsidianCluster=Obsidian Cluster
+tagEnemySummonRaven=Raven
+tagEnemySummonAetherTrap=Aether Trap
 
 #Boss&Quest
 
@@ -691,6 +775,7 @@ tagRace010=Construct
 tagRace011=Riftspawn
 tagRace012=Beast
 tagRace013=Magical
+tagRace014=Celestial
 tagRace001P=Undead
 tagRace002P=Beastkin
 tagRace003P=Aetherials
@@ -704,4 +789,5 @@ tagRace010P=Constructs
 tagRace011P=Riftspawn
 tagRace012P=Beasts
 tagRace013P=Magical
+tagRace014P=Celestial
 

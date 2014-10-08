@@ -95,7 +95,7 @@ tagFactionUser4=The Exile
 tagFactionUser5=Order of Death's Vigil
 tagFactionUser6=Undead
 tagFactionUser7=The Black Legion
-tagFactionUser8=User8
+tagFactionUser8=Kymon's Chosen
 tagFactionUser9=User9
 tagFactionUnknown=Unknown
 tagFactionStateEnemy5=Nemesis
@@ -125,8 +125,8 @@ tagFactionStateRevered=Revered
 tagHUDMenu=Menu Buttons
 tagHUDAttacks=Current Attacks
 tagHUDSkills=Quick Slots
-tagHUD_PotionHealth=Health Potion
-tagHUD_PotionEnergy=Energy Potion
+tagHUD_PotionHealth=Tonic of Mending
+tagHUD_PotionEnergy=Elixir of Spirit
 
 tagPortraitKick=Kick From Server
 tagPortraitTrade=Trade
@@ -259,6 +259,9 @@ tagCharAttributeDescription04=Health is a measure of how much pain and damage yo
 
 tagCharAttributeDescription05=Energy is a measure of your spirit's capacity to hold magical energies.  The greater this capacity, the larger the pool of energy you can immediately draw upon before waiting to regenerate.
 
+tagCharBonusHealth=Bonus Health:
+tagCharBonusEnergy=Bonus Energy:
+
 tagCharBonusPhysicalDmg=Bonus Physical Damage:
 tagCharBonusPierceDmg=Bonus Pierce Damage:
 tagCharBonusMagicalDmg=Bonus Magical Damage:
@@ -270,12 +273,14 @@ tagCharAttributeIncrement03=Each point increases Spirit by 10.
 tagCharAttributeIncrement04=Each point increases Health by 50.
 tagCharAttributeIncrement05=Each point increases Energy by 50.
 
+tagCharStatsOAAlert=Offensive Ability {^b}(?)
 tagCharStatsOA=Offensive Ability
 tagCharStatsOALast=Last Attacked: 
 tagCharStatsOAHit=Chance to Hit:
 tagCharStatsOACrit=Chance to Crit:
 tagCharStatsOADescription=A higher Offensive Ability (OA) increases your chance of successfully landing melee and ranged attacks, scoring critical hits, and the damage of critical hits. An Offensive Ability lower than your opponent's Defensive Ability will greatly increase your chance to miss.  Offensive Ability is affected by skills, items, and Cunning.
 
+tagCharStatsDAAlert=Defensive Ability {^b}(?) 
 tagCharStatsDA=Defensive Ability
 tagCharStatsDALast=Last Attacked By: 
 tagCharStatsDAHit=Chance to be Hit:
@@ -333,8 +338,9 @@ tagCharHeaderMisc=Misc
 tagCharStatsDPS=Damage Per Second
 tagCharStatsDPSDescription=Average damage per second, does not factor in enemy defenses.
 
+tagCharStatsArmorTotalAlert=Armor Rating {^b}(?)
 tagCharStatsArmorTotal=Armor Rating
-tagCharStatsArmorTotalDescription=The higher your Armor Rating, the less damage you will take from physical attacks. Bonus is the added up value from all non-armor items and is divided evenly among your armor slots.
+tagCharStatsArmorTotalDescription=The higher your Armor Rating, the less damage you will take from physical attacks. Bonuses on skills and on non-armor pieces are added to all armor slots.
 tagCharStatsHitArmor=Chance to Hit Area
 tagCharStatsArmorUnprotected=Unprotected
 tagCharStatsArmorNA=N/A
@@ -369,6 +375,8 @@ tagCharStatsEnergyRegen=Energy Regeneration
 tagCharStatsEnergyRegenInfo=The rate at which your energy replenishes. Percent bonuses only affect regeneration from gear, not base regeneration.
 tagCharStatsEnergyAbsorption=Energy Absorption
 tagCharStatsEnergyAbsorptionInfo=The percent by which the energy spent on attacks and spells that strike you will replenish your own energy reserves.
+tagCharStatsConstitution=Constitution Bonus
+tagCharStatsConstitutionInfo=The percentage bonus to your maximum constitution.
 tagCharStatsExpGainedBonus=Experience Gained
 tagCharStatsExpGainedBonusInfo=The percent bonus to all experience gained from monster kills.
 tagCharStatsLightRadiusBonus=Light Radius
@@ -417,7 +425,7 @@ tagCharStatsInternalTraumaDuration=Trauma Duration
 tagCharStatsInternalTraumaDurationInfo=The percent bonus to the duration of your Internal Trauma Damage attacks. The damage per second is not increased.
 
 tagCharStatsDamageToHealth=Life Steal
-tagCharStatsDamageToHealthInfo=The percent of the damage you deal on attack which also replenishes your health.
+tagCharStatsDamageToHealthInfo=The percent of the weapon attack damage you deal which also replenishes your health.
 
 #Magical
 tagCharStatsCastSpeed=Cast Speed
@@ -587,12 +595,12 @@ tagCharStatsPiercePercentRet=Pierce Modifier
 tagCharStatsPiercePercentRetInfo=The percent bonus to all Pierce Damage Retaliation effects.
 
 tagCharStatsBleedRet=Bleed
-tagCharStatsBleedRetInfo=The Bleed Damage done over 3 seconds applied on an attacker whenever you are hit.
+tagCharStatsBleedRetInfo=The Bleed Damage done per second over 3 seconds applied on an attacker whenever you are hit.
 tagCharStatsBleedPercentRet=Bleed Modifier
 tagCharStatsBleedPercentRetInfo=The percent bonus to all Bleed Damage Retaliation effects.
 
 tagCharStatsInternalTraumaRet=Trauma
-tagCharStatsInternalTraumaRetInfo=The Internal Trauma Damage done over 5 seconds applied on an attacker whenever you are hit.
+tagCharStatsInternalTraumaRetInfo=The Internal Trauma Damage done per second over 5 seconds applied on an attacker whenever you are hit.
 tagCharStatsInternalTraumaPercentRet=Trauma Modifier
 tagCharStatsInternalTraumaPercentRetInfo=The percent bonus to all Internal Trauma Damage Retaliation effects.
 
@@ -632,27 +640,27 @@ tagCharStatsChaosPercentRet=Chaos Modifier
 tagCharStatsChaosPercentRetInfo=The percent bonus to all Chaos Damage Retaliation effects.
 
 tagCharStatsBurnRet=Burn
-tagCharStatsBurnRetInfo=The Burn Damage done over 3 seconds applied on an attacker whenever you are hit.
+tagCharStatsBurnRetInfo=The Burn Damage done per second over 3 seconds applied on an attacker whenever you are hit.
 tagCharStatsBurnPercentRet=Burn Modifier
 tagCharStatsBurnPercentRetInfo=The percent bonus to all Burn Damage Retaliation effects.
 
 tagCharStatsColdburnRet=Frostburn
-tagCharStatsColdburnRetInfo=The Frostburn Damage done over 3 seconds applied on an attacker whenever you are hit.
+tagCharStatsColdburnRetInfo=The Frostburn Damage done per second over 3 seconds applied on an attacker whenever you are hit.
 tagCharStatsColdburnPercentRet=Frostburn Modifier
 tagCharStatsColdburnPercentRetInfo=The percent bonus to all Frostburn Damage Retaliation effects.
 
 tagCharStatsElectrocuteRet=Electrocute
-tagCharStatsElectrocuteRetInfo=The Electrocute Damage done over 3 seconds applied on an attacker whenever you are hit.
+tagCharStatsElectrocuteRetInfo=The Electrocute Damage done per second over 3 seconds applied on an attacker whenever you are hit.
 tagCharStatsElectrocutePercentRet=Electrocute Modifier
 tagCharStatsElectrocutePercentRetInfo=The percent bonus to all Electrocute Damage Retaliation effects.
 
 tagCharStatsPoisonRet=Poison
-tagCharStatsPoisonRetInfo=The Poison Damage done over 5 seconds applied on an attacker whenever you are hit.
+tagCharStatsPoisonRetInfo=The Poison Damage done per second over 5 seconds applied on an attacker whenever you are hit.
 tagCharStatsPoisonPercentRet=Poison Modifier
 tagCharStatsPoisonPercentRetInfo=The percent bonus to all Poison Damage Retaliation effects.
 
 tagCharStatsVitalityDecayRet=Vitality Decay
-tagCharStatsVitalityDecayRetInfo=The Vitality Decay Damage done over 3 seconds applied on an attacker whenever you are hit.
+tagCharStatsVitalityDecayRetInfo=The Vitality Decay Damage done per second over 3 seconds applied on an attacker whenever you are hit.
 tagCharStatsVitalityDecayPercentRet=Vitality Decay Modifier
 tagCharStatsVitalityDecayPercentRetInfo=The percent bonus to all Vitality Decay Damage Retaliation effects.
 
@@ -776,7 +784,7 @@ tagCraftingShoulders=SHOULDERS
 tagCraftingLegs=LEGS
 tagCraftingHands=HANDS
 tagCraftingFeet=FEET
-tagCraftingOffhands=OFF-HANDS
+tagCraftingOffhands=FOCI
 tagCraftingShields=SHIELDS
 
 tagCraftingComponents=COMPONENTS
@@ -790,8 +798,11 @@ tagDividerTab01=Salvage
 tagDividerRoll01=The salvage chamber is used to strip component parts from items.  Unfortunately, the process is imperfect and always results in the destruction of either the item or the component part but you can choose which one to salvage and which to sacrifice.
 
 tagDividerTab02=Dismantle
-tagDividerRoll02=The dismantling chamber is used to break down powerful magical items into their basic parts. The Inventor has not yet learned this ability. (NOT YET IMPLEMENTED)
+tagDividerRoll02=The dismantling chamber is used to break down powerful magical items into their basic parts. The Inventor has not yet learned this ability.
 tagDividerRoll02B=The dismantling chamber is used to break down powerful magical items into their basic parts. This process requires great energy and so the clever inventor has made use of dynamite to fulfill this function.
+
+tagDividerTab03=Tinkering
+tagDividerRoll03=The tinkering chamber is used for tinkering.
 
 tagDividingButtonKeepItem=Keep Item
 tagDividingBoxInfo=Place an item with an attached component in the chamber.
@@ -805,6 +816,13 @@ tagDismantleCost=Dismantle Cost:
 tagDismantleButton=Choosing to dismantle will destroy this item.
 tagDismantleDestroyItemWarning=Choosing to dismantle will destroy this item. Continue?
 tagDismantleDestroyItemComponentWarning=Choosing to dismantle will destroy this item and keep the component. Continue?
+tagDismantleBoxInfo=Place an item greater than common quality in the chamber.
+
+tagTinkerAetherTotal=Total Aether Crystals:
+tagTinkerCost=Tinkering Cost:
+tagTinkerButton=Choosing to Tinker will reroll the completion bonus on this item. This has a chance to destroy the item!
+tagTinkerDestroyItem=Your Item was destroyed! Aw shucks!
+tagTinkerBoxInfo=Place a component or relic in the chamber.
 
 #Smuggler
 
@@ -822,6 +840,12 @@ tagCaravanItemTransfer=Item Transfer
 tagTransferInfo02=Place items in the transfer area to have the Smuggler make them available to all your characters.
 tagCaravanError01=You do not have enough gold to transfer this item.
 tagStorageError01=You do not have enough gold to purchase a storage expansion.
+tagTransferError01=You need {%d0} iron to purchase a storage expansion.
+tagTransferPurchase01=Spend {%d0} iron to purchase a storage expansion?
+tagTransferTab01=Tab 1
+tagTransferTab02=Tab 2
+tagTransferTab03=Tab 3
+tagTransferTab04=Tab 4
 
 #Chat
 
@@ -832,7 +856,7 @@ tagChatCommand03=Reply
 tagChatCommand04=Tell
 tagChatCommand05=Mute
 tagChatCommand06=Unmute
-tagChatBrag=Hover over to see my {%t0}{%t1}{^-} ...
+tagChatBrag=[{%t0}{%t1}{^-}]
 
 #NPC Conversation
 tagNpcConversationBusy=That NPC is busy talking with another player.
@@ -889,6 +913,7 @@ tagInfoButtonOk=OK
 tagGameOver=You are dead!
 
 SimpleStringFormat={%s0}
+SimpleStringsFormat={%s0} {%s1}
 SkillBaseNamesFormat={    %s0}
 CostFormat=Cost: {%d0}
 ManaDisplayFormat=Energy  {%d0} / {%d1} ({%d2} Reserved)
@@ -963,7 +988,7 @@ tagCharDodgePercentR={%.0f0}-{%.0f1}%{^E} Chance to Avoid Melee Attacks
 tagCharDeflectProjectilesR={%.0f0}-{%.0f1}%{^E} Chance to Avoid Projectiles
 tagCharIncreasedExperienceR={%+.0f0}-{%.0f1}%{^E} Experience Gained
 tagCharLightRadiusR={%+.0f0}-{%.0f1}%{^E} Light Radius
-tagCharItemGlobalReductionR={%.0f0}-{%.0f1}%{^E} Reduction to all Requirements
+tagCharItemGlobalReductionR={%.0f0}-{%.0f1}%{^E} Reduction to Attribute Requirements
 tagCharLevelReqReductionR=-({%.0f0}-{%.0f1}) {^E}Player Level Requirement for Items
 tagCharArmorStrengthReqReductionR=-({%.0f0}-{%.0f1}%) {^E}Physique Requirement for Armor
 tagCharArmorDexterityReqReductionR=-({%.0f0}--{%.0f1}%) {^E}Cunning Requirement for Armor
@@ -993,6 +1018,19 @@ SkillProjectileSpeedModifierR={%+.0f0}% {^E}Increase in Projectile Speed
 SkillManaCostReductionModifierR=-{%.0f0}% {^E}Skill Energy Cost
 SkillCooldownReductionModifierR=-{%.0f0}% {^E}Skill Recharge
 
+tagDamageConversion={%.0f0}% {^E}{%s1} converted to {%s2}
+tagDamageRemoval={%.0f0}% {^E}{%s1} Reduction
+tagConversionPhysical=Physical Damage
+tagConversionElemental=Elemental Damage
+tagConversionCold=Cold Damage
+tagConversionFire=Fire Damage
+tagConversionPoison=Poison Damage
+tagConversionLightning=Lightning Damage
+tagConversionLife=Life Damage
+tagConversionChaos=Chaos Damage
+tagConversionAether=Aether Damage
+tagConversionStun=Stun Duration
+
 tagAttackSpeedNotSet=Speed:  Not Set
 tagAttackSpeedVerySlow=Speed:  Very Slow
 tagAttackSpeedSlow=Speed:  Slow
@@ -1013,7 +1051,7 @@ tagCharDeflectProjectiles={%.0f0}% {^E}Chance to Avoid Projectiles
 tagCharIncreasedExperience={%+.0f0}% {^E}Experience Gained
 tagCharLightRadius={%+.0f0}% {^E}Light Radius
 
-tagCharItemGlobalReduction={%.0f0}% {^E}Reduction to all Requirements
+tagCharItemGlobalReduction={%.0f0}% {^E}Reduction to Attribute Requirements
 tagCharLevelReqReduction=-{%.0f0} {^E}Player Level Requirement for Items
 tagCharArmorStrengthReqReduction=-{%.0f0}% {^E}Physique Requirement for Armor
 tagCharArmorDexterityReqReduction=-{%.0f0}% {^E}Cunning Requirement for Armor
@@ -1132,9 +1170,16 @@ SkillPetDescriptionDamageMinMax={%.0f0} - {%.0f1}  Damage
 tagSkillPetTimeToLive={^E}Lives for {^H}{%.1f0} {^E}Seconds
 tagSkillPrevious=… Previous
 tagSkillNext=Next …
-PressToAddUnusedSkillPoints=Press to add unused skill points.
+PressToAddUnusedSkillPoints=Left click to add unused skill points.
+PressToAddUnusedDevotionPoints=Left Click to Add Unused Devotion Points
+PressToActivateDevotion=Left Click to Activate
+PressToAssignDevotion=Left Click to Assign
 SkillEnhancement=+{%d0} to all skills
 NoSkillPointsToAdd=No skill points to add.
+NoDevotionPointsToAdd=No Devotion Points Available
+LockedDevotion=Locked
+ActiveDevotion=Active
+PressToAssignDevotion=Left click to assign.
 YouMustIncreaseMasteryLevel=You must increase your Mastery Level to add more points.
 EnableOneBaseSkill=At Least One Requisite Skill Must Be Enabled
 MaxSkillLevelReached=Maximum Skill Level Reached
@@ -1145,7 +1190,7 @@ ManaCost={^E}Energy Cost
 ActiveLifeCost={^E}Active Health Cost per Second
 ActiveManaCost={^E}Active Energy Cost per Second
 ActiveDuration=Duration
-TargetRadius=Radius
+TargetRadius=Target Area
 TargetAngle={%.0f0} {^E}Degree Attack Arc
 TargetNumber={%d0} {^E}Target Maximum
 CooldownTime={^E}Skill Recharge
@@ -1208,8 +1253,10 @@ tagDotChaos=Chaos
 tagDotAether=Aether
 tagDotLifeLeech=Life Leech
 
+tagSetItems=({%d0}) Set
 tagSecond={^E}second
 tagSeconds={^E}seconds
+DamagePerSecond={%.1f0} {^S}Damage Per Second (If Equipped)
 DamagePhysicalChance= {^E}Physical Damage
 DamageBasePhysical= {^S}Physical Damage
 DamageBasePierceRatio={%.0f0}% {^S}Armor Piercing
@@ -1225,7 +1272,7 @@ DamageFire={%t0} {^E}Fire Damage
 DamageAether={%t0} {^E}Aether Damage
 DamageChaos={%t0} {^E}Chaos Damage
 DamageLife={%t0} {^E}Vitality Damage
-DamageLifeLeech={%t0}% {^E}of Attack damage converted to Health
+DamageLifeLeech={%t0}% {^E}of Attack Damage converted to Health
 DamageLightning={%t0} {^E}Lightning Damage
 DamageElemental={%t0} {^E}Elemental Damage
 DamageModifierElemental={%+.0f0}% {^E}Elemental Damage
@@ -1269,6 +1316,8 @@ DamageDurationBleeding= {^E}Bleeding Damage
 
 DamageTotalDamageReductionPercent=% {^E}Reduced target's Damage
 DamageTotalDamageReductionAbsolute= {^E}Reduced target's Damage
+DamagePhysicalReductionPercent=% {^E}Reduced target's Physical Damage
+DamageElementalReductionPercent=% {^E}Reduced target's Elemental Damage
 DamageTotalResistanceReductionPercent=% {^E}Reduced target's Resistances
 DamageTotalResistanceReductionAbsolute= {^E}Reduced target's Resistances
 DamageDurationFumble=% {^E}Chance for target to Fumble attacks
@@ -1316,6 +1365,7 @@ DamageDurationModifierDefensiveAbility={%+.0f0}% {^E}Reduction in Target's Defen
 DamageDurationModifierOffensiveReduction={%+.0f0}% {^E}Reduced target Physical Damage 
 ImprovedTimeFormat={^E}with {^H}{%+.0f0}% {^E}Increased Duration
 ImprovedTimeFormatR= {^E}with {^H}{%+.0f0}-{%.0f1}% {^E}Increased Duration
+IncreasedDuration={^H}{%+.0f0}% {^E}Increased{%s1} Duration
 
 RetaliationCold={%t0} {^E}Cold Retaliation
 RetaliationFire={%t0} {^E}Fire Retaliation
@@ -1356,7 +1406,7 @@ RetaliationModifierPierceRatio={%+.0f0}% {^E}Pierce Retaliation
 RetaliationModifierPierce={%+.0f0}% {^E}Piercing Retaliation
 RetaliationModifierCold={%+.0f0}% {^E}Cold Retaliation
 RetaliationModifierFire={%+.0f0}% {^E}Fire Retaliation
-RetaliationModifierPoison={%+.0f0}% {^E}Poison & Acid Retaliation
+RetaliationModifierPoison={%+.0f0}% {^E}Acid Retaliation
 RetaliationModifierLightning={%+.0f0}% {^E}Lightning Retaliation
 RetaliationModifierAether={%+.0f0}% {^E}Aether Retaliation
 RetaliationModifierChaos={%+.0f0}% {^E}Chaos Retaliation
@@ -1383,8 +1433,8 @@ DefenseAbsorptionProtectionPlus=+{%.0f0} {^E}Armor
 DefenseAbsorptionProtectionPlusR=+{%.0f0}-{%.0f1} {^E}Armor
 DefenseAbsorptionProtectionBonus=+{%.0f0} {^E}Bonus Armor
 DefenseAbsorptionProtectionBonusR=+{%.0f0}-{%.0f1} {^E}Bonus Armor
-DefensePhysical={%.0f0}% {^E}Physical Damage Resistance
-DefensePhysicalR={%.0f0}-{%.0f1}% {^E}Physical Damage Resistance
+DefensePhysical={%.0f0}% {^E}Physical Resistance
+DefensePhysicalR={%.0f0}-{%.0f1}% {^E}Physical Resistance
 DefensePierce={%.0f0}% {^E}Pierce Resistance
 DefensePierceR={%.0f0}-{%.0f1}% {^E}Pierce Resistance
 DefenseElementalResistance={%.0f0}% {^E}Elemental Resistance
@@ -1435,6 +1485,8 @@ DefenseLightningDuration={%.0f0}% {^E}Reduction in Lightning Duration
 DefenseLifeDuration={%.0f0}% {^E}Reduction in Vitality Decay Duration
 DefenseLifeLeachDuration={%.0f0}% {^E}Reduction in Life Leech Duration
 DefenseManaLeachDuration={%.0f0}% {^E}Reduction in Energy Leech Duration
+DefensePercentCurrentLife={%.0f0}% {^E}Resistance to Life Reduction
+DefenseManaBurnRatio={%.0f0}% {^E}Resistance to Mana Burn
 DefenseProtectionModifier={^E}Increases Armor by {^H}{%.0f0}%
 DefenseProtectionModifierR={^E}Increases Armor by {^H}{%.0f0}-{%.0f1}%
 DefenseAbsorptionModifier={^E}Increases Armor Absorption by {^H}{%.0f0}%
@@ -1450,6 +1502,7 @@ DefenseChaosModifier={^E}Increases Chaos Resistance by {^H}{%.0f0}%
 DefenseAetherModifier={^E}Increases Aether Resistance by {^H}{%.0f0}%
 DefenseStunModifier={^E}Increases Stun Resistance by {^H}{%.0f0}%
 DefenseBlockModifier={^E}Increases Shield Block Chance by {^H}{%.0f0}%
+DefenseBlockAmountModifier={%+.0f0}% {^E}Shield Damage Blocked
 DefenseLifeLeachModifier={^E}Increases Life Leech Resistance by {^H}{%.0f0}%
 DefenseManaLeachModifier={^E}Increases Energy Leech Resistance by {^H}{%.0f0}%
 DefensePercentLifeModifier={^E}Increases Percent Life Resistance by {^H}{%.0f0}%
@@ -1497,6 +1550,7 @@ tagAutoItemSkill= (Granted by Item - Passive Activation)
 tagExclusiveSkill=Exclusive Skill - Only one Exclusive Skill can be active at any one time.
 
 tagAutoSort=Auto Sort
+tagAutoComplete=Complete Components
 tagAttributeUndo=Undo
 
 tagQuestItem=Quest Item
@@ -1520,10 +1574,10 @@ tagBossXPLong02={%d0} XP Granted
 tagHeroXPLong01=Hero Monster Killed
 tagHeroXPLong02={%d0} XP Granted
 
-tagPetBonusNameAllPets=Bonus to All Pets:
-tagPetBonusNameOnePet=Bonus to {%s0} Pet:
-tagPetBonusNameTwoPets=Bonus to {%s0} and {%s1} Pets:
-tagPetBonusNameManyPets=Bonus to Pets:
+tagPetBonusNameAllPets=Bonus to All Pets
+tagPetBonusNameOnePet=Bonus to {%s0} Pet
+tagPetBonusNameTwoPets=Bonus to {%s0} and {%s1} Pets
+tagPetBonusNameManyPets=Bonus to Pets
 
 TagSpeakerSetup=Speaker Setup
 TagHeadphoneSpeakers=Headphone Speakers
@@ -1555,8 +1609,11 @@ tagHotSlotSwap=Toggle between primary and secondary quick slot bars.
 tagHotSlotTitle=Alternate Quick Slot Bar
 tagEmptyHotSlot=Clear this quick slot button.
 
+tagDevotionUnassigned=No Skill
+
 #Multiplayer
 
+tagMPTrade=Trade
 tagMPGroup=Group
 tagMPInGame=In Game
 tagMPCharName=Character Name
@@ -1572,12 +1629,13 @@ tagMPAvailable=Available Players
 tagMPGroup1=Group 1
 tagMPGroup2=Group 2
 tagMPGroup3=Group 3
+tagMPNoClass=N/A
 tagMPInviteMessage={%t0} has invited you to join a group.
-tagMPInviteError={%t0} is already in a party.
-tagMPInviteSend={%t0} has been sent an invitation to join your party.
-tagMPInviteRemove={%t0} has been removed from the party.
-tagMPMessageJoin={%t0} has joined your party.
-tagMPMessageLeave={%t0} has left your party.
+tagMPInviteError={%t0} is already in a group.
+tagMPInviteSend={%t0} has been sent an invitation to join your group.
+tagMPInviteRemove={%t0} has been removed from the group.
+tagMPMessageJoin={%t0} has joined your group.
+tagMPMessageLeave={%t0} has left your group.
 tagMPMessageDeny={%t0} has declined your invitation.
 tagMPMessageBan={%t0} has been banned from the game.
 tagMPMessageGameJoin={%t0} has joined the game.  The difficulty level has been adjusted for more players.
@@ -1585,15 +1643,19 @@ tagMPMessageGameLeave={%t0} has left the game.
 tagMPQuestionBan=Are you sure you wish to ban {%t0} from the game?
 tagMPInviteAccept=Accept
 tagMPInviteDeny=Deny
-tagMPStats=Game Stats
+tagMPStats=Game Stats:
 tagMPMapName=Map Name :
 tagMPServerName=Server Name :
 tagMPPing=Ping :
-tagMPTime=Elapsed Game Time :
+tagMPTime=Elapsed Time :
 tagMPServer=Server Name: {%t0}
 tagMPIPAddress=IP: {%t0}
 tagMPPort=Port: {%t0}
 tagMPErrorNoTarget=That player is too far away to target.
+tagMPNameLevel={%t0} ({%d1})
+tagMPClass={%s0}
+tagMPLocation={%s0}
+tagMPLifeMana={^r}{%d0}/{%d1} {^g}{%d2}/{%d3}
 tagTradeError01={%t0} is currently trading with another player.
 tagTradeError02={%t0} has denied your trade request.
 tagTradeError03={%t0} has requested a trade.

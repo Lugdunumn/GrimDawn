@@ -4,8 +4,6 @@ I do what I can.
 Your allies already made good work of everythin' I needed done.
 Very well.
 Any progress with Homestead?
-Still working on a deal.
-Any progress with Homestead?
 The people out there don't trust us.
 Oh, I can' blame them. These are trying times and trust is hard to come by.
 I'll do what I can.
@@ -16,7 +14,7 @@ Interesting. I don' suppose they were handing out food, were they now?
 I need to speak with them. Farewell.
 How goes the journey?
 Where am I headed again?
-Head northwest out of Devil's Crossing across the bridge we repaired. The journey will take you far to the northwest, and we haven' a clue what's out there. Start by following the road out into the Arkovian Foothills, all the way through Old Arkovia. With luck, the old coast bridge near Twin Falls still stands. If that's not an option, you will have to look for Smuggler's Pass. It's an old smuggling route that ran through the Broken Hills. It should connect to Homestead.{^n}{^n}We must find out whether the farmlands can still support us, or if the Grim Dawn claimed them as it did Burrwitch.
+Head northwest out of Devil's Crossing across the bridge we repaired. The journey will take you far to the northwest, and we haven' a clue what's out there. Start by following the road out into the Arkovian Foothills, all the way through Old Arkovia. With luck, the old coastal bridge near Twin Falls still stands. If that's not an option, you will have to look for Smuggler's Pass. It's an old smuggling route that ran through the Broken Hills. It should connect to Homestead.{^n}{^n}We must find out whether the farmlands can still support us, or if the Grim Dawn claimed them as it did Burrwitch.
 What's Smuggler's Pass?
 That ol' hole in the ground once served many a smuggler in avoiding imperial patrols along the coast road. Smuggler's Pass was never the safest route, but if you needed to avoid prying eyes, it was a blessing. Why, it served me many a time in my younger restless years. Course, that's all ancient history now.
 Thanks.
@@ -24,7 +22,7 @@ I will head there now.
 I need to get back out there.
 Come friend, share a glass of clean water with Ol' Barnabas to celebrate yer victory in Burrwitch.
 Mornay said you have a plan for our food situation?
-Right to business then. Before the world fell apart, Burrwitch got its food stocks from the vast farmlands to the northwest. With the bridge repaired, we need to find a way back to Homestead.{^n}{^n}The journey will take you far to the northwest, and I haven' a clue what's out there. Start by following the road out into the Arkovian Foothills, all the way through Old Arkovia. With luck, the old coast bridge near Twin Falls still stands. If that's not an option, you will have to look for Smuggler's Pass. It's an old smuggling route that ran through the Broken Hills. It should connect to Homestead.{^n}{^n}We must find out whether the farmlands can still support us, or if the Grim Dawn claimed them as it did Burrwitch.
+Right to business then. Before the world fell apart, Burrwitch got its food stocks from the vast farmlands to the northwest. With the bridge repaired, we need to find a way back to Homestead.{^n}{^n}The journey will take you far to the northwest, and I haven' a clue what's out there. Start by following the road out into the Arkovian Foothills, all the way through Old Arkovia. With luck, the old coastal bridge near Twin Falls still stands. If that's not an option, you will have to look for Smuggler's Pass. It's an old smuggling route that ran through the Broken Hills. It should connect to Homestead.{^n}{^n}We must find out whether the farmlands can still support us, or if the Grim Dawn claimed them as it did Burrwitch.
 I will get on it.
 What can I expect out there?
 Nobody's been as far north as Homestead in months, so I can only imagine what sort of horrors have crawled out of the mountain crags following the Grim Dawn. Stay sharp out there. 

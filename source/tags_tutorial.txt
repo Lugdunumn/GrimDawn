@@ -3,6 +3,8 @@ tagTutorialRollOver=Check this box to disable tutorial pop-ups. Once disabled th
 tagTutorialOf=of
 tagTutorialDisable=Disable Tutorial Tips
 
+tagTutorialTip06Title=Untouched Meal
+tagTutorialTip06TextA=You have discovered an abandoned meal, likely left behind by a less fortunate adventurer.{^n}{^n}By consuming it, you restored some of your Constitution.
 
 tagTutorialTip08Title=Welcome to Grim Dawn
 tagTutorialTip08TextA=Thank you again for supporting us and helping to make Grim Dawn possible! We hope that you enjoy this first portion of the game.{^n}{^n}Please remember that this is a pre-release build created by a seven-person indie studio. You will encounter bugs, incomplete features and only the first 2/3rd or so of the game. We welcome your feedback on bugs and general gameplay on our forums at www.grimdawn.com.
@@ -80,6 +82,17 @@ tagTutorialTip24Title=Death
 tagTutorialTip24TextA=When your health reaches 0, your character will die.{^n}{^n}Take advantage of your character's rapid health regeneration, which activates when out of combat for a few seconds. When that is not enough, remember to use potions and skills to stay alive.
 tagTutorialTip24TextB=When you die, you will lose some experience and your character will respawn in the last sanctuary you visited. The experience penalty will increase as your character gains levels, but you can regain some of the lost experience by recovering your Grave Marker.
 
+tagTutorialTip27Title=Grim Dawn Multiplayer
+tagTutorialTip27TextA=You can join a party with other players in the game to share experience, iron bits and to initiate trades. Parties are also important for PvP sessions.
+tagTutorialTip27CaptionA=Shortcut key: {^b}{%t0}{^w}
+tagTutorialTip27TextB=You can initiate a trade with another player in your party by right-clicking on their status display in the upper left.
+tagTutorialTip27TextC=You can also chat with other players in the game by using the {^y}Chat Window{^w}.
+tagTutorialTip27CaptionB=Shortcut key: {^b}{%t0}{^w}
+
+tagTutorialTip28Title=Player Trading
+tagTutorialTip28TextA=You can trade items by placing them within your side of the trade window. You can trade iron bits by typing a value next to the icon at the top of the window.
+tagTutorialTip28TextB=Both players must accept the trade before an exchange will take place. If the trade is cancelled, all items and iron bits are returned to player inventories.
+
 tagTutorialTip30Title=Assign Your Skills
 tagTutorialTip30TextA=You have unassigned active skills. Active skills need to be assigned to the Quickbar or mouse buttons before you can use them.
 tagTutorialTip30TextB=To assign a skill, right-click on a slot in the Quickbar or on the mouse buttons to the right of it and select the desired skill from the menu.
@@ -108,7 +121,7 @@ tagTutorialTip36TextA=Spirit Guides allow you to undo your skill point selection
 tagTutorialTip36TextB=You cannot remove points invested in your Mastery level. In addition, you cannot remove the last point from a skill that has any modifiers with points invested in them.
 
 tagTutorialTip37Title=Smuggler Window
-tagTutorialTip37TextA=The Smuggler can store your items, and even exchange them between your characters! You can access your stash at any Smuggler you find throughout Cairn.
+tagTutorialTip37TextA=The Smuggler can store your items, and even exchange them between your characters! You can access your stash at any Smuggler you find throughout Cairn.{^N}Items can be transferred quickly using Shift-Right Click.
 tagTutorialTip37TextB=You can expand your storage by clicking the Expand Stash button. This will cost you some Iron Bits.{^N}{^N}Click on Item Transfer to share items with your other characters.
 
 tagTutorialTip38Tile=Item Transfer
