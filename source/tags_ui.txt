@@ -19,11 +19,16 @@ tagBossXP={%d0} Enemy Boss XP
 tagHeroKilled=Enemy Hero Killed
 tagBossKilled=Enemy Boss Killed
 tagXPAwarded={%d0} XP Awarded
+tagRepAwarded=+{%d0} Reputation Awarded with {%s1}
 
 tagUndo=Undo
 Chat=Chat:
 
 tagGamePaused=Game Paused
+
+tagSkillNotReady={^r}This skill is not ready
+
+tagTransferStashError={^r}That item cannot be placed there
 
 #Riftgate
 
@@ -42,6 +47,11 @@ tagQuestIncentives=Incentives:
 tagQuestObjectives=Objectives:
 tagQuestRewards=Rewards:
 tagCodexJournalNoNotes=No Entries
+tagCodexJournalSubHeadingAct1=Act I
+tagCodexJournalSubHeadingAct2=Act II
+tagCodexJournalSubHeadingAct3=Act III
+tagCodexJournalSubHeadingAct4=Act IV
+tagCodexJournalSubHeadingDefault=Miscellaneous
 tagAccept=Accept
 tagDecline=Decline
 tagContinue=Continue
@@ -83,20 +93,35 @@ tagFactionInvisible=Invisible
 tagFactionGenericMonster=Monsters
 tagFactionPlayer=Players
 tagFactionSurvivors=Devil's Crossing
+tagFactionSurvivorsInfo=Survivors Info
 tagFactionAetherials=Aetherials
+tagFactionAetherialsInfo=Aetherials
 tagFactionCthonians=Cthonians
+tagFactionCthoniansInfo=Cthonians
 tagFactionOutlaws=Cronley's Gang
+tagFactionOutlawsInfo=Cronley's Gang
 tagFactionBeasts=Beasts
+tagFactionBeastsInfo=Beasts
 tagFactionUser0=Rovers
+tagFactionUser0Info=Rovers
 tagFactionUser1=Neutral
+tagFactionUser1Info=Neutral
 tagFactionUser2=Homestead
+tagFactionUser2Info=Homestead
 tagFactionUser3=Free Men of Corrigan Mine
+tagFactionUser3Info=Free Men of Corrigan Mine
 tagFactionUser4=The Exile
+tagFactionUser4Info=The Exile
 tagFactionUser5=Order of Death's Vigil
+tagFactionUser5Info=Order of Death's Vigil
 tagFactionUser6=Undead
+tagFactionUser6Info=Undead
 tagFactionUser7=The Black Legion
+tagFactionUser7Info=The Black Legion
 tagFactionUser8=Kymon's Chosen
+tagFactionUser8Info=Kymon's Chosen
 tagFactionUser9=User9
+tagFactionUser9Info=User9
 tagFactionUnknown=Unknown
 tagFactionStateEnemy5=Nemesis
 tagFactionStateEnemy4=Hated
@@ -119,6 +144,9 @@ tagFactionStateFriendly=Friendly
 tagFactionStateTrusted=Trusted
 tagFactionStateHonored=Honored
 tagFactionStateRevered=Revered
+tagFactionProgress=Required to Next Level: {^b}{%d0}
+tagFactionStatusChange={^w}You are now {%s0} {^w}with {^b}{%s1}
+tagFactionEnemies=Enemies: {^b}
 
 #HUD
 
@@ -210,6 +238,8 @@ tagSkillPointsRemain={%d0} Points Remaining
 tagSkillPointsRemainSingular={%d0} Point Remaining
 
 #Character
+
+GenderFormat={%t0}{%0a1}
 
 tagInventoryBag=Inventory Bag
 tagInventoryBagDescription=Expands the size of your inventory
@@ -354,7 +384,7 @@ tagCharStatsArmorFeet=Feet:
 tagCharStatsArmorWaist=Waist:
 tagCharStatsArmorShoulders=Shoulders:
 
-tagFormulaLearn01=Congratulations! You have learned how to craft:
+tagFormulaLearn01={^w}Congratulations! You have learned how to craft:
 tagFormulaLearn02={^r}You have already learned this blueprint
 tagFormulaLearn03={^r}[Already Learned]
 
@@ -772,6 +802,7 @@ tagCraftingInsterComponent=Add components specified by a blueprint to these slot
 tagCraftingAxes=AXES
 tagCraftingBlunt=BLUNT
 tagCraftingSwords=SWORDS
+tagCraftingImplements=IMPLEMENTS
 tagCraftingTwoHandedMelee=TWO-HANDED MELEE
 
 tagCraftingOneHanded=ONE-HANDED RANGED
@@ -792,7 +823,9 @@ tagCraftingAccessories=ACCESSORIES
 tagCraftingConsumables=CONSUMABLES
 tagCraftingMaterials=MATERIALS
 
-tagCraftingRelics=RELICS
+tagCraftingRelicsTier01=EMPOWERED RELICS
+tagCraftingRelicsTier02=TRANSCENDENT RELICS
+tagCraftingRelicsTier03=MYTHICAL RELICS
 
 tagDividerTab01=Salvage
 tagDividerRoll01=The salvage chamber is used to strip component parts from items.  Unfortunately, the process is imperfect and always results in the destruction of either the item or the component part but you can choose which one to salvage and which to sacrifice.
@@ -800,9 +833,6 @@ tagDividerRoll01=The salvage chamber is used to strip component parts from items
 tagDividerTab02=Dismantle
 tagDividerRoll02=The dismantling chamber is used to break down powerful magical items into their basic parts. The Inventor has not yet learned this ability.
 tagDividerRoll02B=The dismantling chamber is used to break down powerful magical items into their basic parts. This process requires great energy and so the clever inventor has made use of dynamite to fulfill this function.
-
-tagDividerTab03=Tinkering
-tagDividerRoll03=The tinkering chamber is used for tinkering.
 
 tagDividingButtonKeepItem=Keep Item
 tagDividingBoxInfo=Place an item with an attached component in the chamber.
@@ -817,12 +847,6 @@ tagDismantleButton=Choosing to dismantle will destroy this item.
 tagDismantleDestroyItemWarning=Choosing to dismantle will destroy this item. Continue?
 tagDismantleDestroyItemComponentWarning=Choosing to dismantle will destroy this item and keep the component. Continue?
 tagDismantleBoxInfo=Place an item greater than common quality in the chamber.
-
-tagTinkerAetherTotal=Total Aether Crystals:
-tagTinkerCost=Tinkering Cost:
-tagTinkerButton=Choosing to Tinker will reroll the completion bonus on this item. This has a chance to destroy the item!
-tagTinkerDestroyItem=Your Item was destroyed! Aw shucks!
-tagTinkerBoxInfo=Place a component or relic in the chamber.
 
 #Smuggler
 
@@ -900,12 +924,12 @@ tagMapSymbolSmithDesc=A skilled craftsman capable of creating new items.
 #SystemStatsSkillUI
 
 tagOptionsMenuReturn=Return to Game
-tagOptionsMenuSave=Save Game
 tagOptionsMenuExit=Exit to Main Menu
 tagOptionsMenuQuit=Quit to Desktop
 tagOptionsMenuOptions=Options Menu
 tagOptionsMenuGameSaved=Your game is Saved
-tagOptionsMenuAreUSure=Are you sure you want to exit to the main menu?
+tagOptionsMenuExitMenuConfirm=Are you sure you want to exit to the main menu?
+tagOptionsMenuExitGameConfirm=Are you sure you want to quit to desktop?
 tagInfoTitle=Information
 tagInfoButtonYes=Yes
 tagInfoButtonNo=No
@@ -1021,12 +1045,13 @@ SkillCooldownReductionModifierR=-{%.0f0}% {^E}Skill Recharge
 tagDamageConversion={%.0f0}% {^E}{%s1} converted to {%s2}
 tagDamageRemoval={%.0f0}% {^E}{%s1} Reduction
 tagConversionPhysical=Physical Damage
+tagConversionPierce=Piercing Damage
 tagConversionElemental=Elemental Damage
 tagConversionCold=Cold Damage
 tagConversionFire=Fire Damage
 tagConversionPoison=Poison Damage
 tagConversionLightning=Lightning Damage
-tagConversionLife=Life Damage
+tagConversionLife=Vitality Damage
 tagConversionChaos=Chaos Damage
 tagConversionAether=Aether Damage
 tagConversionStun=Stun Duration
@@ -1113,6 +1138,7 @@ GiveMoneyFormat=+{%d0} Iron
 TakeMoneyFormat={%d0} Iron
 ExperienceFormat=+{%d0} Experience
 FactionFormat=+{%d0} {%s1} Reputation
+FactionUnlocked={%s0} Unlocked
 LevelUpFormat=Level Up!
 SkillPointFormat={%d0} Skill Point(s)
 AttributePointFormat={%d0} Attribute Point(s)
@@ -1254,19 +1280,21 @@ tagDotAether=Aether
 tagDotLifeLeech=Life Leech
 
 tagSetItems=({%d0}) Set
-tagSecond={^E}second
-tagSeconds={^E}seconds
+tagSecond={^E}Second
+tagSeconds={^E}Seconds
 DamagePerSecond={%.1f0} {^S}Damage Per Second (If Equipped)
 DamagePhysicalChance= {^E}Physical Damage
 DamageBasePhysical= {^S}Physical Damage
 DamageBasePierceRatio={%.0f0}% {^S}Armor Piercing
 DamageBasePierceRatioR={%.0f0}-{%.0f1}% {^S}Armor Piercing
 DamageBonusPhysical={%t0} {^E}Physical Damage
-tagDamageBaseFire= {^S}Base Fire Damage
-tagDamageBaseLightning= {^S}Base Lightning Damage
-tagDamageBaseCold= {^S}Base Cold Damage
-tagDamageBaseVitality= {^S}Base Vitality Damage
-tagDamageBasePoison= {^S}Base Acid Damage
+tagDamageBaseFire={%t0} {^S}Fire Damage
+tagDamageBaseLightning={%t0} {^S}Lightning Damage
+tagDamageBaseCold={%t0} {^S}Cold Damage
+tagDamageBaseVitality={%t0} {^S}Vitality Damage
+tagDamageBasePoison={%t0} {^S}Acid Damage
+tagDamageBaseChaos={%t0} {^S}Chaos Damage
+tagDamageBaseAether={%t0} {^S}Aether Damage
 DamageCold={%t0} {^E}Cold Damage
 DamageFire={%t0} {^E}Fire Damage
 DamageAether={%t0} {^E}Aether Damage
@@ -1517,6 +1545,44 @@ DefenseLightningDurationModifier={%+.0f0}% {^E}Electrocute Duration Reduction
 DefenseLifeDurationModifier={%+.0f0}% {^E}Vitality Decay Duration Reduction
 DefenseLifeLeachDurationModifier={%+.0f0}% {^E}Life Leech Duration Reduction
 DefenseManaLeachDurationModifier={%+.0f0}% {^E}Energy Leech Duration Reduction
+DefensePhysicalMaxResist={%+.0f0}% {^E}Maximum Physical Resistance
+DefensePhysicalMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Physical Resistance
+DefensePierceMaxResist={%+.0f0}% {^E}Maximum Pierce Resistance
+DefensePierceMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Pierce Resistance
+DefenseColdMaxResist={%+.0f0}% {^E}Maximum Cold Resistance
+DefenseColdMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Cold Resistance
+DefenseFireMaxResist={%+.0f0}% {^E}Maximum Fire Resistance
+DefenseFireMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Fire Resistance
+DefenseAetherMaxResist={%+.0f0}% {^E}Maximum Aether Resistance
+DefenseAetherMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Aether Resistance
+DefenseChaosMaxResist={%+.0f0}% {^E}Maximum Chaos Resistance
+DefenseChaosMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Chaos Resistance
+DefensePoisonMaxResist={%+.0f0}% {^E}Maximum Poison & Acid Resistance
+DefensePoisonMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Poison & Acid Resistance
+DefenseLightningMaxResist={%+.0f0}% {^E}Maximum Lightning Resistance
+DefenseLightningMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Lightning Resistance
+DefenseLifeMaxResist={%+.0f0}% {^E}Maximum Vitality Resistance
+DefenseLifeMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Vitality Resistance
+DefenseStunMaxResist={%+.0f0}% {^E}Maximum Reduced Stun Duration
+DefenseStunMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Reduced Stun Duration
+DefenseLifeLeachMaxResist={%+.0f0}% {^E}Maximum Life Leech Resistance
+DefenseLifeLeachMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Life Leech Resistance
+DefenseManaLeachMaxResist={%+.0f0}% {^E}Maximum Energy Leech Resistance
+DefenseManaLeachMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Energy Leech Resistance
+DefenseTrapMaxResist={%+.0f0}% {^E}Maximum Reduced Entrapment Duration
+DefenseTrapMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Reduced Entrapment Duration
+DefenseFreezeMaxResist={%+.0f0}% {^E}Maximum Reduced Freeze Duration
+DefenseFreezeMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Reduced Freeze Duration
+DefensePetrifyMaxResist={%+.0f0}% {^E}Maximum Reduced Petrify Duration
+DefensePetrifyMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Reduced Petrify Duration
+DefenseDisruptionMaxResist={%+.0f0}% {^E}Maximum Skill Disruption Protection
+DefenseDisruptionMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Skill Disruption Protection
+DefenseBleedingMaxResist={%+.0f0}% {^E}Maximum Bleeding Resistance
+DefenseBleedingMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Bleeding Resistance
+DefenseSleepMaxResist={%+.0f0}% {^E}Maximum Sleep Resistance
+DefenseSleepMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Sleep Resistance
+DefenseAllMaxResist={%+.0f0}% {^E}Maximum All Resistances
+DefenseAllMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum All Resistances
 
 RacialBonusPercentDamage={%+.0f0}% {^E}Damage to {%s1}
 RacialBonusAbsoluteDamage={%+.0f0} {^E}Damage to {%s1}
@@ -1584,6 +1650,7 @@ TagHeadphoneSpeakers=Headphone Speakers
 Tag41Speakers=4 Speakers
 Tag51Speakers=5.1 Speakers
 TagKeybind40=Use Alternate Hot Slot Bar
+tagKeybindUnassigned=Unassigned
 
 tagSelectPet1=Select Pet 1
 tagSelectPet2=Select Pet 2

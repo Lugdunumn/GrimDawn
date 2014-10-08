@@ -13,8 +13,12 @@ With the Burrwitch riftgate secure, return to Captain John Bourbon in Devil's Cr
 Report back to John Bourbon
 
 
+
+
 Already been to Burrwitch
 Tell Captain John Bourbon about the situation at Burrwitch Village.
 Tell John Bourbon that the Burrwitch riftgate is secure
+
+
 
 

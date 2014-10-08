@@ -8,6 +8,10 @@ Bring the Scrap to Barnabas in Devil's Crossing
 
 
 
+
+
+
+
 Kill Slith in Cave
 Barnabas believes that Slith have inhabited the cave Devil's Crossing pumps for water. Slith are foul beasts that secrete poisons lethal to humans. {^n}{^n}Find and kill the matriarch of this Slith pack so that the water will become drinkable again. You can access the cave via the cellar underneath the shack, near the riftgate, in Devil's Crossing.
 
@@ -17,6 +21,8 @@ Slay Viloth the Corruptor
 Return to Barnabas
 Viloth, the Slith matriarch has been slain by your hand. {^n}{^n}Return to Barnabas in Devil's Crossing and inform him that the water will soon be safe to drink again.
 Return to Barnabas
+
+
 
 
 
