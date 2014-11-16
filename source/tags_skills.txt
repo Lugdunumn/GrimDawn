@@ -18,7 +18,7 @@ tagSkillClassName0108=
 tagSkillClassName0109=
 tagSkillClassName0203=Pyromancer
 tagSkillClassName0204=Saboteur
-tagSkillClassName0205=Deathdealer
+tagSkillClassName0205=[ms]Sorcerer[fs]Sorceress
 tagSkillClassName0206=
 tagSkillClassName0207=
 tagSkillClassName0208=
@@ -29,7 +29,7 @@ tagSkillClassName0306=
 tagSkillClassName0307=
 tagSkillClassName0308=
 tagSkillClassName0309=
-tagSkillClassName0405=Nightstalker
+tagSkillClassName0405=Spellbreaker
 tagSkillClassName0406=
 tagSkillClassName0407=
 tagSkillClassName0408=
@@ -69,6 +69,9 @@ tagSkillClassDescription09=
 
 tagSkillDefaultAttackName01=Basic Weapon Attack
 tagSkillDefaultAttackDescription01=Attacks with your equipped weapon.
+
+tagSkillDefaultMoveTo=Move To
+tagSkillDefaultMoveToDescription=Move to selected location.
 
 tagSkillInnate=Innate Ability
 tagSkillSumLVL=Increases with summoning level.
@@ -185,8 +188,8 @@ tagClass02SkillName03B=Explosive Strike
 tagClass02SkillDescription03B=Increases the potency of Fire Strike with a chance to inflict increased fire damage.  ^oWith ranged attacks, it also explodes, causing damage to nearby enemies.
 tagClass02SkillName03C=Static Strike
 tagClass02SkillDescription03C=Further alchemical alterations cause Fire Strike to electrocute the target with a chance of knocking them off their feet.
-tagClass02SkillName03D=Splinter
-tagClass02SkillDescription03D=Further improves upon Fire Strike, adding piercing shrapnel and enhancing its fiery payload. ^oRanged attacks will also splinter into molten fragments.
+tagClass02SkillName03D=Brimstone
+tagClass02SkillDescription03D=Pyromancy with a hint of the occult imbues Firestrike with the chaotic power of brimstone. ^oRanged attacks will also splinter into molten fragments.
 tagClass02SkillName03E=Searing Strike
 tagClass02SkillDescription03E=Focusing the destructive power of Fire Strike to within melee distance of the Demolitionist allows it to hit with greater intensity while requiring less energy.  ^oRequires a melee weapon.
 
@@ -198,7 +201,7 @@ tagClass02SkillName04C=Concussive Bomb
 tagClass02SkillDescription04C=Packed for a higher impact blast, the Concussive Bomb does a little less damage but will leave foes shell-shocked.
 
 tagClass02SkillName05A=Mortar Trap
-tagClass02SkillDescription05A=Places a mortar that will continuously lob explosives into the air until depleted.
+tagClass02SkillDescription05A=Places a mortar that will continuously lob explosives into the air until depleted. ^oThe mortar is considered a pet and benefits from pet bonuses.
 tagClass02SkillName05B=Heavy Ordnance
 tagClass02SkillDescription05B=Potent sorcery increases the damage output of mortar shells and infuses them with electrical damage.
 tagClass02SkillName05C="The Big One"
@@ -209,21 +212,22 @@ tagClass02SkillName05E=Electrical Mortar
 tagClass02SkillDescription05E=Launches an electrically charged mortar at enemies.
 
 tagClass02SkillName06A=Thermite Mine
-tagClass02SkillDescription06A=Drops a trio of small but deadly pyrotechnic charges that will sear enemies with intense jets of flame.
+tagClass02SkillDescription06A=Drops a trio of small but deadly pyrotechnic charges that will sear enemies with intense jets of flame. ^oThe mines are considered pets and benefit from pet bonuses.
 tagClass02SkillName06B=Lightning Arc
 tagClass02SkillDescription06B=Half pyrotechnics, half alchemy, this lethal improvement to the Thermite Mine causes it to scorch enemies with both intense fire and bolts of electricity.
 tagClass02SkillName06C=Flame Jet
 tagClass02SkillDescription06C=Emits a deadly jet of white-hot flame to incinerate enemies that pass over it.
 
-tagClass02SkillName07A=Unquenchable Flame
-tagClass02SkillDescription07A=Crossing over, as many Demolitionists eventually do, into the secret arts of pyromancy provides flame and electricity that burns unnaturally long and hot.
+tagClass02SkillName07A=Blast Shield
+tagClass02SkillDescription07A=A combination of military gear and pyromancy creates a ward capable of absorbing a fixed amount of fire damage before collapsing. ^oChance to activate when struck by Fire Damage. The shield remains active until it has absorbed its capacity in Fire Damage.
+
 tagClass02SkillName07B=Ulzuin's Chosen
 tagClass02SkillDescription07B=Those who have sacrificed much in the pursuit of pyrotechnics eventually come to be favored by Ulzuin, receiving his blessing in wreaking fiery devastation upon the world. ^o[Requires and affects Grenado and Canister Bomb]
 
 tagClass02SkillName08A=Blackwater Cocktail
 tagClass02SkillDescription08A=Blackwater Cocktails were concocted when more conventional explosives ran low. These improvised fire bombs leave a self-fueled blaze upon impact and are particularly effective against tightly packed enemies.
-tagClass02SkillName08B=Intense Heat
-tagClass02SkillDescription08B=A hotter burning Blackwater solution melts armor and incinerates flesh.
+tagClass02SkillName08B=Demon Fire
+tagClass02SkillDescription08B=Sorcerous enchantment imbues the flames with chaotic power that melts enemy flesh and deteriorates armor.
 tagClass02SkillName08C=Agonizing Flames
 tagClass02SkillDescription08C=Driven mad by the searing pain of their flame covered bodies, enemy ranks scatter in panic with those still able to function barely able to strike back.
 
@@ -234,10 +238,10 @@ tagClass02SkillDescription09B=Boosts the electrical capacity of each stun jack a
 tagClass02SkillName09C=Quick Jacks
 tagClass02SkillDescription09C=They lose the stopping power of Stun Jacks but can be thrown in rapid succession to spread devastating electrical damage among large packs of foes.
 
-tagClass02SkillName12A=Blast Shield
-tagClass02SkillDescription12A=A combination of military equipment and sorcery creates a shield capable of absorbing a fixed amount of pierce and fire damage before collapsing.
+tagClass02SkillName12A=Flame Touched
+tagClass02SkillDescription12A=Crossing over, as many Demolitionists eventually do, to dabble in the sorcerous arts of pyromancy unlocks the ability to imbue yourself and nearby allies with a living flame that augments attacks and retaliates at enemies. ^oThis ability must be toggled to maintain its effect.
 tagClass02SkillName12B=Temper
-tagClass02SkillDescription12B=The sorcerous flame powering the Blast Shield is extended to equipped weapons and armor, tempering them beyond conventional methods.
+tagClass02SkillDescription12B=Delving deeper into the secrets of pyromancy grants such refined control over fire that it can be used to temper the weapons and armor of allies beyond conventional means and to imbue them with a living flame.
 
 tagClass02SkillName13A=Vindictive Flame
 tagClass02SkillDescription13A=Ulzuin's eternal flame once brought life and healing to the world, but betrayal and torment twisted this gift into a weapon of vengeance. Those sworn to Ulzuin receive vigor in battle and fiery retaliation upon their foes. ^oThis ability must be toggled to maintain its effect.
@@ -385,17 +389,17 @@ tagClass04SkillName04C=Ring of Frost
 tagClass04SkillDescription04C=A powerful pneumatic technique causes the ring of steel to draw energy from the nearby air, magnifying cold damage and freezing foes but at the cost of piercing damage.
 
 tagClass04SkillName05A=Dual Blades
-tagClass04SkillDescription05A=Among the most fundamental skills of the Nightblade are the mastery of melee dual wielding, favoring the use of piercing blades, and the art of drawing elemental cold from iron and steel. ^oThis is a dual-wielding bonus. Also enables the ability to dual wield melee weapons.
+tagClass04SkillDescription05A=Among the most fundamental skills of the Nightblade are the mastery of melee dual wielding, favoring the use of piercing blades, and the art of drawing elemental cold from iron and steel. ^oThis is a melee dual-wielding bonus. Also enables the ability to dual wield melee weapons.
 tagClass04SkillName05B=Belgothian's Shears
-tagClass04SkillDescription05B=The brawny Belgothian was an anomaly among the lithe Nightblade masters, but he exceeded them all in raw power. Leveraging his strength in direct but lethal attacks like the shears, Belgothian could often finish an enemy in a single move. ^oThis is a dual-wielding technique.
+tagClass04SkillDescription05B=The brawny Belgothian was an anomaly among the lithe Nightblade masters, but he exceeded them all in raw power. Leveraging his strength in direct but lethal attacks like the shears, Belgothian could often finish an enemy in a single move. ^oThis is a melee dual-wielding technique.
 tagClass04SkillName05C=Amarasta's Quick Cut
-tagClass04SkillDescription05C=Legendary for her speed, Amarasta's blades were said to sound like a whip through the air, leaving only streaks of light too fast for the eye to follow. Masters of this technique can strike thrice in the space of a normal attack. ^oThis is a dual-wielding technique.
+tagClass04SkillDescription05C=Legendary for her speed, Amarasta's blades were said to sound like a whip through the air, leaving only streaks of light too fast for the eye to follow. Masters of this technique can strike thrice in the space of a normal attack. ^oThis is a melee dual-wielding technique.
 tagClass04SkillName05D=Whirling Death
-tagClass04SkillDescription05D=A devastating technique intended for multi-target combat. Those that survive are left bleeding as if from a thousand cuts. ^oThis is a dual-wielding technique.
+tagClass04SkillDescription05D=A devastating technique intended for multi-target combat. Those that survive are left bleeding as if from a thousand cuts. ^oThis is a melee dual-wielding technique.
 tagClass04SkillName05E=Nidalla's Hidden Hand
 tagClass04SkillDescription05E=The controversial Nightblade master Nidalla demonstrated the cruel effectiveness of poisons during the Age of Unreason when she combined the foul toxins with the Whirling Death technique, allowing her to prevail in battle against greatly superior numbers. ^oThis technique modifies Whirling Death.
 tagClass04SkillName05F=Execution
-tagClass04SkillDescription05F=A merciless blow, struck during a moment of opportunity, with the intent to quickly finish a foe. Those that survive are not likely to remain alive for very long. ^oThis is a dual-wielding technique.
+tagClass04SkillDescription05F=A merciless blow, struck during a moment of opportunity, with the intent to quickly finish a foe. Those that survive are not likely to remain alive for very long. ^oThis is a melee dual-wielding technique.
 
 tagClass04SkillName06A=Pneumatic Burst
 tagClass04SkillDescription06A=Secret martial techniques of the Nightblades enable you to draw vital breath or "pneuma" from your surroundings for short bursts of speed and power. The metabolic acceleration caused by these vital breaths also confers minor healing. ^oRequires a melee weapon.
@@ -404,7 +408,7 @@ tagClass04SkillDescription06B=Practice in combat meditation allows you to achiev
 tagClass04SkillName06C=Elemental Awakening
 tagClass04SkillDescription06C=Adept Nightblades can pull energy from the air or even foes their weapons come in contact with to deliver attacks of intense cold.
 tagClass04SkillName06D=Breath of Belgothian
-tagClass04SkillDescription06D=Overly muscled and slow by Nightblade standards, part of Belgothian's success was attributed to his ability to recover health and outlast opponents through a profound mastery of the pneuma breathing technique. ^oThis is a dual-wielding technique. Also enables the ability to dual wield melee weapons.
+tagClass04SkillDescription06D=Overly muscled and slow by Nightblade standards, part of Belgothian's success was attributed to his ability to recover health and outlast opponents through a profound mastery of the pneuma breathing technique. ^oThis is a melee dual-wielding technique. Also enables the ability to dual wield melee weapons.
 
 tagClass04SkillName07A=Veil of Shadow
 tagClass04SkillDescription07A=A psionic veil clouds the minds of nearby enemies, slowing their movements and diminishing their effectiveness in combat. ^oThis ability must be toggled to maintain its effect.
@@ -467,7 +471,7 @@ tagClass05SkillDescription00=Conditioning of the body and mind to withstand the 
 tagClass05SkillName01A=Panetti's Replicating Missile
 tagClass05SkillDescription01A=The greatest of the Cortosian Arcanists, Panetti devoted himself to advancing the classic arcane missile. His triumph is an alteration that seemingly defies the laws of conservation of energy, causing the missile to be replicated on impact, spawning multiple copies of itself.
 tagClass05SkillName01B=Distortion
-tagClass05SkillDescription01B=Replicating Missile distorts your enemy's very being, increasing the chance that the projectile will pass through your target.
+tagClass05SkillDescription01B=Replicating Missile distorts your enemy's very being, causing the projectile to sometimes completely pass through your target.
 tagClass05SkillName01C=Supercharged
 tagClass05SkillDescription01C=The air around the Replicating Missile becomes supercharged with static energy, electrocuting any enemies unfortunate enough to come in contact with the projectile.
 tagClass05SkillName01D=Proliferation
@@ -628,7 +632,7 @@ xxxtagClass05SkillDescription02A=Coats your weapons with oil from the vile brew.
 
 #ItemSkills
 
-tagItemSkillA001=Coldsnap
+tagItemSkillA001=Cold Flash
 tagItemSkillDescA001=A blast of negative energy freezes anything in its path.
 
 tagItemSkillA002=Spectral Vortex
@@ -1038,6 +1042,17 @@ tagItemSkillC086Desc=Spread pestilence and disease wherever you step.
 tagItemSkillC087Name=Retribution
 tagItemSkillC087Desc=Provoke nearby foes with a shockwave emanating from your shield. ^oRequires a shield.
 
+tagItemSkillC088Name=Arcane Fury
+tagItemSkillC088Desc=Refusing to submit, you unleash the unbridled potential of the mind.
+
+tagItemSkillC089Name=Fire Storm
+tagItemSkillC089Desc=Creates a ring of unbearable flame to incinerate your enemies.
+
+tagItemSkillC090Name=Bloody Pox
+tagItemSkillC090Desc=An abhorrent curse that calls down a virulent plague to spread among your foes.
+
+tagItemSkillC091Name=Replicating Missile
+tagItemSkillC091Desc=A replicating spell that copies itself upon striking an enemy.
 
 tagItemSkillM001Name=Life's Essence
 tagItemSkillM001Desc=Mends wounds and revitalizes the weary hero.
@@ -1210,8 +1225,8 @@ tagCompSkillA033Desc=Strike at your enemies with the destructive power of the vo
 tagCompSkillA034Name=Shield Slam II
 tagCompSkillA034Desc=Slam your enemy with your spiked shield, disabling lesser foes completely. ^oRequires a melee weapon.
 
-tagCompSkillB001Name=Demonfire
-tagCompSkillB001Desc=Launch a bolt of unearthly flame at your enemy.
+tagCompSkillB001Name=Demon's Breath
+tagCompSkillB001Desc=Launch a blastwave of unearthly flame at your enemies.
 
 tagCompSkillB002Name=Beronath's Fury
 tagCompSkillB002Desc=Strike out at your enemies with the fury of the great beast Beronath. When used as your default weapon attack, Beronath's Fury increase the intensity of your attacks with every strike.
@@ -1267,19 +1282,19 @@ tagRelicSkillB011Name=Troll Rage
 tagRelicSkillB011Desc=Wage battle like a ruthless half-troll. When used as your default weapon attack, Troll Rage throws you into an ever deeper fury with every strike, but at the cost of focus. ^oRequires a melee weapon.
 
 tagRelicSkillB012Name=Mutilate
-tagRelicSkillB012Desc=Mutilates your target with three quick attacks, causing heavy bleeding. ^oThis is a dual-wielding technique. Also enables the ability to dual wield melee weapons.
+tagRelicSkillB012Desc=Mutilates your target with three quick attacks, causing heavy bleeding. ^oThis is a melee dual-wielding technique. Also enables the ability to dual wield melee weapons.
 
 tagRelicSkillB013Name=Volley
 tagRelicSkillB013Desc=Unleash a calculated volley of bullets at your target. ^oThis is a ranged dual-wielding technique. Also enables the ability to dual wield ranged weapons.
 
 tagRelicSkillC001Name=Gavel of Justice
-tagRelicSkillC001Desc=Pass righteous judgement upon the wicked. ^Requires a two-handed melee weapon.
+tagRelicSkillC001Desc=Pass righteous judgement upon the wicked. ^oRequires a two-handed melee weapon.
 
 tagRelicSkillC002Name=Living Fortress
 tagRelicSkillC002Desc=Skin like stone, you become nearly untouchable by blade and magic alike. ^oRequires a shield.
 
 tagRelicSkillC003Name=Bloodbath
-tagRelicSkillC003Desc=A vicious technique that leaves your enemies hemorrhaging profusely, leading to a slow and painful death.  ^oThis is a dual-wielding technique. Also enables the ability to dual wield melee weapons.
+tagRelicSkillC003Desc=A vicious technique that leaves your enemies hemorrhaging profusely, leading to a slow and painful death.  ^oThis is a melee dual-wielding technique. Also enables the ability to dual wield melee weapons.
 
 tagRelicSkillC004Name=Unstoppable
 tagRelicSkillC004Desc=You are like an unstoppable force, shaking off blows that would fell lesser mortals.
@@ -1352,7 +1367,7 @@ tagRelicSkillD011Name=Oblivion
 tagRelicSkillD011Desc=Unleash the pure destructive force of chaos upon your enemies.
 
 tagRelicSkillD012Name=Carnage
-tagRelicSkillD012Desc=The more carnage and devastation you cause, the easier it becomes to do so once again. ^oThis is a dual-wielding technique.
+tagRelicSkillD012Desc=The more carnage and devastation you cause, the easier it becomes to do so once again. ^oThis is a melee dual-wielding technique. Also enables the ability to dual wield melee weapons.
 
 tagRelicSkillD013Name=Meteor
 tagRelicSkillD013Desc=Rip through the fragile barrier between the nether and the mortal realm as you conjure a massive burning rock to drop upon your enemies.
@@ -1363,7 +1378,7 @@ tagRelicSkillD014Desc=Unleash the combined energy of the blows absorbed by your 
 tagRelicSkillD015Name=Swarm Mind
 tagRelicSkillD015Desc=The rhythmic pace of your never-ending strife calls forth a Swarmling to your aid.
 
-tagRelicSkillD016Name=Devastation
+tagRelicSkillD016Name=Decimation
 tagRelicSkillD016Desc=Unleash the fury of Solael upon any who would dare strike his chosen servant.
 
 tagRelicSkillD017Name=Dreeg's Afflicted Spines

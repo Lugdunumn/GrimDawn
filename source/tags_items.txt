@@ -42,11 +42,11 @@ tagWeaponSwordC008Desc="When bribing political adversaries proved insufficient, 
 tagWeaponSwordC009=Flamebrand
 tagWeaponSwordC010=Soulthief
 tagWeaponSwordC011=Chillblaze
-tagWeaponSwordC012=Ritual Carver
+tagWeaponSwordC012=
 tagWeaponSwordC013=Assassin's Calling
 tagWeaponSwordC013Desc="A small vial of poison is embedded in the blade, inducing stiffening paralysis and eventual death."
 tagWeaponSwordC014=Razor of the Blind Assassin
-tagWeaponSwordC015=Bloodied Dagger of the Covenant
+tagWeaponSwordC015=
 tagWeaponSwordC016=Willie's Razor
 tagWeaponSwordC016Desc="The edge of this blade never dulls."
 
@@ -106,6 +106,7 @@ tagWeaponBluntC009=Defiance
 tagWeaponBluntC009Desc="The embodiment of the adaptability of mankind."
 tagWeaponBluntC010=Aethersteel Arbiter
 tagWeaponBluntC011=Fist of the Blind Assassin
+tagWeaponBluntC012=Bonesnap Gavel
 
 tagWeaponBluntD001=Death Omen
 tagWeaponBluntD001Desc="The harbinger of death."
@@ -276,7 +277,7 @@ tagWeaponCrossbow2hC008=Wretched Crow of Bysmiel
 tagWeaponCrossbow2hC008Desc="Symbolic weapon of devout followers of Bysmiel."
 tagWeaponCrossbow2hC009=Ulda'Jax
 tagWeaponCrossbow2hC009Desc="A crude, yet surprisingly effective, weapon of the mountain wilds."
-tagWeaponCrossbow2hC010=Herald's Protector
+tagWeaponCrossbow2hC010=Sparkbolt Arbalest
 
 tagWeaponCrossbow2hD001=Silverbolt
 tagWeaponCrossbow2hD001Desc="The weapon of choice for Demon Hunter Edith the Bloodied, Chthonian cultist turned demonslayer."
@@ -347,6 +348,61 @@ tagWeaponMelee2hD007=Bane of the Winter King
 tagWeaponMelee2hD007Desc="Sacred blade of King Hrothnar, ruler of the northern reaches and son of the great white wolf."
 tagWeaponMelee2hD008=Temporal Arcblade
 tagWeaponMelee2hD009=Wildblood Crusher
+
+tagWeaponCaster1hA001=Wand
+tagWeaponCaster1hA002=Scepter
+tagWeaponCaster1hA003=Arcane Wand
+tagWeaponCaster1hA004=Arcane Scepter
+tagWeaponCaster1hA005=Ritual Wand
+tagWeaponCaster1hA006=Ritual Scepter
+tagWeaponCaster1hA007=Exalted Scepter
+tagWeaponCaster1hA008=Sacrifical Knife
+tagWeaponCaster1hA009=Runed Dagger
+tagWeaponCaster1hA010=Arcane Dagger
+tagWeaponCaster1hA011=Spellblade
+tagWeaponCaster1hA012=Arcane Blade
+tagWeaponCaster1hA013=Ritual Dagger
+tagWeaponCaster1hA014=Ritual Blade
+tagWeaponCaster1hA015=Exalted Dagger
+
+
+tagWeaponCaster1hB001=Adept's Dagger
+tagWeaponCaster1hB002=Adept's Spellblade
+tagWeaponCaster1hB003=Master's Spellblade
+tagWeaponCaster1hB004=Adept's Wand
+tagWeaponCaster1hB005=Adept's Scepter
+tagWeaponCaster1hB006=Master's Scepter
+
+tagWeaponCaster1hC001=Burning Hatred
+tagWeaponCaster1hC002=Spellfire Wand
+tagWeaponCaster1hC003=Chillheart Scepter
+tagWeaponCaster1hC004=Stormcaller's Spellblade
+tagWeaponCaster1hC004_Desc="The blade sparks with energy, always hungry for more power."
+tagWeaponCaster1hC005=Voidblade
+tagWeaponCaster1hC006=Plagueblood Carver
+tagWeaponCaster1hC007=Soulcarver
+tagWeaponCaster1hC007_Desc="It is said that this blade cuts deeper than just the flesh."
+tagWeaponCaster1hC008=Cortosian Invoker
+tagWeaponCaster1hC008_Desc="Implement favored by the Cortosian Masters during arcane invocations."
+tagWeaponCaster1hC009=Coldsnap
+tagWeaponCaster1hC010=Lifebinder
+tagWeaponCaster1hC011=Sparkstone Scepter
+tagWeaponCaster1hC012=Firestorm Scepter
+tagWeaponCaster1hC013=Skyshard Spellblade
+tagWeaponCaster1hC013_Desc="Forged from the heart of a fallen star."
+tagWeaponCaster1hC014=Tainted Blade of Nera'Val
+tagWeaponCaster1hC014_Desc="Nera'Val was a medical practitioner obsessed with curing a deadly wasting disease. He infected and killed dozens of innocents in his mad pursuit and was hanged for his crimes."
+tagWeaponCaster1hC015=Fiendblood Spellblade
+tagWeaponCaster1hC016=Spellweaver
+tagWeaponCaster1hC016_Desc="Weaves the aether through reality as a needle threads cloth."
+tagWeaponCaster1hC017=Blightstone Invoker
+tagWeaponCaster1hC018=Cosmic Invoker
+tagWeaponCaster1hC019=Stormtrap
+tagWeaponCaster1hC020=Ritual Carver
+tagWeaponCaster1hC021=Glacierborn Spellblade
+tagWeaponCaster1hC022=Bloodied Dagger of the Covenant
+
+tagWeaponCaster1hD001=
 
 
 tagWeaponArcaneA001=Crude Staff
@@ -912,7 +968,7 @@ tagLegsC006=Slithscale Legwraps
 tagLegsC007=Templar's Leg Armor
 tagLegsC008=Legplates of Valor
 tagLegsC009=Flesheater Legwraps
-tagLegsC009Desc="The origins of some objects are best left to the annals history."
+tagLegsC009Desc="The origins of some objects are best left to the annals of history."
 tagLegsC010=Shadeleather Leggings
 tagLegsC011=Hulking Legguards
 tagLegsC012=Legguards of Redemption
@@ -1111,6 +1167,8 @@ tagNecklaceC023=Frozen Core
 tagNecklaceC024=Amulet of Scorched Earth
 tagNecklaceC025=Plaguemancer's Amulet
 tagNecklaceC026=Cerulean Shard
+tagNecklaceC027=Bladeward's Courage
+tagNecklaceC028=Shard of Menhir
 
 tagNecklaceD001=Will of Bysmiel
 tagNecklaceD002=Thread of Mortality
@@ -1225,7 +1283,7 @@ tagBlueprint_RelicD012=Blueprint: Relic - Belgothian's Carnage
 tagBlueprint_RelicD013=Blueprint: Relic - Annihilation
 tagBlueprint_RelicD014=Blueprint: Relic - Avenger
 tagBlueprint_RelicD015=Blueprint: Relic - Primal Instinct
-tagBlueprint_RelicD016=Blueprint: Relic - Solael's Devastation
+tagBlueprint_RelicD016=Blueprint: Relic - Solael's Decimation
 tagBlueprint_RelicD017=Blueprint: Relic - Dreeg's Affliction
 tagBlueprint_RelicD018=Blueprint: Relic - Bysmiel's Domination
 tagBlueprint_RelicD019=Blueprint: Relic - Oleron's Wrath
@@ -1244,7 +1302,7 @@ tagBlueprint_ComponentA10=Blueprint: Spined Carapace
 tagBlueprint_ComponentA11=Blueprint: VengefulWraith
 tagBlueprint_ComponentA12=Blueprint: Wardstone
 tagBlueprint_ComponentA13=Blueprint: Silk Swatch
-tagBlueprint_ComponentA14=Blueprint: Scaly Hide
+tagBlueprint_ComponentA14=Blueprint: Scaled Hide
 tagBlueprint_ComponentA15=Blueprint: Purified Salt
 tagBlueprint_ComponentA16=Blueprint: Hollowed Fang
 tagBlueprint_ComponentA17=Blueprint: Imbued Silver
@@ -1289,12 +1347,20 @@ tagBlueprint_WeaponB021=Blueprint: Shrapnel Pistol
 tagBlueprint_WeaponB022=Blueprint: Adept's Bladed Mace
 tagBlueprint_WeaponB023=Blueprint: Adept's Morningstar
 tagBlueprint_WeaponB024=Blueprint: Adept's Flanged Mace
+tagBlueprint_WeaponB025=Blueprint: Adept's Wand
+tagBlueprint_WeaponB026=Blueprint: Adept's Scepter
+tagBlueprint_WeaponB027=Blueprint: Master's Scepter
+tagBlueprint_WeaponB028=Blueprint: Adept's Dagger
+tagBlueprint_WeaponB029=Blueprint: Adept's Spellblade
+tagBlueprint_WeaponB030=Blueprint: Master's Spellblade
 
 tagBlueprint_WeaponC001=Blueprint: Witchstalker
 tagBlueprint_WeaponC002=Blueprint: The Eye
 tagBlueprint_WeaponC003=Blueprint: Storm's Edge
 tagBlueprint_WeaponC004=Blueprint: Omen
 tagBlueprint_WeaponC005=Blueprint: Tremor
+tagBlueprint_WeaponC006=Blueprint: Spellfire Wand
+tagBlueprint_WeaponC007=Blueprint: Firestorm Scepter
 
 tagBlueprint_ArmorB001=Blueprint: Adept's Boots
 tagBlueprint_ArmorB002=Blueprint: Adept's Greaves
@@ -1325,9 +1391,9 @@ tagBlueprint_MaterialA01=Blueprint: Aether Cluster
 #Relics
 
 tagDeviceBonus=Completion Bonus
-tagDeviceTier01=Empowered Artifact
-tagDeviceTier02=Transcendent Artifact
-tagDeviceTier03=Mythical Artifact
+tagDeviceTier01=Empowered Relic
+tagDeviceTier02=Transcendent Relic
+tagDeviceTier03=Mythical Relic
 
 tagRelicB001=Calamity
 tagRelicB001Desc="Unbridled destruction."
@@ -1357,6 +1423,8 @@ tagRelicB013=Gunslinger's Talisman
 tagRelicB013Desc="A symbol of expertise in the art of firing two pistols at the same time with lethal accuracy."
 tagRelicB014=Bone Talisman
 tagRelicB014Desc="This chip of bone was meticulously covered with phrases and symbols of spiritual importance to the Rovers."
+tagRelicB015=Ivory Talisman
+tagRelicB016=Sacred Talisman
 
 tagRelicC001=Arbiter
 tagRelicC001Desc="Justice, unbiased and fair..."
@@ -1419,7 +1487,7 @@ tagRelicD014=Avenger
 tagRelicD014Desc="It is true, you have landed a mighty blow; but the last one shall be mine."
 tagRelicD015=Primal Instinct
 tagRelicD015Desc="Come forth, my minions. It is time to feast..."
-tagRelicD016=Solael's Devastation
+tagRelicD016=Solael's Decimation
 tagRelicD016Desc="They said no man could harness such power, so I ceased to be a man."
 tagRelicD017=Dreeg's Affliction
 tagRelicD017Desc="The greatest secret kept from you is the fallacy of your fragile mortality."
@@ -1459,6 +1527,8 @@ tagCraftMaterial_Manticore=Manticore Eye (Not available until Act 3)
 tagCraftMaterial_Mancitore_Desc="The sharp eye of an unmatched predator."
 tagCraftMaterial_SkeletonKey=Skeleton Key
 tagCraftMaterial_SkeletonKey_Desc="If the stories are to be believed, this key will open nearly any ancient door."
+tagCraftMaterial_CultistSeal=Ch'thonic Seal of Binding
+tagCraftMaterial_CultistSeal_Desc="Sigils used by the Cult of Ch'thon to bind powerful creatures to the physical realm."
 
 tagCraftRandomItemDesc=The blacksmith crafts an enchanted item appropriate to your level of magical or even rare quality, with a bonus chance of generating extremely rare items.
 tagCraftComponentDesc=Experienced forging technique can yield materials of superior quality.
@@ -1477,6 +1547,13 @@ tagCraftRandomGun1h=Enchanted One-Handed Gun
 tagCraftRandomAxe2h=Enchanted Two-Handed Axe
 tagCraftRandomBlunt2h=Enchanted Two-Handed Mace
 tagCraftRandomSword2h=Enchanted Two-Handed Sword
+tagCraftRandomCasterWeapon_01=Enchanted Cold Implement
+tagCraftRandomCasterWeapon_02=Enchanted Fire Implement
+tagCraftRandomCasterWeapon_03=Enchanted Acid Implement
+tagCraftRandomCasterWeapon_04=Enchanted Lightning Implement
+tagCraftRandomCasterWeapon_05=Enchanted Vitality Implement
+tagCraftRandomCasterWeapon_06=Enchanted Chaos Implement
+tagCraftRandomCasterWeapon_07=Enchanted Aether Implement
 
 tagCraftRandomRing=Enchanted Ring
 tagCraftRandomNecklace=Enchanted Necklace
@@ -1839,7 +1916,7 @@ tagCompB013Name=^kHaunted Steel
 tagCompB013Desc="It fills your mind with the maddening whispers of trapped spirits."^w^n(Used in all weapons, shields and off-hands)
 
 tagCompB014Name=^kShard of Beronath
-tagCompB014Desc="But a piece of the legendary blade Beronath, yet still retains great power."^w^n(Used in axes and swords)
+tagCompB014Desc="But a piece of the legendary blade Beronath, yet still retains great power."^w^n(Used in melee weapons)
 
 tagCompB015Name=^kBloody Whetstone
 tagCompB015Desc="Soaked in the blood of the fallen, this accursed whetstone gives blades a hunger for blood."^w^n(Used in axes and swords)
@@ -2243,6 +2320,10 @@ tagSuffixA057=of the Swamp
 tagSuffixA058=of the Wind
 tagSuffixA059=of the Wraith
 tagSuffixA060=of Spellweaving
+tagSuffixA061=of the Flame
+tagSuffixA062=of Chilling
+tagSuffixA063=of Electrocution
+tagSuffixA064=of Trauma
 
 tagSuffixB001_Wpn_A=of Conflagration
 tagSuffixB002_Wpn_A=of Insanity

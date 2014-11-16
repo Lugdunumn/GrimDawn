@@ -5,6 +5,8 @@ With the Warden threat dealt with, Captain Bourbon feels it is imperative to reo
 Speak with Mornay in Devil's Crossing
 
 
+
+
 Repair the bridge (skippable)
 Before you can venture out to the Arkovian Foothills to the northwest, the bridge must first be repaired. In order to repair the bridge, you must provide the necessary materials at its construction site.
 Repair the bridge leading northwest out of Devil's Crossing
@@ -16,6 +18,8 @@ Kill Edmund "Shanks" Doyle
 Report to Mornay
 It is as Mornay feared. The outlaws are mobilizing against Devil's Crossing and it is only a matter of time before they attack. Report back to Mornay in Devil's Crossing to determine your next steps.
 Report back to Mornay in Devil's Crossing
+
+
 
 
 
