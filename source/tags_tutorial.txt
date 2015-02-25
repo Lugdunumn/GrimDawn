@@ -7,7 +7,7 @@ tagTutorialTip06Title=Untouched Meal
 tagTutorialTip06TextA=You have discovered an abandoned meal, likely left behind by a less fortunate adventurer.{^n}{^n}By consuming it, you restored some of your Constitution.
 
 tagTutorialTip08Title=Welcome to Grim Dawn
-tagTutorialTip08TextA=Thank you again for supporting us and helping to make Grim Dawn possible! We hope that you enjoy this first portion of the game.{^n}{^n}Please remember that this is a pre-release build created by a seven-person indie studio. You will encounter bugs, incomplete features and only the first 2/3rd or so of the game. We welcome your feedback on bugs and general gameplay on our forums at www.grimdawn.com.
+tagTutorialTip08TextA=Thank you again for supporting us and helping to make Grim Dawn possible! We hope that you enjoy this first portion of the game.{^n}{^n}Please remember that this is a pre-release build created by an eight-person indie studio. You will encounter bugs, incomplete features and only the first 2/3rd or so of the game. We welcome your feedback on bugs and general gameplay on our forums at www.grimdawn.com.
 
 tagTutorialTip09Title=Merchant Window
 tagTutorialTip09TextA=Merchants buy and sell weapons and equipment necessary to survive the dangers of Cairn.
@@ -176,8 +176,25 @@ tagTutorialTip49SubtitleA=Comparing without Components
 tagTutorialTip49TextB=You can compare the two weapons without any attached components by holding the "{^b}CTRL{^w}" key.
 
 tagTutorialTip50Title=Augments
-tagTutorialTip50TextA=Augments come in the form of enchanted powders, which  can be used to upgrade your equipment. The creation of Augments is a carefully guarded secret of Cairn's various Factions.
+tagTutorialTip50TextA=Augments come in the form of enchanted powders, which can be used to upgrade your equipment. The creation of Augments is a carefully guarded secret of Cairn's various Factions.
 tagTutorialTip50TextB=To use an augment, right-click on it. You can then apply it to an appropriate item. Once applied, an Augment cannot be removed, but it can be replaced with another.
 
 tagTutorialTip51Title=Applying Augments
 tagTutorialTip51TextA=Right-click an Augment to select it, then left-click on the item you wish to apply it to.{^N}{^N}Note that Augments can only be applied to specific item types and cannot be removed once applied; but you can overwrite an existing Augment with another.
+
+tagTutorialTip52Title=Faction Gained
+tagTutorialTip52TextA=You have gained some reputation with one of Cairn's faction through a quest.{^N}{^N}Quests are an excellent way to improve your relations with factions, but they are not the only method. You can learn more about factions in the {^y}Faction Window{^w}.
+tagTutorialTip52CaptionA=Shortcut key: {^b}{%t0}{^w}
+
+tagTutorialTip53Title=Faction Quartermaster
+tagTutorialTip53TextA=Faction Quartermasters sell items exclusively available from his or her faction. This equipment is only available to those who have proven themselves to their faction.
+tagTutorialTip53SubtitleA=Soulbound Equipment
+tagTutorialTip53TextB=Equipment sold by Faction Quartermasters is soulbound to your character and cannot be traded or placed in the Transfer UI.{^N}{^N}If a Soulbound Augment is applied to an item, that item becomes soulbound as well.
+
+tagTutorialTip54Title=Reputation Level
+tagTutorialTip54TextA=You have reached the next level of reputation with a faction. This entitles you to discounted goods at all of the faction's merchants and access to better equipment from their Faction Quartermaster.{^N}{^N}Look around as new quests may have become available.
+
+tagTutorialTip55Title=Faction Window
+tagTutorialTip55TextA=Use the {^y}Faction Window{^w} to keep track of your progress with Cairn's various factions and to determine what you need to do in order to gain their favor. Note that Factions and their rewards will be fully implemented with Build 25.
+tagTutorialTip55SubtitleA=Gaining Reputation
+tagTutorialTip55TextB=Each faction has unique desires and goals. You can see how to earn their respect by looking at the {^y}Reputation Gained From{^w} section.{^N}{^N}Note that as you become more renowned, you will need to defeat tougher monsters to gain reputation from kills.

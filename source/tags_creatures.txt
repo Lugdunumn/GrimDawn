@@ -31,7 +31,7 @@ tagZealot_AncestralSpirit=Ancestral Spirit
 
 tagAetherCrystalA01=Aether Crystal
 tagAetherCrystalA02=Aether Crystal Cluster
-tagAetherCrystalA03=Aether Crytal Formation
+tagAetherCrystalA03=Aether Crystal Formation
 tagAnomalyB01=Warp Elemental
 tagWindDevil_PoisonA01=Poison Wind Devil
 tagAetherObeliskA01=Aetherial Obelisk
@@ -363,6 +363,7 @@ tagEnemyDermapteranA01=Dermapteran Weavil
 tagEnemyDermapteranB01=Dermapteran Sentinel
 tagEnemyDermapteranB02=Dermapteran Reaver
 tagEnemyDermapteranC01=Dermapteran Vizier
+tagEnemyDermapteranC02=Dermapteran Progenitor
 
 tagEnemySummonWeavilA01=Infestor
 
@@ -375,7 +376,7 @@ tagDermapteranHeroH05=Vildrix ~ Voidtouched
 tagDermapteranBoss01=Grand Vizier Lozakal
 tagDermapteranBoss02=Grand Vizier Inixil
 tagDermapteranBoss03=Swarm Queen Ravna
-tagDermapteranBoss04=Vizier Anoxis
+tagDermapteranBoss04=Vizier Anoxis, the Tainted
 
 #CreatureInsectMosquito
 
@@ -457,13 +458,22 @@ tagEnemyPrawnC01=Infested Rift Scourge
 tagEnemyPrawnSummonA01=Swarmborn Rift Scourge
 
 tagEnemyCavePrawnA01=Pale Cavern Crawler
+tagEnemyCavePrawnA02=Terrorspark Cavern Crawler
 tagEnemyCavePrawnB01=Albino Cavern Crawler
+tagEnemyCavePrawnC01=Bursting Cavern Crawler
+tagEnemyCavePrawnSummonA01=Swarming Cavern Crawler
 
 tagPrawnHeroH01=Ravacrix, the Ravenous
 tagPrawnHeroH02=Palacrix, the Ancient
 tagPrawnHeroH03=Velacrix, the Plagueswarm
 tagPrawnHeroH04=Elcrix ~ Electrified
 tagPrawnHeroH05=Flocrix ~ Burning
+
+tagCavePrawnHeroH01=Terrocrix
+tagCavePrawnHeroH02=Chiricrix ~ Frozen
+tagCavePrawnHeroH03=Blucrix ~ Defender
+
+tagCavePrawnBoss01=Ikrix, the Ravener
 
 #CreatureRaptor
 
@@ -696,11 +706,6 @@ tagEnemyCaveSpiderA01=Terrorweave Spiderling
 tagEnemyCaveSpiderB01=Terrorweave Arachnid
 tagEnemyCaveSpiderB02=Terrorweave Widow
 tagEnemyCaveSpiderC01=Terrorweave Matriarch
-tagEnemyCavePrawnA01=Terrorscale Rift Scourge
-tagEnemyCavePrawnA02=Terrorspark Rift Scourge
-tagEnemyCavePrawnB01=Terrorclaw Rift Scourge
-tagEnemyCavePrawnC01=Bursting Rift Scourge
-tagEnemyCavePrawnSummonA01=Caveborn Rift Scourge
 
 tagCaveTrollHalfHeroH01=Glukrok, the Darkdweller
 tagCaveTrollHalfHeroH02=Algrok, the Blind Berserker
@@ -712,12 +717,8 @@ tagCaveTrollHeroH02=Rovos ~ Reflective
 tagCaveSpiderHeroH01=Shelleb, the Darkness
 tagCaveSpiderHeroH02=Vilaxna ~ Regenerator
 tagCaveSpiderHeroH03=Ravnix ~ Swift
-tagCavePrawnHeroH01=Terrocrix
-tagCavePrawnHeroH02=Chiricrix ~ Frozen
-tagCavePrawnHeroH03=Blucrix ~ Defender
 
 tagCaveSpiderBoss01=Ungoliax, the Gloomweaver
-tagCavePrawnBoss01=Ikrix, the Ravener
 tagCaveTrollHalfBoss01=Gollus, the Deepdweller
 
 #CreatureVultures
@@ -804,6 +805,9 @@ tagReanimatorBossH04=Nazagrad, the Fallen
 tagPetRavenA01=Great Raven
 tagPetHellhoundA01=Hellhound
 tagPetWhirlwindA01=Whirlwind
+tagPetThornedHorrorA01=Briarthorn
+tagPetManticoreA01=Primal Spirit
+tagPetWindDevilA01=Wind Devil
 
 tagPetIceWallA01=Ice Barrier
 
@@ -822,6 +826,8 @@ tagRelicStormhound=Stormhound
 tagRelicNemesis=Nemesis
 tagRelicSwarm=Swarmling
 
+tagDLCWisp=Will'O'Wisp
+
 #EnemySummons
 
 tagEnemySummonHellspawn=Hellspawn
@@ -837,7 +843,7 @@ tagEnemySummonAetherTrap=Aether Trap
 tagQuestEnemyReanimator=Kyzogg the Reanimator
 tagQuestEnemyMiltonHart=Milton Hart
 tagQuestEnemyBanditForge=Outlaw Forge
-tagQuestChthonianMonstrosity=Mag'Thel, the Unraveler
+tagQuestChthonianMonstrosity=Thall'Nosh, the Unraveler
 
 tagBossTheWarden01=The Warden
 

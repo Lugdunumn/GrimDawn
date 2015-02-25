@@ -1,4 +1,5 @@
 ﻿tagTitleScreenText=Grim Dawn Early Access{^n}©2014 Crate Entertainment, LLC{^n}{^n}Welcome to Grim Dawn Early Access! We appreciate your feedback.{^n}{^n}Please visit us at www.grimdawn.com to participate{^n}in the ongoing development of Grim Dawn!
+tagDemoScreenText=Thanks for  playing!{^n}{^n}Grim Dawn is currently available on Steam Early Access, or via our website at www.grimdawn.com
 tagMenu01=Play Game
 tagMenu02=Custom Game
 tagMenu03=Information
@@ -7,17 +8,18 @@ tagMenu05=Credits
 tagMenu06=Updates
 tagMenu07=Exit
 tagMenu08=Survival Mode
-tagMenuButton01=Create
+tagMenuButton01=Create Character
 tagMenuButton02=Import
-tagMenuButton03=Delete
+tagMenuButton03=Delete Character
 tagMenuButton04=Back
 tagMenuButton05=Start
 tagMenuButton06=Cancel
 tagMenuButton07=Apply
 tagMenuButton08=Default
 tagMenuButton09=Ok
-tagMenuButton10=Refresh
+tagMenuButton10=Create
 tagMenuChar={%d0} ~ {%d1}
+tagCharLevelClass=Level {%d0} {%t1}
 
 # Temporary popup message for alpha multiplayer build warning
 tagMenuMPWarning=Welcome to Multiplayer Testing! Warning: during the test phase, you will encounter bugs, crashes and performance issues. Please post problems to the Grim Dawn forum.
@@ -196,6 +198,8 @@ tagKeybind43=Chat Command : Reply
 tagKeybind44=Camera Rotate Left
 tagKeybind45=Camera Rotate Right
 tagKeybind46=Camera Rotate
+tagKeybind47=Factions Window
+tagKeybind48=Achievements Window
 tagKeybindTitle01=General Keybindings
 tagKeybindTitle02=Chat Keybindings
 tagAudioTitle=Audio
@@ -263,6 +267,7 @@ tagWindowed=Windowed
 tagVideoOptionDepthOfField=Depth of Field
 tagVideoOptionSoftParticles=Soft Particles
 tagVideoOptionUIScale=UI Scale
+tagVideoOptionA2C=Alpha To Coverage
 
 tagNetworkTitle=Network
 tagUpnpTitle=UPnP:

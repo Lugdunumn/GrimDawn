@@ -4,8 +4,8 @@ Farewell.
 My Josephine has informed me that you've returned the money you stole. I appreciate that.{^n}{^n}Perhaps we can leave this unfortunate incident behind us, eh?
 I'd like nothing more.
 
-Seems our roads cross again. Glad to see you've survived the wilderness.
-Same to you.
+Seems our roads cross again. Glad to see you've survived the wilderness.{^n}{^n}I appreciate you letting me tell my side of the story back in the Arkovian Foothills. Most people wouldn't bother getting all the details straight.
+Glad you've made it through.
 Say, I've gathered up quite a few interestings things while traveling out there. Don't suppose you'd be interested in buying something?{^n}{^n}Only the best deals for a friend.
 Let's take a look.
 Oh, it's you. Hoped the animals had gotten you by now.

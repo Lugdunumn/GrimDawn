@@ -63,9 +63,10 @@ tagMapHomestead=Homestead
 tagMapInfestedFarms=Infested Farms
 tagMapRottedHarvest=Rotting Croplands
 tagMapCorruptedPasture=The Gruesome Harvest
-tagMapOldGrove=The Old Grove
+tagMapBloodGrove=The Blood Grove
 tagMapInfestedField01=Thornsbury Farm
 tagMapInfestedField02=Elmsworth Farm
+tagMapConflagration01=The Conflagration
 
 tagMapLedgewood=Ledgewood
 tagMapAlpineRoad=Alpine Road
@@ -89,13 +90,14 @@ tagRiftArkovianFoothills=Arkovian Foothills Rift
 tagRiftCronleysHideout=Cronley's Hideout Rift
 tagRiftTwinFalls=Twin Falls Rift
 tagRiftSmugglersPass=Smuggler's Pass Rift
-tagRiftSmugglersRoad=Dusty Road Rift
+tagRiftSmugglersRoad=Prospector's Trail Rift
 tagRiftJaggedWaste=Pine Barrens Rift
 tagRiftDeadmansGulch=Deadman's Gulch Rift
 tagRiftAlpineRoad=Alpine Road Rift
 
 tagRiftHomestead=Homestead Rift
 tagRiftWitheringFields=Withering Fields Rift
+tagRiftRottedCroplands=Rotted Croplands Rift
 tagRiftRottedHarvest=The Rotted Harvest
 tagRiftOldGrove=The Old Grove
 
@@ -192,6 +194,7 @@ tagUGDermapteran02=Swarming Hatchery
 tagUGDermapteran03A=Royal Hive
 tagUGDermapteran03B=Hive Queen's Lair
 tagUGHomesteadCave01=Den of the Lost
+tagUGRottingCroplandsCrypt01=Buried Crypt
 
 #Signs
 
@@ -233,6 +236,8 @@ tagPOI006A=Ancient Ruins Entrance
 tagPOI006B=Ancient Ruins Exit
 tagPOI007A=Mine Entrance
 tagPOI007B=Mine Exit
+tagPOI008A=Dermapteran Tunnel Entrance
+tagPOI008B=Dermapteran Tunnel Exit
 
 tagPOIFloodedPassageA=Flooded Passage Entrance
 tagPOIFloodedPassageB=Flooded Passage Exit
@@ -253,7 +258,7 @@ tagPOIOldArkoviaRuins2A=Arkovian Undercity (Floor 2) Entrance
 tagPOIOldArkoviaRuins2B=Arkovian Undercity (Floor 2) Exit
 tagPOIOldArkoviaRuins3A=Arkovian Undercity (Floor 3) Entrance
 tagPOIOldArkoviaRuins3B=Arkovian Undercity (Floor 3) Exit
-tagPOIOldArkoviaMineA=Cronley's Hideout Eentrance
+tagPOIOldArkoviaMineA=Cronley's Hideout Entrance
 tagPOIOldArkoviaMineB=Cronley's Hideout Exit
 tagPOIFesteringLairA=Festering Lair Entrance
 tagPOIFesteringLairB=Festering Lair Exit
@@ -309,6 +314,7 @@ tagNotification_HS_OldArkoviaPassagesBossKilled=You acquire a piece of the Taint
 tagNotification_AreaC_EnclaveRiftgateEvent=The entrance to Homestead is overrun by Aetherials!
 tagNotification_AreaC_RefugeeRemainsFound=It appears that Dahlia Taverin has not survived the dangers of the Mountain Deeps.
 tagNotification_AreaC_BloodHarvestFound=Some prisoners cry out for help.
+tagNotification_AreaC_TrappedAndAloneReturn=A Chthonian is rampaging through the Rover camp!
 
 tagNotification_WarningToughArea=A presence far more powerful than you dwells within this place...
 tagNotification_WarningRiftgateDisabled=Your connection to riftgates feels absent within this place...
@@ -398,8 +404,8 @@ tagNPC_AreaC_16=Collin Taverin
 tagNPC_AreaC_17=Deathmark Vallar
 tagNPC_AreaC_18=Brother Molltair
 tagNPC_AreaC_19=Haruuv
-tagNPC_AreaC_20=
-tagNPC_AreaC_21=
+tagNPC_AreaC_20=Sergeant Serriv
+tagNPC_AreaC_21=Weapons Master Borrov
 tagNPC_AreaC_22=
 tagNPC_AreaC_23=
 tagNPC_AreaC_24=
@@ -412,6 +418,7 @@ tagNPC_AreaD_04=Anasteria
 
 tagNPC_DetonationSite=Detonation Site
 tagNPC_AetherCluster=Aether Cluster
+tagNPC_Cannon=Abandoned Cannon
 
 tagNPC_BrokenHillsBridge=Arkovian Foothills Bridge Repair Site
 tagNPC_OldGroveBridge=Old Grove Bridge Repair Site
@@ -481,9 +488,10 @@ tagNPC_Flavor_AreaC_24=Phil
 tagNPC_Flavor_AreaC_25=Oliver Thornsbury
 tagNPC_Flavor_AreaC_26=Henry Elmsworth
 tagNPC_Flavor_AreaC_27=Homestead Farmer
-tagNPC_Flavor_AreaC_28=
-tagNPC_Flavor_AreaC_29=Tracy Thornsbury
+tagNPC_Flavor_AreaC_28=Chef Brackham
+tagNPC_Flavor_AreaC_29=Daila Thornsbury
 tagNPC_Flavor_AreaC_30=Alex Elmsworth
+tagNPC_Flavor_AreaC_31=Lisa Thornsbury
 tagNPC_Flavor_AreaC_31UNUSED=Elaine Cobble
 tagNPC_Flavor_AreaC_32UNUSED=Julia Applesworth
 tagNPC_Flavor_AreaC_33UNUSED=Shane Cobble
@@ -552,6 +560,12 @@ tagQuestItemBlackLegionInsignia_Desc="Bestowed upon the rank and file for their 
 tagQuestItemAnnalsOfArkovia=Annals of Arkovia
 tagQuestItemAnnalsOfArkovia_Desc="Record of the last days of King Rhowan of Arkovia."
 
+tagQuestItemExileBeastFang=Fang of the Beast
+tagQuestItemExileBeastFang_Desc="Fang from the fallen spawn of Beronath."
+
+tagQuestItemThornsburyDiary=Daila's Diary
+tagQuestItemThornsburyDiary_Desc="Property of Daila Thornsbury."
+
 #Journals
 
 tagLoreObj_InquisitorCreedA01Name=Journal of Inquisitor Creed - 1st Entry
@@ -578,6 +592,16 @@ tagLoreObj_InquisitorCreedA06Name=Journal of Inquisitor Creed - 6th Entry
 tagLoreObj_InquisitorCreedA06codexTitle=Inquisitor Creed - 6th Entry
 tagLoreObj_InquisitorCreedA06Text=I've lingered in this dank cell for one long unsettling day and a night of terrors. Krieg allowed me to witness the process by which they are preserving human bodies for what he calls the Glorious Dawn.{^n}{^n}I have gotten glimmerings of another consciousness within Krieg, which is joined with or possibly in control of him. From the way he spoke, it is clear that this is only some small part of a much greater conspiracy and I suspect many other persons in key positions have been possessed by things akin to that which now inhabits Krieg. I was arrogant in my initial handling of Krieg and seriously misjudged the power and scale of the threat we are faced with.{^n}{^n}Fortunately, Krieg's own arrogance has likewise led him to misjudge the resourcefulness of his prisoner. He has invited me to ascend beyond humanity by pledging myself to his cause or to join his inventory of embalmed corpses. I've been left to contemplate this decision but this cell, even magically warded, cannot hold the likes of me and I have no intention of being here when Krieg returns for my answer.
 
+tagLoreChest_InquisitorCreed_HomesteadName=Inquisitor Creed's Lectern
+tagLoreObj_InquisitorCreedA07Name=Journal of Inquisitor Creed - 7th Entry
+tagLoreObj_InquisitorCreedA07codexTitle=Inquisitor Creed - 7th Entry
+tagLoreObj_InquisitorCreedA07Text=Much time has passed since my last entry. Following my escape from Krieg's laboratory, I have raced against time and lost, passed through darkness and flame, and witnessed the ruin of the world as I knew it.{^n}{^n}Even as I assumed key figures in the capital were likely to be possessed by the entities we now call Aetherials, I reasoned that it was only with support from within capital that we could hope to thwart them. Any action that began outside the capital could be spun as a political rebellion and crushed with the empire's own forces before the truth could be exposed. Thus, I cast the dice and raced toward the heart of Erulan, trying to conceal myself as best I could.{^n}{^n}Upon my arrival, I proceeded cautiously, booking a room at a squalid inn near the west gates in an effort to keep my arrival secret. Initially I sought out old acquaintances, assuming if I could detect some change in personality or behavior, it might reveal possession. A few awkward reunions made it painfully obvious that years on the road carrying out my duties as an inquisitor had left me out of touch and unable to discern whether any changes were the result of possession, or just the passage of time and faded memories. The only gamble left then was to report back to the citadel of the Luminari and see what came of it. I never made it there.{^n}{^n}Waiting until the sunlight dwindled and crowds thinned in the streets below, I rose to leave but was quite startled to see that a shadowy figure had somehow silently breached my room, evading all of the wards set against intruders. This is how I came into cooperation with the First Blade.
+
+tagLoreObj_InquisitorCreedA08Name=Journal of Inquisitor Creed - 8th Entry 
+tagLoreObj_InquisitorCreedA08codexTitle=Inquisitor Creed - 8th Entry
+tagLoreObj_InquisitorCreedA08Text=It was known that anyone of significance who fomented discontent or posed a real threat to the rule of the emperor might be visited by the First Blade. I had never stirred such controversy but I always imagined, if such an encounter took place, I could put up a respectable fight. I never got the chance. Taken unawares, I was disarmed before I even knew what was happening. Had he sought my death, I would not have even witnessed the killing stroke fall. However, he seemed more interested in answers instead and, in turn, provided me with an account of his own events that confirmed my worst fears.{^n}{^n}The First Blade revealed that, only days prior, he had been forced to turn his knives on the Emperor himself, by his own command. Despite the myriad safeguards protecting the Emperor, both mundane and arcane, he had become host to an Aetherial. Through strength of mind, he had usurped his possessor long enough to summon the First Blade, command his own execution and charge the assassin with ensuring that his son, the young prince, survive to reclaim the throne.{^n}{^n}His last commands issued, the Emperor's consciousness slipped once again under the control of the Aetherial and a desperate battle ensued. The First Blade reported that he believed the Emperor and the Aetherial within him slain but, given his inexperience with the entities, could not say anything for certain. He relayed that he had secretly taken the prince and put him into hiding but declined to elaborate. The First Blade said he intended to retire his imperial title and had chosen the name Ulgrim, which made me curious as to whether it was an intentional reference to the mythic character.{^n}{^n}A final troubling detail was that no proclamation of the Emperor's passing had been issued. Not only did this demonstrate the Aetherials had sufficient control of the palace to conceal the death but, given that they couldn't hope to hide the Emperor's absence for long, it suggested the next phase of their operation was imminent.{^n}{^n}I strategized with Ulgrim long into the night, formulating a plan to counter the Aetherials, but ultimately we agreed that we could not defeat their conspiracy in time. The only course left was gather whatever people and resources we could, go to ground and weather the coming storm; then find a way to counter the invaders.{^n}{^n}We agreed that the Black Legion would be our best hope in securing allies. As a conscripted army of criminals, debtors and political dissidents bound to service, it seemed unlikely that the Aetherials would have any reason to infiltrate them when they could control them indirectly through the military high command. The next step was to discretely make contact.
+
+
 tagLoreObject_PrisonNoteName=Crudely Scrawled Note
 tagLoreObject_PrisonNoteText=Now, I ain't a decent man and I sure ain't good at writing, but word needs to get out 'bout what this place really is. This prison, it ain't like no joint I ever been in, and I've seen double my share. Men don't stay here long neither and some of the lads they haul in, they ain't criminals. I'd know. Moment I see a man, I can tell by his eyes that he done wrong. These boys? I see fear.{^n}{^n}I seen this warden a coupla times, big man in black armor. If you ain't know better, you'd think he was on the wrong side of the bars. Every day, he and his lackeys take prisoners out to this hut in the yard by the dozen. They ain't never come out. Later, a wagon rolls in by the hut. It always leaves full.{^n}{^n}They don't let us outa our cells no more, but I can tell there ain't much of us left. The halls are quiet. I'm the last man in my row. The others? They was taken in yesterday's batch. I ain't asking for pity. I know my end's in that hut; but perhaps this note will be my one good deed in my pathetic life...
 
@@ -597,6 +621,14 @@ tagLoreObj_LowerCrossingA02Text=I'm trapped here...I realize now, I will die in 
 tagLoreObj_WightmireA01Name=Missive to Wightmire Bloodbound
 tagLoreObj_WightmireA01codexTitle=Bloodbound Missive
 tagLoreObj_WightmireA01Text=The time has come to strike at our Aetherial nemesis in Wightmire. Even now, we gather our forces in the hills above Burrwitch for an assault on the Village. However, before that can happen, we must first secure Wightmire so that there are no enemies at our backs.{^n}{^n}Though strong, loyal and ready to die in the name of Ch'thon, I believe you have insufficient Bloodbound to overcome the Aetherials presence. We have had great success recently in bringing forth more powerful servants of Ch'thon from the Void. A single Harbinger could wipe out all of the Aetherians in Wightmire and even take on Devil's Crossing, which could serve as a stronghold for our order in this region.{^n}{^n}To bring forth a Harbinger, you will need the blood and lives of at least three men. Gather the sacrifices however you see fit; either from refugees on the road, rover camps or chosen amongst your own Bloodbound. Inform me of your success when it is complete.{^n}{^n}Ulto Treig, Grand Priest
+
+tagLoreObj_WightmireA02Name=Milton Hart's Note
+tagLoreObj_WightmireA02Text=I'm afraid I may have to break a promise. I'm not about to give up yet but things aren't looking good outside. I was lucky to survive that first night when I volunteered to distract the rotten walkers while Bourbon and his group, including my little sister Sybil, make their way through to Devil's Crossing. I believe in Bourbon and if anyone can get those people through, it's him. Before they left, I looked Bourbon in the eye and told him to keep her safe. He put his arm on my shoulder and spoke in that calm reassuring tone of his. He told me that he would do everything he can, but I had to promise him something too: that I would do my damn best to get out of this alive.{^n}{^n}Well I've sure got myself into a fine fix. I diverted them walkers alright but now I'm all hemmed in. I've been hiding in a group of old dilapidated shacks and keep changing position whenever the dead get too close. I can't find a way forward though and I'm running out of daylight. The walkers seem stupid generally but I think they dug out the riverbanks last night, allowing the water to wash the road out. It's almost as though something is directing them.{^n}{^n}I'm not done yet and have no intention of dying in this rotting shack. I'm going to try to break free and will go out fighting if I have to. If the worst comes to pass and you're finding this note on my cold corpse, well, please let my sister Sybil know what's come to pass and tell her to be brave. I can only hope she made it to Devil's Crossing.
+
+tagLoreObj_WightmireA03Name=Dirt-Covered Note
+tagLoreObj_WightmireA03Text=Got ourselves a bunch of them idiot Rovers wandering in our hideout the other night. They were unarmed, as they often are. Course, they tried to run when we jumped them, but little good that did them. Now we have ourselves a few slaves digging in the mine. We can't eat coal though, and our food supplies are starting to run out. The Rovers barely had a few scraps between them.{^n}{^n}With the Burrwitch bridge destroyed, we're stuck in this swamp. I'm beginning to wonder if perhaps we made a mistake by not following with Cronley's Gang to the west. May not be much pickings in the wilderness on that side of Devil's Crossing, but at least they had numbers. Could probably hunt down a decent-sized boar between the lot of them. Out here? We got nothing but slith and the dead. 
+
+
 
 tagLoreObj_WardensJournalA01Name=Warden Krieg's Journal
 tagLoreObj_WardensJournalA01Text=I have taken possession of my assigned vessel, the local prison warden. I appeared to him in his bed chamber and proposed the joining. I had anticipated fear and skepticism but these humans are apparently all too ready to enter into any pact they believe will profit them. Krieg is not a particularly strong willed human but he is persistent and constantly scratches at my consciousness. I have him under control though.{^n}{^n}Krieg's position as an incarcerator of other humans will greatly facilitate our efforts. His expansive dwelling has a massive cellar that I believe we can use to fashion an underground transit to conceal our activities and the transport of bodies. There is much work ahead to prepare for our Glorious Dawn but I rather enjoy this physical body. It has many advantages.
@@ -659,7 +691,7 @@ tagLoreObj_BookA03Name=Chthonic Heresy - Page 3
 tagLoreObj_BookA03Text=Faith, my brothers. Let your faith shield you, for it is to the Chthonian as salt upon a festering wound. Guard your faith, for it defines you. Abhor the writing of the heretic, for his texts speak of lies and deceit. The strong of faith will be sung as heroes. The weak shall forever be forgotten.
 
 tagLoreObj_BookA04Name=Chthonic Heresy - Page 4
-tagLoreObj_BookA04Text= Justice, my brothers. Justice shall be swift and merciless, for it was tempered with faith, blood and fear. Justice shall descend upon the heretic, unforgiving and relentless. Those that take up arms against the Chthonian shall become the fiery vengeance of divine retribution. Those that call the Chthonian god shall taste righteous flame. Justice be done.
+tagLoreObj_BookA04Text=Justice, my brothers. Justice shall be swift and merciless, for it was tempered with faith, blood and fear. Justice shall descend upon the heretic, unforgiving and relentless. Those that take up arms against the Chthonian shall become the fiery vengeance of divine retribution. Those that call the Chthonian god shall taste righteous flame. Justice be done.
 
 tagLoreObj_CriminalA01Name=Criminal Records - Page 1
 tagLoreObj_CriminalA01Text=Leander "Blackwater" Greene{^n}{^n}Ex-military man wanted for extortion and murder. Leander was dishonorably discharged from the demolitions division following a grisly civilian incident. Leander escaped custody on at least two separate occasions using unsanctioned explosive devices. {^n}{^n}News of sightings or proof of death should be brought before Warden Krieg of Burrwitch Prison. A reward of 1000 royal crowns is offered for the successful capture and delivery of Leander Greene alive.
@@ -717,9 +749,9 @@ tagLoreObj_Cronley_NoteA02Text=The boss says I done good when I smashed them rov
 tagLoreObj_Cronley_NoteA03Name=Bloodstained Note
 tagLoreObj_Cronley_NoteA03Text=Third time this pale-skinned duo in robes, a man and a woman, has shown up at the hideout. The boss says to let them through, so I let them through.{^n}{^n}The whole camp's on edge whenever those two show up. Maybe it's their eyes. That unsettling green glow reminds me of the dead ones.{^n}{^n}Or maybe I'm just agitated because the crystals Cronley stuck in my back seem to vibrate whenever the duo's around; like they're ready to rip loose. The voices I hear when I sleep are already enough to make a man tense. The others told me that they hear them too, but none of us can remember what the whispers say. Boss says it will pass though, that it's just a part of ascending into the ranks of his glorious army. This new dawn of his had damn better be worth it.
 
-tagLoreObj_Cronley_NoteA04Name=Exert from the Annals of Arkovia
+tagLoreObj_Cronley_NoteA04Name=Excerpt from the Annals of Arkovia
 tagLoreObj_Cronley_NoteA04codexTitle=Annals of Arkovia
-tagLoreObj_Cronley_NoteA04Text=It falls upon strange times that a king would abdicate the throne of his own volition. Stranger still is the reason he gave his court. There is no other way to put it. King Rhowan, the third of his line, had been struck by madness. Upon returning from a successful campaign against the barbarian tribes of Agarond's Peak, the King raved about a chance meeting with a weary traveler whom he called Mogdrogen. Rhowan, in his generosity, offered the old man the use of his horse. The man, and here is where the King's tale loses all sense, declined the proposal and, speaking in a low voice that only his Majesty could hear, instead offered Rhowan a warning.{^n}{^n}The old man spurted prophetic lies about the impending collapse of our great nation and the fall of the beacon of the west, Arkovia herself. He implored the King to leave his title, his wealth, his very identity behind. There were some amongst the court who urged Rhowan to see his madness through, greedy heads of Arkovian Houses who saw this tragedy as an opportunity to seize power. The Queen, the shining jewel of Arkovia, wept before her King and begged him to reconsider; but Rhowan was resolute. With a single decree, he shattered the royal line and abandoned his ordained post as King of Arkovia. Word of the King's madness spread quickly among the populace. To my great surprise, some of his subjects followed Rhowan's lead, abandoning their livelihoods to follow their despondent ruler into a life of poverty and lost identity.{^n}{^n}It has been three fortnights since that fateful day. The queen lies dead in her chambers. They say she had died of sorrow, from the loss of her King, but I suspect more clandestine causes. The court has fallen into chaos as the great Houses bicker amongst themselves for the empty throne. With no end in sight to the squabbles and no clear line to the throne, my patron, Laudos Vagra, has called for the formation of an Oligarchy, ruled by the heads of Arkovia's elite.{^n}{^n}No good can come of this. Of that I am certain. These days I cannot, help but wonder if Rhowan's prophecy was a self-fulfilling one. Or perhaps this storm was a longtime coming and we were merely too blind to see it. I fear for Arkovia. I fear for her soul.{^n}{^n}Theodokus Vagra, Scribe of Arkovia
+tagLoreObj_Cronley_NoteA04Text=It falls upon strange times that a king would abdicate the throne of his own volition. Stranger still is the reason he gave his court. There is no other way to put it. King Rhowan, the third of his line, had been struck by madness. Upon returning from a successful campaign against the barbarian tribes of Agarond's Peak, the King raved about a chance meeting with a weary traveler whom he called Mogdrogen. Rhowan, in his generosity, offered the old man the use of his horse. The man, and here is where the King's tale loses all sense, declined the proposal and, speaking in a low voice that only his Majesty could hear, instead offered Rhowan a warning.{^n}{^n}The old man spurted prophetic lies about the impending collapse of our great nation and the fall of the beacon of the west, Arkovia herself. He implored the King to leave his title, his wealth, his very identity behind. There were some amongst the court who urged Rhowan to see his madness through, greedy heads of Arkovian Houses who saw this tragedy as an opportunity to seize power. The Queen, the shining jewel of Arkovia, wept before her King and begged him to reconsider; but Rhowan was resolute. With a single decree, he shattered the royal line and abandoned his ordained post as King of Arkovia. Word of the King's madness spread quickly among the populace. To my great surprise, some of his subjects followed Rhowan's lead, abandoning their livelihoods to follow their despondent ruler into a life of poverty and lost identity.{^n}{^n}It has been three fortnights since that fateful day. The queen lies dead in her chambers. They say she had died of sorrow, from the loss of her King, but I suspect more clandestine causes. The court has fallen into chaos as the great Houses bicker amongst themselves for the empty throne. With no end in sight to the squabbles and no clear line to the throne, my patron, Laudos Vagra, has called for the formation of an Oligarchy, ruled by the heads of Arkovia's elite.{^n}{^n}No good can come of this. Of that I am certain. These days, I cannot help but wonder if Rhowan's prophecy was a self-fulfilling one. Or perhaps this storm was a longtime coming and we were merely too blind to see it. I fear for Arkovia. I fear for her soul.{^n}{^n}Theodokus Vagra, Scribe of Arkovia
 
 tagLoreObj_Cronley_NoteA05Name=Cronley's Notes - Part 1
 tagLoreObj_Cronley_NoteA05Text=When attacks stopped and the Aetherials sent in their envoys, they knew they had us by the balls. All they had to do was squeeze and any other man would have sung them a tune worthy of the Erulan opera; but they've never contended with Darius Cronley. They came, two of them, humans in robes. Only thing that'd give them away was the eyes. The eyes glowed that sickly aether-green. They offered me a chance to surrender, a chance to live out our lives as vessels and breeders for their growing army. I sent their heads back on spikes. See if those spirits survive that.{^n}{^n}But when they came back again, with new terms, well...then they were speaking my language. I was to be a piece in their grand design, a master of my very own army of aether-empowered humans. All I had to do was to pledge myself to their cause and to plant one of their crystals within the mine. The rest, they said, would be revealed in time.
@@ -728,11 +760,28 @@ tagLoreObj_Cronley_NoteA06Name=Cronley's Notes - Part 2
 tagLoreObj_Cronley_NoteA06Text=The Aetherials left. They are headed north to Homestead in order to squash a human resistance orchestrated by the damned Black Legion. I've been left to my own devices, but for one caveat: eradicate Devil's Crossing. It is a task I will relish with great pleasure.  There are so many ways I could squeeze the life out of Bourbon, but unfortunately I'll have to settle for just one. Perhaps after I behead his mangled corpse, I'll shove him full of aether shards and bring him back as a personal servant. Then I can kill him over and over and over again.{^n}{^n}But first I must finish my glorious army. Another batch of aspiring followers is due to arrive within the hour. They have no idea of what suffering and agony is in store for them. I sometimes wish that more would die during the procedure. The failed ones make for such entertaining playthings, their screams echoing through the tunnels. Perhaps today I will have to slit one's throat, just for good fun.
 
 
-
 #AreaC Notes
 tagLoreObj_HiddenWealth_MapName=The Last Will of Marthos Everbrook
 tagLoreObj_HiddenWealth_MapCodexTitle=Will of Everbrook
 tagLoreObj_HiddenWealth_MapText=Here be written the last will and decree of the late Marthos Anthony Everbrook II.{^n}{^n}To my daughter, dearest Lizzy, I leave the farmstead and its surrounding orchards. Let the land, which has blessed our family with harvest for generations, continue to provide for you and your children. And now to my bullheaded sons, Edric and Anthony, you have filled my remaining years with your endless bickering over whom would inherit my fortune. To you, I leave nothing but these words.{^n}{^n}I had the farmhands bury the gold somewhere on the Everbrook lands. You now have but two options: move on with your miserable lives and start anew through backbreaking labor, just as your great grandfather did before you, or squander your youth searching for that which you do not deserve. I trust you will make the right decision.{^n}{^n}*Along the bottom, you can barely make out some scribbled notes in a different handwriting: In the hills, up the road from Thornsbury's. Bring explosives.*
+
+tagLoreObj_TrappedAndAloneName=Elara's Journal
+tagLoreObj_TrappedAndAloneText=Had the nightmare again. I am in an old tomb, barely a candle to light the way. Off in the corner I see a pair of red glowing eyes. They come closer...closer...then just before I can make out what it is through the shadows, the creature is gone.{^n}{^n}I try to run, but every way I go ends in rubble and stone. There is no escape. I turn around to see the eyes once more, staring back at me. I hear laughter, a child's laughter. Then everything is fire. I try to scream, but nothing comes out. The eyes just stare ahead as I writhe in the flames.{^n}{^n}That is when I awaken, drenched in sweat. It has been like this for five nights in a row. The nightmares are becoming more frequent and I am not sure how much more of this I can stand. It may not be wise, but perhaps it is time we moved on from this wretched place.
+
+tagLoreObj_AreaCThornsburyDiary_Name=Excerpt from Daila's Diary
+tagLoreObj_AreaCThornsburyDiary_Text=Oliver doesn't want me writing in here anymore. He says it fills my head with dreams when there's work to be done around the farm. So I've been writing at night, when he's asleep. He cannot stop the muse that pulls the strings of my heart.{^n}{^n}The Lashing Willow, by Daila Thornsbury{^n}{^n}The limbs of the willow tree tapped a steady rhythm against the bedroom window. Another storm was building up on the horizon, but Daila could not shake the feeling that this would not be just another shower. She sat up in her bed and took a quick glance at her husband, Oliver. He was still fast asleep. Not even a hurricane would stir that man from his slumber.{^n}{^n}Daila got up, making sure not to shift the covers off her husband. She tip-toed to the wardrobe and retrieved her gear: a well-worn suit of light leather armor and her trusty sword, Stormheart. The blade sparked with electricity as she removed it from its scabbard. The enchantment was still as strong as the day she had found it in the tomb north of Sorrow's Bastion. Daila replaced the blade and hooked the scabbard into her belt. She took one last glance at Oliver before heading out the door. It was best he did not know about her little nightly vigils. He would just worry himself sick, and Daila could not stand to see him so obsessed over her safety.{^n}{^n}The wind whipped Daila's hair around her face as she stepped out the front door. The rain was already starting to pick up; the ground was drenched with moisture, turning the path into mud. Daila tread carefully, planting every step on a stone or where the ground was still firm. At last, she arrived at the edge of the weeping willow, where a deep sense of dread immediately overcame her.{^n}{^n}"I knew you'd come out to greet me, Daila my dear," a ghastly voice spoke from behind the tree. Daila drew Stormheart, its sparking surface turning the rain drops into mist. A dark figure showed itself and calmly walked towards her. She could not see the man's face, but she knew well who he was. "Come now, is that any way to greet your brother?" The man spoke again. Daila did not say a word. Instead, she let her blade do the talking for her. The figure countered her blows with a blade of his own, a burning sword that left streaks of fire across the air with every swing. "I see you've been practicing," the man said with a grin forming on his lips.{^n}{^n}Thunder crackled in the sky as lightning flared down from the heavens, briefly illuminating up the scene. The light from the storm revealed the face of Daila's adversary, the grisly heavily decayed face of her dead brother. "Dravis," Daila hissed through clenched teeth. She dove in for another attack...
+
+tagLoreObj_AreaCFarmer_NoteA01Name=Walter's Note
+tagLoreObj_AreaCFarmer_NoteA01Text=I can see smoke rising from the Everbrook estate. They're nearly here, whatever they are. I've barricaded the doors and windows as best I could. All that remains now is to wait for them to come to us.{^n}{^n}The wife insisted that we abandon the farm and head for Homestead, but I'll be damned if I let some green-eyed freaks kick us off our land. Our family has not toiled on this farm for generations just to leave it at the first sign of trouble. Those cowards in Homestead can leave their crops to rot. When all this blows over, I'll still be here tending to the harvest, and they will look the fools.
+
+tagLoreObj_AreaCFarmer_NoteA02Name=Aether-Scorched Note
+tagLoreObj_AreaCFarmer_NoteA02Text=I know you always forget something, so I've written you a list this time. I mean it, don't you show your face back here until everything on this list is marked off.{^n}{^n}- One sack of flour{^n}- Loaf of bread{^n}- Two dozen eggs{^n}- Three bottles of Erulan Red{^n}- Dress order at the seamstress{^n}{^n}*At the bottom of the list, you see a scrawled-in addition in messy handwriting: A dozen roses.*
+
+tagLoreObj_AreaCFarmer_NoteA03Name=Wald's Note
+tagLoreObj_AreaCFarmer_NoteA03Text=We got away! I couldn't believe it at the time, but we gave those Aetherial bastards the slip. They'll never think to look out here in the wilderness. There's nothing here but trees and rocks. Certainly nothing for the likes of them.{^n}{^n}I've gone ahead and set up camp while a few of the guys ventured out to scavenge for berries and firewood. They should be returning soon. May not be much, but I think we can turn this place into a home away from home. Hell, even the birds must be finding it to their liking. I can see a few of them circling overhead from time to time.
+
+tagLoreObj_AreaCAetherial_NoteA01Name=The Amalgamation
+tagLoreObj_AreaCAetherial_NoteA01Text=Consensus is achieved. The sanctum of Homestead is to fall within the fortnight. With the Herald making its steady approach from the north, nothing but conflagration in its wake, it falls upon me to render a force capable of assaulting the human stronghold from the west. The reanimators are tirelessly working within the cages, pouring the gift of the Aether into the humans and trolls we had gathered for the purpose. But the real work will be conducted within the barn.{^n}{^n}It is true that the humans have proven to be...difficult hosts, the mind struggles against a greater power it cannot possibly fathom. But the flesh? It is malleable, easily tainted.  I look upon the corpses filling the barn with the stench of decay not as a sign of how fragile life is, but as a canvas; a canvas upon which we will paint the future of Cairn.{^n}{^n}Theodin Marcell, Shaper of Flesh
 
 
 
@@ -742,6 +791,8 @@ tagNPC_GateGuardA01=Rook - Gate Keeper
 
 
 #Merchants and Other Services
+
+tagNPC_BonusItems=Kory the Keeper
 
 tagNPC_MerchantA01=Roan
 tagStoreTitle_MerchantA01=Salvage Dealer
@@ -760,7 +811,7 @@ tagNPC_MerchantB01=Benny the Vagrant
 tagStoreTitle_MerchantB01=Connoisseur of Illicit Goods
 
 tagNPC_MerchantB02=Morris Burton
-tagStoreTitle_MerchantB02=Rare Goods
+tagStoreTitle_MerchantB02=Salvage Dealer
 
 tagNPC_MerchantC01=Marris Kas
 tagStoreTitle_MerchantC01=Wares of the Lost
@@ -770,6 +821,9 @@ tagStoreTitle_MerchantT01=Roving Dealer
 
 tagNPC_SmugglerA01=Carlile
 tagStoreTitle_SmugglerA01=Smuggler
+
+tagNPC_SmugglerA02=Harry
+tagStoreTitle_SmugglerA02=Smuggler
 
 tagNPC_ReallocatorA01=Mullone
 tagStoreTitle_ReallocatorA01=Spirit Guide
@@ -791,4 +845,50 @@ tagStoreDesc_SmithA02_2=Duncan uses experimental techniques to imbue weapons and
 tagStoreDesc_SmithA02_3= 
 tagStoreDesc_SmithA02_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
 
-tagStoreTitle_SmithA03=Blacksmith
+tagNPC_SmithA03=Valdrick
+tagStoreTitle_SmithA03=Legion Smith
+tagStoreDesc_SmithA03_1={}Know Thy Enemy
+tagStoreDesc_SmithA03_2=Valdrick has studied the enemies of man and learned to counter their strengths through the forge.
+tagStoreDesc_SmithA03_3= 
+tagStoreDesc_SmithA03_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+
+tagNPC_SmithA04=Horrus
+tagStoreTitle_SmithA04=Fallen Smith
+tagStoreDesc_SmithA04_1={}Gift of Unlife
+tagStoreDesc_SmithA04_2=Horrus is gifted with centuries of smithing knowledge, bolstered by his rather unique...state of existence.
+tagStoreDesc_SmithA04_3= 
+tagStoreDesc_SmithA04_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+
+tagNPC_SmithA05=Brother Galvin
+tagStoreTitle_SmithA05=Kymon's Smith
+tagStoreDesc_SmithA05_1={}Blessed by Empyrion
+tagStoreDesc_SmithA05_2=Galvin's work is considered sacred, his hammer guided by the will of Empyrion himself.
+tagStoreDesc_SmithA05_3= 
+tagStoreDesc_SmithA05_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+
+
+#Faction Quartermasters
+tagNPC_FactionQuartermaster_01=Quartermaster Ellis
+tagStoreTitle_FactionQuartermaster_01=Devil's Crossing Quartermaster
+
+tagNPC_FactionQuartermaster_02=Keeper Unkala
+tagStoreTitle_FactionQuartermaster_02=Rover Keeper of Artifacts
+
+tagNPC_FactionQuartermaster_03=Quartermaster Whitfield
+tagStoreTitle_FactionQuartermaster_03=Homestead Quartermaster
+
+tagNPC_FactionQuartermaster_04=Brother Mulven
+tagStoreTitle_FactionQuartermaster_04=Kymon's Chosen Master of Arms
+tagNPC_FactionQuartermaster_05=Brother Adrius
+tagStoreTitle_FactionQuartermaster_05=Kymon's Chosen Master of Arms
+
+tagNPC_FactionQuartermaster_06=Keeper Malvor
+tagStoreTitle_FactionQuartermaster_06=Order of Death's Vigil Keeper of Artifacts
+tagNPC_FactionQuartermaster_07=Keeper Poruuk
+tagStoreTitle_FactionQuartermaster_07=Order of Death's Vigil Keeper of Artifacts
+
+tagNPC_FactionQuartermaster_08=Quartermaster Thorney
+tagStoreTitle_FactionQuartermaster_08=Black Legion Quartermaster
+
+tagNPC_FactionQuartermaster_09=Anasteria's Collection
+tagStoreTitle_FactionQuartermaster_09=The Exile's Secrets

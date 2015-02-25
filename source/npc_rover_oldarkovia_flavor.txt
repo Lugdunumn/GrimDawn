@@ -24,7 +24,7 @@ The final doom of Arkovia, that which has cursed these lands ever since, was ind
 
 Farewell.
 How did this Uroboruuk manage to carry out his vengeance?
-As Arkovia waned, the Oligarchs became increasingly desperate and driven to extreme measures.{^n}{^n}When they learned of Uroboruuk and his strange immortality, they were foolishly intrigued. The great houses lusted for the secret knowledge by which they could achieve immortality for their bloodlines and they thought to compel that knowledge from the necromancer.{^n}{^n}Uroboruuk played upon their desires and betrayed them with a false ritual that they were all too eager to believe. The souls of the Akrovians were bound eternally to their cursed city while their mortal flesh decayed.
+As Arkovia waned, the Oligarchs became increasingly desperate and driven to extreme measures.{^n}{^n}When they learned of Uroboruuk and his strange immortality, they were foolishly intrigued. The great houses lusted for the secret knowledge by which they could achieve immortality for their bloodlines and they thought to compel that knowledge from the necromancer.{^n}{^n}Uroboruuk played upon their desires and betrayed them with a false ritual that they were all too eager to believe. The souls of the Arkovians were bound eternally to their cursed city while their mortal flesh decayed.
 
 
 A Grim tale indeed. If only there was a way to ease the suffering of this land.
@@ -36,7 +36,9 @@ I have to be on my way.
 May your path be true.
 Farewell.
 Go in peace, but beware the spirits of this land. They are treacherous.
-
+I have found some texts you may find interesting.
+That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
+Farewell.
 I'll heed your words.
 You are always welcome here.
 

@@ -9,32 +9,41 @@ I did what I feel is right.
 The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come before you.
 
 Goodbye.
-Words
+Please, visit out sanctum. Master Varuuk will wish to speak with you.
 Where is your sanctum?
-Directions
-
-
-
-
-
+Our sanctum is located west of the old fort ruins in the north, known as Sorrow's Bastion.{^n}{^n}To get there, you must take the road north out of Homestead, through the Blood Grove.
+Thank you.
+I'm on my way.
+I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Blood Grove. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
 Greetings, I am Haruuv and I represent the Order of Death's Vigil.{^n}{^n}We are eager to discuss an agreement, even if it has to be made amongst such questionable company.
 I think I've made my decision.
 What will it be then? Will the Black Legion fight alongside the Order of Death's Vigil against these invaders to our realm?
 The Black Legion will work with you. (Select the Order)
-Splendid. I shall make the arrangements immediately.
-
-
+Splendid. I shall make the arrangements immediately.{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Blood Grove. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
 Actually, I'll need more time to think this through.
 What can you tell me about the Order?
+We are seekers and preservers of knowledge, trained in the ancient art of necromancy by our grandmaster Uroboruuk.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
+
+What do you offer the Black Legion?
+We are experts in the arcane and masters of necromancy,{^n}{^n}Why send living men to die at the hands of the enemy when we could send loyal undead servants to battle in our stead?{^n}{^n}We will combat the enemy, and preserve valuable human lives in the process.
 
 
+
+
+I'll need some time to think this through.
 What can you tell me about Uroboruuk?
+Our master is eternal. He was there when the Arkovian Empire was young and he was there when they fell to his curse. The Arkovians, much like the Erulan Empire shattered by the Grim Dawn, had persecuted necromancy and those who would seek forbidden knowledge.{^n}{^n}They tortured our master, eager to learn his secret to immortality. In return, Uroboruuk cursed them to eternal un-life. Since the fall of Arkovia, Uroboruuk founded the Order of Death's Vigil, to ensure that the pursuit of knowledge and life's mysteries would never again be threatened by the ignorant.{^n}{^n}Now that humanity stands at the brink of annihilation, it seems his teachings are more relevant than ever. We will return balance to the world, as our master had decreed.
 
 
 
 
 I'll need some time to think this through.
 What is necromancy?
+Necromancy is the study of death and the forces of life that bind us to that final fate.{^n}{^n}To us, death is a mystery that must be studied, not some esoteric topic worthy of fear.
 
 
 
@@ -42,13 +51,13 @@ What is necromancy?
 I'll need some time to think this through.
 
 What can you tell me about Kymon's Chosen?
-
+They are fanatics, obsessed with an ancient faith worshipping a nonexistent god known as Empyrion.{^n}{^n}Anyone that stands against their tenets is a heretic and worthy only of extermination. In that, they are no better than the empire which had persecuted the Order for generations.
 
 
 I'll need some time to think this through.
-back out
+Farewell.
 The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come before you.
 What is the Order of Death's Vigil?
-
+We are seekers and preservers of knowledge, trained in the ancient art of necromancy.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
 I see.
 Goodbye.

@@ -91,7 +91,7 @@ tagClass01SkillDescription01A=The use of weapon forms in combat gives your attac
 tagClass01SkillName01B=Fighting Form
 tagClass01SkillDescription01B=The fury of Cadence resonates with the target, causing heavy bleeding. ^oWith melee weapons, the resonance causes Cadence to strike additional nearby targets.
 tagClass01SkillName01C=Deadly Momentum
-tagClass01SkillDescription01C=Cadence strikes with tremendous force, giving each Cadence strike a chance to inflict additional painful effects.
+tagClass01SkillDescription01C=You push the advantage following a Cadence strike, briefly causing all of your blows to strike with additional deadly force. ^oDeadly Momentum affects all skills while active.
 tagClass01SkillName01D=Discord
 tagClass01SkillDescription01D=The discord of a wrathful soul flows into the Soldier's pure fighting cadence and sows it with elemental and chaotic energy.
 
@@ -232,7 +232,7 @@ tagClass02SkillDescription08A=Blackwater Cocktails were concocted when more conv
 tagClass02SkillName08B=Demon Fire
 tagClass02SkillDescription08B=Sorcerous enchantment imbues the flames with chaotic power that melts enemy flesh and deteriorates armor.
 tagClass02SkillName08C=Agonizing Flames
-tagClass02SkillDescription08C=Driven mad by the searing pain of their flame covered bodies, enemy ranks scatter in panic with those still able to function barely able to strike back.
+tagClass02SkillDescription08C=The agonizing pain caused by the Blackwater flame weakens your enemies' ability to withstand further sorcerous assault.
 
 tagClass02SkillName09A=Stun Jacks
 tagClass02SkillDescription09A=Throw out an array of tiny, electrically charged jacks that will temporarily stop enemies in their tracks.
@@ -293,7 +293,7 @@ tagClass03SkillDescription02F=The Hellhound's flesh erupts as it returns to its 
 
 tagClass03SkillName03A=Bonds of Bysmiel
 tagClass03SkillDescription03A=Strengthens the bonds of control with your minions causing them to fight with greater vigor and determination.
-tagClass03SkillName03B=Devotion
+tagClass03SkillName03B=Manipulation
 tagClass03SkillDescription03B=Subtle manipulation of the bonds of control beguiles minions into feeling overwhelming devotion towards you, causing them to fight with fanatical strength and speed.
 
 tagClass03SkillName04A=Blood of Dreeg
@@ -489,7 +489,7 @@ tagClass05SkillDescription02B=The incantation becomes overloaded with arcane for
 tagClass05SkillName02C=Elemental Balance
 tagClass05SkillDescription02C=Strike a finely-tuned balance within your incantation, harmonizing the opposing forces of fire and ice with wild electricity.
 tagClass05SkillName02D=Manifestation
-tagClass05SkillDescription02D=Arcane energies manifest in many forms. Arcanists who delve into the art of summoning often transfer some of their power to their loyal minions so that they can better serve the will of their masters.
+tagClass05SkillDescription02D=Arcane energies manifest in many forms. Arcanists who delve into the art of summoning often transfer some of their power to their loyal minions so that they can better serve the will of their masters. ^oThis effect is extended to your allies.
 
 tagClass05SkillName03A=Trozan's Sky Shard
 tagClass05SkillDescription03A=The mythical Trozan was said to be a natural; wild and unwilling to conform to the doctrines of the Imperial Arcanists. When the Imperials finally surrounded his mountaintop refuge, Trozan humbled them using an unknown technique to bring down the very sky upon them. ^oDrops 3 shards upon the target area.
@@ -513,7 +513,7 @@ tagClass05SkillDescription05B=The sphere absorbs harmful debilitating effects an
 tagClass05SkillName06A=Albrecht's Aether Ray
 tagClass05SkillDescription06A=A powerful arcane technique perfected by Master Albrecht in the years just preceeding the Grim Dawn that channels raw arcane energies into a concentrated beam of destruction. ^oRequires a Caster Off-hand.
 tagClass05SkillName06B=Disintegration
-tagClass05SkillDescription06B=Pours all of your energy into the Aether Ray, turning it into a catastrophic force that disintegrates all it touches.
+tagClass05SkillDescription06B=Pours all of your energy into the Aether Ray, turning it into a catastrophic force that disintegrates all it touches. ^oEnergy Cost increase is per damage interval.
 tagClass05SkillName06C=Tainted Power
 tagClass05SkillDescription06C=Corrupts the beam by instead fueling it with the raging powers of the chaotic void.
 
@@ -548,7 +548,7 @@ tagClass05SkillDescription14A=In an instant, the air around you becomes hard as 
 tagClass05SkillName15A=Reckless Power
 tagClass05SkillDescription15A=Turn your body into a conduit of the aether, manifesting terrifying arcane energies while sacrificing some of your humanity and lifeforce.
 tagClass05SkillName15B=Ascendance
-tagClass05SkillDescription15B=You push beyond the limitations of your physical form, extending a portion of your arcane power to nearby allies.
+tagClass05SkillDescription15B=You push beyond the limitations of your physical form, extending a portion of your arcane power to nearby allies. ^oCreates an aura around you for the duration of Reckless Power.
 tagClass05SkillName15C=Unlimited Power
 tagClass05SkillDescription15C=Many Arcanists sacrifice much in the pursuit of limitless power. There are some who do not heed the ancient warnings and open themselves up fully to the aether. It is these Arcanists that strike fear into the hearts of lesser mortals.
 
@@ -560,32 +560,6 @@ tagClass05SkillDescription16B=Completely sap the nearby air of heat, leaving any
 
 #Class06
 
-tagClass06SkillName02B=Elemental Balance
-tagClass06SkillDescription02B=Strike a finely-tuned balance within your incantation, attuning your weapons to the opposing forces of ice and fire.
-
-tagClass06SkillName00=Vigilante
-tagClass06SkillDescription00=Training in the field to take down the toughest bounties, and all who stand on the path to your quarry.
-
-tagClass06SkillName01A=Bulwark
-tagClass06SkillDescription01A=Your combat skills are adapted to defensive fighting, absorbing damage, and holding out against superior numbers.
-tagClass06SkillName01B=Honor Guard
-tagClass06SkillDescription01B=Your combat skills are adapted to defensive fighting, absorbing damage, and holding out against superior numbers.
-tagClass06SkillName01C=Last Line of Defense
-tagClass06SkillDescription01C=Your combat skills are adapted to defensive fighting, absorbing damage, and holding out against superior numbers.
-
-
-tagClass06SkillName02A=Vanguard
-tagClass06SkillDescription02A=Your combat skills are adapted to front-line fighting, dealing out damage and breaking the enemy.
-tagClass06SkillName02B=Frontline
-tagClass06SkillDescription02B=Your combat skills are adapted to front-line fighting, dealing out damage and breaking the enemy.
-tagClass06SkillName02C=Shock Trooper
-tagClass06SkillDescription02C=Your combat skills are adapted to front-line fighting, dealing out damage and breaking the enemy.
-
-
-tagClass06SkillName07B=Second Wind
-tagClass06SkillDescription07B=A surge of renewed strength fills your body washing away your wounds and fatigue.
-tagClass06SkillName07C=Celerity
-tagClass06SkillDescription07C=Alive with the fury of battle, adrenaline courses through your veins making you move and attack faster.
 
 #Class07
 
@@ -774,6 +748,39 @@ tagItemSkillB031Desc=Releases a concentrated burst of arcane energy around you, 
 
 tagItemSkillB032Name=Sky Fragment
 tagItemSkillB032Desc=Brings down the sky upon your enemies.
+
+tagItemSkillB033Name=Aether Blastwave
+tagItemSkillB033Desc=A blast of Aether energy knocks your attackers back.
+
+tagItemSkillB034Name=Quake
+tagItemSkillB034Desc=Sends a shockwave of energy through the earth around you, damaging nearby foes.
+
+tagItemSkillB035Name=Minion Frenzy
+tagItemSkillB035Desc=Upon seeing their master get hurt, your minions enter a wild frenzy.
+
+tagItemSkillB036Name=Fire Blast
+tagItemSkillB036Desc=A surge of flames erupts from you, damaging all nearby enemies.
+
+tagItemSkillB037Name=Warp Blast
+tagItemSkillB037Desc=A surge of chaotic energies erupts from you, damaging all nearby enemies.
+
+tagItemSkillB038Name=Lightning Barrage
+tagItemSkillB038Desc=Sparks of lightning erupt from you, damaging any enemies they come in contact with.
+
+tagItemSkillB039Name=Frigid Barrage
+tagItemSkillB039Desc=Shards of chilling ice erupt from you, freezing any enemies they come in contact with.
+
+tagItemSkillB040Name=Toxic Gas Cloud
+tagItemSkillB040Desc=A toxic cloud erupts from you, choking all enemies caught within it.
+
+tagItemSkillB041Name=Vitality Wave
+tagItemSkillB041Desc=A blast of life-stealing energies surges forward, draining enemies of precious vitality.
+
+tagItemSkillB042Name=Vitality Barrage
+tagItemSkillB042Desc=Bolts of life-stealing energies erupt from you, sapping enemies they come in contact with of precious vitality.
+
+tagItemSkillB043Name=Rejuvenation
+tagItemSkillB043Desc=A soothing calm washes over you, amplifying your body's ability to heal.
 
 tagItemSkillC002Name=Lightning Orb
 tagItemSkillC002Desc=Retaliates with an orb of lightning launched in the attacker's direction, damaging and stunning all in its path.
@@ -1031,7 +1038,7 @@ tagItemSkillC082Name=Voidfire Nova
 tagItemSkillC082Desc=A burst of concentrated negative energy erupts from you.
 
 tagItemSkillC083Name=Marauder's Salvo
-tagItemSkillC083Desc=Unleashes a salvo of arcane infused ammunition. ^oEnables the ability to dual wield ranged weapons.
+tagItemSkillC083Desc=When brandishing two pistols, you sometimes unleash a salvo of arcane infused ammunition. ^oEnables the ability to dual wield ranged weapons.
 
 tagItemSkillC084Name=Miasma
 tagItemSkillC084Desc=Releases a cloud of toxic gases which choke and confuse your enemies.
@@ -1083,8 +1090,8 @@ tagItemSkillM007Desc=Hurl a chilled projectile at the target, coating it with im
 tagItemSkillM008Name=Empowerment
 tagItemSkillM008Desc=Empower your attacks at the cost of precious lifeblood.
 
-tagItemSkillM009Name=Summon Flesh Hulk
-tagItemSkillM009Desc=Summons a mindless behemoth from cursed grounds to serve you for as long as its flesh can bear it.
+tagItemSkillM009Name=Conjure Flesh Hulk
+tagItemSkillM009Desc=Conjures a mindless behemoth from cursed grounds to serve you for as long as its flesh can bear it.
 
 tagItemSkillM010Name=Vampirism
 tagItemSkillM010Desc=Embrace a darker side to restore your own vitality at the cost of your enemies'.
@@ -1234,7 +1241,7 @@ tagCompSkillB001Name=Demon's Breath
 tagCompSkillB001Desc=Launch a blastwave of unearthly flame at your enemies.
 
 tagCompSkillB002Name=Beronath's Fury
-tagCompSkillB002Desc=Strike out at your enemies with the fury of the great beast Beronath. When used as your default weapon attack, Beronath's Fury increase the intensity of your attacks with every strike.
+tagCompSkillB002Desc=Strike out at your enemies with the fury of the great beast Beronath. When used as your default weapon attack, Beronath's Fury increases the intensity of your attacks with every strike.
 
 tagCompSkillB003Name=Silver Spread
 tagCompSkillB003Desc=Launch a burst of silver-coated projectiles intended to kill Chthonic beings.
@@ -1365,7 +1372,7 @@ tagRelicSkillD008Desc=Unleash a storm of hellfire that tears through the heavens
 tagRelicSkillD009Name=Necrosis
 tagRelicSkillD009Desc=Invoke a debilitating curse upon your enemies, causing their flesh to rot and their senses to slow.
 
-tagRelicSkillD010Name=Summon Flesh Hulk
+tagRelicSkillD010Name=Conjure Flesh Hulk
 tagRelicSkillD010Desc=Perform a forbidden ritual reminiscent of the Arcanist Agrivix's old techniques, summoning a Flesh Hulk to do your bidding.
 
 tagRelicSkillD011Name=Oblivion
@@ -1397,6 +1404,9 @@ tagRelicSkillD019Desc=Become empowered with the power of the war god's blood, un
 
 tagRelicSkillD020Name=Menhir's Bastion
 tagRelicSkillD020Desc=Become empowered with the protective spirit of Menhir, shielding yourself and your allies from physical harm. ^oRequires a shield.
+
+tagRelicSkillD021Name=Elemental Imbalance
+tagRelicSkillD021Desc=Suffering harm disrupts your careful balance between the elements, unleashing a surge of power that will make your foes regret ever coming near you. ^oRequires a Caster Off-hand.
 
 
 
@@ -1448,6 +1458,8 @@ tagConsumableSkill_A21=Celestial Bane
 tagConsumableSkill_A21Desc=Suffuses your flesh with a divine light.
 tagConsumableSkill_A22=Aether Cluster
 tagConsumableSkill_A22Desc=Shatter the crystal formation to release its energies.
+tagConsumableSkill_A23=Burrwitch Brew
+tagConsumableSkill_A23Desc=Not for the faint of heart. Side effects may include: nausea, vomiting, forgetting where you were last night.
 
 #SkillsGeneral
 
@@ -1459,6 +1471,7 @@ NoSkillPointsAvailable=Points Available: 0
 DevotionPointsAvailable=Points Available: {%d0}
 DevotionPointsAvailableSingular=Points Available: {%d0}
 NoDevotionPointsAvailable=Points Available: 0
+tagConfirmSkillChanges=Confirm changes?
 
 #SkillDevotion
 tagDevotionHammerAndAnvil=Hammer and Anvil
@@ -1483,21 +1496,29 @@ tagDevotionMagi=The Magi
 tagDevotionAssassin=The Assassin
 tagDevotionAkeron=Akeron's Scorpion
 
+tagDevotionInfo=Devotion is great. Devotion devotion devotion. Lorem ipsum dolor sit amet, vero perfecto nominati te vim, duo esse inciderint ea. Eos nostrud facilisis no, alii electram rationibus sea et.
+
 #SkillsReallocator
 
 tagReallocateError01=You need to remove all points from all modifiers before you can remove the last point from this skill.
-tagReallocateError02=You do not have enough gold to remove any more skill points.
+tagReallocateError02=You do not have enough iron bits to remove any more skill points.
 tagReallocateError03=You cannot remove points from your Mastery.
 tagDecreaseMasteryError=Cannot reclaim points from the mastery.
-tagReclaimPoint=Click to Reclaim Skill Point (Cost {^y}{%t0}{^-})
+tagReclaimPoint=Click to Reclaim Skill Point (Cost {^s}{%t0}{^-} Iron Bits)
+tagReclaimDevotionPoint=Click to Reclaim Devotion Point (Cost {^s}{%t0}{^-} Iron Bits, {^g}{%t1}{^-} Aether)
 tagRemovePoint=Left click to Remove Devotion Point
 tagReclaimBase=Remove Modifiers to Reclaim Final Point
+tagReclaimDevotion=Remove Attached Devotion Effect
 tagRemoveBase=Devotion Point Cannot be Removed
 tagReclaimNoPoints=No Points to Reclaim
 tagRemoveNoPoints=No Points to Remove
-tagReclaimNoGold=Insufficient Gold (Cost {^y}{%t0}{^r})
+tagReclaimTotalGold=Total Iron Bits:
+tagReclaimCost=Iron Bits Cost:
+tagReclaimNoGold=Insufficient Iron Bits (Cost {^s}{%t0}{^r})
+tagReclaimNoAether=Insufficient Aether Crystals (Cost {^g}{%t0}{^r})
 tagReallocateTitle=Skill Reallocation
 tagReallocationDescription=Clicking on a skill icon will remove a skill point.  The cost to remove a skill point increases with each point removed.
+tagReclaimTotalAether=Total Aether Crystal:
 
 tagTemplateName=Rename Me
 tagTemplateDescription=Describe Me

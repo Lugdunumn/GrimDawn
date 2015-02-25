@@ -30,6 +30,9 @@ tagWeaponSwordB007=Malkadarr's Deathblade
 tagWeaponSwordB008=Manticore Longsword
 tagWeaponSwordB009=Bonecarver
 tagWeaponSwordB010=Boneblade
+tagWeaponSwordB011=Dermapteran Claw
+tagWeaponSwordB012=Dermapteran Slicer
+
 
 tagWeaponSwordC001=Lightning Rod
 tagWeaponSwordC002=Hound's Bite
@@ -67,6 +70,9 @@ tagWeaponSwordD006Desc="You can sense your own mortality when looking upon this 
 tagWeaponSwordD007=Ortus
 tagWeaponSwordD007Desc="The mere sight of this blade fills you with hope."
 
+tagWeaponSwordF001=Legion Carver
+tagWeaponSwordF002=Chosen Blade
+tagWeaponSwordF003=Devil's Bargain
 
 tagWeaponBluntA000=Club
 tagWeaponBluntA001=Ball Mace
@@ -94,6 +100,8 @@ tagWeaponBluntB008Desc="A desperate man's last hope..."
 tagWeaponBluntB009=Adept's Bladed Mace
 tagWeaponBluntB010=Adept's Morningstar
 tagWeaponBluntB011=Adept's Flanged Mace
+tagWeaponBluntB012=Mutant Arm
+tagWeaponBluntB013=Mutant Bludgeon
 
 tagWeaponBluntC001=Aetherwoe
 tagWeaponBluntC002=Anarchy
@@ -122,6 +130,10 @@ tagWeaponBluntD005=Pestilence of Dreeg
 tagWeaponBluntD005Desc="Bearer of the seven plagues of the witch god Dreeg."
 tagWeaponBluntD006=Dawnbreaker's Sledge
 
+tagWeaponBluntF001=Devil's Crusher
+tagWeaponBluntF002=Legion Warhammer
+tagWeaponBluntF003=Death's Force
+tagWeaponBluntF004=Rhowari Gavel
 
 tagWeaponAxeA000=Woodsman's Axe
 tagWeaponAxeA001=Sawblade
@@ -168,6 +180,9 @@ tagWeaponAxeD004=Earthsplitter
 tagWeaponAxeD004Desc="Legends speak of a mortal who, when beseeched by the gods, cleaved Mount Menhir in two, forming Menhir's Twins."
 tagWeaponAxeD005=Damnation
 
+tagWeaponAxeF001=Rhowari Justice
+tagWeaponAxeF002=Solar Edge
+tagWeaponAxeF003=Death's Crescent
 
 tagWeaponGun1hA001=Hand-Blunderbuss
 tagWeaponGun1hA002=Howdah
@@ -219,6 +234,10 @@ tagWeaponGun1hD007=Demonslayer's Life-Ender
 tagWeaponGun1hD008=Barrelsmith's Salvo
 tagWeaponGun1hD009=Barrelsmith's Crossfire
 
+tagWeaponGun1hF001=Devil's Retribution
+tagWeaponGun1hF002=Solar Revolver
+tagWeaponGun1hF003=Death's Revolver
+tagWeaponGun1hF004=Legion Hand Cannon
 
 tagWeaponGun2hA001=Musket
 tagWeaponGun2hA002=Flintlock Rifle
@@ -235,6 +254,8 @@ tagWeaponGun2hA011=Combat Shotgun
 tagWeaponGun2hB001=Rotating Rifle
 tagWeaponGun2hB002=Frontloading Rifle
 tagWeaponGun2hB003=Shrapnel Gun
+tagWeaponGun2hB004=Fleshwarped Rifle
+tagWeaponGun2hB005=Fleshwarped Carbine
 
 tagWeaponGun2hC001=The Huntsman
 tagWeaponGun2hC002=The Eye
@@ -260,6 +281,8 @@ tagWeaponGun2hD004=Vortex of Souls
 tagWeaponGun2hD004Desc="Every shot fired sends a ripples through the aether."
 tagWeaponGun2hD005=Gutripper
 
+tagWeaponGun2hF001=Devil's Musket
+tagWeaponGun2hF002=Harvest's Double-Barrel
 
 tagWeaponCrossbow2hA001=Crossbow
 tagWeaponCrossbow2hA002=Arbalest
@@ -294,6 +317,8 @@ tagWeaponCrossbow2hD003Desc="The rimeblood dragon of the chilling northern winds
 tagWeaponCrossbow2hD004=Raka'Jax
 tagWeaponCrossbow2hD005=Harbinger of Eternal Suffering
 
+tagWeaponCrossbow2hF001=Rhowari Scorpion
+tagWeaponCrossbow2hF002=Chosen Bolter
 
 tagWeaponMelee2hA001=Greatsword
 tagWeaponMelee2hA002=Warsword
@@ -355,6 +380,11 @@ tagWeaponMelee2hD007Desc="Sacred blade of King Hrothnar, ruler of the northern r
 tagWeaponMelee2hD008=Temporal Arcblade
 tagWeaponMelee2hD009=Wildblood Crusher
 
+tagWeaponMelee2hF001=Legion Warblade
+tagWeaponMelee2hF002=Solar Sledge
+tagWeaponMelee2hF003=Death's Scythe
+tagWeaponMelee2hF004=Chosen Warmaul
+
 tagWeaponCaster1hA001=Wand
 tagWeaponCaster1hA002=Scepter
 tagWeaponCaster1hA003=Arcane Wand
@@ -380,6 +410,8 @@ tagWeaponCaster1hB006=Master's Scepter
 tagWeaponCaster1hB007=Witch's Spellblade
 tagWeaponCaster1hB008=Boneshiv
 tagWeaponCaster1hB009=Bonespike
+tagWeaponCaster1hB010=Rift Scourge Claw
+tagWeaponCaster1hB011=Rift Scourge Slicer
 
 tagWeaponCaster1hC001=Burning Hatred
 tagWeaponCaster1hC002=Spellfire Wand
@@ -411,6 +443,16 @@ tagWeaponCaster1hC021=Glacierborn Spellblade
 tagWeaponCaster1hC022=Bloodied Dagger of the Covenant
 
 tagWeaponCaster1hD001=
+
+tagWeaponCaster1hF001=Legion Firestarter
+tagWeaponCaster1hF002=Legion Aetherspark
+tagWeaponCaster1hF003=Legion Voidcutter
+tagWeaponCaster1hF004=Rhowari Biletouch
+tagWeaponCaster1hF005=Rhowari Chilltouch
+tagWeaponCaster1hF006=Rhowari Deathtouch
+tagWeaponCaster1hF007=Chosen Skysplitter
+tagWeaponCaster1hF008=Chosen Flamecaller
+tagWeaponCaster1hF009=Chosen Chillbearer
 
 
 tagWeaponArcaneA001=Crude Staff
@@ -449,7 +491,7 @@ tagShieldB004=Spectral War Shield
 tagShieldB005=Battle Shield
 tagShieldB006=Siege Shield
 tagShieldB007=Sovereign Shield
-tagShieldB008=Trogg Bonewall
+tagShieldB008=Trog Bonewall
 tagShieldB009=Vampiric Bonewall
 
 tagShieldC001=Defender of Devil's Crossing
@@ -469,6 +511,8 @@ tagShieldC011=Shield of Redemption
 tagShieldC012=Oathbreaker's Guard
 tagShieldC013=Elementium
 tagShieldC013Desc="Forged by arcane smiths to channel the raw forces of the elements."
+tagShieldC014=Ravna's Guard
+tagShieldC014Desc="Overlapping layers of chitin from the slain Dermapteran Queen."
 
 tagShieldD001=Meat Shield
 tagShieldD001Desc="Necromantic shield molded from the chest cavity of an unfortunate peasant."
@@ -479,6 +523,9 @@ tagShieldD004=Will of the Living
 tagShieldD004Desc="Formerly  the King's Crest, this shield was reborn in Chthonian flame as a paragon of mankind."
 tagShieldD005=Dawnbreaker's Duty
 
+tagShieldF001=Devil's Protector
+tagShieldF002=Harvest's Guard
+tagShieldF003=Chosen Fireguard
 
 tagQualityShieldA01=Scrapmetal
 tagQualityShieldA02=Rusty
@@ -522,6 +569,7 @@ tagFocusB004B=Occult Skull
 tagFocusB005A=Glyphed Tome
 tagFocusB005B=Occult Effigy
 tagFocusB006=Witch's Effigy
+tagFocusB007=Pulsing Shard
 
 tagFocusC001=Dementia
 tagFocusC002=Crushing Will
@@ -551,6 +599,16 @@ tagFocusD005Desc="Fanatical cabalists swear that a drop of their ancient god's b
 tagFocusD006=Speaker for the Dead
 tagFocusD006Desc="A compilation of poems and religious texts intended for burial rites."
 tagFocusD007=Archmage's Codex
+
+tagFocusF001=Harvest's Tome
+tagFocusF002=Harvest's Ledger
+tagFocusF003=Solar Codex
+tagFocusF004=Rhowari Winter Codex
+tagFocusF005=Rhowari Void Codex
+tagFocusF006=Rhowari Sky Codex
+tagFocusF007=Death's Ruin
+tagFocusF008=Death's Embrace
+tagFocusF009=Death's Advance
 
 
 #WEAPON_QUALITY
@@ -636,7 +694,7 @@ tagStyle042=Opulent
 
 #ArmorClass
 tagArmorClass01=Caster Armor
-tagArmorClass02=Light Armor
+tagArmorClass02=Armor
 tagArmorClass03=Heavy Armor
 
 #WeaponClass
@@ -658,6 +716,16 @@ tagLegend=Legendary
 
 tagSoulbound=Soulbound
 tagDestroySoulbound=Destroy soulbound item?
+
+tagTransmuted=Transmogrified
+tagTransmuteCapture=[Right-Click to Infuse]
+tagTransmuteApply=[Right-Click to Apply]
+tagTransmuteUnusable=[Cannot Use - Requirements Not Met]
+tagTransmuteConfirmation=Are you sure you want to apply this Transmogrification?
+tagTransmuteOverwrite=Are you sure you want to replace the existing Transmogrification?
+tagTransmuteSoulboundConfirmation=Are you sure you want to apply this Transmogrification? Doing so will make the item soulbound.
+tagTransmuteSoulboundOverwrite=Are you sure you want to replace the existing Transmogrification? Doing so will make the item soulbound.
+tagTransmuteDestroy=Are you sure you want to infuse this Transmogrification? Doing so will destroy the item.
 
 #ArmorHead
 
@@ -686,8 +754,10 @@ tagHeadB007=Adept's Hood
 tagHeadB008=Ranger's Helm
 tagHeadB009=Adept's Circlet
 tagHeadB010=Ranger's Casque
-tagHeadB011=Haunted Circlet
-tagHeadB012=Haunted Diadem
+tagHeadB011=Ascended Circlet
+tagHeadB012=Ascended Diadem
+tagHeadB013=Fleshwarped Helm
+tagHeadB014=Fleshwarped Casque
 
 tagHeadC001=Stormcaller's Circlet
 tagHeadC002=Berserker's Cowl
@@ -733,6 +803,20 @@ tagHeadD008=Mask of the Harbinger
 tagHeadD009=Demonslayer's Hat
 tagHeadD010=Archmage's Hat
 
+tagHeadF001=Exile's Hood
+tagHeadF001Desc="You can't help but feel as if the mask is staring back at you."
+tagHeadF002=Devil's Cover
+tagHeadF003=Devil's Headguard
+tagHeadF004=Legion Spellbearer
+tagHeadF005=Legion Casque
+tagHeadF006=Legion Headguard
+tagHeadF007=Harvest's Helm
+tagHeadF008=Solar Defender
+tagHeadF009=Death's Visage
+tagHeadF010=Death's Headguard
+tagHeadF011=Chosen Cowl
+tagHeadF012=Chosen Headguard
+
 
 #ArmorShoulders
 
@@ -751,9 +835,11 @@ tagShoulderB005=Murderer's Spaulders
 tagShoulderB006=Murderer's Epaulets
 tagShoulderB007=Isaac's Spaulders
 tagShoulderB008=Haunted Mantle
-tagShoulderB009=Haunted Epaulets
-tagShoulderB010=Archmage's Mantle
-tagShoulderB011=Archmage's Epaulets
+tagShoulderB009=Haunted Shoulderpad
+tagShoulderB010=Ascended Mantle
+tagShoulderB011=Ascended Epaulets
+tagShoulderB012=Fleshwarped Spaulders
+tagShoulderB013=Fleshwarped Pauldrons
 
 tagShoulderC001=Razorback's Spined Mantle
 tagShoulderC001Desc="Stitched together from the carcass of Razorback."
@@ -789,6 +875,28 @@ tagShoulderD008=Dawnbreaker's Shoulderguard
 tagShoulderD009=Wildblood Mantle
 tagShoulderD010=Archamge's Mantle
 
+tagShoulderF001=Exile's Burning Mantle
+tagShoulderF002=Exile's Chilled Mantle
+tagShoulderF003=Exile's Sky Mantle
+tagShoulderF004=Exile's Wrath Mantle
+tagShoulderF005=Exile's Void Mantle
+tagShoulderF006=Exile's Burning Pauldrons
+tagShoulderF007=Exile's Chilled Pauldrons
+tagShoulderF008=Exile's Sky Pauldrons
+tagShoulderF009=Exile's Wrath Pauldrons
+tagShoulderF010=Exile's Void Pauldrons
+tagShoulderF011=Devil's Spaulders
+tagShoulderF012=Devil's Shoulderguard
+tagShoulderF013=Rhowari Mantle
+tagShoulderF014=Rhowari Shoulderguard
+tagShoulderF015=Legion Mantle
+tagShoulderF016=Legion Spaulders
+tagShoulderF017=Legion Pauldrons
+tagShoulderF018=Death's Mantle
+tagShoulderF019=Death's Pauldrons
+tagShoulderF020=Chosen Mantle
+tagShoulderF021=Chosen Pauldrons
+
 
 #ArmorTorso
 
@@ -814,12 +922,14 @@ tagTorsoA017C=Robe
 tagTorsoB001=Murderer's Armor
 tagTorsoB002=Murderer's Breastplate
 tagTorsoB003=Fortified Doublet
-tagTorsoB004=Haunted Robes
-tagTorsoB005=Haunted Vestment
-tagTorsoB006=Ascended Robes
-tagTorsoB007=Ascended Vestment
-tagTorsoB008=Archmage's Robes
-tagTorsoB009=Archmage's Vestment
+tagTorsoB004=
+tagTorsoB005=
+tagTorsoB006=Haunted Robes
+tagTorsoB007=Haunted Vestment
+tagTorsoB008=Ascended Robes
+tagTorsoB009=Ascended Vestment
+tagTorsoB010=Fleshwarped Cuirass
+tagTorsoB011=Fleshwarped Platemail
 
 tagTorsoC001=
 tagTorsoC002=Nighthunter's Chestguard
@@ -861,6 +971,28 @@ tagTorsoD006=Chestguard of Justice
 tagTorsoD007=Beastcaller's Shroud
 tagTorsoD008=Demonslayer's Jacket
 tagTorsoD009=Archmage's Robe
+
+tagTorsoF001=Exile's Burning Vestments
+tagTorsoF002=Exile's Chilled Vestments
+tagTorsoF003=Exile's Sky Vestments
+tagTorsoF004=Exile's Wrath Vestments
+tagTorsoF005=Exile's Void Vestments
+tagTorsoF006=Exile's Burning Cuirass
+tagTorsoF007=Exile's Chilled Cuirass
+tagTorsoF008=Exile's Sky Cuirass
+tagTorsoF009=Exile's Wrath Cuirass
+tagTorsoF010=Exile's Void Cuirass
+tagTorsoF011=Devil's Cuirass
+tagTorsoF012=Devil's Chestguard
+tagTorsoF013=Legion Vestments
+tagTorsoF014=Legion Cuirass
+tagTorsoF015=Legion Chestguard
+tagTorsoF016=Death's Vestments
+tagTorsoF017=Death's Cuirass
+tagTorsoF018=Chosen Vestments
+tagTorsoF019=Chosen Chestguard
+tagTorsoF020=Rhowari Vestments
+tagTorsoF021=Rhowari Cuirass
 
 tagTorsoM001=Ragged Tunic
 tagTorsoM002=Bloodstained Tunic
@@ -964,6 +1096,11 @@ tagHandsD007=Beastcaller's Handwraps
 tagHandsD008=Harbinger's Grasp
 tagHandsD009=Archmage's Handwraps
 
+tagHandsF001=Rhowari Grips
+tagHandsF002=Rhowari Handguards
+tagHandsF003=Harvest Grips
+tagHandsF004=Harvest Handguards
+
 
 #ArmorLegs
 
@@ -1050,6 +1187,12 @@ tagFeetD007=Beastcaller's Treads
 tagFeetD008=Demonslayer's Greaves
 tagFeetD009=Archmage's Boots
 
+tagFeetF001=Rhowari Footpads
+tagFeetF002=Rhowari Greaves
+tagFeetF003=Legion Greaves
+tagFeetF004=Harvest Footpads
+tagFeetF005=Harvest Greaves
+
 
 #Rings
 
@@ -1129,6 +1272,19 @@ tagRingD009=The Hand of Mercy
 tagRingD010=The Fist of Vengeance
 tagRingD011=Archmage's Signet
 
+tagRingF001=Devil's War Seal
+tagRingF002=Devil's Wrath Seal
+tagRingF003=Rhowari Wrath Seal
+tagRingF004=Rhowari Void Seal
+tagRingF005=Legion War Seal
+tagRingF006=Legion Conjuration Seal
+tagRingF007=Harvest Venom Seal
+tagRingF008=Harvest Blade Seal
+tagRingF009=Death's Storm Seal
+tagRingF010=Death's Life Seal
+tagRingF011=Chosen Flame Seal
+tagRingF012=Chosen Frost Seal
+
 
 #Necklaces
 
@@ -1206,6 +1362,16 @@ tagNecklaceD011=Beastcaller's Charm
 tagNecklaceD012=Dawnbreaker's Beacon
 tagNecklaceD013=Demonslayer's Defense
 
+tagNecklaceF001=Rhowari Guardstone
+tagNecklaceF002=Rhowari Rancor
+tagNecklaceF003=Rhowari Lifecaller
+tagNecklaceF004=Solar Channelling Stone
+tagNecklaceF005=Harvester Stone
+tagNecklaceF006=Thundering Gem
+tagNecklaceF007=Grasp of the Reaper
+tagNecklaceF008=Pendant of Ubiquitous Wrath
+tagNecklaceF009=Voidcaller Pendant
+
 
 #Medals
 
@@ -1253,6 +1419,16 @@ tagMedalD006Desc="Crest of the great white wolf, patron animal of the northern w
 tagMedalD007=Undying Oath
 tagMedalD008=Markovian's Stratagem
 tagMedalD008Desc="Named in honor of the famed tactician Markovian, this medal was awarded to only the most distinguished generals."
+
+tagMedalF001=Devil's Badge of Flame
+tagMedalF002=Devil's Badge of Frost
+tagMedalF003=Devil's Badge of Venom
+tagMedalF004=Legion Mark of the Spellweaver
+tagMedalF005=Legion Mark of the Void
+tagMedalF006=Legion Mark of Blades
+tagMedalF007=Chosen Star of War
+tagMedalF008=Chosen Star of Thunder
+tagMedalF009=Chosen Star of Life
 
 
 #Blueprints
@@ -1307,6 +1483,7 @@ tagBlueprint_RelicD017=Blueprint: Relic - Dreeg's Affliction
 tagBlueprint_RelicD018=Blueprint: Relic - Bysmiel's Domination
 tagBlueprint_RelicD019=Blueprint: Relic - Oleron's Wrath
 tagBlueprint_RelicD020=Blueprint: Relic - Menhir's Bastion
+tagBlueprint_RelicD021=Blueprint: Relic - Iskandra's Balance
 
 tagBlueprint_ComponentA01=Blueprint: Aether Soul
 tagBlueprint_ComponentA02=Blueprint: Ballistic Plating
@@ -1516,7 +1693,8 @@ tagRelicD019=Oleron's Wrath
 tagRelicD019Desc="Blood... agony... death. Will you deny the drums of war?"
 tagRelicD020=Menhir's Bastion
 tagRelicD020Desc="The earth will suffer neither foul spirit nor vile blood of heathens. Rise up to her defense and Cairn will rise with you."
-
+tagRelicD021=Iskandra's Balanace
+tagRelicD021Desc="The first lesson every aspiring must learn is to find a balance in the raw forces of magic that surround us all."
 
 #Crafting
 tagCraftTabArtifactA=Relics
@@ -1580,19 +1758,19 @@ tagCraftRandomMedal=Enchanted Medal
 tagCraftRandomBelt=Enchanted Belt
 
 tagCraftRandomFeet_Heavy=Enchanted Heavy Boots
-tagCraftRandomFeet_Light=Enchanted Light Boots
+tagCraftRandomFeet_Light=Enchanted Boots
 tagCraftRandomHands_Heavy=Enchanted Heavy Gloves
-tagCraftRandomHands_Light=Enchanted Light Gloves
+tagCraftRandomHands_Light=Enchanted Gloves
 tagCraftRandomHead_Caster=Enchanted Caster Helm
 tagCraftRandomHead_Heavy=Enchanted Heavy Helm
-tagCraftRandomHead_Light=Enchanted Light Helm
+tagCraftRandomHead_Light=Enchanted Helm
 tagCraftRandomLegs_Heavy=Enchanted Heavy Leg Armor
-tagCraftRandomLegs_Light=Enchanted Light Leg Armor
+tagCraftRandomLegs_Light=Enchanted Leg Armor
 tagCraftRandomShoulder_Heavy=Enchanted Heavy Shoulder Armor
-tagCraftRandomShoulder_Light=Enchanted Light Shoulder Armor
+tagCraftRandomShoulder_Light=Enchanted Shoulder Armor
 tagCraftRandomTorso_Caster=Enchanted Caster Chest Armor
 tagCraftRandomTorso_Heavy=Enchanted Heavy Chest Armor
-tagCraftRandomTorso_Light=Enchanted Light Chest Armor
+tagCraftRandomTorso_Light=Enchanted Chest Armor
 
 
 tagSuppliesIncomplete=Crafting Supply Parts
@@ -1606,6 +1784,7 @@ tagSuppliesError=
 #Consumables
 
 tagScrollDirections=[Right-Click to Consume]
+tagUseDirections=[Right-Click to Use]
 
 tagConsumableRoyalJellyBalmBlueprint=Recipe: Royal Jelly Balm
 tagConsumableRoyalJellyBalmBlueprintDesc="A secret medicinal technique of the Rovers."
@@ -1685,6 +1864,17 @@ tagConsumableA21Desc="Elixir of demigods which shields mortals from divine retri
 tagConsumableA22=Aether Cluster
 tagConsumableA22Desc="A large cluster of Aether crystals, humming with strange energy."
 
+#DLC
+tagDLCA01=Illusion: Powdered Wig
+tagDLCA01Desc="The definition of sophistication and style."
+tagDLCA02=Illusion: Swashbuckler's Coat
+tagDLCA02Desc="The preferred choice of adventurers everywhere."
+tagDLCConsumableA01=Will'O'Wisp in a Jar
+tagDLCConsumableA01Desc="A harmless spirit, trapped in a jar."
+tagDLCConsumableA01PetSkill01=Wisp Aura
+tagDLCConsumableA01PetSkill01Desc=The Wisp surrounds you with a warm light that pierces the darkness.
+tagDLCConsumableA02=Burrwitch Brew
+tagDLCConsumableA02Desc="Not for the faint of heart. Side effects may include: nausea, vomiting, forgetting where you were last night."
 
 #ItemNote
 
@@ -1750,6 +1940,11 @@ tagEnchantA009A=Arkovian Rose Powder I
 tagEnchantA009B=Arkovian Rose Powder II
 tagEnchantA009C=Arkovian Rose Powder III
 tagEnchantA009Desc="Powder derived from a vibrant red flower known to grow only high up in the peaks of Old Arkovia."^w^n(Applied to rings and amulets)
+
+tagEnchantA010A=Rotbloom Powder I
+tagEnchantA010A=Rotbloom Powder II
+tagEnchantA010A=Rotbloom Powder III
+tagEnchantA010Desc="Powder derived from a brown-grey flower found growing among carnage and rot."^w^n(Applied to rings and amulets)
 
 tagEnchantA011A=Slithweed Powder I
 tagEnchantA011B=Slithweed Powder II
@@ -1843,7 +2038,7 @@ tagEnchantA028Desc="Folktales speak of a sorcerous powder which, when thrown upo
 
 tagEnchantA029A=Divine Flame I
 tagEnchantA029B=Divine Flame II
-tagEnchantA029C=Divine Flame II
+tagEnchantA029C=Divine Flame III
 tagEnchantA029Desc="Powder used by Kymon's Chosen during ceremonies. When thrown upon a brazier, it erupts in sparking embers. "^w^n(Applied to rings and amulets)
 
 tagEnchantA030A=Blessed Ashes I
@@ -2635,7 +2830,7 @@ tagPrefixAO005=Searing
 tagPrefixAO006=Poisoned
 tagPrefixAO007=Charged
 tagPrefixAO008=Vampiric
-tagPrefixAO009=Haunted
+tagPrefixAO009=Draining
 tagPrefixAO010=Sapping
 tagPrefixAO011=Corrosive
 tagPrefixAO012=Warped
@@ -2859,7 +3054,7 @@ tagSuffixB007_Ar_A=of Nature's Bounty
 tagSuffixB008_Ar_A=of Albrecht's Focus
 tagSuffixB009_Ar_A=of the Gildam Arcanum
 tagSuffixB010_Ar_A=of the Void
-tagSuffixB011_Ar_A=of the Druid
+tagSuffixB011_Ar_A=of the Grove
 tagSuffixB012_Ar_A=of Blades
 tagSuffixB013_Ar_A=of Heroism
 tagSuffixB014_Ar_A=of the Dranghoul
@@ -3035,6 +3230,7 @@ tagChestOneShot_BurrwitchCave01=Monster's Hoard
 tagChestOneShot_LowerCrossingCave01=Monster's Hoard
 tagChestOneShot_CultistSummoner=Ikilzor's Chest
 tagChestOneShot_ChthonicAbomination=Chthonic Chest
+tagChestOneShot_HiddenWealth=Hidden Wealth
 
 #Interactive Objects
 tagShrineConstitutionA01=Untouched Meal
@@ -3068,9 +3264,12 @@ tagMineDoor=Mine Door
 tagEpicDoor_StepsOfTorment=Gates of Anguish
 tagEpicDoor_StepsOfTormentLocked= {^R} ~ Sealed by Ancient Power
 tagLocked= {^R} ~ Locked
+tagBlocked= {^R} ~ the Cave-In Blocks the way
 tagUGDoorDermapteranQueen=Entrance to Queen's Lair
 tagUGDoorDermapteranQueenLocked= {^R} ~ Sealed by the Grand Viziers
 tagDoorRampart=Barricaded Doors
+tagDoorWarden=Iron Doors
+tagDoorFarmland=Wooden Gate
 
 #Quest Rewards
 
