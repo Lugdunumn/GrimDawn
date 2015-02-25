@@ -82,6 +82,11 @@ tagTutorialTip24Title=Death
 tagTutorialTip24TextA=When your health reaches 0, your character will die.{^n}{^n}Take advantage of your character's rapid health regeneration, which activates when out of combat for a few seconds. When that is not enough, remember to use potions and skills to stay alive.
 tagTutorialTip24TextB=When you die, you will lose some experience and your character will respawn in the last sanctuary you visited. The experience penalty will increase as your character gains levels, but you can regain some of the lost experience by recovering your Grave Marker.
 
+tagTutorialTip26Title=Chat
+tagTutorialTip26TextA=You can use the Chat Window to send messages to other players in your game session. To send a private message, choose a recipient by clicking on the "{^y}Send To{^w}" button.
+tagTutorialTip26SubtitleA=Linking Items
+tagTutorialTip26TextB=To link items in the chat, shift-click on the desired item with the chat open. A message will be automatically sent with a link to the item.
+
 tagTutorialTip27Title=Grim Dawn Multiplayer
 tagTutorialTip27TextA=You can join a party with other players in the game to share experience, iron bits and to initiate trades. Parties are also important for PvP sessions.
 tagTutorialTip27CaptionA=Shortcut key: {^b}{%t0}{^w}
@@ -113,8 +118,9 @@ tagTutorialTip34TextA=If your inventory becomes full, you may wish to visit a me
 tagTutorialTip34TextB=Merchants can be found in human-controlled sanctuaries, but you may also encounter traveling merchants out in the world. Look for the merchant symbol on the Compass or in the Map Window.
 
 tagTutorialTip35Title=Pets
-tagTutorialTip35TextA=Pets automatically travel and fight alongside you. If you wish to give your pets direct commands, you can hold down "{^b}{%t0}{^w}" while clicking on the desired pet in the lower left of the screen, then select a target.
+tagTutorialTip35TextA=Pets automatically travel and fight alongside you. If you wish to give your pets direct commands, you can hold down "{^b}{%t0}{^w}" while clicking on the desired pet in the upper left of the screen, then select a target.
 tagTutorialTip35TextB=You can dismiss your pets at any time by right-clicking their portraits and selecting "{^Y}Disband Pet{^w}".
+tagTutorialTip35TextC=You can order all pets to attack or move to a target by commanding them using the {^Y}Pet Attack{^w} skill. To assign this skill, right-click on a slot in the Quickbar or on the mouse buttons to the right of it and select it from the menu.
 
 tagTutorialTip36Title=Skill Reallocation
 tagTutorialTip36TextA=Spirit Guides allow you to undo your skill point selections. Click on a skill icon in the Spirit Guide's UI to remove one point from that skill. The cost of doing so increases as you remove subsequent skill points.
@@ -122,14 +128,15 @@ tagTutorialTip36TextB=You cannot remove points invested in your Mastery level. I
 
 tagTutorialTip37Title=Smuggler Window
 tagTutorialTip37TextA=The Smuggler can store your items, and even exchange them between your characters! You can access your stash at any Smuggler you find throughout Cairn.{^N}Items can be transferred quickly using Shift-Right Click.
-tagTutorialTip37TextB=You can expand your storage by clicking the Expand Stash button. This will cost you some Iron Bits.{^N}{^N}Click on Item Transfer to share items with your other characters.
+tagTutorialTip37TextB=Click on Item Transfer to share items with your other characters.
 
 tagTutorialTip38Tile=Item Transfer
-tagTutorialTip38TextA=Items placed in the Smuggler's Item Transfer UI are shared between all your characters (separated by Normal and Hardcore mode)
+tagTutorialTip38TextA=Items placed in the Smuggler's Item Transfer UI are shared between all your characters (separated by Normal and Hardcore mode).
+tagTutorialTip38TextB=You can expand your shared storage by purchasing additional tabs, visible along the left side of the UI.{^N}{^N}This will cost you some Iron Bits.
 tagTutorialTip38SubtitleA=Transfer Between Characters
-tagTutorialTip38TextB=To transfer items, place them in the Item Transfer UI. When you load another character, you can access these items from the Smuggler.
+tagTutorialTip38TextC=To transfer items, place them in the Item Transfer UI. When you load another character, you can access these items from the Smuggler.
 tagTutorialTip38SubtitleB=Transfer Between Players
-tagTutorialTip38TextC=In order to trade items with other player's characters in multiplayer games, you must use the Trade function instead.
+tagTutorialTip38TextD=In order to trade items with other player's characters in multiplayer games, you must use the Trade function instead.
 
 tagTutorialTip39Title=Inventor
 tagTutorialTip39TextA=Inventors are capable of removing components from items. Either the item or the component is preserved in the process.
@@ -162,3 +169,15 @@ tagTutorialTip47Title=Dismantling
 tagTutorialTip47TextA=You have unlocked a new feature for the Inventor, allowing you to break down items into Scrap, with a chance of generating a Component piece. The more powerful the item, the more likely it will generate powerful Components.
 tagTutorialTip47SubtitleA=Dismantling an Item
 tagTutorialTip47TextB=To Dismantle an item, you will require Dynamite and iron bits. A Dismantled item is destroyed forever. Place an item of at least Magical quality in the Inventor's Dismantling UI to begin.{^N}{^N}Upon pressing the Dismantle button, the required Dynamite and iron bits cost is deducted from your inventory and the item is converted to basic parts.{^N}{^N}
+
+tagTutorialTip49Title=Weapon Comparison
+tagTutorialTip49TextA=When you hover over an item in your inventory. You will see a side-by-side comparison of that item with what you currently have equipped. In the case of weapons, you will also see additional information comparing the Damage per Second (DPS).
+tagTutorialTip49SubtitleA=Comparing without Components
+tagTutorialTip49TextB=You can compare the two weapons without any attached components by holding the "{^b}CTRL{^w}" key.
+
+tagTutorialTip50Title=Augments
+tagTutorialTip50TextA=Augments come in the form of enchanted powders, which  can be used to upgrade your equipment. The creation of Augments is a carefully guarded secret of Cairn's various Factions.
+tagTutorialTip50TextB=To use an augment, right-click on it. You can then apply it to an appropriate item. Once applied, an Augment cannot be removed, but it can be replaced with another.
+
+tagTutorialTip51Title=Applying Augments
+tagTutorialTip51TextA=Right-click an Augment to select it, then left-click on the item you wish to apply it to.{^N}{^N}Note that Augments can only be applied to specific item types and cannot be removed once applied; but you can overwrite an existing Augment with another.

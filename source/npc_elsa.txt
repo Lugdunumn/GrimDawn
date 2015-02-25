@@ -1,13 +1,4 @@
 Elsa
-You again?
-Where's Mornay?
-You mean he came out here looking for me? That fool probably got himself eaten by a troll.
-You're awfully content with that.
-He and I never saw eye to eye. I don't wish anything evil upon him, but whether he lives or dies doesn't matter much to me either.
-Goodbye.
-Perhaps I should go look for him.
-Stuff.
-Goodbye.
 You don't smell like one of Cronley's gang; are you another from Devil's Crossing then?
 If your name is Elsa, then a mutual friend is looking for you.
 I can only assume you mean Mornay... Idiot nearly got me killed out in Old Arkovia. Bandits got us in the night, drawn to his damned fire. They tied me up and dragged me back towards their camp, probably to share me with the rest of the gang.{^n}{^n}Shame for them they weren't very good at tying knots. I slit their throats while they slept and made off on my own.
@@ -44,7 +35,4 @@ Interesting. Thanks.
 
 
 Thanks for the info.
-NEW STUFF FOR ACT 3
-Things to say.
-Bye.
 Alright then.

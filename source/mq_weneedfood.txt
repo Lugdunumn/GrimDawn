@@ -10,14 +10,15 @@ Cross the bridge near Twin Falls to enter Homestead
 
 Explore beyond Smugglers Pass
 You have traveled through Smuggler's Pass and emerged in Deadman's Gulch. If Barnabas' memory is to be believed, there has to be a way to Homestead through here.
+Follow the Prospector's Trail to Homestead
 
+Clear Rift
 
-Search for a path to Homestead through Deadman's Gulch.
+Clear out the Aetherials outside Homestead
 
-Speak to Ulgrim
+Speak to Douglass
 You have found a group of refugees out in Deadman's Gulch, stuck in a raging battle between the trolls and Aetherials. The man in charge appears to be Ulgrim. You should speak to him.
-Speak to Ulgrim in Deadman's Gulch
-
+Speak to Douglass in Homestead
 
 
 

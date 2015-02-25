@@ -73,6 +73,9 @@ tagSkillDefaultAttackDescription01=Attacks with your equipped weapon.
 tagSkillDefaultMoveTo=Move To
 tagSkillDefaultMoveToDescription=Move to selected location.
 
+tagSkillDefaultPetAttack=Pet Attack
+tagSkillDefaultPetAttackDescription=Command all controllable pets to attack.
+
 tagSkillInnate=Innate Ability
 tagSkillSumLVL=Increases with summoning level.
 
@@ -123,7 +126,7 @@ tagClass01SkillDescription05C=A more powerful form of Blade Arc in which the Sol
 tagClass01SkillName06A=Markovian's Advantage
 tagClass01SkillDescription06A=The renowned tactician Markovian always maneuvered to strike from the higher ground.  This classic attack, inspired by Markovian's battlefield tactics, features a powerful downward strike to throw enemies off balance, weakening their defenses.
 tagClass01SkillName06B=Zolhan's Technique
-tagClass01SkillDescription06B=Named for the famed fighting master, this attack uses a low center of mass and powerful thrust to imbalance your opponents. ^oWhen used with a melee weapon, the attack strikes multiple nearby targets.
+tagClass01SkillDescription06B=Named for the famed fighting master, this attack uses a low center of mass and powerful swing to imbalance your opponents. ^oWhen used with a melee weapon, the attack strikes multiple nearby targets.
 
 tagClass01SkillName07A=Fighting Spirit
 tagClass01SkillDescription07A=Far from beating you into submission, the sting of enemy blows rouses your anger instead, adding extra force to your attacks.
@@ -219,7 +222,7 @@ tagClass02SkillName06C=Flame Jet
 tagClass02SkillDescription06C=Emits a deadly jet of white-hot flame to incinerate enemies that pass over it.
 
 tagClass02SkillName07A=Blast Shield
-tagClass02SkillDescription07A=A combination of military gear and pyromancy creates a ward capable of absorbing a fixed amount of fire damage before collapsing. ^oChance to activate when struck by Fire Damage. The shield remains active until it has absorbed its capacity in Fire Damage.
+tagClass02SkillDescription07A=A combination of military gear and pyromancy creates a ward capable of absorbing a fixed amount of fire and pierce damage before collapsing. ^oChance to activate when struck by Fire or Pierce Damage. The shield remains active until it has absorbed its capacity in damage.
 
 tagClass02SkillName07B=Ulzuin's Chosen
 tagClass02SkillDescription07B=Those who have sacrificed much in the pursuit of pyrotechnics eventually come to be favored by Ulzuin, receiving his blessing in wreaking fiery devastation upon the world. ^o[Requires and affects Grenado and Canister Bomb]
@@ -416,7 +419,7 @@ tagClass04SkillName07B=Night's Chill
 tagClass04SkillDescription07B=Causes foes affected by the Veil of Shadow to feel the dark chill of the night fall over them, sapping their life and weakening their defenses.
 
 tagClass04SkillName08A=Blade Spirit
-tagClass04SkillDescription08A=Conjure a swirling cloud of lethal blades that will roam the battlefield, slicing enemies to pieces before finally expiring in a shower of jagged shards.
+tagClass04SkillDescription08A=Conjure a swirling cloud of lethal blades that will roam the battlefield, slicing enemies to pieces before finally expiring in a shower of jagged shards. ^oBlade Spirits are considered pets and benefit from pet bonuses.
 tagClass04SkillName08PetA=Whirling Blades
 tagClass04SkillName08PetB=Blade Burst
 tagClass04SkillDescription08PetB=The Blade Spirit shoots out eviscerating blades in all directions.
@@ -484,7 +487,7 @@ tagClass05SkillDescription02A=Iskandra taught her students that the most efficie
 tagClass05SkillName02B=Overload
 tagClass05SkillDescription02B=The incantation becomes overloaded with arcane forces, causing your weapons to crackle with the raw powers of the elements.
 tagClass05SkillName02C=Elemental Balance
-tagClass05SkillDescription02C=Strike a finely-tuned balance within your incantation, harmonizing the opposing forces of fire and ice with wild electricity to create pure arcane energy.
+tagClass05SkillDescription02C=Strike a finely-tuned balance within your incantation, harmonizing the opposing forces of fire and ice with wild electricity.
 tagClass05SkillName02D=Manifestation
 tagClass05SkillDescription02D=Arcane energies manifest in many forms. Arcanists who delve into the art of summoning often transfer some of their power to their loyal minions so that they can better serve the will of their masters.
 
@@ -764,7 +767,7 @@ tagItemSkillB029Name=Ring of Rimefire
 tagItemSkillB029Desc=Surrounds the caster in a ring of ice that chills enemies within its radius.
 
 tagItemSkillB030Name=Lightning Sphere
-tagItemSkillB030Desc=Releases a concentrated burst of static energy at the attacker which passes through foes.
+tagItemSkillB030Desc=Releases a concentrated burst of static energy which passes through foes.
 
 tagItemSkillB031Name=Arcane Tempest
 tagItemSkillB031Desc=Releases a concentrated burst of arcane energy around you, igniting the air in an instant.
@@ -931,6 +934,8 @@ tagItemSkillC050Desc=In times of great danger, the Lichguard protects its bearer
 
 tagItemSkillC051Name=Summon Revenant of Og'Napesh
 tagItemSkillC051Desc=Channel the dark writings of the Grimoire of Og'Napesh to summon his most foul revenant back into the world of the living.
+tagItemSkillC051Pet01=Shield Defense
+tagItemSkillC051Pet01Desc=The Revenant wards off nearby allies against crowd control and bolsters their armor and retaliation.
 
 tagItemSkillC052Name=Menhir's Blessing
 tagItemSkillC052Desc=Bless nearby allies with a sacred word of power, bestowing Menhir's Blessing. ^oThis ability must be toggled to maintain its effect.
@@ -1148,7 +1153,7 @@ tagCompSkillA008Name=Blooddrinker II
 tagCompSkillA008Desc=Empower your attacks with vampiric energy.
 
 tagCompSkillA009Name=Chaos Bolt
-tagCompSkillA009Desc=Unleashe a bolt of chaotic energies at the target.
+tagCompSkillA009Desc=Unleash a bolt of chaotic energies at the target.
 
 tagCompSkillA010Name=Chill Aura I
 tagCompSkillA010Desc=Empower your attacks and those of your nearby allies with a deathly chill. ^oThis ability must be toggled to maintain its effect.
@@ -1440,7 +1445,9 @@ tagConsumableSkill_A19Desc=Fills you with a soothing warmth.
 tagConsumableSkill_A20=Royal Jelly Ointment
 tagConsumableSkill_A20Desc=Fills you with a soothing warmth.
 tagConsumableSkill_A21=Celestial Bane
-tagConsumableSkill_A21Desc=A divine light suffuses your flesh.
+tagConsumableSkill_A21Desc=Suffuses your flesh with a divine light.
+tagConsumableSkill_A22=Aether Cluster
+tagConsumableSkill_A22Desc=Shatter the crystal formation to release its energies.
 
 #SkillsGeneral
 
@@ -1495,6 +1502,9 @@ tagReallocationDescription=Clicking on a skill icon will remove a skill point.  
 tagTemplateName=Rename Me
 tagTemplateDescription=Describe Me
 
-#ItemSets
 
-tagItemSetA001=SoulChill Set
+
+#EnemySkills
+
+tagEnemySkillA01=Despair Aura
+tagEnemySkillA01_Desc=The Aetherial Harbinger's presence fills you with dread, slowing your actions and inflicting Aether damage.

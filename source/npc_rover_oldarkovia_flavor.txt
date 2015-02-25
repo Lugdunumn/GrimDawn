@@ -1,5 +1,8 @@
 Amkala
 Did you know that Arkovia is the ancient birthplace of the Rhowari? I could tell you much of this land if you have time for a tale.
+I have found some texts you may find interesting.
+That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
+Farewell.
 Please, I'd be interested to hear the tale of Old Arkovia.
 The ruins that dot the landscape here were once part of a thriving culture in ancient times. Arkovia prospered by acting as a trade hub between the western lands and the great lake.{^n}{^n}From the little fishing village of New Harbor, which is hardly a harbor at all, the stone pylons of Arkovia's once massive docks can be seen still jutting from the water, the wood long rotted away.
 
@@ -33,8 +36,10 @@ I have to be on my way.
 May your path be true.
 Farewell.
 Go in peace, but beware the spirits of this land. They are treacherous.
+
 I'll heed your words.
 You are always welcome here.
+
 
 
 Thank you, I'll remember that.

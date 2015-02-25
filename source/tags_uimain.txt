@@ -276,6 +276,7 @@ tagNetworkStatusTest=Test
 tagNetworkNoOpts=Network Options are unavailable in game.{^n}Please exit to the Main Menu and open the Options Menu.
 tagCloudSaving=Enable Cloud Saving
 tagResetCloud=Delete Cloud Saves
+tagDownloadCloud=Download Cloud Saves
 
 tagUPnPCheckFail=UPnP Services are not available to configure your router to host a Grim Dawn Server.  Please check your router settings and enable UPnP, or, if that is not possible, manually configure your router to open port 27016 for both the UDP and TCP protocols.
 
@@ -408,10 +409,12 @@ tagCharImportTQCampaign=Grim Dawn Campaign Characters
 tagCharImportTQCustom=Grim Dawn Custom Characters
 tagCharImportTQXCampaign=Grim Dawn Campaign Characters
 tagCharImportTitle=Import Character
+tagInstancedLoot=Instanced Loot
 
 tagLobbyLock=Password Locked 
 tagLobbyDifficulty=Difficulty
 tagLobbyAutoparty=Auto-Party Enabled 
+tagLobbyInstancedLoot=Instanced Loot
 tagLobbyLanguage=Language 
 tagLobbyPVP=PVP Enabled
 tagLobbyHardcore=Hardcore Enabled
@@ -490,3 +493,5 @@ tagMenuError10=Unable to connect to server.  The mod or map version does not ma
 tagReportUsageStats=Help us improve Grim Dawn by periodically reporting anonymous system and gameplay stats?
 tagImportToSteamCloud=Steam Cloud Saving is enabled. Import existing characters?
 tagResetCloudWarning=Are you sure you want to delete all characters and data stored in the cloud?
+tagDownloadCloudWarning=Are you sure you want to download cloud saves? Locally saved characters and data will be overwritten!
+tagWorking=Working...

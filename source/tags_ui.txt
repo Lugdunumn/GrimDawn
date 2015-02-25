@@ -26,7 +26,7 @@ Chat=Chat:
 
 tagGamePaused=Game Paused
 
-tagSkillNotReady={^r}This skill is not ready
+tagSkillNotReady={^r}That skill is not ready
 
 tagTransferStashError={^r}That item cannot be placed there
 
@@ -129,8 +129,8 @@ tagFactionStateEnemy3=Loathed
 tagFactionStateEnemy2=Despised
 tagFactionStateEnemy1=Hostile
 tagFactionStateNeutral=Tolerated
-tagFactionStateFriend1=Accepted
-tagFactionStateFriend2=Friendly
+tagFactionStateFriend1=Friendly
+tagFactionStateFriend2=Respected
 tagFactionStateFriend3=Trusted
 tagFactionStateFriend4=Honored
 tagFactionStateFriend5=Revered
@@ -147,6 +147,10 @@ tagFactionStateRevered=Revered
 tagFactionProgress=Required to Next Level: {^b}{%d0}
 tagFactionStatusChange={^w}You are now {%s0} {^w}with {^b}{%s1}
 tagFactionEnemies=Enemies: {^b}
+tagFactionDiscountPositive=Faction Discount: {^r}+ {%.0f0}%
+tagFactionDiscountNegative=Faction Discount: {^g}- {%.0f0}%
+tagFactionDiscountZero=Faction Discount: {^s}{%.0f0}%
+tagFactionDoorLocked={^r}Your standing with {^b}{%s0} {^r}does not permit you to enter here
 
 #HUD
 
@@ -308,7 +312,7 @@ tagCharStatsOA=Offensive Ability
 tagCharStatsOALast=Last Attacked: 
 tagCharStatsOAHit=Chance to Hit:
 tagCharStatsOACrit=Chance to Crit:
-tagCharStatsOADescription=A higher Offensive Ability (OA) increases your chance of successfully landing melee and ranged attacks, scoring critical hits, and the damage of critical hits. An Offensive Ability lower than your opponent's Defensive Ability will greatly increase your chance to miss.  Offensive Ability is affected by skills, items, and Cunning.
+tagCharStatsOADescription=A higher Offensive Ability (OA) increases your chance of successfully landing attacks and spells, scoring critical hits, and the damage of critical hits. An Offensive Ability lower than your opponent's Defensive Ability will greatly increase your chance to miss.  Offensive Ability is affected by skills, items, and Cunning.
 
 tagCharStatsDAAlert=Defensive Ability {^b}(?) 
 tagCharStatsDA=Defensive Ability
@@ -332,6 +336,7 @@ tagRollFormat12={%s0} {^b}{%.0f1}% - {%.0f2}%
 tagRollFormat13={%s0} {^b}{%.1f1}%
 tagRollFormat14={%s0} {^b}{%.0f1}
 tagRollFormat15={%s0} {^b}+ {%.1f1}% + {%.0f2}
+tagRollFormat16={%s0} {^s}{%.2f1} {^b}- {%.2f2}
 tagFormatPercent={%.0f}%
 tagFormatPlusPercent=+ {%.0f}%
 tagFormatMinusPercent=- {%.0f}%
@@ -741,6 +746,15 @@ tagVendorTab04B=A mix of old relics and home-brewed remedies.
 tagVendorTab05A=Buyback
 tagVendorTab05B=Changed your mind? You can buy your items back at no additional charge while you are at the vendor. As soon as you leave though, the sale is finalized.
 
+tagFactionVendorTab01A=Friendly
+tagFactionVendorTab01B=Friendly
+tagFactionVendorTab02A=Respected
+tagFactionVendorTab02B=Respected
+tagFactionVendorTab03A=Honored
+tagFactionVendorTab03B=Honored
+tagFactionVendorTab04A=Revered
+tagFactionVendorTab04B=Revered
+
 tagVendorRolloverName=Salvage Dealer
 tagVendorRolloverDescription=Dealers profit from humankind's misfortune by selling salvaged or stolen goods to those who dare venture out beyond the human strongholds. It's best not to ask for an item's origins.
 
@@ -757,6 +771,7 @@ tagMarketError01=You do not have enough iron.
 tagMarketError02=There is not enough room in your inventory.
 tagMarketError03=That item has been sold.
 tagMarketError04=That item cannot be sold.
+tagMarketError05=Your faction standing is not high enough.
 CanNotBeSoldHere=This vendor will not accept that item.
 Sold=Sold
 
@@ -937,7 +952,8 @@ tagInfoButtonOk=OK
 tagGameOver=You are dead!
 
 SimpleStringFormat={%s0}
-SimpleStringsFormat={%s0} {%s1}
+SimpleStringsFormat={%s0}{%s1}
+TripleStringFormat={%s0}{%s1}{%s2}
 SkillBaseNamesFormat={    %s0}
 CostFormat=Cost: {%d0}
 ManaDisplayFormat=Energy  {%d0} / {%d1} ({%d2} Reserved)
@@ -1117,6 +1133,7 @@ IntelligenceText={%.0f0} Spirit
 FloatFormat={%.0f0}
 Float1Format={%.1f0}
 Float2Format={%.2f0}
+NegativeFloat2Format=- {%.2f0}
 IntFormat={%d0}
 CharacterLevelDescription={%s0} - [Level {%d1}]
 ObjectIdFormat=({%d0})  
@@ -1283,6 +1300,7 @@ tagSetItems=({%d0}) Set
 tagSecond={^E}Second
 tagSeconds={^E}Seconds
 DamagePerSecond={%.1f0} {^S}Damage Per Second (If Equipped)
+DamagePerSecondOffHand={%.1f0} {^S}Damage Per Second (Off-Hand)
 DamagePhysicalChance= {^E}Physical Damage
 DamageBasePhysical= {^S}Physical Damage
 DamageBasePierceRatio={%.0f0}% {^S}Armor Piercing

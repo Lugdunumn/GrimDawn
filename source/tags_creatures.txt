@@ -30,14 +30,23 @@ tagZealot_AncestralSpirit=Ancestral Spirit
 #CreatureAetherial
 
 tagAetherCrystalA01=Aether Crystal
+tagAetherCrystalA02=Aether Crystal Cluster
+tagAetherCrystalA03=Aether Crytal Formation
 tagAnomalyB01=Warp Elemental
 tagWindDevil_PoisonA01=Poison Wind Devil
 tagAetherObeliskA01=Aetherial Obelisk
 tagAetherObeliskB01=Aetherial Terraformer
 
+tagBossAetherObelisk01=Herald of the Flame
+
 tagEnemyAetherialA01=Aetherial Watcher
 tagEnemyAetherialB01=Aetherial Wraith
 tagEnemyAetherialC01=Aetherial Spectre
+
+tagEnemyAetherialAbominationB01=Aetherial Abomination
+tagEnemyAetherialAbominationC01=Fused Terror
+
+tagAetherialAbominationBoss01=The Amalgamation
 
 #CreatureBoar
 
@@ -109,11 +118,13 @@ tagVoidFiendBoss01=Ballog'Nath, the Hellfire
 
 tagEnemyChthonianDevourerA01=Chthonian Hungerer
 tagEnemyChthonianDevourerB01=Chthonian Devourer
+tagEnemyChthonianDevourerB02=Chthonian Gorger
 
 tagChthonianDevourerHeroH01=Nur'Garu, Jaws of Oblivion
 tagChthonianDevourerHeroH02=Sargo'Din, the Hunering Maw
-tagChthonianDevourerHeroH03=Nye'Kazul ~ Burning
-tagChthonianDevourerHeroH04=Waban'Ak ~ Electrified
+tagChthonianDevourerHeroH03=Narl'Maash, the Engorged
+tagChthonianDevourerHeroH04=Nye'Kazul, the Maw of Fire
+tagChthonianDevourerHeroH05=Waban'Ak, the Sparkmaw
 
 #CreatureDranghoul
 
@@ -173,6 +184,7 @@ tagGhostBoss02=Nomos Dred
 tagGhostBoss03=Laudos Vagra
 tagGhostBoss04=Rhovena Kur
 tagGhostBoss05=Alkamos, Lord Executioner
+tagGhostBoss06=Wraith of Sorrows
 
 #CreatureGolem
 
@@ -276,6 +288,7 @@ tagEnemyBloodswornMiniBoss01=Salazar, Blade of Ch'thon
 tagEnemyBloodswornMiniBoss02=Bolvar, the Bloodbinder
 tagEnemyBloodswornMiniBoss03=Zaria, the Carver
 tagBloodswornBoss01=Bloodlord Thalonis
+tagBloodswornBoss02=Karroz, Sigil of Ch'thon
 
 tagEnemyHumanOutlaw_Wightmire_MeleeA01=Convict ~ Lackey
 tagEnemyHumanOutlaw_Wightmire_MeleeB01=Convict ~ Thug
@@ -362,6 +375,7 @@ tagDermapteranHeroH05=Vildrix ~ Voidtouched
 tagDermapteranBoss01=Grand Vizier Lozakal
 tagDermapteranBoss02=Grand Vizier Inixil
 tagDermapteranBoss03=Swarm Queen Ravna
+tagDermapteranBoss04=Vizier Anoxis
 
 #CreatureInsectMosquito
 
@@ -405,9 +419,12 @@ tagInsectSwarmHeroH03=Omnol, the Blight ~ Diseased
 
 #CreatureManticores
 
-tagEnemyManticoreA01=Manticore Blackmane
-tagEnemyManticoreB01=Manticore Nightstalker
+tagEnemyManticoreA01=Manticore Whitemane
+tagEnemyManticoreA02=Manticore Blackmane
+tagEnemyManticoreB01=Manticore Wastestalker
+tagEnemyManticoreB02=Manticore Nightstalker
 tagEnemyManticoreC01=Manticore Alpha
+
 
 tagManticoreHeroH01=Raxa, the Jade Huntress
 tagManticoreHeroH02=Neleron, the Eyes of Death
@@ -438,6 +455,9 @@ tagEnemyPrawnB01=Stormscale Rift Scourge
 tagEnemyPrawnB02=Bladespine Rift Scourge
 tagEnemyPrawnC01=Infested Rift Scourge
 tagEnemyPrawnSummonA01=Swarmborn Rift Scourge
+
+tagEnemyCavePrawnA01=Pale Cavern Crawler
+tagEnemyCavePrawnB01=Albino Cavern Crawler
 
 tagPrawnHeroH01=Ravacrix, the Ravenous
 tagPrawnHeroH02=Palacrix, the Ancient
@@ -603,6 +623,7 @@ tagEnemyThornedHorrorA01=Briarthorn Horror
 tagEnemyThornedHorrorB01=Briarthorn Terror
 tagEnemyThornedHorrorC01=Briarthorn Monstrosity
 
+
 tagThornedHorrorHeroH01=Terrolean, the Pandemonium
 tagThornedHorrorHeroH02=Korplax, the Overgrown
 tagThornedHorrorHeroH03=Blackthorn ~ Reflective
@@ -612,7 +633,7 @@ tagThornedHorrorHeroH06=Rimebark ~ Frozen
 
 tagThornedHorrorBoss01=Ol' Bloodbriar
 
-tagEnemyAetherHorrorA01=
+tagEnemyAetherHorrorA01=Aetherthorn Horror
 
 tagAetherHorrorHeroH01=Aetheros
 
@@ -664,9 +685,9 @@ tagTrollCorruptedBoss01=Harrath the Slaughterer
 
 #CreatureUnderdwellers
 
-tagEnemyCaveTrollHalfA01=Underdweller Brute
-tagEnemyCaveTrollHalfB01=Underdweller Savage
-tagEnemyCaveTrollHalfB02=Underdweller Mystic
+tagEnemyCaveTrollHalfA01=Trog Blood Drinker
+tagEnemyCaveTrollHalfB01=Trog Flesh Ripper
+tagEnemyCaveTrollHalfB02=Trog Blood Mage
 tagEnemyCaveGrobleA01=Underdweller Runt
 tagEnemyCaveGrobleB01=Underdweller Ritualist
 tagEnemyCaveTrollB01=Underdweller Troll
@@ -697,6 +718,7 @@ tagCavePrawnHeroH03=Blucrix ~ Defender
 
 tagCaveSpiderBoss01=Ungoliax, the Gloomweaver
 tagCavePrawnBoss01=Ikrix, the Ravener
+tagCaveTrollHalfBoss01=Gollus, the Deepdweller
 
 #CreatureVultures
 
@@ -714,6 +736,8 @@ tagHeroVultureH05=Voidtalon ~ Voidtouched
 
 tagEnemyWormA01=Earthbreaker Burrower
 tagEnemyWormB01=Earthbreaker Rotworm
+
+tagEnemyWormDeepDwellerA01=Deepdweller Grub
 
 tagWormHeroH01=Gravner, the Bile-Eater
 tagWormHeroH02=Groundsplitter ~ Electrified
@@ -734,7 +758,7 @@ tagEnemyZombieSoldierA01=Rotting Soldier
 tagEnemyZombieSoldierB01=Rotting Emberguard
 tagEnemyZombieBerserkerA01=Corpsefiend
 
-tagEnemyZombieVoidA01=Ch'thonic Soulless
+tagEnemyZombieVoidA01=Chthonic Soulless
 
 tagEnemyZombieMutatedA01=Fleshwarped Butcher
 tagEnemyZombieMutatedB01=Fleshwarped Thrasher
@@ -773,6 +797,7 @@ tagReanimatorHeroH04=Azgalogg, the Corruptor ~ Defender
 tagReanimatorBossH01=Gethrand, the Betrayed
 tagReanimatorBossH02=Zanbrandt, the Ascended
 tagReanimatorBossH03=Chilldread
+tagReanimatorBossH04=Nazagrad, the Fallen
 
 #Pets
 
@@ -812,7 +837,7 @@ tagEnemySummonAetherTrap=Aether Trap
 tagQuestEnemyReanimator=Kyzogg the Reanimator
 tagQuestEnemyMiltonHart=Milton Hart
 tagQuestEnemyBanditForge=Outlaw Forge
-tagQuestChthonianMonstrosity=Maga'Thel, the Unraveler
+tagQuestChthonianMonstrosity=Mag'Thel, the Unraveler
 
 tagBossTheWarden01=The Warden
 

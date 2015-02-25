@@ -135,6 +135,9 @@ I'll return.
 Where can I find Barnabas and Kasparov?
 The Dead attacks have slowed and their numbers are thinning. I take that as a sign that you've dealt with the source?
 I have killed the Reanimator.
+A creature was doing this? Disturbing. Thanks to your efforts, we may yet hold out here a little longer. {^n}{^n}Take some well-deserved time to rest and recover. {^n}{^n}Welcome to Devil's Crossing!
+Thank you.
+
 A creature was doing this? Disturbing. Thanks to your efforts, we may yet hold out here a little longer. {^n}{^n}I've sent word to the gate guard. Speak to him and he should let you in. Take some well-deserved time to rest and recover. {^n}{^n}Welcome to Devil's Crossing!
 Thank you.
 
