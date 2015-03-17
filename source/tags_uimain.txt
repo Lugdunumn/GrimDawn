@@ -1,4 +1,4 @@
-﻿tagTitleScreenText=Grim Dawn Early Access{^n}©2014 Crate Entertainment, LLC{^n}{^n}Welcome to Grim Dawn Early Access! We appreciate your feedback.{^n}{^n}Please visit us at www.grimdawn.com to participate{^n}in the ongoing development of Grim Dawn!
+﻿tagTitleScreenText=Grim Dawn Early Access{^n}©2015 Crate Entertainment, LLC{^n}{^n}Welcome to Grim Dawn Early Access! We appreciate your feedback.{^n}{^n}Please visit us at www.grimdawn.com to participate{^n}in the ongoing development of Grim Dawn!
 tagDemoScreenText=Thanks for  playing!{^n}{^n}Grim Dawn is currently available on Steam Early Access, or via our website at www.grimdawn.com
 tagMenu01=Play Game
 tagMenu02=Custom Game

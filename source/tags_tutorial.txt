@@ -127,7 +127,7 @@ tagTutorialTip36TextA=Spirit Guides allow you to undo your skill point selection
 tagTutorialTip36TextB=You cannot remove points invested in your Mastery level. In addition, you cannot remove the last point from a skill that has any modifiers with points invested in them.
 
 tagTutorialTip37Title=Smuggler Window
-tagTutorialTip37TextA=The Smuggler can store your items, and even exchange them between your characters! You can access your stash at any Smuggler you find throughout Cairn.{^N}Items can be transferred quickly using Shift-Right Click.
+tagTutorialTip37TextA=The Smuggler can store your items, and even exchange them between your characters! You can access your stash at any Smuggler you find throughout Cairn.{^N}Items can be transferred quickly using Shift-Left Click.
 tagTutorialTip37TextB=Click on Item Transfer to share items with your other characters.
 
 tagTutorialTip38Tile=Item Transfer

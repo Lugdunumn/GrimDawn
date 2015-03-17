@@ -91,7 +91,7 @@ tagClass01SkillDescription01A=The use of weapon forms in combat gives your attac
 tagClass01SkillName01B=Fighting Form
 tagClass01SkillDescription01B=The fury of Cadence resonates with the target, causing heavy bleeding. ^oWith melee weapons, the resonance causes Cadence to strike additional nearby targets.
 tagClass01SkillName01C=Deadly Momentum
-tagClass01SkillDescription01C=You push the advantage following a Cadence strike, briefly causing all of your blows to strike with additional deadly force. ^oDeadly Momentum affects all skills while active.
+tagClass01SkillDescription01C=You push the advantage following a Cadence strike, briefly causing all of your blows to strike with additional deadly force. ^oDeadly Momentum affects all attacks while active.
 tagClass01SkillName01D=Discord
 tagClass01SkillDescription01D=The discord of a wrathful soul flows into the Soldier's pure fighting cadence and sows it with elemental and chaotic energy.
 
@@ -124,9 +124,9 @@ tagClass01SkillName05C=Clean Sweep
 tagClass01SkillDescription05C=A more powerful form of Blade Arc in which the Soldier builds power between attacks to unleash it in one focused burst of intense damage that can knock foes to the ground.
 
 tagClass01SkillName06A=Markovian's Advantage
-tagClass01SkillDescription06A=The renowned tactician Markovian always maneuvered to strike from the higher ground.  This classic attack, inspired by Markovian's battlefield tactics, features a powerful downward strike to throw enemies off balance, weakening their defenses.
+tagClass01SkillDescription06A=The renowned tactician Markovian always maneuvered to strike from the higher ground.  This classic attack, inspired by Markovian's battlefield tactics, features a powerful downward strike to throw enemies off balance, weakening their defenses. ^oCan activate with all weapons.
 tagClass01SkillName06B=Zolhan's Technique
-tagClass01SkillDescription06B=Named for the famed fighting master, this attack uses a low center of mass and powerful swing to imbalance your opponents. ^oWhen used with a melee weapon, the attack strikes multiple nearby targets.
+tagClass01SkillDescription06B=Named for the famed fighting master, this attack uses a low center of mass and powerful swing to imbalance your opponents. ^oCan activate with all weapons. When used with a melee weapon, the attack strikes multiple nearby targets.
 
 tagClass01SkillName07A=Fighting Spirit
 tagClass01SkillDescription07A=Far from beating you into submission, the sting of enemy blows rouses your anger instead, adding extra force to your attacks.
@@ -297,7 +297,7 @@ tagClass03SkillName03B=Manipulation
 tagClass03SkillDescription03B=Subtle manipulation of the bonds of control beguiles minions into feeling overwhelming devotion towards you, causing them to fight with fanatical strength and speed.
 
 tagClass03SkillName04A=Blood of Dreeg
-tagClass03SkillDescription04A=A binding with the great guardian confers some of Dreeg's regenerative ability, while wounds inflicted by enemies will spray caustic blood as though inflicted upon Dreeg himself.
+tagClass03SkillDescription04A=A binding with the great guardian confers some of Dreeg's regenerative ability, while wounds inflicted by enemies will spray caustic blood as though inflicted upon Dreeg himself. ^oThis effect is also applied to nearby allies.
 tagClass03SkillName04B=Armor of the Guardian
 tagClass03SkillDescription04B=The Occultist becomes ensconced in a phantasmal barrier that causes enemy hits to impact as though they were striking the quilled scales of Dreeg.
 tagClass03SkillName04C=Quills of the Guardian
@@ -1460,6 +1460,31 @@ tagConsumableSkill_A22=Aether Cluster
 tagConsumableSkill_A22Desc=Shatter the crystal formation to release its energies.
 tagConsumableSkill_A23=Burrwitch Brew
 tagConsumableSkill_A23Desc=Not for the faint of heart. Side effects may include: nausea, vomiting, forgetting where you were last night.
+
+tagConsumableSkill_F01=Stoneheart Oil
+tagConsumableSkill_F01Desc=Coats your shield with the Stoneheart concoction.
+tagConsumableSkill_F02=Slithblood Tincture
+tagConsumableSkill_F02Desc=An mist of toxins surrounds you.
+tagConsumableSkill_F03=Rhowari Oil
+tagConsumableSkill_F03Desc=Coats your weapon with the Arkovian toxin.
+tagConsumableSkill_F04=Wrath of the Beast Tincture
+tagConsumableSkill_F04Desc=Drives your minions into a frenzy.
+tagConsumableSkill_F05=Dermapteran Oil
+tagConsumableSkill_F05Desc=Coats your weapon with Dermapteran toxin.
+tagConsumableSkill_F06=Courageous Tincture
+tagConsumableSkill_F06Desc=Fills you and your allies with the will to keep on fighting.
+tagConsumableSkill_F07=Heartseeker Oil
+tagConsumablevF07Desc=Coats your weapon with the Heartseeker toxin.
+tagConsumableSkill_F08=Blade-Ward Tincture
+tagConsumableSkill_F08Desc=Surrounds you with swirling blades that strike anything that attacks you.
+tagConsumableSkill_F09=Ice-Blood Oil
+tagConsumableSkill_F09Desc=Coats your weapon with the Ice-Blood concoction.
+tagConsumableSkill_F10=Frostguard Tincture
+tagConsumableSkill_F10Desc=A bone-chilling wind surrounds you.
+tagConsumableSkill_F11=Kymon's Sacred Oil
+tagConsumableSkill_F11Desc=Coats your weapon with oils blessed by Kymon himself.
+tagConsumableSkill_F12=Kymon's Wrath Tincture
+tagConsumableSkill_F12Desc=An explosion of flame emanates from you.
 
 #SkillsGeneral
 

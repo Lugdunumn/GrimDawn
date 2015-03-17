@@ -21,6 +21,7 @@ tagBossKilled=Enemy Boss Killed
 tagXPAwarded={%d0} XP Awarded
 tagRepAwarded=+{%d0} Reputation Awarded with {%s1}
 tagDevotionAwarded={%d0} Devotion Point(s) Awarded
+tagDevotionShrine=Shrine Cleansed
 
 tagUndo=Undo
 Chat=Chat:
@@ -933,13 +934,13 @@ tagVendorTab05A=Buyback
 tagVendorTab05B=Changed your mind? You can buy your items back at no additional charge while you are at the vendor. As soon as you leave though, the sale is finalized.
 
 tagFactionVendorTab01A=Friendly
-tagFactionVendorTab01B=Friendly
+tagFactionVendorTab01B=Faction rewards unlocked at Friendly status.
 tagFactionVendorTab02A=Respected
-tagFactionVendorTab02B=Respected
+tagFactionVendorTab02B=Faction rewards unlocked at Respected status.
 tagFactionVendorTab03A=Honored
-tagFactionVendorTab03B=Honored
+tagFactionVendorTab03B=Faction rewards unlocked at Honored status.
 tagFactionVendorTab04A=Revered
-tagFactionVendorTab04B=Revered
+tagFactionVendorTab04B=Faction rewards unlocked at Revered status.
 
 tagVendorRolloverName=Salvage Dealer
 tagVendorRolloverDescription=Dealers profit from humankind's misfortune by selling salvaged or stolen goods to those who dare venture out beyond the human strongholds. It's best not to ask for an item's origins.
@@ -1561,6 +1562,8 @@ DamagePhysicalReductionPercent=% {^E}Reduced target's Physical Damage
 DamageElementalReductionPercent=% {^E}Reduced target's Elemental Damage
 DamageTotalResistanceReductionPercent=% {^E}Reduced target's Resistances
 DamageTotalResistanceReductionAbsolute= {^E}Reduced target's Resistances
+DamagePhysicalResistanceReductionPercent=% {^E}Reduced target's Physical Resistance
+DamagePhysicalResistanceReductionAbsolute= {^E}Reduced target's Physical Resistance
 DamageDurationFumble=% {^E}Chance for target to Fumble attacks
 DamageDurationProjectileFumble=% {^E}Chance of Impaired Aim to target
 

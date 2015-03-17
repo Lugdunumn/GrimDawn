@@ -73,6 +73,7 @@ tagWeaponSwordD007Desc="The mere sight of this blade fills you with hope."
 tagWeaponSwordF001=Legion Carver
 tagWeaponSwordF002=Chosen Blade
 tagWeaponSwordF003=Devil's Bargain
+tagWeaponSwordF004=Legion Slicer
 
 tagWeaponBluntA000=Club
 tagWeaponBluntA001=Ball Mace
@@ -134,6 +135,7 @@ tagWeaponBluntF001=Devil's Crusher
 tagWeaponBluntF002=Legion Warhammer
 tagWeaponBluntF003=Death's Force
 tagWeaponBluntF004=Rhowari Gavel
+tagWeaponBluntF005=Devil's Cudgel
 
 tagWeaponAxeA000=Woodsman's Axe
 tagWeaponAxeA001=Sawblade
@@ -238,6 +240,7 @@ tagWeaponGun1hF001=Devil's Retribution
 tagWeaponGun1hF002=Solar Revolver
 tagWeaponGun1hF003=Death's Revolver
 tagWeaponGun1hF004=Legion Hand Cannon
+tagWeaponGun1hF005=Death's Sixgun
 
 tagWeaponGun2hA001=Musket
 tagWeaponGun2hA002=Flintlock Rifle
@@ -319,6 +322,7 @@ tagWeaponCrossbow2hD005=Harbinger of Eternal Suffering
 
 tagWeaponCrossbow2hF001=Rhowari Scorpion
 tagWeaponCrossbow2hF002=Chosen Bolter
+tagWeaponCrossbow2hF003=Rhowari Arbalest
 
 tagWeaponMelee2hA001=Greatsword
 tagWeaponMelee2hA002=Warsword
@@ -384,6 +388,8 @@ tagWeaponMelee2hF001=Legion Warblade
 tagWeaponMelee2hF002=Solar Sledge
 tagWeaponMelee2hF003=Death's Scythe
 tagWeaponMelee2hF004=Chosen Warmaul
+tagWeaponMelee2hF005=Lunar Sledge
+tagWeaponMelee2hF006=Chosen Crusher
 
 tagWeaponCaster1hA001=Wand
 tagWeaponCaster1hA002=Scepter
@@ -526,6 +532,8 @@ tagShieldD005=Dawnbreaker's Duty
 tagShieldF001=Devil's Protector
 tagShieldF002=Harvest's Guard
 tagShieldF003=Chosen Fireguard
+tagShieldF004=Harvest's Defender
+tagShieldF005=Chosen Crimsonguard
 
 tagQualityShieldA01=Scrapmetal
 tagQualityShieldA02=Rusty
@@ -609,7 +617,8 @@ tagFocusF006=Rhowari Sky Codex
 tagFocusF007=Death's Ruin
 tagFocusF008=Death's Embrace
 tagFocusF009=Death's Advance
-
+tagFocusF010=Rhowari Spellweaver Codex
+tagFocusF011=Death's Gaze
 
 #WEAPON_QUALITY
 
@@ -1049,6 +1058,24 @@ tagWaistD008=Phantom-Thread Girdle
 tagWaistD008Desc="Woven using thread spun upon the Satan's Spindle from the souls of the damned."
 tagWaistD009=Wildblood Girdle
 
+tagWaistF001=Devil's Cord
+tagWaistF002=Devil's Waistguard
+tagWaistF003=Devil's Girdle
+tagWaistF004=Rhowari Cord
+tagWaistF005=Rhowari Waistguard
+tagWaistF006=Rhowari Girdle
+tagWaistF007=Solar Belt
+tagWaistF008=Solar Waistguard
+tagWaistF009=Solar Girdle
+tagWaistF010=Legion Belt
+tagWaistF011=Legion Waistguard
+tagWaistF012=Legion Girdle
+tagWaistF013=Death's Cord
+tagWaistF014=Death's Waistguard
+tagWaistF015=Death's Girdle
+tagWaistF016=Chosen Cord
+tagWaistF017=Chosen Waistguard
+tagWaistF018=Chosen Girdle
 
 #ArmorHands
 
@@ -1558,6 +1585,24 @@ tagBlueprint_WeaponC005=Blueprint: Tremor
 tagBlueprint_WeaponC006=Blueprint: Spellfire Wand
 tagBlueprint_WeaponC007=Blueprint: Firestorm Scepter
 
+tagBlueprint_WeaponF001=Blueprint: Devil's Cudgel
+tagBlueprint_WeaponF002=Blueprint: Defender of Devil's Crossing
+tagBlueprint_WeaponF003=Blueprint: Rhowari Spellweaver Codex
+tagBlueprint_WeaponF004=Blueprint: Rhowari Arbalest
+tagBlueprint_WeaponF005=Blueprint: Omen
+tagBlueprint_WeaponF006=Blueprint: Lunar Sledge
+tagBlueprint_WeaponF007=Blueprint: Harvest's Defender
+tagBlueprint_WeaponF008=Blueprint: Boltspitter
+tagBlueprint_WeaponF009=Blueprint: Legion Slicer
+tagBlueprint_WeaponF010=Blueprint: Crest of the Black Legion
+tagBlueprint_WeaponF011=Blueprint: Death's Sixgun
+tagBlueprint_WeaponF012=Blueprint: Death's Gaze
+tagBlueprint_WeaponF013=Blueprint: Reaper's Touch
+tagBlueprint_WeaponF014=Blueprint: Chosen Crimsonguard
+tagBlueprint_WeaponF015=Blueprint: Chosen Crusher
+tagBlueprint_WeaponF016=Blueprint: Orwell's Revolver
+
+
 tagBlueprint_ArmorB001=Blueprint: Adept's Boots
 tagBlueprint_ArmorB002=Blueprint: Adept's Greaves
 tagBlueprint_ArmorB003=Blueprint: Squire's Boots
@@ -1570,6 +1615,25 @@ tagBlueprint_ArmorB009=Blueprint: Adept's Hood
 tagBlueprint_ArmorB010=Blueprint: Adept's Circlet
 tagBlueprint_ArmorB011=Blueprint: Ranger's Helm
 tagBlueprint_ArmorB012=Blueprint: Ranger's Casque
+
+tagBlueprint_ArmorF001=Blueprint: Devil's Cord
+tagBlueprint_ArmorF002=Blueprint: Devil's Waistguard
+tagBlueprint_ArmorF003=Blueprint: Devil's Girdle
+tagBlueprint_ArmorF004=Blueprint: Rhowari Cord
+tagBlueprint_ArmorF005=Blueprint: Rhowari Waistguard
+tagBlueprint_ArmorF006=Blueprint: Rhowari Girdle
+tagBlueprint_ArmorF007=Blueprint: Solar Belt
+tagBlueprint_ArmorF008=Blueprint: Solar Waistguard
+tagBlueprint_ArmorF009=Blueprint: Solar Girdle
+tagBlueprint_ArmorF010=Blueprint: Legion Belt
+tagBlueprint_ArmorF011=Blueprint: Legion Waistguard
+tagBlueprint_ArmorF012=Blueprint: Legion Girdle
+tagBlueprint_ArmorF013=Blueprint: Death's Cord
+tagBlueprint_ArmorF014=Blueprint: Death's Waistguard
+tagBlueprint_ArmorF015=Blueprint: Death's Girdle
+tagBlueprint_ArmorF016=Blueprint: Chosen Cord
+tagBlueprint_ArmorF017=Blueprint: Chosen Waistguard
+tagBlueprint_ArmorF018=Blueprint: Chosen Girdle
 
 tagBlueprint_ArmorC001=Blueprint: Guardsman's Defender
 tagBlueprint_ArmorC002=Blueprint: Guardsman's Breastplate
@@ -1693,7 +1757,7 @@ tagRelicD019=Oleron's Wrath
 tagRelicD019Desc="Blood... agony... death. Will you deny the drums of war?"
 tagRelicD020=Menhir's Bastion
 tagRelicD020Desc="The earth will suffer neither foul spirit nor vile blood of heathens. Rise up to her defense and Cairn will rise with you."
-tagRelicD021=Iskandra's Balanace
+tagRelicD021=Iskandra's Balance
 tagRelicD021Desc="The first lesson every aspiring must learn is to find a balance in the raw forces of magic that surround us all."
 
 #Crafting
@@ -1863,6 +1927,31 @@ tagConsumableA21=Celestial Bane
 tagConsumableA21Desc="Elixir of demigods which shields mortals from divine retribution."
 tagConsumableA22=Aether Cluster
 tagConsumableA22Desc="A large cluster of Aether crystals, humming with strange energy."
+
+tagConsumableF01=Stoneheart Oil
+tagConsumableF01Desc="An oil that strengthens the shield and lightens its load."
+tagConsumableF02=Slithblood Tincture
+tagConsumableF02Desc="Shatter the vial, releasing a cloud of vile toxins around you."
+tagConsumableF03=Rhowari Oil
+tagConsumableF03Desc="A toxin derived from the vile undead roaming Old Arkovia."
+tagConsumableF04=Wrath of the Beast Tincture
+tagConsumableF04Desc="Shatter the vial, driving your minions into a frenzy."
+tagConsumableF05=Dermapteran Oil
+tagConsumableF05Desc="A toxin derived from the poison glands of Dermapterans."
+tagConsumableF06=Courageous Tincture
+tagConsumableF06Desc="Shatter the vial, emboldening all nearby allies."
+tagConsumableF07=Heartseeker Oil
+tagConsumableF07Desc="A toxin devised by Black Legion assassins."
+tagConsumableF08=Blade-Ward Tincture
+tagConsumableF08Desc="Shatter the vial, conjuring swirling blades around you."
+tagConsumableF09=Ice-Blood Oil
+tagConsumableF09Desc="An arcane toxin that freezes the blood of your enemies."
+tagConsumableF10=Frostguard Tincture
+tagConsumableF10Desc="Shatter the vial, releasing a bone-chilling wind around you."
+tagConsumableF11=Kymon's Sacred Oil
+tagConsumableF11Desc="Sacred oils blessed by Kymon himself to ignite your foes."
+tagConsumableF12=Kymon's Wrath Tincture
+tagConsumableF12Desc="Shatter the vial, releasing Kymon's divine wrath around you."
 
 #DLC
 tagDLCA01=Illusion: Powdered Wig
@@ -2685,7 +2774,7 @@ tagItemSetC005Name=Marauder's Justice
 tagItemSetC005Desc="Judge, jury, and executioner."
 
 tagItemSetC006Name=Herald's Regalia
-tagItemSetC006Desc="Armor worn by the King's herald on diplomatic missions."
+tagItemSetC006Desc="Armor worn by the Emperor's herald on diplomatic missions."
 
 tagItemSetC007Name=Menhir's Touch
 tagItemSetC007Desc="Regalia worn by the priesthood of the Guardians of Menhir, designating them as healers with no diplomatic affiliation."
