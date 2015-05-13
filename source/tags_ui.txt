@@ -49,10 +49,12 @@ tagQuestIncentives=Incentives:
 tagQuestObjectives=Objectives:
 tagQuestRewards=Rewards:
 tagCodexJournalNoNotes=No Entries
-tagCodexJournalSubHeadingAct1=Act I
-tagCodexJournalSubHeadingAct2=Act II
-tagCodexJournalSubHeadingAct3=Act III
-tagCodexJournalSubHeadingAct4=Act IV
+tagCodexJournalSubHeadingEnemy=Enemy Insight
+tagCodexJournalSubHeadingFaction=Factions
+tagCodexJournalSubHeadingCreed=Inquisitor Creed
+tagCodexJournalSubHeadingArkovia=History - Arkovia
+tagCodexJournalSubHeadingSurvivorBurrwitch=Survivors - Burrwitch
+tagCodexJournalSubHeadingSurvivorsHomestead=Survivors - Homestead
 tagCodexJournalSubHeadingDefault=Miscellaneous
 tagAccept=Accept
 tagDecline=Decline
@@ -84,6 +86,7 @@ tagQuestRewardXP=XP: {%d0}
 tagQuestRewardReputationPositive=+{%d0} {%s1} Reputation
 tagQuestRewardReputationNegative=-{%d0} {%s1} Reputation
 tagQuestRewardAcceptButton=Accept
+tagQuestBlockedDescription=Quest Locked in this Session based on Host's Progress.
 
 #Faction
 
@@ -101,8 +104,8 @@ tagFactionSurvivorsRewards2=N/A
 tagFactionSurvivorsRewards3=N/A
 tagFactionSurvivorsRewards4=Empty
 tagFactionSurvivorsRewards5=New Quest {^n}Access to Faction Vendor
-tagFactionSurvivorsRewards6=New Quest {^n}Faction Augments {^n}Faction Blueprints
-tagFactionSurvivorsRewards7=New Quest {^n}Faction Weapons {^n}Faction Armor
+tagFactionSurvivorsRewards6=New Quest {^n}Access to Bounty Table {^n}Faction Augments {^n}Faction Blueprints
+tagFactionSurvivorsRewards7=New Dungeon/Quest {^n}Faction Weapons {^n}Faction Armor
 tagFactionSurvivorsRewards8=Rare Augments {^n}Faction Accessories
 tagFactionAetherials=Aetherials
 tagFactionAetherialsInfo= Foolishly and greedily did the arcanists of Cairn delve into the magical veil known as the Aether, never once suspecting that something was looking back. {^n}{^n} The Aetherials descended upon Cairn in what is now known as the Grim Dawn, possessing countless humans and butchering the rest. Most despicably of all, they began raising the fallen as mutated undead creatures, mindless foot soldiers for their invasion. Their very presence on Cairn is enough to mutate the wildlife, turning once docile creatures into vicious monstrosities. {^n}{^n} But most strange of all is their apparent hatred for Chthonians, as they will battle against the horrors from the Void at every opportunity.
@@ -155,7 +158,7 @@ tagFactionUser2Rewards2=N/A
 tagFactionUser2Rewards3=N/A
 tagFactionUser2Rewards4=Empty
 tagFactionUser2Rewards5=New Quest {^n}Access to Faction Vendor
-tagFactionUser2Rewards6=New Quest {^n}Faction Augments {^n}Faction Blueprints
+tagFactionUser2Rewards6=New Quest {^n}Access to Bounty Table {^n}Faction Augments {^n}Faction Blueprints
 tagFactionUser2Rewards7=New Quest {^n}Faction Weapons {^n}Faction Armor
 tagFactionUser2Rewards8=Rare Augments {^n}Faction Accessories
 tagFactionUser3=Free Men of Corrigan Mine
@@ -168,11 +171,11 @@ tagFactionUser3Rewards5=N/A
 tagFactionUser3Rewards6=N/A
 tagFactionUser3Rewards7=N/A
 tagFactionUser3Rewards8=N/A
-tagFactionUser4=The Exile
-tagFactionUser4Info=Headquarters: Jaws of Korvaak {^n}{^n} Not much is known about the enigmatic Anasteria or why she knows so much about the Aetherials and their plans. She seemingly arrived out of nowhere, providing the Black Legion with information on enemy activity that has saved precious lives. {^n}{^n} Many in the Black Legion have branded her a witch, and would gladly see her burnt at the stake despite Inquisitor Creed's insistence that she be kept safe. 
-tagFactionUser4Rewards1=Vengeance of the Exile
-tagFactionUser4Rewards2=Wrath of the Exile
-tagFactionUser4Rewards3=Minions of the Exile
+tagFactionUser4=The Outcast
+tagFactionUser4Info=Headquarters: Fort Ikon {^n}{^n} Not much is known about the enigmatic Anasteria or why she knows so much about the Aetherials and their plans. She seemingly arrived out of nowhere, providing the Black Legion with information on enemy activity that has saved precious lives. {^n}{^n} Many in the Black Legion have branded her a witch, and would gladly see her burnt at the stake despite Inquisitor Creed's insistence that she be kept safe. 
+tagFactionUser4Rewards1=Vengeance of the Outcast
+tagFactionUser4Rewards2=Wrath of the Outcast
+tagFactionUser4Rewards3=Minions of the Outcast
 tagFactionUser4Rewards4=Empty
 tagFactionUser4Rewards5=New Quest
 tagFactionUser4Rewards6=New Quest
@@ -185,7 +188,7 @@ tagFactionUser5Rewards2=Additional Hero Spawns
 tagFactionUser5Rewards3=Extra Spawns
 tagFactionUser5Rewards4=Empty
 tagFactionUser5Rewards5=Access to Faction Vendor
-tagFactionUser5Rewards6=New Quest {^n}Faction Augments {^n}Faction Blueprints
+tagFactionUser5Rewards6=New Quest {^n}Access to Bounty Table {^n}Faction Augments {^n}Faction Blueprints
 tagFactionUser5Rewards7=New Quest {^n}Faction Weapons {^n}Faction Armor
 tagFactionUser5Rewards8=Rare Augments {^n}Faction Accessories
 tagFactionUser6=Undead
@@ -199,14 +202,14 @@ tagFactionUser6Rewards6=N/A
 tagFactionUser6Rewards7=N/A
 tagFactionUser6Rewards8=N/A
 tagFactionUser7=The Black Legion
-tagFactionUser7Info=Headquarters: Fort Korvaak {^n}{^n} The Black Legion are the imperium's elite, Death's Bannermen sent forth to act out the emperor's will with great prejudice. Legends of their valor intermingle with equally common tales of their cruelty and violence. {^n}{^n} Regardless of whether they are respected or feared, the Black Legion was the only imperial regiment to escape the fallen capital following the Grim Dawn and may now represent the only hope humanity has left of ever fighting back.
+tagFactionUser7Info=Headquarters: Fort Ikon {^n}{^n} The Black Legion are the imperium's elite, Death's Bannermen sent forth to act out the emperor's will with great prejudice. Legends of their valor intermingle with equally common tales of their cruelty and violence. {^n}{^n} Regardless of whether they are respected or feared, the Black Legion was the only imperial regiment to escape the fallen capital following the Grim Dawn and may now represent the only hope humanity has left of ever fighting back.
 tagFactionUser7Rewards1=N/A
 tagFactionUser7Rewards2=N/A
 tagFactionUser7Rewards3=N/A
 tagFactionUser7Rewards4=Empty
 tagFactionUser7Rewards5=Access to Bounty Table {^n}Access to Faction Vendor
-tagFactionUser7Rewards6=Tougher Bounties {^n}Faction Augments {^n}Faction Blueprints
-tagFactionUser7Rewards7=New Quest {^n}Faction Weapons {^n}Faction Armor
+tagFactionUser7Rewards6=New Bounties {^n}Faction Augments {^n}Faction Blueprints
+tagFactionUser7Rewards7=New Dungeon/Quest {^n}Faction Weapons {^n}Faction Armor
 tagFactionUser7Rewards8=Rare Augments {^n}Faction Accessories
 tagFactionUser8=Kymon's Chosen
 tagFactionUser8Info=Headquarters: Sorrow's Bastion {^n}{^n} Kymon's Chosen are the zealous followers of Empyrion, the Light-Bringer, whom they believe will return to Cairn in blazing glory and guide his Chosen into a new dawn of order and prosperity. {^n}{^n} Led by a charismatic preacher known as Father Kymon and guarded by their faith, the Chosen are eager to stamp out all corruption from Cairn, whether it is vile Chthonic horrors or death-manipulating necromancers. To this end, they consider ridding the world of the Order of Death's Vigil to be one of their utmost priorities.
@@ -215,7 +218,7 @@ tagFactionUser8Rewards2=Additional Hero Spawns
 tagFactionUser8Rewards3=Extra Spawns
 tagFactionUser8Rewards4=Empty
 tagFactionUser8Rewards5=Access to Faction Vendor
-tagFactionUser8Rewards6=New Quest {^n}Faction Augments {^n}Faction Blueprints
+tagFactionUser8Rewards6=New Quest {^n}Access to Bounty Table {^n}Faction Augments {^n}Faction Blueprints
 tagFactionUser8Rewards7=New Quest {^n}Faction Weapons {^n}Faction Armor
 tagFactionUser8Rewards8=Rare Augments {^n}Faction Accessories
 tagFactionUser9=User9
@@ -310,15 +313,14 @@ tagFactionStateFriendly=Friendly
 tagFactionStateTrusted=Trusted
 tagFactionStateHonored=Honored
 tagFactionStateRevered=Revered
-tagFactionProgress=Required to {%s0}{^w}: {^b}{%d1}
-tagFactionKillingGain=Reputation gained from killing:
-tagFactionKillingLoss=Infamy gained from killing:
-tagFactionRewardsTier=Unlocked at Next Tier:
-tagFactionKillCommon=Common Monsters
-tagFactionKillChampion=Champion Monsters
-tagFactionKillHero=Hero Monsters
-tagFactionKillBoss=Boss Monsters
-tagFactionStatusChange={^w}You are now {%s0} {^w}with {^b}{%s1}
+
+#Faction Window
+
+tagFactionStatusChange={^w}You have achieved the status of {%s0} {^w}with {^b}{%s1}
+tagFactionNegativeStatusChange={^w}You have reached {%s0} {^w}status with {^b}{%s1}
+tagFactionDoorLocked={^r}Your standing with {^b}{%s0} {^r}does not permit you to enter here
+tagFactionWindowName=Factions
+tagFactionWindowFactionTitle={%s0} - {%s1}
 tagFactionReputation=Reputation Gained From: {^n}
 tagFactionReputationKilling=Killing {%s0}{^n}
 tagFactionReputationBounties=Bounties{^n}
@@ -326,12 +328,20 @@ tagFactionReputationQuests=Quests{^n}
 tagFactionDiscountPositive=Faction Discount: {^r}+ {%.0f0}%
 tagFactionDiscountNegative=Faction Discount: {^g}- {%.0f0}%
 tagFactionDiscountZero=Faction Discount: {^s}{%.0f0}%
-tagFactionDoorLocked={^r}Your standing with {^b}{%s0} {^r}does not permit you to enter here
+tagFactionProgress=Required to {%s0}{^w}: {^b}{%d1}
+tagFactionKillingGain=Reputation gained from killing:
+tagFactionKillingLoss=Infamy gained from killing:
+tagFactionRewardsTier=Unlocked at {%s0}{^w}:
+tagFactionKillCommon=Common Monsters
+tagFactionKillChampion=Champion Monsters
+tagFactionKillHero=Hero Monsters
+tagFactionKillBoss=Boss Monsters
+tagFactionBonusRep=Bonus Reputation: {%d0}%
 
-#Faction Window
+#Achievements
 
-tagFactionWindowName=Factions
-tagFactionWindowFactionTitle={%s0} - {%s1}
+tagAchievements=Achievements
+tagAchievementUnlocked=Achievement Unlocked!
 
 #HUD
 
@@ -584,6 +594,7 @@ tagItemCompareEquipped=Currently Equipped
 tagItemCompareVendor=Item for Sale
 tagItemCompareInventory=Item in Inventory
 tagItemCompareGround=Item on Ground
+tagItemInsufficientStatus={^r}Insufficient Faction Status
 
 
 #Char Stats Tab 2
@@ -971,7 +982,7 @@ tagCraftingComponentCount=Quantity of this material in inventory.
 tagCraftingComponentMissing=This material is not currently in your inventory.
 tagCraftingWindowTitle=Inventor
 tagCraftingPanelA=Equipment Modification
-tagCraftingPanelB=Equipment Detatchment
+tagCraftingPanelB=Equipment Detachment
 tagCraftingCost=Cost:
 tagCraftingBlueprint=Blueprint
 tagCraftingComponent=Component
@@ -1031,17 +1042,19 @@ tagCraftingRelicsTier02=TRANSCENDENT RELICS
 tagCraftingRelicsTier03=MYTHICAL RELICS
 
 tagDividerTab01=Salvage
-tagDividerRoll01=The salvage chamber is used to strip component parts from items.  Unfortunately, the process is imperfect and always results in the destruction of either the item or the component part but you can choose which one to salvage and which to sacrifice.
+tagDividerRoll01=The salvage chamber is used to strip component parts and Augments from items.  Unfortunately, the process is imperfect and always results in the destruction of either the item or the component part but you can choose which one to salvage and which to sacrifice.{^n}{^n}If you salvage the item, any Augments applied will be removed. If a Soulbound Augment was removed this way, and the item was not originally Soulbound, the Soulbound status will be removed as well.
 
 tagDividerTab02=Dismantle
 tagDividerRoll02=The dismantling chamber is used to break down powerful magical items into their basic parts. The Inventor has not yet learned this ability.
 tagDividerRoll02B=The dismantling chamber is used to break down powerful magical items into their basic parts. This process requires great energy and so the clever inventor has made use of dynamite to fulfill this function.
 
 tagDividingButtonKeepItem=Keep Item
-tagDividingBoxInfo=Place an item with an attached component in the chamber.
+tagDividingBoxInfo=Place an item with an attached Component or Augment in the chamber.
 tagDividingButtonKeepComponent=Keep Add-on
-tagDividingKeepItemWarning=Choosing to salvage the item will destroy the attached component.
-tagDividingKeepComponentWarning=Choosing to salvage the component part will destroy the item.
+tagDividingButtonRemoveAugment=Remove Augment
+tagDividingKeepItemWarning=Choosing to salvage the item will destroy the attached Component and remove any Augments.
+tagDividingKeepComponentWarning=Choosing to salvage the Component part will destroy the item and any Augments.
+tagDividingRemoveAugmentWarning=Removing the Augment will destroy it, but any Soulbound properties applied by the Augment will also be removed.
 tagDividingCost=Salvage Cost:
 
 tagDismantleDynamiteTotal=Total Dynamite:
@@ -1053,6 +1066,8 @@ tagDismantleBoxInfo=Place an item greater than common quality in the chamber.
 
 #Shrine
 
+tagShrineDesecrated=Desecrated Shrine
+tagShrineRuined=Ruined Shrine
 tagShrineButton=Offer
 tagShrineButtonInfo=Place this offering near the shrine
 tagShrineWarning=Are you sure you want to place this offering?
@@ -1093,6 +1108,11 @@ tagChatBrag=[{%t0}{%t1}{^-}]
 
 #NPC Conversation
 tagNpcConversationBusy=That NPC is busy talking with another player.
+
+tagShrineActivated=That shrine has already been restored.
+tagShrineHostActivated=That shrine has already been restored by the host.
+tagShrineBusy=That shrine is being used by another player.
+tagShrineLocked=The shrine lies dormant.
 
 #Maps
 
@@ -1825,7 +1845,7 @@ tagItemSkill= (Granted by Item)
 tagItemSkillShort= (Item)
 tagEffect=Effect:
 tagSkillGrantEffect=Secondary Effect:
-tagDevotionAttached=Attached To:
+tagDevotionAttached=Bound To:
 
 tagItemUseDirections=[Right-Click to Use]
 

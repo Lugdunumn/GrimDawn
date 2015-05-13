@@ -34,6 +34,8 @@ tagMapDevilsSpur=Devil's Spur
 tagMapNecropolis=Necropolis
 tagMapOldGrove=Old Grove
 tagMapVoidlands=Chthonic Void
+tagMapEastMarsh01=East Marsh
+tagMapEastMarsh02=Noxious Glade
 
 tagMapBrokenHills=Broken Hills
 tagMapOldArkovia=Old Arkovia
@@ -63,10 +65,12 @@ tagMapHomestead=Homestead
 tagMapInfestedFarms=Infested Farms
 tagMapRottedHarvest=Rotting Croplands
 tagMapCorruptedPasture=The Gruesome Harvest
+tagMapSorrowsBastion=Sorrow's Bastion
 tagMapBloodGrove=The Blood Grove
 tagMapInfestedField01=Thornsbury Farm
 tagMapInfestedField02=Elmsworth Farm
 tagMapConflagration01=The Conflagration
+tagMapConflagration02=The Immolation
 
 tagMapLedgewood=Ledgewood
 tagMapAlpineRoad=Alpine Road
@@ -93,13 +97,15 @@ tagRiftSmugglersPass=Smuggler's Pass Rift
 tagRiftSmugglersRoad=Prospector's Trail Rift
 tagRiftJaggedWaste=Pine Barrens Rift
 tagRiftDeadmansGulch=Deadman's Gulch Rift
-tagRiftAlpineRoad=Alpine Road Rift
+
 
 tagRiftHomestead=Homestead Rift
 tagRiftWitheringFields=Withering Fields Rift
 tagRiftRottedCroplands=Rotted Croplands Rift
 tagRiftRottedHarvest=The Rotted Harvest
-tagRiftOldGrove=The Old Grove
+tagRiftSorrowsBastion=Sorrow's Bastion Rift
+tagRiftBloodGrove=Blood Grove Rift
+tagRiftAlpineRoad=Alpine Road Rift
 
 tagRiftRandom01=Chthonic Rift
 
@@ -169,6 +175,10 @@ tagUGBurrwitchFloodedCellars=Flooded Cellar
 tagUGBurrwitchOutskirtsBasin=Smuggler's Basin
 tagUGFloodedPassageRuin=Sunken Reliquary
 
+tagUGSlithLab01=Hargate's Isle
+tagUGSlithLab02=Hargate's Laboratory - Floor 1
+tagUGSlithLab03=Hargate's Laboratory - Floor 2
+
 tagUGArkovianFoothills01=Staunton Mine
 tagUGArkovianFoothills02=Spined Cove
 tagUGOldArkovia01=Hanneffy Mine
@@ -183,6 +193,7 @@ tagUGBrokenHills02B=Misery
 tagUGBrokenHills02C=Suffering
 tagUGBrokenHills02D=Anguish
 tagUGBrokenHills02E=Uroboruuk's Torment
+tagUGBrokenHills02F=Chamber of Souls
 tagUGBrokenHills03=Forsaken Den
 tagUGBrokenHills04=Smuggler's Pass
 tagUGBrokenHills05=Screeching Hollow
@@ -195,6 +206,24 @@ tagUGDermapteran03A=Royal Hive
 tagUGDermapteran03B=Hive Queen's Lair
 tagUGHomesteadCave01=Den of the Lost
 tagUGRottingCroplandsCrypt01=Buried Crypt
+tagUGCaveGhost01=The Bone Pit
+tagUGFortZealot01=Kymon's Sanctuary
+tagUGFortZealot02=Kymon's Study
+tagUGCryptNecro01=Bastion of the Order
+tagUGCryptNecro02=Chamber of Souls
+
+tagUGFortCultist01=Darkvale Gate
+tagUGFortBlackLegion01=Fort Ikon
+tagUGCryptNecropolis01=The Black Sepulcher
+tagUGCryptFactionBattle01=Tomb of Archon Barthollem
+tagUGCryptZealot01=Tomb of Korvaak
+
+tagUGVoidlands01=Bastion of Chaos
+tagUGVoidlands01A=Discord
+tagUGVoidlands01B=Anarchy
+tagUGVoidlands01C=Entropy
+tagUGVoidlands01D=Pandemonium
+tagUGVoidlands01AE=Fields of Despair
 
 #Signs
 
@@ -238,6 +267,7 @@ tagPOI007A=Mine Entrance
 tagPOI007B=Mine Exit
 tagPOI008A=Dermapteran Tunnel Entrance
 tagPOI008B=Dermapteran Tunnel Exit
+tagPOI009A=Hargate's Lab
 
 tagPOIFloodedPassageA=Flooded Passage Entrance
 tagPOIFloodedPassageB=Flooded Passage Exit
@@ -262,8 +292,8 @@ tagPOIOldArkoviaMineA=Cronley's Hideout Entrance
 tagPOIOldArkoviaMineB=Cronley's Hideout Exit
 tagPOIFesteringLairA=Festering Lair Entrance
 tagPOIFesteringLairB=Festering Lair Exit
-tagPOIMylesCaveA=Myles' Hideout Entrance
-tagPOIMylesCaveB=Forsaken Den Exit
+tagPOIManInNeedCaveA=Myla's Hideout Entrance
+tagPOIManInNeedCaveB=Forsaken Den Exit
 tagPOIMountainDeepsA=Mountain Deeps Entrance
 tagPOIMountainDeepsB=Mountain Deeps Exit
 
@@ -310,11 +340,15 @@ tagNotification_HS_WeNeedFood_HomesteadBridgeFound=The old coastal bridge is des
 tagNotification_HS_WeNeedFood_HomesteadSmugglerPassCrossed=You have travelled through Smuggler's Pass. Seek a way to Homestead.
 tagNotification_HS_OldArkoviaPassagesCompleted=You have completed the Arkovian Passage and examined its contents.
 tagNotification_HS_OldArkoviaPassagesBossKilled=You acquire a piece of the Tainted One's shattered soul!
+tagNotification_HS_RoverLegacy_Chthonians=The Shrine of Mogdrogen is overrun with Chthonians!
+tagNotification_HS_RoverLegacy_Cleansed=The Chthonians have been purged!
 
 tagNotification_AreaC_EnclaveRiftgateEvent=The entrance to Homestead is overrun by Aetherials!
 tagNotification_AreaC_RefugeeRemainsFound=It appears that Dahlia Taverin has not survived the dangers of the Mountain Deeps.
 tagNotification_AreaC_BloodHarvestFound=Some prisoners cry out for help.
 tagNotification_AreaC_TrappedAndAloneReturn=A Chthonian is rampaging through the Rover camp!
+
+tagNotification_AreaD_KymonSecret=You hear the faint sound of a stone door opening nearby.
 
 tagNotification_WarningToughArea=A presence far more powerful than you dwells within this place...
 tagNotification_WarningRiftgateDisabled=Your connection to riftgates feels absent within this place...
@@ -336,7 +370,7 @@ tagNPC_CaptiveInventor=Darlet
 
 tagNPC_GuardA04=McCaul - Watchman
 tagNPC_Guard_DCRanged01=Mainard - Watchman
-tagNPC_Guard_DCRanged02=Russ - Watchman
+tagNPC_Guard_DCRanged02=Rose - Watchman
 tagNPC_Guard_DCMelee01=Brigs - Watchman
 tagNPC_Guard_DCMelee02=Oxley - Watchman
 tagNPC_Guard_DCMelee03=Chester - Watchman
@@ -351,12 +385,12 @@ tagNPC_DevilsCrossing_03=Isaac
 tagNPC_DevilsCrossing_04=Torven
 tagNPC_DevilsCrossing_05=Kuldo
 tagNPC_DevilsCrossing_06=Edwin
-tagNPC_DevilsCrossing_07=Russ - Watchman
+tagNPC_DevilsCrossing_07=Rose - Watchman
 tagNPC_DevilsCrossing_08=Chester
 
 tagNPC_Homestead_01=Minova
 tagNPC_Homestead_02=Darius Cronley
-tagNPC_Homestead_03=
+tagNPC_Homestead_03=Avatar of Mogdrogen
 tagNPC_Homestead_04=Drew Larkin
 tagNPC_Homestead_05=Edmund "Shanks" Doyle
 tagNPC_Homestead_06=Elizabeth Skinner
@@ -387,7 +421,7 @@ tagNPC_Homestead_30=Balvoruuk
 
 tagNPC_AreaC_01=Scoutmaster Lysell
 tagNPC_AreaC_02=Douglass Sullivan Oldbarrow
-tagNPC_AreaC_03=Myles Finegan
+tagNPC_AreaC_03=Myla Finegan
 tagNPC_AreaC_04=Inquisitor Creed
 tagNPC_AreaC_05=Deathmark Kadris
 tagNPC_AreaC_06=Alleria
@@ -406,14 +440,14 @@ tagNPC_AreaC_18=Brother Molltair
 tagNPC_AreaC_19=Haruuv
 tagNPC_AreaC_20=Sergeant Serriv
 tagNPC_AreaC_21=Weapons Master Borrov
-tagNPC_AreaC_22=
+tagNPC_AreaC_22=The Messenger
 tagNPC_AreaC_23=
 tagNPC_AreaC_24=
 tagNPC_AreaC_25=
 
-tagNPC_AreaD_01=Spellbreaker Moira
+tagNPC_AreaD_01=Battlemage Moira
 tagNPC_AreaD_02=Captain Reave
-tagNPC_AreaD_03=Quartermaster Edric
+tagNPC_AreaD_03=Weapons Master Edric
 tagNPC_AreaD_04=Anasteria
 
 tagNPC_DetonationSite=Detonation Site
@@ -548,11 +582,17 @@ tagQuestItemManticorePoisonGland_Desc="Dripping with a powerful toxin that burns
 tagQuestItemNecromancerRemains=Remains of Malkadarr
 tagQuestItemNecromancerRemains_Desc="The still rotting remains of a once powerful necromancer."
 
+tagQuestItemUroboruukInfo=Uroboruuk's Notes
+tagQuestItemUroboruukInfo_Desc="Notes seemingly abandoned by Master Necromancer Uroboruuk."
+
+tagQuestItemKymonRelic=Eye of Korvaak
+tagQuestItemKymonRelic_Desc="A shriveled eye brimming with arcane energies. You can't help but feel as if it's staring back at you."
+
 tagQuestItemExileBossDrop_01=Archive of Fates Untold
 tagQuestItemExileBossDrop_01Desc="This tome appears sealed by arcane forces. The cover refuses to budge."
 
 tagQuestItemExileBossDrop_02=Head of Archivist Thelon
-tagQuestItemExileBossDrop_02Desc="The still glowing aether eyes stare back at you."
+tagQuestItemExileBossDrop_02Desc="The still glowing aether eyes stare back blankly at you."
 
 tagQuestItemBlackLegionInsignia=Black Legion Insignia
 tagQuestItemBlackLegionInsignia_Desc="Bestowed upon the rank and file for their loyal service."
@@ -565,6 +605,23 @@ tagQuestItemExileBeastFang_Desc="Fang from the fallen spawn of Beronath."
 
 tagQuestItemThornsburyDiary=Daila's Diary
 tagQuestItemThornsburyDiary_Desc="Property of Daila Thornsbury."
+
+tagQuestItemSlithLab=Hargate's Formula
+tagQuestItemSlithLab_Desc="The impossible to decipher scribblings of the mad Arcanist Oswald Hargate."
+
+tagQuestItemAetherialEssence=Aetherial Essence
+tagQuestItemAetherialEssence_Desc="The lingering spirit of an Aetherial, trapped by necrotic energies."
+
+tagQuestMogdrogenShrine=Shrine of Mogdrogen
+tagQuestItemMogdrogenShrine01=Spirit of Mogdrogen
+tagQuestItemMogdrogenShrine02=Runed Stone of Mogdrogen
+tagQuestItemMogdrogenShrine_Desc="Part of the Shrine of Mogdrogen."
+
+tagQuestItemSacredAshes=Sacred Ashes of Empyrion
+tagQuestItemSacredAshes_Desc="The ashes of Archon Barthollem, devout follower of the Lightbringer."
+
+tagQuestItemDesecratedAshes=Desecrated Ashes of Empyrion
+tagQuestItemDesecratedAshes_Desc="The corrupted ashes of Archon Barthollem, devout follower of a forgotten god."
 
 #Journals
 
@@ -709,13 +766,25 @@ tagLoreObj_BookC02Name=Gildam Arcanum - Page 2
 tagLoreObj_BookC02Text=To reinforce the ingenuity of arcanists both living and dead, we turn to the works of Master Maiven, a prolific arcanist from the third age of our glorious empire. Master Maiven was able to bend the inherently destructive flows of the Aether to her will in order to manifest a protective barrier around herself. This technique is a stellar example of how the Gildam Arcanum continually strives to break our preconceptions of the Aether, creating entirely new schools of thought within the arcane arts.
 
 tagLoreObj_BookD01Name=Origin of the Slith - Page 1
-tagLoreObj_BookD01Text=In all the history of our great nation, no greater atrocity had been observed than the origins of the aberrant species we call the Slith. Part man, part serpent, the Slith is a testament to the dangers of the arcane and the motivation behind the founding of the Gildam Arcanum, and its tighter sanctions on arcane practices. The first Slith was created by Arcanist Oliver Hargate, who thought he could supersede god in His endeavor to create new life. The unfortunate man selected for this grisly experiment was never identified...
+tagLoreObj_BookD01Text=In all the history of our great nation, there has been no greater atrocity committed than the creation of the vile vermin we call Slith. Part man, part serpent, the Slith are a testament to the dangers of the arcane and served as the driving force behind the formation of the Gildam Arcanum and its tighter sanctions on arcane practices.{^n}{^n}The Slith owe their existence to the actions of a single individual: Oswald Hargate. Backed by family wealth and a passion for research, Oswald aspired to leave his mark upon the study of the arcane. Little did he know that his legacy would leave a permanent stain upon all Arcanists and their field.
 
 tagLoreObj_BookD02Name=Origin of the Slith - Page 2
-tagLoreObj_BookD02Text=The resulting abomination bore the torso of a man and tail of a snake, with a reptilian snout unlike either species. Its eyes stared back at you with a hint of human sorrow, though it was clearly a dulled mind with no indication that the original person was present within. It slithered around with surprising agility when food was placed within the confines of its cage. Evidently, the late Arcanist Hargate considered this experiment a success, calling it a Slith in his notes. It was not long before the Slith turned on its creator during feeding, tearing the arcanist limb from limb.{^n}{^n}None can say for sure what happened next, but the Slith must have escaped into the sewer systems, and eventually out into the wild...
+tagLoreObj_BookD02Text=Oswald Hargate firmly believed that the Aether could be used to create new life. Convinced that he could supersede the gods, Oswald set out to perform his heinous research in a, to this day, unknown location.{^n}{^n}Though not much is known about the exact details of his research, the results were quite clear. Calling his creation a Slith, for its slithering movement and snake-like lower body, Oswald triumphantly announced his findings to the Arcanum Society. The abomination bore the torso of a man and the tail of a snake, though its reptilian snout was unlike either species. Its eyes stared back at you with a hint of human sorrow, though it was clearly a dulled mind with no indication of a human conscience trapped within the slith body.{^n}{^n}Those attending were shocked by the blatant disregard for the gods and their domain. Following a brief trial, Oswald was charged with endangering society and was imprisoned for the remainder of his life. The specimen was destroyed and its ashes scattered to the winds. With Oswald behind bars and the slith dead, all believed that the nightmare was over; but they were wrong.
 
 tagLoreObj_BookD03Name=Origin of the Slith - Page 3
-tagLoreObj_BookD03Text=The Slith dominated its new habitat with ease. An invasive species unlike any other, the Slith reproduced with alarming speed, leaving egg nests throughout the many dank caves of Wightmire. How it came to be that the Slith propagated from a single individual is unknown, but the Aether influence cannot be ruled out.{^n}{^n}Though beastlike, the Slith had adapted a tribal hierarchy, with certain members of a group exhibiting dominance over the rest. Most alarming of all is the shamanistic behavior that was observed amongst some Slith populations, indicating the strong connection to their arcane origins.{^n}{^n}Without a doubt, the actions of one arrogant man will reverberate across countless generations.
+tagLoreObj_BookD03Text=When the first slith began to appear in the area known as Wightmire, it became clear that Oswald did not create just one slith. As his laboratory was never uncovered, officials could only guess as to the origin of the new species. The slith were incredibly invasive, easily dominating the local food chain and reproducing at an alarming rate.{^n}{^n}As their numbers multiplied, the slith adapted a primitive tribal hierarchy, with certain members of their packs exhibiting clear authority over the rest. And, perhaps most alarmingly of all, shamanistic behavior was reported among the slith population, indicating a strong connection to the Aether and perhaps their unnatural origins.{^n}{^n}All efforts to exterminate the slith proved fruitless, with the species simply returning at a new location from hidden nests and caverns. It is without a doubt that the actions of one arrogant individual will continue to reverberate across countless generations to come.
+
+tagLoreObj_BookD04Name=Hargate's Journal - Page 1
+tagLoreObj_BookD04Text=First day at my new lab. I must say, I am thrilled to get started. The days of having my nose stuck in the books are over. There comes a time when studying old tomes reaches its limit. Eventually, one must set out on their own to pursue new ventures and ideas not yet considered. It is our sacred duty as scholars to leave a mark upon the world!{^n}{^n}My wife, Helen, and my dearest daughter Ellena will be joining me soon at our new home. Helen has expressed concern about our little girl growing up in a laboratory, so far away from other children, but I've calmed her down. Ellena will have everything she requires provided for, and Burrwitch is just a short boat ride away should she ask for a playmate.{^n}{^n}Together, Helen and I are going to do something no Arcanist has dared even consider: the creation of new life. The Aether is a wondrous source of energy, and yet nobody's stopped to ponder its effects upon organic material. Helen's expertise in the biological arts should prove most valuable in this endeavor.
+
+tagLoreObj_BookD05Name=Hargate's Journal - Page 2
+tagLoreObj_BookD05Text=At Helen's recommendation, I have chosen the lowly green swamp adder as the basis of my experiment. Its short lifespan and rapidly shedding skin made for a malleable test subject. The initial results seemed promising at first. Using high concentrations of Aether energy, we were able to instill various mutations within the specimens, creating new limbs or inducing gigantism. Unfortunately, none of the samples survived beyond a couple weeks, their higher brain functions being seemingly incapable of handling the introduction of additional bodily elements.{^n}{^n}For our second batch of experiments, we molded the adders with a few grobles captured by local trappers. The results were...curious to say the least. While this was not the breakthrough I was looking for, we seem to be heading in the right direction. The dull mind of a groble was capable of adapting to its new body, but its primitive and disgustingly malformed physique would see me become the laughing stock of my colleagues. No, I must see this through to its logical conclusion. Helen may frown upon it, but the next step seems clear as day to me...
+
+tagLoreObj_BookD06Name=Hargate's Journal - Page 3
+tagLoreObj_BookD06Text=I have sent Helen and Ellena away for the summer to visit family in the capital while I continue my work alone. I tasked a few unsavory individuals to gather "volunteers" for the next stage of my research, mere vagrants and Rovers, people nobody would miss. The fees they charged were considerable, but I will pay any price when I am so close to my breakthrough.{^n}{^n}The samples arrived in the middle of the night, delivered to their cells as promised. My collaborators took their pay and left promptly without asking any questions. Frankly, they looked a bit disturbed. But I was unfazed. They are but simpletons, unable to fathom the importance of my work.{^n}{^n}The specimens began stirring by morning, their frightened cries echoing throughout the lab. I explained to them that they were selected for an important duty, that their lives would finally have meaning and purpose. The scum should have been thanking me, but instead they cursed me as a madman and criminal. I dismissed their accusations and got to work. There was much to be done.
+
+tagLoreObj_BookD07Name=Hargate's Journal - Page 4
+tagLoreObj_BookD07Text=Helen and Ellena returned early from their trip. While Ellena was otherwise occupied with her toys in the living quarters, Helen came down into the lab to find me in the midst of my latest study. The horrified look on her face is something I shall never forget. I tried to be reasonable. I explained that what she witnessed was merely a stepping stone, that those men and women died so that our work would not be squandered on snakes and grobles. But she would not budge.{^n}{^n}My wife, my partner, had betrayed me at this most critical junction. My work is too important to let emotional attachments get in the way. I did the only sensible thing. Let history judge my actions...{^n}{^n} With the unfortunate distraction dealt with, I returned to my results. The human-snake hybrids had proven unstable and violent. I was assaulted on several occasions while attempting to study their physical functions, but those attacks proved to be little more than outbursts on the verge of death. All of the specimens died shortly after the procedure. Dissection revealed an incomplete hybridization of internal organs. With a dysfunctional digestive system, death was inevitable. But I wonder if perhaps the subjects were too old for the procedure to succeed. If I started over, with a younger candidate, then perhaps I would finally have the results I seek...
 
 tagLoreObj_VillagerNoteE01Name=Warning: Groble Attacks on the Rise
 tagLoreObj_VillagerNoteE01codexTitle=Warning: Groble Attacks
@@ -740,7 +809,7 @@ tagLoreObj_OldArkovia_BookA03Text=I can hear them bustling about outside. They c
 
 
 #Cronley's Mine Notes
-tagLoreObj_Cronley_NoteA01Name=Wilkins'Note
+tagLoreObj_Cronley_NoteA01Name=Wilkins' Note
 tagLoreObj_Cronley_NoteA01Text=Word going 'round the camp is that the undead finally stopped attacking the walls. Not that I'm complaining, but a man's gotta wonder why. Just the other day, we lost three on the west wall when a bunch of them corpsefiends burst out of the bodies and took everyone by surprise. They was bleeding us dry, with no end in sight to their numbers. Hell, pretty sure I've seen a few of our dead lurking around out there. Now I ain't no general, but seems to me like it was only a matter of time.{^n}{^n}The boss says that we've won, that Old Arkovia belongs to the gang. He's even called in his top lieutenants to join him in the mine for some sorta celebration. Feels too soon to me, but ain't nobody asking what Wilkins thinks.
 
 tagLoreObj_Cronley_NoteA02Name="The Bruiser" Romanov's Note
@@ -783,6 +852,8 @@ tagLoreObj_AreaCFarmer_NoteA03Text=We got away! I couldn't believe it at the tim
 tagLoreObj_AreaCAetherial_NoteA01Name=The Amalgamation
 tagLoreObj_AreaCAetherial_NoteA01Text=Consensus is achieved. The sanctum of Homestead is to fall within the fortnight. With the Herald making its steady approach from the north, nothing but conflagration in its wake, it falls upon me to render a force capable of assaulting the human stronghold from the west. The reanimators are tirelessly working within the cages, pouring the gift of the Aether into the humans and trolls we had gathered for the purpose. But the real work will be conducted within the barn.{^n}{^n}It is true that the humans have proven to be...difficult hosts, the mind struggles against a greater power it cannot possibly fathom. But the flesh? It is malleable, easily tainted.  I look upon the corpses filling the barn with the stench of decay not as a sign of how fragile life is, but as a canvas; a canvas upon which we will paint the future of Cairn.{^n}{^n}Theodin Marcell, Shaper of Flesh
 
+tagLoreObj_BlackLegion_NoteA01Name=Black Legion Scouting Report
+tagLoreObj_BlackLegion_NoteA01Text=I write this letter to report of extreme and disturbing Aetherial activity to the North of Homestead. I set off to the foothills and made my way through the warren of low stone walls, fences, and occasional farmhouses. I was careful to move in secret and remain undetected from the horrors that still roam the fields unchecked. I made it to the valley of two hills near the river when I witnessed something I can barely comprehend. {^n}{^n}An unearthly black pillar that was neither stone nor flesh drifting slowly across the land as would a low cloud.  A sickly green glow burned at its core and great writhing tendrils hung from somewhere underneath the shifting back shell. I watched in mounting dread as the unholy obelisk slowed and then, without warning, burrowed the hooks of the dangling tentacles into the ground. The ground began to wither and glow with the same unwholesome green. It was then that the obelisk pulled itself into the ground. With a sound that made me feel as if the earth was dying, it began glowing so bright I could hardly look. Its power seeped into the ground, twisting and corrupting as it spread. {^n}{^n}I lingered for nearly an hour in that place and in that time a great distance around the obelisk had been changed. I was about to leave when the obelisk erupted from the ground and drifted to an untouched patch of land to begin the cycle again. We must act soon or there will be nothing left to save. {^n}{^n}--6th Regimental Scouts of the Black Legion, Renall Oberach
 
 
 #Guards
@@ -892,5 +963,13 @@ tagStoreTitle_FactionQuartermaster_08=Quartermaster
 tagNPC_FactionQuartermaster_09=Klines
 
 tagNPC_FactionQuartermaster_10=Anasteria's Drudge
-tagStoreTitle_FactionQuartermaster_10=The Exile's Secrets
+tagStoreTitle_FactionQuartermaster_10=The Outcasts's Secrets
 
+#Faction Bounty Tables
+tagNPC_FactionTable_01=Devil's Crossing Bounty Table
+tagNPC_FactionTable_02=Rover Bounty Table
+tagNPC_FactionTable_03=Homestead Bounty Table
+tagNPC_FactionTable_04=Black Legion Bounty Table
+tagNPC_FactionTable_05=Kymon's Chosen Bounty Table
+tagNPC_FactionTable_06=Order of Death's Vigil Bounty Table
+tagNPC_FactionTable_07=The Outcasts's Bounty Table

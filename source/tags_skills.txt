@@ -1270,7 +1270,7 @@ tagRelicSkillB003Name=Tranquility
 tagRelicSkillB003Desc=Overwhelm nearby enemies with your mind.
 
 tagRelicSkillB004Name=Ice Surge
-tagRelicSkillB004Desc=Channels chilling energy through your very core, causing enemies that strike you to occasionally trigger a surge of ice .
+tagRelicSkillB004Desc=Channels chilling energy through your very core, causing enemies that strike you to occasionally trigger a surge of ice.
 
 tagRelicSkillB005Name=Lightning Storm
 tagRelicSkillB005Desc=Summon a storm cloud over the target area, periodically electrocuting enemies caught underneath it.
@@ -1486,6 +1486,20 @@ tagConsumableSkill_F11Desc=Coats your weapon with oils blessed by Kymon himself.
 tagConsumableSkill_F12=Kymon's Wrath Tincture
 tagConsumableSkill_F12Desc=An explosion of flame emanates from you.
 
+
+#SkillsEnemy
+
+tagEnemySkill01=Curse of Debilitation
+tagEnemySkill01Desc=Weakens the soul's natural defenses against the void.
+
+#SkillsQuest
+
+tagQuestSkill_A01=Kymon's Blessing
+tagQuestSkill_A01Desc=Your weapons are blessed with the sacred flame of Empyrion.
+tagQuestSkill_A02=Death's Vigil Enchantment
+tagQuestSkill_A02Desc=Your weapons are enchanted by the Order.
+
+
 #SkillsGeneral
 
 MasteriesAvailable=Select from {%d0} Additional Tabs
@@ -1496,6 +1510,7 @@ NoSkillPointsAvailable=Points Available: 0
 DevotionPointsAvailable=Points Available: {%d0}
 DevotionPointsAvailableSingular=Points Available: {%d0}
 NoDevotionPointsAvailable=Points Available: 0
+DevotionPointsTotal=Points Unlocked: {%d0} / {%d1}
 tagConfirmSkillChanges=Confirm changes?
 
 #SkillDevotion
@@ -1521,7 +1536,7 @@ tagDevotionMagi=The Magi
 tagDevotionAssassin=The Assassin
 tagDevotionAkeron=Akeron's Scorpion
 
-tagDevotionInfo=Devotion is great. Devotion devotion devotion. Lorem ipsum dolor sit amet, vero perfecto nominati te vim, duo esse inciderint ea. Eos nostrud facilisis no, alii electram rationibus sea et.
+tagDevotionInfo=In its darkest hour, humanity turns to the stars. Devote yourself to the celestial symbols and deities of old to claim their ancient power.
 
 #SkillsReallocator
 

@@ -2,20 +2,20 @@ Inquisitor Creed
 If you have something to say, make it quick.
 
 Goodbye.
-I'm pleased that you will join us. It may take everything we have to stop the cult.
+I'm pleased that you will join us. It may take everything we have to stop the Cult of Ch'thon and their ritual.
 Where are we headed again?
-The Black Legion has a stronghold to the north.
+The Black Legion has a stronghold to the north, Fort Ikon. It lies just beyond the Asterkarn Mountains, through the Darkvale Gates.{^n}{^n}We are leaving soon with a small contingent of troops. Meet us there as soon as you are able.
 I'm on my way.
 We will stop them.
-We are not going to be in Homestead much longer, and I could use your help.{^n}{^n}Will you join us?
+Pressing matters to the north require our attention. We could use your help.{^n}{^n}Will you join us?
 Where do you need me?
-WORDS
-I will meet you up north.
+With the cultist ranks scattered, we can once again reconnect with the main Legion force to the north, and just in time too. Based on the information you've brought back from Karroz, we need to immediately send all available forces to the Necropolis and stop that ritual.{^n}{^n}Ulgrim and I will be leaving shortly with a small contingent of troops. Will you meet us at Fort Ikon? It lies just beyond the Asterkarn Mountains, through the Darkvale Gates.
+I will see you there.
 I'm afraid I can't.
 I have some matters I must attend to first.
 You're here. Good.{^n}{^n}We have much to discuss.
 I found these notes on Karroz.
-Hm, I've heard of this ritual. It has been performed only once before, if my memory serves me. The results were...not good.{^n}{^n}We cannot waste any time. We must head north to STRONGHOLD immediately. Will you join us?
+Hm, I have heard of this ritual. It has been performed only once before, if my memory serves me, and the results were...shall we say, not good.{^n}{^n}The Cult must not be allowed to see this through. We must make haste to Fort Ikon at once. Will you join us?
 Where do you need me?
 
 A timely rescue. The fate awaiting those prisoners was indeed a horrible one.
