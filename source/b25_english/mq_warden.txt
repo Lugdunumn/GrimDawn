@@ -1,0 +1,30 @@
+The Resistance
+The Warden
+Access the Wardens Cellar
+John Bourbon believes that the Aetherial responsible for the atrocities at Burrwitch has possessed the body of the former warden of Devil's Crossing, Warden Krieg. {^n}{^n}According to the logs in the prison, Warden Krieg, or whatever he has become, was experimenting on prisoners in a secret laboratory underneath his mansion in Burrwitch proper. {^n}{^n}The laboratory can be accessed via the Warden's cellar underneath his estate in Burrwitch.
+Access the Warden's Cellar
+
+Find the Wardens Laboratory
+John Bourbon believes that the Aetherial responsible for the atrocities at Burrwitch has possessed the body of the former warden of Devil's Crossing, Warden Krieg. {^n}{^n}According to the logs in the prison, Warden Krieg, or whatever he has become, was experimenting on prisoners in a secret laboratory underneath his mansion in Burrwitch proper. {^n}{^n}The laboratory can be accessed via the Warden's cellar underneath his estate in Burrwitch.
+Find the Warden's Laboratory
+
+Kill the Warden
+You have entered the bowels of the Warden's twisted facilities. These atrocities end here. {^n}{^n}Find Warden Krieg in his laboratory and end his life.
+Slay Warden Krieg
+
+Report to Bourbon
+Warden Krieg has been slain by your hand! John Bourbon and the other survivors will want to hear of this triumph. {^n}{^n}Report back to Devil's Crossing.
+Report back to Captain John Bourbon
+
+
+
+
+
+Already Killed Warden
+Tell Captain John Bourbon that you have slain the Warden.
+Tell Captain Bourbon that you have slain the Warden
+
+
+
+
+

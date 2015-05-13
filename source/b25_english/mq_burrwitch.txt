@@ -1,0 +1,24 @@
+The Resistance
+Securing Burrwitch
+Find the Burrwitch Portal
+Recon data from John Bourbon's scouts indicates that Burrwitch must be critical to Aetherial operations in the area. {^n}{^n}Perhaps the mastermind behind all this tragedy is hiding somewhere in the village. Before you can search for it, however, you must secure a means of entry. {^n}{^n}Find a riftgate within Burrwitch and secure it for the Survivors. Burrwitch is located to the north of Devil's Crossing, past Wightmire.
+Secure the Portal in Burrwitch Village
+
+Clear Monsters
+The Burrwitch Riftgate is surrounded by Aetherials. You will need to clear them out before you can secure it.
+Slay all Aetherials swarming around the Burrwitch Riftgate
+
+Report back to Bourbon
+With the Burrwitch riftgate secure, return to Captain John Bourbon in Devil's Crossing for further instructions.
+Report back to John Bourbon
+
+
+
+
+Already been to Burrwitch
+Tell Captain John Bourbon about the situation at Burrwitch Village.
+Tell John Bourbon that the Burrwitch riftgate is secure
+
+
+
+
