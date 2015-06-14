@@ -10,7 +10,7 @@ Greetings.
 Farewell.
 You have entered the presence of the Order of Death's Vigil. Tread carefully, stranger.
 Farewell.
-Please, visit out sanctum. Master Varuuk will wish to speak with you.
+Please, visit our sanctum. Master Varuuk will wish to speak with you.
 Where is your sanctum?
 Our sanctum is located west of the old fort ruins in the north, known as Sorrow's Bastion.{^n}{^n}To get there, you must take the road north out of Homestead, through the Blood Grove.
 Thank you.

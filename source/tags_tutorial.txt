@@ -43,7 +43,7 @@ tagTutorialTip16TextA=Use the {^y}Character Window{^w} to equip items, organize 
 tagTutorialTip16SubtitleA=Inventory:
 tagTutorialTip16TextB=To equip an item, right-click it from your inventory or move it to an appropriate equipment slot. You may drop an item by moving it out of the character window, or by clicking on it and pressing the "{^b}{%t0}{^w}" key.
 tagTutorialTip16SubtitleB=Attribute Points: 
-tagTutorialTip16TextC=Spend attribute points by clicking on the "{^y}+{^w}" buttons to the left of the desired attribute. Each attribute point increases the attribute by 8.
+tagTutorialTip16TextC=Spend attribute points by clicking on the "{^y}+{^w}" buttons to the left of the desired attribute. Each attribute point increases the attribute by 8.{^n}{^n}
 
 tagTutorialTip17Title=Skill Mastery
 tagTutorialTip17TextA=Choosing a skill mastery is a character-defining decision. Different masteries cater to very different play styles, so choose wisely.
@@ -61,7 +61,7 @@ tagTutorialTip20SubtitleB=Combining Components
 tagTutorialTip20TextB=You can combine component fragments of the same name to create more powerful bonuses. A completed component will generate an additional completion bonus.{^n}{^n}Component fragments of the same type may be attached to items after the first fragment has been applied.
 
 tagTutorialTip21Title=Second Skill Mastery
-tagTutorialTip21TextA=At level 10, you will have the option to select a second mastery. To select your second mastery, open the Skill Window. You are not required to select a second mastery, but you will always have the option after reaching level 10.
+tagTutorialTip21TextA=At level 10, you will have the option to select a second mastery. To select your second mastery, open the {^y}Skill Window{^w}. You are not required to select a second mastery, but you will always have the option after reaching level 10.
 
 tagTutorialTip22Title=Skill Window
 tagTutorialTip22TextA=You will earn additional skill points each time you gain a level. Invest these skill points in your mastery level or unlocked skills.
@@ -139,9 +139,12 @@ tagTutorialTip38SubtitleB=Transfer Between Players
 tagTutorialTip38TextD=In order to trade items with other player's characters in multiplayer games, you must use the Trade function instead.
 
 tagTutorialTip39Title=Inventor
-tagTutorialTip39TextA=Inventors are capable of removing components from items. Either the item or the component is preserved in the process.
+tagTutorialTip39TextA=Inventors are capable of removing Components and Augments from items. Either the item or the component is preserved in the process. Any Augments are lost.
 tagTutorialTip39SubtitleA=Removing Components
-tagTutorialTip39TextB=The removal of components from items costs a fee proportional to the combined value of the item and the component. Place an item with a component in the Inventor's UI to begin.{^N}{^N}You can recover either the item or the component.{^N}{^N}If you recover the item, the component will be lost. The same goes in reverse.{^N}{^N}
+tagTutorialTip39TextB=The removal of Components from items costs a fee proportional to the combined value of the item, Augment and the Component. Place an item with a Component in the Inventor's UI to begin.{^N}{^N}You can recover either the item or the component.{^N}{^N}If you recover the item, the Component will be lost. The same goes in reverse.{^N}{^N}
+tagTutorialTip39SubtitleB=Removing Augments Only
+tagTutorialTip39TextC=Whenever you choose to remove just an Augment, the item and Component are unchanged.{^N}{^N}If a Soulbound Augment is removed this way, and the item was not originally Soulbound, the Soulbound status will be removed as well.{^N}{^N}
+
 
 tagTutorialTip42Title=Blacksmith
 tagTutorialTip42TextA=The Blacksmith is capable of crafting items of great power. He is already an experienced craftsman and everything he creates comes with a small crafting stat bonus, but his knowledge can be expanded upon with the discovery of new blueprints.
@@ -183,7 +186,7 @@ tagTutorialTip51Title=Applying Augments
 tagTutorialTip51TextA=Right-click an Augment to select it, then left-click on the item you wish to apply it to.{^N}{^N}Note that Augments can only be applied to specific item types and cannot be removed once applied; but you can overwrite an existing Augment with another.
 
 tagTutorialTip52Title=Faction Gained
-tagTutorialTip52TextA=You have gained some reputation with one of Cairn's faction through a quest.{^N}{^N}Quests are an excellent way to improve your relations with factions, but they are not the only method. You can learn more about factions in the {^y}Faction Window{^w}.
+tagTutorialTip52TextA=You have gained some reputation with one of Cairn's factions through a quest.{^N}{^N}Quests are an excellent way to improve your relations with factions, but they are not the only method. You can learn more about factions in the {^y}Faction Window{^w}.
 tagTutorialTip52CaptionA=Shortcut key: {^b}{%t0}{^w}
 
 tagTutorialTip53Title=Faction Quartermaster
@@ -195,6 +198,33 @@ tagTutorialTip54Title=Reputation Level
 tagTutorialTip54TextA=You have reached the next level of reputation with a faction. This entitles you to discounted goods at all of the faction's merchants and access to better equipment from their Faction Quartermaster.{^N}{^N}Look around as new quests may have become available.
 
 tagTutorialTip55Title=Faction Window
-tagTutorialTip55TextA=Use the {^y}Faction Window{^w} to keep track of your progress with Cairn's various factions and to determine what you need to do in order to gain their favor. Note that Factions and their rewards will be fully implemented with Build 25.
+tagTutorialTip55TextA=Use the {^y}Faction Window{^w} to keep track of your progress with Cairn's various factions and to determine what you need to do in order to gain their favor.
 tagTutorialTip55SubtitleA=Gaining Reputation
 tagTutorialTip55TextB=Each faction has unique desires and goals. You can see how to earn their respect by looking at the {^y}Reputation Gained From{^w} section.{^N}{^N}Note that as you become more renowned, you will need to defeat tougher monsters to gain reputation from kills.
+
+tagTutorialTip56Title=Bounties
+tagTutorialTip56TextA=Bounties are an excellent way to raise your reputation with the various factions of Cairn. Bounty quests send you on tasks of varying difficulty and reward and are generally unguided. You must hunt down your prey with limited assistance.
+tagTutorialTip56SubtitleA=Bounties are Repeatable
+tagTutorialTip56TextB=Unlike regular quests, Bounty quests are not limited to once per character. Each Faction will offer you up to 5 Bounties per game session, and you may discover Bounties you have done in previous sessions.{^N}{^N}
+
+tagTutorialTip57Title=Devotion Shrines
+tagTutorialTip57TextA=You are near a Devotion Shrine. By claiming Shrines, you will earn Devotion Points, which you can allocate in a unique layer of character customization.
+
+tagTutorialTip58Title=Claiming a Shrine
+tagTutorialTip58TextA=Devotion Shrines are ancient remnants of a long-lost empire, monuments dedicated to various gods and celestial symbols.{^N}{^N}Shrines must either be cleansed by defeating a corrupting presence trapped within or restored by placing an offering of rare crafting materials. The requirements vary from shrine to shrine.
+tagTutorialTip58SubtitleA=Restoring a Shrine
+tagTutorialTip58TextB=To Restore a ruined shrine, place the required materials into the Shrine UI or shift-click them within your inventory.{^N}{^N}When all required materials are in the UI, press the Offer button to restore the Shrine.
+
+tagTutorialTip59Title=Devotion Points
+tagTutorialTip59TextA=You have claimed your first Shrine and earned a Devotion Point. Devotion Points can be allocated in the {^y}Devotion Window{^w}, which can be accessed through the {^y}Skill Window{^w}.
+tagTutorialTip59CaptionA=Shortcut key: {^b}{%t0}{^w}
+
+tagTutorialTip60Title=Devotion Window
+tagTutorialTip60TextA=The {^y}Devotion Window{^w} allows you to dedicate your Devotion Points to various deities and celestial symbols of Cairn.
+tagTutorialTip60SubtitleA=Earning Devotion Points
+tagTutorialTip60TextB=Devotion Points are earned by claiming Shrines scattered throughout the world. Explore everywhere to find them all!
+
+tagTutorialTip61Title=Secondary Skills
+tagTutorialTip61TextA=Secondary Skills are powerful auto-activated effects which can be assigned to your existing primary skills from your Masteries.
+tagTutorialTip61SubtitleA=Assigning a Primary Skill
+tagTutorialTip61TextB=To assign a Secondary Skill, you must first unlock it in the {^y}Devotion Window{^w}, then select a valid Primary Skill from the drop-down list. To re-assign a Secondary Skill, you must visit a Spirit Guide.

@@ -168,3 +168,15 @@ ach053Desc=Slay ???
 
 ach054Title=The Death Room
 ach054Desc=???
+
+ach055Title=Let Me Gather My Notes
+ach055Desc=Collect 5 Lore Notes
+
+ach056Title=Note Collector
+ach056Desc=Collect 20 Lore Notes
+
+ach057Title=Lorekeeper
+ach057Desc=Collect 50 Lore Notes
+
+ach058Title=True Nemesis
+ach058Desc=Slay All Nemesis monsters (red name) on Elite or Ultimate Difficulty.

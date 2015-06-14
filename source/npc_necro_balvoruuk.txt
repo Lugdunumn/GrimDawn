@@ -2,7 +2,7 @@ Balvoruuk
 You have come far within the Order.
 
 Farewell.
-Kalderos has informed me of your success within the Steps of Torment. You have banished a malevolent spirit that has haunted those halls for centuries.{^n}{^n}Even in death, Alkamos has tormented the cursed spirits of Arkovia. In his ultimate destruction, you have brought balance to spiritual realm.
+Kalderos has informed me of your success within the Steps of Torment. You have banished a malevolent spirit that has haunted those halls for centuries.{^n}{^n}Even in death, Alkamos has tormented the cursed spirits of Arkovia. In his ultimate destruction, you have brought balance to the spirit realm.
 
 
 It had to be done.
@@ -21,6 +21,6 @@ What can you tell me about the Order?
 We seek to bring a balance to the world and to follow the teachings of our master, Uroboruuk.
 Could I speak to Uroboruuk?
 Sadly, our master had departed a few years before the Grim Dawn struck. We do not know where he went, or why he left.{^n}{^n}Seeking out the master is a noble goal which many of our members undertake. Unfortunately, none have returned with any hint as to Uroboruuk's location.
-
+I see.
 Farewell.
 Farewell.
