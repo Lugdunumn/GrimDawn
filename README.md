@@ -1,3 +1,3 @@
 GrimDawn localization file
 ========
-Check differences between 2 versions(b23b24): https://github.com/solael/GrimDawn/compare/master...beta24
+Check differences between 2 versions(b25b26): https://github.com/solael/GrimDawn/compare/b26
