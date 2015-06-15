@@ -15,7 +15,7 @@ I was out in the wilderness doing research for my book when the Grim Dawn struck
 I will return with the dynamite.
 Hello there, stranger. You don't have the look of a cultist about you.{^n}{^n}What brings such a well-armed adventurer way out here into the middle of nowhere?
 My business is my own. What are you doing out here?
-I do admit, an unarmed woman stranged on her own out in cult-infested lands must be a strange sight.{^n}{^n}I was out here working on a book when the Grim Dawn struck. Stranded between the wilderness and bloodthirsty cultist, I managed to survive by hiding out in a nearby cave, at least I did before it collapsed.
+I do admit, an unarmed woman stranded on her own out in cult-infested lands must be a strange sight.{^n}{^n}I was out here working on a book when the Grim Dawn struck. Stranded between the wilderness and bloodthirsty cultist, I managed to survive by hiding out in a nearby cave, at least I did before it collapsed.
 Do you need any help?
 You truly are a godsend, stranger. We will need some dynamite in order to clear the way. Don't suppose you have any?{^n}{^n}If not, perhaps one of the mines may have some, or perhaps a merchant back in Homestead?{^n}{^n}If you bring me some, we can clear the rocks and I can retrieve my belongings. Perhaps there is something among them that you would find acceptable as compensation for your aid.
 Sure, I'll help you out.

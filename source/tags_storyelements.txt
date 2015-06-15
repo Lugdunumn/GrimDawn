@@ -33,7 +33,8 @@ tagMapBrokenTeeth=Broken Teeth
 tagMapDevilsSpur=Devil's Spur
 tagMapNecropolis=Necropolis
 tagMapOldGrove=Old Grove
-tagMapVoidlands=Chthonic Void
+tagMapVoidlands=Obsidian Throne
+tagMapVoidlands02=Ashen Waste
 tagMapEastMarsh01=East Marsh
 tagMapEastMarsh02=Noxious Glade
 
@@ -47,7 +48,7 @@ tagMapFourHills=Four Hills
 tagMapRockyCoast=Rocky Coast
 tagMapNewHarbor=New Harbor
 tagMapBarrenHighlands=Barren Highlands
-tagMapCrumblingWatch=CrumblingWatch
+tagMapCrumblingWatch=Crumbling Watch
 tagMapCronleysHideout=Cronley's Hideout
 
 tagMapSmugglersPass=Smuggler's Pass
@@ -64,16 +65,24 @@ tagMapWitheringFields=Withering Fields
 tagMapHomestead=Homestead
 tagMapInfestedFarms=Infested Farms
 tagMapRottedHarvest=Rotting Croplands
+tagMapSorrowsBastionRoad=Fallow Fields
 tagMapCorruptedPasture=The Gruesome Harvest
 tagMapSorrowsBastion=Sorrow's Bastion
 tagMapBloodGrove=The Blood Grove
+tagMapDarkvaleMill=Gryver's Mill
+tagMapBloodGroveMine=Morton's Claim
+tagMapBloodGroveAetherMine=Stonerend Quarry
+tagMapBloodGroveShrine=Shrine of the Forgotten God
+tagMapDarkvale=Village of Darkvale
+tagMapDarkvaleGate=Darkvale Gate
+tagMapFactionFort=Fort Haron
 tagMapInfestedField01=Thornsbury Farm
 tagMapInfestedField02=Elmsworth Farm
 tagMapConflagration01=The Conflagration
 tagMapConflagration02=The Immolation
 
 tagMapLedgewood=Ledgewood
-tagMapAlpineRoad=Alpine Road
+tagMapAlpineRoad=Ledgewood Road
 
 #Riftgate Names
 
@@ -105,6 +114,7 @@ tagRiftRottedCroplands=Rotted Croplands Rift
 tagRiftRottedHarvest=The Rotted Harvest
 tagRiftSorrowsBastion=Sorrow's Bastion Rift
 tagRiftBloodGrove=Blood Grove Rift
+tagRiftDarkvale=Darkvale Rift
 tagRiftAlpineRoad=Alpine Road Rift
 
 tagRiftRandom01=Chthonic Rift
@@ -151,8 +161,14 @@ tagWorldMapHomestead=Homestead
 tagWorldMapInfestedFarms=Infested Farms
 tagWorldMapRottingCroplands=Rotting{^n}Croplands
 tagWorldMapGruesomeHarvest=The Gruesome{^n}Harvest
-tagWorldMapBloodGrove=Blood Grove
-tagWorldMapSorrowsBastian=Sorrow's Bastion
+tagWorldMapSorrowsBastionRoad=Fallow Fields
+tagWorldMapSorrowsBastion=Sorrow's Bastion
+tagWorldMapBloodGrove=Blood{^n}Grove
+tagWorldMapDarkvaleMill=Gryver's{^n}Mill
+tagWorldMapDarkvale=Village of{^n}Darkvale
+tagWorldMapDarkvaleGate=Darkvale Gate
+tagWorldMapFactionFort=Fort Haron
+tagWorldMapBloodGroveMine=Morton's{^n}Claim
 
 
 #Underground Names
@@ -213,6 +229,7 @@ tagUGCryptNecro01=Bastion of the Order
 tagUGCryptNecro02=Chamber of Souls
 
 tagUGFortCultist01=Darkvale Gate
+tagUGFortFaction01=Fort Haron
 tagUGFortBlackLegion01=Fort Ikon
 tagUGCryptNecropolis01=The Black Sepulcher
 tagUGCryptFactionBattle01=Tomb of Archon Barthollem
@@ -243,6 +260,11 @@ tagSign_TyrantsHold=Tyrant's Hold
 tagSign_SorrowsBastion=Sorrow's Bastion
 tagSign_Farm=The Averlook Tillage
 tagSign_Deeps=Beware: Mines Closed
+tagSign_Darkvale=Village of Darkvale
+tagSign_BloodGroveFort=Fort Haron
+tagSign_BloodGroveMine=Stonerend Quarry
+tagSign_BloodGroveMill=Gryver's Mill
+tagSign_FortIkon=Fort Ikon
 
 tagSign_OldGrove=Old Grove
 
@@ -268,6 +290,10 @@ tagPOI007B=Mine Exit
 tagPOI008A=Dermapteran Tunnel Entrance
 tagPOI008B=Dermapteran Tunnel Exit
 tagPOI009A=Hargate's Lab
+tagPOI010A=Order of Death's Vigil Entrance
+tagPOI011A=Kymon's Chosen Entrance
+tagPOI012A=Darkvale Gate
+tagPOI013A=Fort Haron
 
 tagPOIFloodedPassageA=Flooded Passage Entrance
 tagPOIFloodedPassageB=Flooded Passage Exit
@@ -441,7 +467,7 @@ tagNPC_AreaC_19=Haruuv
 tagNPC_AreaC_20=Sergeant Serriv
 tagNPC_AreaC_21=Weapons Master Borrov
 tagNPC_AreaC_22=The Messenger
-tagNPC_AreaC_23=
+tagNPC_AreaC_23=Soulkeeper Kaandris
 tagNPC_AreaC_24=
 tagNPC_AreaC_25=
 
@@ -504,7 +530,7 @@ tagNPC_Flavor_AreaC_06=Beatrice Summers
 tagNPC_Flavor_AreaC_07=Tricia Windborough
 tagNPC_Flavor_AreaC_08=Taris Windborough
 tagNPC_Flavor_AreaC_09=Emily Larkson
-tagNPC_Flavor_AreaC_10=Bolvis 
+tagNPC_Flavor_AreaC_10=Bolvia 
 tagNPC_Flavor_AreaC_11=Vaam
 tagNPC_Flavor_AreaC_12=Elara
 tagNPC_Flavor_AreaC_13=Kaldara
@@ -526,6 +552,9 @@ tagNPC_Flavor_AreaC_28=Chef Brackham
 tagNPC_Flavor_AreaC_29=Daila Thornsbury
 tagNPC_Flavor_AreaC_30=Alex Elmsworth
 tagNPC_Flavor_AreaC_31=Lisa Thornsbury
+tagNPC_Flavor_AreaC_32=Dalla
+tagNPC_Flavor_AreaC_33=Vig
+tagNPC_Flavor_AreaC_34=Renall Oberach
 tagNPC_Flavor_AreaC_31UNUSED=Elaine Cobble
 tagNPC_Flavor_AreaC_32UNUSED=Julia Applesworth
 tagNPC_Flavor_AreaC_33UNUSED=Shane Cobble
@@ -596,6 +625,9 @@ tagQuestItemExileBossDrop_02Desc="The still glowing aether eyes stare back blank
 
 tagQuestItemBlackLegionInsignia=Black Legion Insignia
 tagQuestItemBlackLegionInsignia_Desc="Bestowed upon the rank and file for their loyal service."
+
+tagQuestItemCultistNecropolisNote=Karroz's Tome
+tagQuestItemCultistNecropolisNote_Desc="A tome filled with dark rituals that depict the return of a great darkness from within the Necropolis."
 
 tagQuestItemAnnalsOfArkovia=Annals of Arkovia
 tagQuestItemAnnalsOfArkovia_Desc="Record of the last days of King Rhowan of Arkovia."
@@ -719,7 +751,7 @@ TagLoreObj_Kymon01codexTitle=Kymon - First Passage
 TagLoreObj_Kymon01Text=They mocked us and drove us out. They called us heretics and madmen. They thought our great prophecy and purpose was fanciful and ridiculous.{^n}{^n}Woe unto them! Behold the divine wrath that has been delivered onto the unbelievers in the remaking of the world! Our prophecy has come to pass and I hear not laughter anymore. I hear only deathly silence!{^n}{^n}Doom has befallen the wicked, the ignorant and the indolent. Only we chosen few, who have trained and prepared our bodies and our souls to weather the cleansing of the world will survive and thrive amongst this death and decay.{^n}{^n}Look to your right and to your left, in front and behind you. You see the faces of your hallowed brothers and sisters, bonded together in this holy quest. We have been tasked with the sacred duty to extinguish the last remnants of corruption and reseed the purified land with our progeny so that the new dawn can arise! Take strength in each other and in the knowledge that we are destined to fulfill this divine purpose.{^n}{^n}Long have we prepared for this moment and our time of concealment is ending. We will strike forth, boldly Northward and to our destiny. Let not the faithless, the corrupted or the demonic stand in our path, lest our divine wrath be visited upon them! Now muster my children, gather only those belongings that can profit us in our holy war and let us march forth from this humble refuge unto destiny!
 
 TagLoreObj_OldArkovia_History01Name=Last Days of Arkovia
-TagLoreObj_OldArkovia_History01Text=As I write this, dark columns of smoke billow up from the port where the madness long pullulating in the restive populace has finally boiled over. A blazing merchant's galley, abandoned by its crew and freed of its moorings plows into a group of fishing boats, wood splintering, the fire quickly spreading among the sails. I hear shouting in the courtyard below and the clash of iron not far beyond; a woman screams repeatedly, her words undiscernible.{^n}{^n}For so long, we feared our doom would come from the barbarous mountain tribes but in the end, we've been the instruments of our own demise; helped along by the insidious promises of the necromancers.{^n}{^n}It is not yet two moons since the great rituals were undertaken, led by our ever reaching Oligarchs; the rituals intended to bring immortality and ensure the lasting greatness of Arkovia. Ever the skeptic, I figured it for a sham; political theatre at best, but the ritual seems to have been a tragic success.{^n}{^n}This ritual was the invention of a necromancer named Uroboruuk. A man imprisoned in the Steps of Torment, who it is said did not age and could not be killed by any means. The leaders of the three greatest houses, including my own patron, Laudos Vagra, made an ill-conceived journey to the tower in hopes of compelling this Uroboruuk to give up his secrets. Here, immortality worked against Uroboruuk as he was subjected to the most brutal and imaginative forms of torture that could be devised for a man who could not die. Finally, Uroboruuk agreed to instruct them in the ritual and the Oligarchs, blinded by their lust for immortality, were all too eager to believe his will broken and accepted the ritual as genuine.{^n}{^n}It has become clear that the people of Arkovia have indeed gained a form of immortality but it is a cruel and twisted fulfillment of that promise. Our bodies still suffer the ravages of time, eventually dying and decaying, whilst our spirits remain trapped within, eternally bound to this land.{^n}{^n}I have witnessed this myself as the sick and elderly, near death at the time of the ritual, remain with us yet. Their bodies visibly decay, in the manner of a corpse, yet they continue on as though living, able to move and talk; still much the same persons as they were in life, yet not.{^n}{^n}All who suffer this death of the body become somehow less vital, less dynamic of thought. They become ever more narrowly focused on whatever concerned them most in life. It is disturbing to witness families that do not know what to do with their deceased, yet still present, loved ones.{^n}{^n}More horrible still are the rumors of babies born since the ritual. Abominations they say, deformed and bearing dark grisly feathers. It is said that many forlorn new fathers have been seen trekking into the broken hills, bundle in arm, to leave their unnatural offspring to the elements.{^n}{^n}The din of fighting and wailing continues on below. I expect it shall for quite some time since the combatants cannot die by any mortal means. I will sit with my books and continue my writing for whatever time may remain... perhaps all eternity...{^n}{^n}Theodokus Vagra, Scribe of Arkovia
+TagLoreObj_OldArkovia_History01Text=As I write this, dark columns of smoke billow up from the port where the madness long pullulating in the restive populace has finally boiled over. A blazing merchant's galley, abandoned by its crew and freed of its moorings plows into a group of fishing boats, wood splintering, the fire quickly spreading among the sails. I hear shouting in the courtyard below and the clash of iron not far beyond; a woman screams repeatedly, her words indiscernible.{^n}{^n}For so long, we feared our doom would come from the barbarous mountain tribes but in the end, we've been the instruments of our own demise; helped along by the insidious promises of the necromancers.{^n}{^n}It is not yet two moons since the great rituals were undertaken, led by our ever reaching Oligarchs; the rituals intended to bring immortality and ensure the lasting greatness of Arkovia. Ever the skeptic, I figured it for a sham; political theatre at best, but the ritual seems to have been a tragic success.{^n}{^n}This ritual was the invention of a necromancer named Uroboruuk. A man imprisoned in the Steps of Torment, who it is said did not age and could not be killed by any means. The leaders of the three greatest houses, including my own patron, Laudos Vagra, made an ill-conceived journey to the tower in hopes of compelling this Uroboruuk to give up his secrets. Here, immortality worked against Uroboruuk as he was subjected to the most brutal and imaginative forms of torture that could be devised for a man who could not die. Finally, Uroboruuk agreed to instruct them in the ritual and the Oligarchs, blinded by their lust for immortality, were all too eager to believe his will broken and accepted the ritual as genuine.{^n}{^n}It has become clear that the people of Arkovia have indeed gained a form of immortality but it is a cruel and twisted fulfillment of that promise. Our bodies still suffer the ravages of time, eventually dying and decaying, whilst our spirits remain trapped within, eternally bound to this land.{^n}{^n}I have witnessed this myself as the sick and elderly, near death at the time of the ritual, remain with us yet. Their bodies visibly decay, in the manner of a corpse, yet they continue on as though living, able to move and talk; still much the same persons as they were in life, yet not.{^n}{^n}All who suffer this death of the body become somehow less vital, less dynamic of thought. They become ever more narrowly focused on whatever concerned them most in life. It is disturbing to witness families that do not know what to do with their deceased, yet still present, loved ones.{^n}{^n}More horrible still are the rumors of babies born since the ritual. Abominations they say, deformed and bearing dark grisly feathers. It is said that many forlorn new fathers have been seen trekking into the broken hills, bundle in arm, to leave their unnatural offspring to the elements.{^n}{^n}The din of fighting and wailing continues on below. I expect it shall for quite some time since the combatants cannot die by any mortal means. I will sit with my books and continue my writing for whatever time may remain... perhaps all eternity...{^n}{^n}Theodokus Vagra, Scribe of Arkovia
 
 tagLoreObj_FloodedPassageRuins01Name=Writings of Rolderathis - 1st Entry
 tagLoreObj_FloodedPassageRuins01codexTitle=Rolderathis - 1st Entry
@@ -766,7 +798,7 @@ tagLoreObj_BookC02Name=Gildam Arcanum - Page 2
 tagLoreObj_BookC02Text=To reinforce the ingenuity of arcanists both living and dead, we turn to the works of Master Maiven, a prolific arcanist from the third age of our glorious empire. Master Maiven was able to bend the inherently destructive flows of the Aether to her will in order to manifest a protective barrier around herself. This technique is a stellar example of how the Gildam Arcanum continually strives to break our preconceptions of the Aether, creating entirely new schools of thought within the arcane arts.
 
 tagLoreObj_BookD01Name=Origin of the Slith - Page 1
-tagLoreObj_BookD01Text=In all the history of our great nation, there has been no greater atrocity committed than the creation of the vile vermin we call Slith. Part man, part serpent, the Slith are a testament to the dangers of the arcane and served as the driving force behind the formation of the Gildam Arcanum and its tighter sanctions on arcane practices.{^n}{^n}The Slith owe their existence to the actions of a single individual: Oswald Hargate. Backed by family wealth and a passion for research, Oswald aspired to leave his mark upon the study of the arcane. Little did he know that his legacy would leave a permanent stain upon all Arcanists and their field.
+tagLoreObj_BookD01Text=In all the history of our great nation, there has been no greater atrocity committed than the creation of the vile vermin we call Slith. Part man, part serpent, the Slith were a testament to the dangers of the arcane and served as the driving force behind the formation of the Gildam Arcanum and its tighter sanctions on arcane practices.{^n}{^n}The Slith owe their existence to the actions of a single individual: Oswald Hargate. Backed by family wealth and a passion for research, Oswald aspired to leave his mark upon the study of the arcane. Little did he know that his legacy would leave a permanent stain upon all Arcanists and their field.
 
 tagLoreObj_BookD02Name=Origin of the Slith - Page 2
 tagLoreObj_BookD02Text=Oswald Hargate firmly believed that the Aether could be used to create new life. Convinced that he could supersede the gods, Oswald set out to perform his heinous research in a, to this day, unknown location.{^n}{^n}Though not much is known about the exact details of his research, the results were quite clear. Calling his creation a Slith, for its slithering movement and snake-like lower body, Oswald triumphantly announced his findings to the Arcanum Society. The abomination bore the torso of a man and the tail of a snake, though its reptilian snout was unlike either species. Its eyes stared back at you with a hint of human sorrow, though it was clearly a dulled mind with no indication of a human conscience trapped within the slith body.{^n}{^n}Those attending were shocked by the blatant disregard for the gods and their domain. Following a brief trial, Oswald was charged with endangering society and was imprisoned for the remainder of his life. The specimen was destroyed and its ashes scattered to the winds. With Oswald behind bars and the slith dead, all believed that the nightmare was over; but they were wrong.
@@ -775,7 +807,7 @@ tagLoreObj_BookD03Name=Origin of the Slith - Page 3
 tagLoreObj_BookD03Text=When the first slith began to appear in the area known as Wightmire, it became clear that Oswald did not create just one slith. As his laboratory was never uncovered, officials could only guess as to the origin of the new species. The slith were incredibly invasive, easily dominating the local food chain and reproducing at an alarming rate.{^n}{^n}As their numbers multiplied, the slith adapted a primitive tribal hierarchy, with certain members of their packs exhibiting clear authority over the rest. And, perhaps most alarmingly of all, shamanistic behavior was reported among the slith population, indicating a strong connection to the Aether and perhaps their unnatural origins.{^n}{^n}All efforts to exterminate the slith proved fruitless, with the species simply returning at a new location from hidden nests and caverns. It is without a doubt that the actions of one arrogant individual will continue to reverberate across countless generations to come.
 
 tagLoreObj_BookD04Name=Hargate's Journal - Page 1
-tagLoreObj_BookD04Text=First day at my new lab. I must say, I am thrilled to get started. The days of having my nose stuck in the books are over. There comes a time when studying old tomes reaches its limit. Eventually, one must set out on their own to pursue new ventures and ideas not yet considered. It is our sacred duty as scholars to leave a mark upon the world!{^n}{^n}My wife, Helen, and my dearest daughter Ellena will be joining me soon at our new home. Helen has expressed concern about our little girl growing up in a laboratory, so far away from other children, but I've calmed her down. Ellena will have everything she requires provided for, and Burrwitch is just a short boat ride away should she ask for a playmate.{^n}{^n}Together, Helen and I are going to do something no Arcanist has dared even consider: the creation of new life. The Aether is a wondrous source of energy, and yet nobody's stopped to ponder its effects upon organic material. Helen's expertise in the biological arts should prove most valuable in this endeavor.
+tagLoreObj_BookD04Text=First day at my new lab. I must say, I am thrilled to get started. The days of having my nose stuck in the books are over. There comes a time when studying old tomes reaches its limit. Eventually, one must set out on their own to pursue new ventures and ideas not yet considered. It is our sacred duty as scholars to leave a mark upon the world!{^n}{^n}My wife, Helen, and my dearest daughter Ellena will be joining me soon at our new home. Helen has expressed concern about our little girl growing up in a laboratory, so far away from other children, but I've calmed her down. Ellena will have everything she requires, and Burrwitch is just a short boat ride away should she ask for a playmate.{^n}{^n}Together, Helen and I are going to do something no Arcanist has dared even consider: the creation of new life. The Aether is a wondrous source of energy, and yet nobody's stopped to ponder its effects upon organic material. Helen's expertise in the biological arts should prove most valuable in this endeavor.
 
 tagLoreObj_BookD05Name=Hargate's Journal - Page 2
 tagLoreObj_BookD05Text=At Helen's recommendation, I have chosen the lowly green swamp adder as the basis of my experiment. Its short lifespan and rapidly shedding skin made for a malleable test subject. The initial results seemed promising at first. Using high concentrations of Aether energy, we were able to instill various mutations within the specimens, creating new limbs or inducing gigantism. Unfortunately, none of the samples survived beyond a couple weeks, their higher brain functions being seemingly incapable of handling the introduction of additional bodily elements.{^n}{^n}For our second batch of experiments, we molded the adders with a few grobles captured by local trappers. The results were...curious to say the least. While this was not the breakthrough I was looking for, we seem to be heading in the right direction. The dull mind of a groble was capable of adapting to its new body, but its primitive and disgustingly malformed physique would see me become the laughing stock of my colleagues. No, I must see this through to its logical conclusion. Helen may frown upon it, but the next step seems clear as day to me...
@@ -855,6 +887,50 @@ tagLoreObj_AreaCAetherial_NoteA01Text=Consensus is achieved. The sanctum of Home
 tagLoreObj_BlackLegion_NoteA01Name=Black Legion Scouting Report
 tagLoreObj_BlackLegion_NoteA01Text=I write this letter to report of extreme and disturbing Aetherial activity to the North of Homestead. I set off to the foothills and made my way through the warren of low stone walls, fences, and occasional farmhouses. I was careful to move in secret and remain undetected from the horrors that still roam the fields unchecked. I made it to the valley of two hills near the river when I witnessed something I can barely comprehend. {^n}{^n}An unearthly black pillar that was neither stone nor flesh drifting slowly across the land as would a low cloud.  A sickly green glow burned at its core and great writhing tendrils hung from somewhere underneath the shifting back shell. I watched in mounting dread as the unholy obelisk slowed and then, without warning, burrowed the hooks of the dangling tentacles into the ground. The ground began to wither and glow with the same unwholesome green. It was then that the obelisk pulled itself into the ground. With a sound that made me feel as if the earth was dying, it began glowing so bright I could hardly look. Its power seeped into the ground, twisting and corrupting as it spread. {^n}{^n}I lingered for nearly an hour in that place and in that time a great distance around the obelisk had been changed. I was about to leave when the obelisk erupted from the ground and drifted to an untouched patch of land to begin the cycle again. We must act soon or there will be nothing left to save. {^n}{^n}--6th Regimental Scouts of the Black Legion, Renall Oberach
 
+tagLoreObj_AreaCCultist_NoteA01Name=Avalline's Note - Page 1
+tagLoreObj_AreaCCultist_NoteA01Text=We've been on the run for what feels like weeks now. The Aetherials are always on our heels, spreading like wildfire across the countryside. The children are starving; the few bites of food we manage to scavenge on the go aren't enough for all four of us. I'm not sure how much more of this we can take.{^n}{^n}Word on the road is that the Cult of Ch'thon is accepting members, that they have food and shelter for all. I've always pictured them as heretical lunatics, howling at the moon as they bathe in blood, but the promises of safety may be too much to pass on. Thallon cringes at the thought of being seen among the Bloodsworn, but we agree that it may be a necessary evil in order to survive. Our children deserve to eat.
+
+tagLoreObj_AreaCCultist_NoteA02Name=Avalline's Note - Page 2
+tagLoreObj_AreaCCultist_NoteA02Text=Life among the Bloodsworn has required some changes to our little family, mainly that we can only see the children after the day's rituals and chores are finished, which usually last late into the evening. Some days I don't see them at all until they are already asleep. My husband is having a difficult time with the prayers, he calls them blasphemous filth, but I remind him that we are doing this for our family's survival.{^n}{^n}Myself, I cannot help but question the gods who have given us nothing except poverty. But here, under the protection of Ch'thon, we are safe and fed. The Bloodsworn have given us everything they had promised, and more. All they ask in return is our devotion and a little bit of blood.{^n}{^n}So I can't help myself when I chant a little louder each morning as I sing my praises to Ch'thon. The cuts from the ritual knife serve as a gentle reminder that we are still alive and not rotting out in the wilderness. It feels...good. By Ch'thon, it feels good...
+
+tagLoreObj_AreaCCultist_NoteA03Name=Avalline's Note - Page 3
+tagLoreObj_AreaCCultist_NoteA03Text=All begins and ends with Ch'thon. I can see that now. My family's suffering, the poverty we've endured? These are all symptoms of our separation from Ch'thon. The Bloodsworn have shown me the way to salvation.{^n}{^n}I have prayed long and hard at the altar, poured my lifeblood out onto the stones until the answers came to me. The only way my family can truly be safe is to be reunited with Ch'thon.{^n}{^n}I have made the necessary arrangements. The sacrifice will proceed at dawn.
+
+tagLoreObj_AreaCCultist_NoteA04Name=Blood for Ch'thon
+tagLoreObj_AreaCCultist_NoteA04Text=I try to console them. I tell them everything will be alright. Their eyes go wide with fear as I find the spot between the ribs and push the blade in. They always cry and it makes me a little sad. They do not yet understand. I watch the blood as it flows down their naked legs and into the large basin I have placed below their suspended form. Ch'thon calls for every drop.{^n}{^n}To ensure I get it all, I begin by making shallow cuts. First the legs. Then the torso. And lastly the arms. Slowly their struggle rescinds and they accept their fate. At last they find understanding.{^n}{^n}The blood is not theirs. They are only holding it for another. And now it must be returned. To Ch'thon, whom it rightly belongs. At last their fear is peeled away and they are happy to give the blood freely.{^n}{^n}Devoted Servant of Ch'Thon, Bellor Heind
+
+tagLoreObj_AreaCCultist_NoteA05Name=The Call of Blood
+tagLoreObj_AreaCCultist_NoteA05Text=My whole life I have reveled in the spilling of blood. For years I have been driven to hunt in the shadows. Lurking and hunting alone. But I am alone no longer. At long last I have found what has called to me.{^n}{^n}Ch'thon has whispered to me and the Grim Dawn has released my shackles. Now I take my pleasure and collect the blood for my Lord. It fills my heart and warms my soul to watch the last drops of blood flow.{^n}{^n}The old world was not understanding of my need. But now a new power has risen and Ch'thon has called on me. And those who do answer the Call will be my prey.
+
+tagLoreObj_AreaCCultistSummoner_NoteName=Final Sermon: The End of Times
+tagLoreObj_AreaCCultistSummoner_CodexTitle=The End of Times
+tagLoreObj_AreaCCultistSummoner_NoteText=Bloodsworn supplicants of Ch'thon, it is with great purpose that we gather here today for what will be my final sermon to you. You have devoted yourselves completely, forsaking all past relations, earthly possessions and free will. You have proven that you are finally ready to become part of a greater whole, to receive the glorious gift of reunification.{^n}{^n}I must remain behind with the others to finish our great work, yet, even as you depart your lives, you will advance this broken world one step closer to the end time. The time when the dismal, suffering world will become reunited with Ch'thon, making the oldest of the old whole again and righting the great wrong perpetrated millennia ago by the false gods! These upstart gods who manipulated the course of our existence, set themselves up to be the objects of worship and who have lived off our blood and toil for ages.{^n}{^n}The end time will also bring doom to the wayward Aetherials, past agents of the false gods who were betrayed and then cast into the formless aether once their purpose had been served. They have hindered us, slaughtered our brethren and tried to claim dominance over this world. Yet, we must also thank them, for it is the Aetherials who have unwittingly made possible our ascension by destroying the empire and its inquisition. No longer does the inquisition hunt us, suppress our truths nor deny us access to our sacred places. Unshackled from the strictures of the empire, people have awakened from the false dream of civilization and our ranks have swelled.{^n}{^n}Not knowing the history of our world, the Aetherials are ignorant of the doom that we will awaken. They cannot surmise our end game and once they realize what they have set in motion, it will be too late for them to stop us! Our most devoted brethren march with legions of the void for Necropolis. They need only prevent our enemies from breaching our final line for even as they attack our forces, the blood they spill will feed our resurrection ritual. Where once we suffered our greatest defeat, our ultimate triumph shall be reborn and the Loghorrean, forerunner of the end time, will carry the thousand screaming voices of Ch'thon into world and usher in a new age!
+
+tagLoreObj_AreaCNecro_Note01Name=Laruka's Journal
+tagLoreObj_AreaCNecro_Note01Text=Today marks a critical moment in my life as one of Uroboruuk's pupils. Having passed the trials, the only thing that stands between me and the coveted title of necromancer is performing a reanimation.{^n}{^n}I've had the pleasure of seeing our master at work countless times. He is truly a master of the craft, requiring neither reagent nor word to bring the dead back into the living. Uroboruuk claims that this is a matter of practice and form, but I am convinced otherwise. His grasp over death supersedes us all, even his oldest students who, at a whim, may call upon spirits to do their bidding; but even they require binding runes and focusing stones of which our master makes no use of. The dead Uroboruuk brings back don't just serve him; they seem eager to please their master, as if to earn his favor.{^n}{^n}But now it is my turn to join the elite ranks of the Order. I've studied the scrolls, learned the rites and burned the words into my memory through exhaustive repetition. I've gathered the grave moss and the dust from buried bones. I am ready. Tomorrow, I will drag a soul back from beyond the veil of death and force it into skeletal remains. Tomorrow I emerge from the sepulcher as a full-fledged necromancer.
+
+tagLoreObj_AreaCNecro_Note02Name=Order Doctrine
+tagLoreObj_AreaCNecro_Note02Text=The Order of Death's Vigil was founded upon the principles of Uroboruuk, our immortal grandmaster. Uroboruuk taught us to never be fulfilled by life's countless mysteries, to reach ever deeper into the fount of knowledge.{^n}{^n}As members of the Order, it is our sacred duty to preserve and maintain knowledge, regardless of its origins or unsettling nature; as it is not for man to discern its value. Knowledge is a wealth easily squandered by those who fear it, as evidenced by the near eradication of our Order's founding doctrine, the art of necromancy.{^n}{^n}Mastery of the ultimate fate which awaits all men represents an unparalleled frontier of learning. So it falls upon our neophytes to conquer their fear of death, to accept its harsh lessons. For not even in death does duty end. 
+
+tagLoreObj_AreaCNecro_Note03Name=Uroboruuk's Journal - Page 1
+tagLoreObj_AreaCNecro_Note03Text=Something powerful is coming from beyond. I have sensed its approach for some time now. But like a dream or some distant memory, the details were lost to me... until now.{^n}{^n}I can feel it clawing its way through the veil somewhere to the east of Burrwitch, no doubt drawn here by the maelstrom of otherworldly corruption. I dare say, its nature eludes even me; but it is neither flesh nor spirit. I must discover what it is we are facing and, should the need arise, seal it away again behind the barrier between worlds.{^n}{^n}The Order need not concern itself with these matters quite yet. I must do this alone...{^n}{^n}Uroboruuk
+
+tagLoreObj_AreaCNecro_Note04Name=Uroboruuk's Journal - Page 2
+tagLoreObj_AreaCNecro_Note04Text=I will rip the bones from a thousand for this treachery. At a great cost I have survived a deadly attack.{^n}{^n}I had discovered a large contingent of Chthonic fiends. At first, I thought they were the source of power that I sought and so I followed them. As they travelled East, I soon realized that they too were after the same thing as I. They made their way to the cliffs by way of the swamp. In following them, I had walked right into an ambush as I was suddenly attacked from behind.{^n}{^n}The fight was devastating and I destroyed dozens in the ensuing conflict. However, in the midst of battle, several of the Harbingers cornered my Guardian. I first believed they intended to destroy it; but when they exploded, a rush of Chthonic energy surged into my creation and severed our link. The animated mass of bone turned on me, and I knew then that the Harbingers had found a way to corrupt my necromantic creation. I do not understand how they were capable of doing this but it was unlike anything I have ever seen Chthonic beings do.{^n}{^n}If the fiends of the Void are able to harness this power on a larger scale, then the Order of Death's Vigil will find itself outmatched. I must maintain hope that what I seek will be an answer to fighting this darkness. With each step the power grows and others will be drawn to it. I must hurry.{^n}{^n}Uroboruuk
+
+tagLoreObj_AreaCZealot_Note01Name=Acolyte's Pledge
+tagLoreObj_AreaCZealot_Note01Text=When the world ended, I did not know how I would survive. It was only by the grace of Kymon that they found me. Burried in the mud and rubble of my house, it was Father Kymon who knew where to find me. It was his hands that pulled me free of certain death.{^n}{^n}Now that I am here, I pledge to do everything I can to fight this evil and to serve the cause that gave me a second chance. It is by the will of Kymon that I now carry his light to the world and save who I can. Praise be to the Blessed Father.{^n}{^n}Acolyte of the Chosen, Carth Lavine
+
+tagLoreObj_AreaCZealot_Note02Name=Beacon of Hope
+tagLoreObj_AreaCZealot_Note02Text=I have seen first-hand the cleansing power of the flame of Kymon and will never falter in my belief. Our forces outnumbered by horrors beyond comprehension, it was then that I first laid eyes upon him.{^n}{^n}Like a shining beacon in the chaos, Father Kymon charged into battle. He was as a flaming wind scorching a forest left to grow wild for too long, cutting down the twisted and reviled roots that seek to strangle this world of light. I knew that day that he will be the one to lead us from this horror. It is his righteousness that burns through the darkness of this world and banishes the evil. I will not fail him.{^n}{^n}Blade Maiden Sendra Ambri
+
+tagLoreObj_AreaCZealot_Note03Name=Kymon's Journal - Page 1
+tagLoreObj_AreaCZealot_Note03Text=The Messenger is harsh to deal with. With each exchange I feel drained as though my life were being drawn into a deep well. Everything appears darker and father away as if seen though a long tunnel. A lesser man without the years of Inquisitor mental training would be consumed.{^n}{^n}Even as I write this, I can sense its energy rippling through the room. I can feel it like worms twitching below my skin. It burrows and pulls, urging me to get closer. I dread to think of what would become of any of my Chosen should they get too close to this entity. What would remain, I cannot say, but I suspect the Messenger would shuck the mind and claim the body for its own.{^n}{^n}I fear there are none who would understand or survive this secret. I alone must shoulder this burden and so I will steel myself and endure. I have taken on a great risk, but the fate of the world hinges on the success of The Chosen and the pact that I have made.{^n}{^n}Father Kymon
+
+tagLoreObj_AreaCZealot_Note04Name=Kymon's Journal - Page 2
+tagLoreObj_AreaCZealot_Note04Text=There are questions that have been scratching at the back of my mind. I have tried to push them aside but with each conversation I have with the Messenger they become harder to ignore.{^n}{^n}I must ask: when the last demon is driven from this world, what will become of us then? In my heart, I fear I already know the answer, but dare not speak it out loud. I have no doubt that I have made the right choice. The power I have revived will be humanity's salvation from the blood fiends of the Chthonic Void.{^n}{^n}However, there must always be evil. And when there is no evil left to conquer who or, more frighteningly, what will fill that emptiness? Will we become as reviled as those who we oppose? The Primordial powers have no care or sympathy for humanity. Without shackles, this power I have borrowed could be just as disastrous as, or perhaps even worse than, Ch'thon.{^n}{^n}I now wish I had not burned the town where I awoke this ancient being. If it ever needs to be stopped I may have destroyed the last remaining knowledge to unmake it.{^n}{^n}Father Kymon
+
+
 
 #Guards
 
@@ -878,11 +954,17 @@ tagNPC_MerchantA04=Isaiah Reddan
 tagStoreTitle_MerchantA04A=Specialty Goods
 tagStoreTitle_MerchantA04B=Salvage Dealer
 
-tagNPC_MerchantB01=Benny the Vagrant
-tagStoreTitle_MerchantB01=Connoisseur of Illicit Goods
+tagNPC_MerchantB01=Benevald
+tagStoreTitle_MerchantB01=Strange Wares
 
 tagNPC_MerchantB02=Morris Burton
 tagStoreTitle_MerchantB02=Salvage Dealer
+
+tagNPC_MerchantB03=Brother Jarron
+tagStoreTitle_MerchantB03=Kymon's Supplier
+
+tagNPC_MerchantB04=Palleor
+tagStoreTitle_MerchantB04=Order Supplier
 
 tagNPC_MerchantC01=Marris Kas
 tagStoreTitle_MerchantC01=Wares of the Lost

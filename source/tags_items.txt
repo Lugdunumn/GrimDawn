@@ -349,6 +349,8 @@ tagWeaponMelee2hB007=Spectral War Axe
 tagWeaponMelee2hB008=Alkamos' Warsword
 tagWeaponMelee2hB009=Spectral Warmaul
 tagWeaponMelee2hB010=Archon's Warmaul
+tagWeaponMelee2hB011=Obsidian Headsplitter
+tagWeaponMelee2hB012=Obsidian War Cleaver
 
 tagWeaponMelee2hC001=Gutwrench Eviscerator
 tagWeaponMelee2hC002=Massacre
@@ -372,6 +374,9 @@ tagWeaponMelee2hC014Desc="The Lifestealer of Tenebris, the Blood Drinker."
 tagWeaponMelee2hC015=Warhammer of Heavenly Judgment
 tagWeaponMelee2hC015Desc="Great hammer of Brother Bernard Mellington of the Templar."
 tagWeaponMelee2hC016=Champion of the Light
+tagWeaponMelee2hC017=Wildcaller's Decapitator
+tagWeaponMelee2hC018=Shar'Zul's Furnace
+tagWeaponMelee2hC018Desc="Flames stoke endlessly within Shar'Zul's warmaul."
 
 tagWeaponMelee2hD001=Stonefist Rebuke
 tagWeaponMelee2hD002=The Guillotine
@@ -464,7 +469,7 @@ tagWeaponCaster1hF005=Rhowari Chilltouch
 tagWeaponCaster1hF006=Rhowari Deathtouch
 tagWeaponCaster1hF007=Chosen Skysplitter
 tagWeaponCaster1hF008=Chosen Flamecaller
-tagWeaponCaster1hF009=Chosen Chillbearer
+tagWeaponCaster1hF009=Chosen Arcanespark
 
 
 tagWeaponArcaneA001=Crude Staff
@@ -505,6 +510,8 @@ tagShieldB006=Siege Shield
 tagShieldB007=Sovereign Shield
 tagShieldB008=Trog Bonewall
 tagShieldB009=Vampiric Bonewall
+tagShieldB010=Obsidian Guard
+tagShieldB011=Obsidian Bulwark
 
 tagShieldC001=Defender of Devil's Crossing
 tagShieldC002=Spiriteater Bulwark
@@ -586,6 +593,19 @@ tagFocusB006=Witch's Effigy
 tagFocusB007=Pulsing Shard
 tagFocusB008=Bloodsworn Tome
 tagFocusB009=Bloodsworn Codex
+tagFocusB010=Groble Toxic Idol
+tagFocusB011=Groble Toxic Effigy
+tagFocusB011_Desc="Ancient Groble proverb: two shrunken heads better than one."
+tagFocusB012=Chipped Yeti Horn
+tagFocusB013=Yeti Horn
+tagFocusB014=Groble Sky Idol
+tagFocusB015=Groble Sky Effigy
+tagFocusB016=Groble Stone Idol
+tagFocusB017=Groble Stone Effigy
+tagFocusB018=Groble Ember Idol
+tagFocusB019=Groble Ember Effigy
+tagFocusB020=Groble Death Idol
+tagFocusB021=Groble Death Effigy
 
 tagFocusC001=Dementia
 tagFocusC002=Crushing Will
@@ -603,6 +623,8 @@ tagFocusC010Desc="Scripture once carried by the devout knights of Menhir."
 tagFocusC011=Nocturnis
 tagFocusC012=Channeling Orb of the Covenant
 tagFocusC013=Tome of Plagues
+tagFocusC014=Stormcaller's Effigy
+tagFocusC015=Storm Scion
 
 tagFocusD001=Fiend's Resolve
 tagFocusD002=Aldanar's Vanity
@@ -780,6 +802,8 @@ tagHeadB013=Fleshwarped Helm
 tagHeadB014=Fleshwarped Casque
 tagHeadB015=Spectral Crown
 tagHeadB015Desc="Powerful necrotic energies caused this crown to manifest in the physical realm."
+tagHeadB016=Milton's Casque
+tagHeadB016Desc="A notch on the helm for every Taken he's killed."
 
 tagHeadC001=Stormcaller's Circlet
 tagHeadC002=Berserker's Cowl
@@ -810,6 +834,7 @@ tagHeadC022=Cowl of the Paragon
 tagHeadC023=Dawnguard Helm
 tagHeadC024=Miasma Hood
 tagHeadC025=Eyes of Flame
+tagHeadC026=Wildcaller's Cowl
 
 tagHeadD001=Maw of Despair
 tagHeadD001Desc="Look upon me and despair, for your hour has struck."
@@ -983,6 +1008,8 @@ tagTorsoC022=Zolhan's Battle Plate
 tagTorsoC022Desc="Armor commissioned by the famed battle master, Zolhan."
 tagTorsoC023=Miasma Robes
 tagTorsoC024=Eastern Robes
+tagTorsoC025=Wildcaller's Skins
+tagTorsoC026=Wildspeaker Coat
 
 tagTorsoD001=Fiendscale Jacket
 tagTorsoD002=Devil's Cage Hauberk
@@ -1060,6 +1087,7 @@ tagWaistC011=Chains of Anguish
 tagWaistC011Desc="The chains grant unspeakable power, but at equal cost in blood."
 tagWaistC012=Warpath Girdle
 tagWaistC013=Sharpshooter's Pouch
+tagWaistC014=Skyreach Sash
 
 tagWaistD001=Thorn Girdle of the Mystborn Glade
 tagWaistD002=Blade Breaker Sash
@@ -1126,6 +1154,8 @@ tagHandsC015=Dawnguard Gauntlets
 tagHandsC016=Embergrip Handguards
 tagHandsC017=Quickdraw Gloves
 tagHandsC018=Eastern Gloves
+tagHandsC019=Thundertouch Bracers
+tagHandsC020=Obsidian Grasp
 
 tagHandsD001=Grasp of Unchained Might
 tagHandsD001Desc="Gloves blessed with the ferocity of Oleron himself."
@@ -1301,6 +1331,9 @@ tagRingC024=Ring of Eternal Rot
 tagRingC025=Seal of the Blazing Inferno
 tagRingC026=Sentinel's Seal
 tagRingC027=Quickening Gem
+tagRingC028=Briarthorn Band
+tagRingC029=Lifebloom Band
+tagRingC030=Goliath Signet
 
 tagRingD001=Signet of the Fallen
 tagRingD002=Glyph of Kelphat'Zoth
@@ -1325,10 +1358,10 @@ tagRingF005=Legion War Seal
 tagRingF006=Legion Conjuration Seal
 tagRingF007=Harvest Venom Seal
 tagRingF008=Harvest Blade Seal
-tagRingF009=Death's Storm Seal
+tagRingF009=Death's Frost Seal
 tagRingF010=Death's Life Seal
 tagRingF011=Chosen Flame Seal
-tagRingF012=Chosen Frost Seal
+tagRingF012=Chosen Storm Seal
 
 
 #Necklaces
@@ -1391,6 +1424,8 @@ tagNecklaceC025=Plaguemancer's Amulet
 tagNecklaceC026=Cerulean Shard
 tagNecklaceC027=Bladeward's Courage
 tagNecklaceC028=Shard of Menhir
+tagNecklaceC029=Bramblewood Amulet
+tagNecklaceC030=Locust Gem
 
 tagNecklaceD001=Will of Bysmiel
 tagNecklaceD002=Thread of Mortality
@@ -1458,6 +1493,7 @@ tagMedalC016=Tempest Sigil
 tagMedalC017=Mark of the False Gods
 tagMedalC018=Gutworm's Bloody Seal
 tagMedalC018Desc="Drenched with the blood of his victims."
+tagMedalC019=Mogdrogen Sigil
 
 tagMedalD001=Mark of the Apostate
 tagMedalD001Desc="Symbol once forced upon heretics, later worn with pride by worshippers of the witch gods."
@@ -1480,7 +1516,8 @@ tagMedalF005=Legion Mark of the Void
 tagMedalF006=Legion Mark of Blades
 tagMedalF007=Chosen Star of War
 tagMedalF008=Chosen Star of Thunder
-tagMedalF009=Chosen Star of Life
+tagMedalF009=Corrupted Chosen Star
+tagMedalF009Desc="Tarnished by the powers of the enemy, this medal nevertheless can serve a righteous purpose."
 
 
 #Blueprints
@@ -1567,7 +1604,7 @@ tagBlueprint_ComponentC04=Blueprint: Prismatic Diamond
 tagBlueprint_ComponentC05=Blueprint: Haunted Steel
 tagBlueprint_ComponentC06=Blueprint: Mark of Mogdrogen
 tagBlueprint_ComponentC07=Blueprint: Silvercore Bolts
-tagBlueprint_ComponentC08=Blueprint: Blessed Whetstone
+tagBlueprint_ComponentC08=Blueprint: Bloody Whetstone
 
 
 tagBlueprint_WaistB001=Blueprint: Bounty Hunter's Girdle
@@ -2205,6 +2242,55 @@ tagEnchantA036B=Potent Winterbloom Powder II
 tagEnchantA036C=Potent Winterbloom Powder III
 tagEnchantA036Desc="Powder from a pale blue flower strangely found blooming only during the harsh winter months."^w^n(Applied to all two-handed weapons)
 
+tagEnchantA037A=Witch's Powder I
+tagEnchantA037B=Witch's Powder II
+tagEnchantA037C=Witch's Powder III
+tagEnchantA037Desc="Though technically illegal, the powder has found its use among the Legion's conjurers."^w^n(Applied to all one-handed weapons, shields and off-hands)
+
+tagEnchantA038A=Potent Witch's Powder I
+tagEnchantA038B=Potent Witch's Powder II
+tagEnchantA038C=Potent Witch's Powder III
+tagEnchantA038Desc="Though technically illegal, the powder has found its use among the Legion's conjurers."^w^n(Applied to all two-handed weapons)
+
+tagEnchantA039A=Conjurer's Powder I
+tagEnchantA039B=Conjurer's Powder II
+tagEnchantA039C=Conjurer's Powder III
+tagEnchantA039Desc="Powder used by Rovers in various rituals and meditation sessions. Surprisingly effective during summoning rituals."^w^n(Applied to rings and amulets)
+
+tagEnchantA040A=Rifthound Salts I
+tagEnchantA040B=Rifthound Salts II
+tagEnchantA040C=Rifthound Salts III
+tagEnchantA040Desc="Powder derived from the glowing skin of a rifthound matriarch."^w^n(Applied to rings and amulets)
+
+tagEnchantA041A=Beast Tamer's Powder I
+tagEnchantA041B=Beast Tamer's Powder II
+tagEnchantA041C=Beast Tamer's Powder III
+tagEnchantA041Desc="A calming agent used by Homestead farmers to soothe wild animals into submission."^w^n(Applied to all one-handed weapons, shields and off-hands)
+
+tagEnchantA042A=Potent Beast Tamer's Powder I
+tagEnchantA042B=Potent Beast Tamer's Powder II
+tagEnchantA042C=Potent Beast Tamer's Powder III
+tagEnchantA042Desc="A calming agent used by Homestead farmers to soothe wild animals into submission."^w^n(Applied to all two-handed weapons)
+
+tagEnchantA043A=Firebloom Powder I
+tagEnchantA043B=Firebloom Powder II
+tagEnchantA043C=Firebloom Powder III
+tagEnchantA043Desc="Powder derived from a flower hot to the touch, often found at the base of volcanoes."^w^n(Applied to rings and amulets)
+
+tagEnchantA044A=Storm Powder I
+tagEnchantA044B=Storm Powder II
+tagEnchantA044C=Storm Powder III
+tagEnchantA044Desc="A blue powder sparking with raw power from a lightning strike."^w^n(Applied to rings and amulets)
+
+tagEnchantA045A=Binding Dust I
+tagEnchantA045B=Binding Dust II
+tagEnchantA045C=Binding Dust III
+tagEnchantA045Desc="Dust used by the Order to bind undead beings to their will."^w^n(Applied to rings and amulets)
+
+tagEnchantA046A=Chillheart Powder I
+tagEnchantA046B=Chillheart Powder II
+tagEnchantA046C=Chillheart Powder III
+tagEnchantA046Desc="Powder derived from the dead. It appears to readily sap heat from the air around it."^w^n(Applied to rings and amulets)
 
 tagEnchantB001A=Ulgrim's Guile I
 tagEnchantB001B=Ulgrim's Guile II
@@ -2481,12 +2567,53 @@ tagEnchantB055B=Spirit of Vengeance II
 tagEnchantB055C=Spirit of Vengeance III
 tagEnchantB055Desc="Captured form of a vile and vengeful spirit from the Arkovian ruins. The inside of the crucible is etched with protective runes."^w^n(Applied to rings and amulets)
 
+tagEnchantB056A=Survivor's Ally I
+tagEnchantB056B=Survivor's Ally II
+tagEnchantB056C=Survivor's Ally III
+tagEnchantB056Desc="When allies are few, an animal companion can prove to be the only true friend."^w^n(Applied to rings and amulets)
+
+tagEnchantB057A=Beastlord's Calling I
+tagEnchantB057B=Beastlord's Calling II
+tagEnchantB057BC=Beastlord's Calling III
+tagEnchantB057Desc="A concoction used by the people of Homestead to bless their herds."^w^n(Applied to all one-handed weapons, shields and off-hands)
+
+tagEnchantB058A=Potent Beastlord's Calling I
+tagEnchantB058B=Potent Beastlord's Calling II
+tagEnchantB058BC=Potent Beastlord's Calling III
+tagEnchantB058Desc="A concoction used by the people of Homestead to bless their herds."^w^n(Applied to all two-handed weapons)
+
+tagEnchantB059A=Mogdrogen's Blessing I
+tagEnchantB059B=Mogdrogen's Blessing II
+tagEnchantB059C=Mogdrogen's Blessing III
+tagEnchantB059Desc="Powder allegedly blessed by the beast god himself to strengthen the bond between man and beast."^w^n(Applied to rings and amulets)
+
+tagEnchantB060A=Empyrion's Touch I
+tagEnchantB060B=Empyrion's Touch II
+tagEnchantB060C=Empyrion's Touch III
+tagEnchantB060Desc="Sparking powder believed to have been touched by the Lightbringer himself."^w^n(Applied to rings and amulets)
+
+tagEnchantB061A=Infernal Dust I
+tagEnchantB061B=Infernal Dust II
+tagEnchantB061C=Infernal Dust III
+tagEnchantB061Desc="Sorcerous powder burning with the wrath of Empyrion."^w^n(Applied to rings and amulets)
+
+tagEnchantB062A=Malkadarr's Chillbane I
+tagEnchantB062B=Malkadarr's Chillbane II
+tagEnchantB062C=Malkadarr's Chillbane III
+tagEnchantB062Desc="Sorcerous powder created by Malkadarr, First of the Inner Circle."^w^n(Applied to rings and amulets)
+
+tagEnchantB063A=Keeper's Binding Dust I
+tagEnchantB063B=Keeper's Binding Dust II
+tagEnchantB063C=Keeper's Binding Dust III
+tagEnchantB063Desc="Binding Dust created by the Keeper herself to bind the most powerful of undead servants."^w^n(Applied to rings and amulets)
+
+
 #ItemComponents
 
 tagComponentIncomplete=Partial Component
 tagComponentComplete=Component
 tagComponentNumber={%s0 - %d1 / %d2}
-tagComponentNumberRare={%s0} {%s1 - %d2 / %d3}
+tagComponentNumberRare={%s0}{%s1 - %d2 / %d3}
 tagComponentBonus=Completion Bonus
 tagComponentQualities=Component Qualities:
 tagComponentHelp=[Right-Click to Apply or Combine]
@@ -2669,7 +2796,7 @@ tagCompA058Name=Void-Touched Ammo
 tagCompA058Desc="Dipped in fresh Chthonian blood."^w^n(Used in guns and crossbows)
 
 tagCompA059Name=Reinforced Shell
-tagCompA059Desc=""A nearly impervious shell that has absorbed countless blows."^w^n(Used in shields)
+tagCompA059Desc="A nearly impervious shell that has absorbed countless blows."^w^n(Used in shields)
 
 tagCompA060Name=Battered Shell
 tagCompA060Desc="A shell that has survived seemingly impossible blows."^w^n(Used in shields)
@@ -2736,7 +2863,7 @@ tagCompB018Name=^kDread Skull
 tagCompB018Desc="An assassin's symbol granted upon the acceptance of a particularly dangerous bounty."^w^n(Used in amulets)
 
 tagCompB019Name=^kArcane Spark
-tagCompB019Desc="A spark of the purest arcane energy."^w^n(Used in amulets)
+tagCompB019Desc="A spark of the purest arcane energy."^w^n(Used in amulets and medals)
 
 tagCompB020Name=^kMark of the Myrmidon
 tagCompB020Desc="A powerful symbol bestowed upon the most fearless battle lords."^w^n(Used in shields)
@@ -2905,6 +3032,9 @@ tagItemSetC020Desc="Armor and weapon carried by the devout of Ulzuin."
 tagItemSetC021Name=The Eastern Pledge
 tagItemSetC021Desc="Robes worn by revered priests from a foreign land beyond the great seas."
 
+tagItemSetC022Name=Wildcaller
+tagItemSetC022Desc="Adornments of the Wildcallers, shamans attuned to the voices of nature."
+
 tagItemSetD001Name=Justicar Armor
 tagItemSetD001Desc="Armor of Horvald the Silent, Grand Arbiter of the Guardians of Menhir."
 
@@ -2963,6 +3093,7 @@ tagPrefixAA018=Wanderer's
 
 tagPrefixAA019=Tenacious
 tagPrefixAA020=Invigorating
+tagPrefixAA021=Shaman's
 
 tagPrefixAD001=Impenetrable
 tagPrefixAD002=Insulating
@@ -3086,6 +3217,12 @@ tagPrefixB012_Class_A=Arsonist's
 tagPrefixB013_Class_A=Heretic's
 tagPrefixB014_Class_A=Assassin's
 tagPrefixB015_Class_A=Magi's
+tagPrefixB016_Class_A=Warder's
+tagPrefixB017_Class_A=Elementalist's
+tagPrefixB018_Class_A=Conjurer's
+tagPrefixB019_Class_A=Trickster's
+tagPrefixB020_Class_A=Druid's
+tagPrefixB021_Class_A=Seer's
 
 tagPrefixB001_Sh_A=Immovable
 tagPrefixB002_Sh_A=Keeper's
@@ -3346,6 +3483,7 @@ tagChestStoneMonolithC01=Stone Chest
 tagChestStoneSarcophagusC01=Ancient Sarcophagus
 tagChestBoneChestD01=Bone Reliquary
 tagChestBoneChestD02=Bone Coffer
+tagChestTreasureTrove01=Treasure Trove
 
 tagChestRackArmorA01=Armor Rack
 tagChestRackArmorB01=Armor Collection
@@ -3428,9 +3566,12 @@ tagUGDoorCellarDoor01=Cellar Door
 tagUGDoorMine01=Mine Entrance
 tagUGDoorRuin01=Ruin Entrance
 tagUGDoorIronDoorSecret01=Iron Door
+tagUGDoorIronGate=Iron Gate
 tagUGDoorPortcullisFloor01=Portcullis
 tagUGDoorBoat=Row Boat
 tagUGDoorObsidian=Obsidian Spines
+tagUGDoorFort=Fort Entrance
+tagUGDoorCrypt=Crypt Entrance
 tagDoorLocked= {^R} ~ Locked
 
 tagDoorOneWay01=Escape to the Surface

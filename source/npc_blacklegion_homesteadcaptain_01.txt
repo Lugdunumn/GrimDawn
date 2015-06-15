@@ -69,11 +69,18 @@ Let's see it.{^n}{^n}*Captain Somer is silent as she reads through the cultist's
 The inquisitor?
 
 Have you tracked down the target?
+Karroz lies dead.
+Good, we can finally reconvene with our forces to the north.{^n}{^n}Did you find anything on him that may help us uncover the reasons behind the cult's activities?
+Actually, there was a tome.
+Well, bring it here then. Any bit of intel will be tremendously useful.
+I'll be right back.
+Actually...I'll be right back.
+Have you tracked down the target?
 Where should I be looking for Karroz?
 Karroz, the Sigil of Ch'thon, is at the Darkvale Gates, to the north of Sorrow's Bastion.{^n}{^n}Do not underestimate him. You do not get that high in the ranks of the Cult of Ch'thon without making some disturbing deals with the devil.
 I'll be careful.
 Not yet.
-When the Legion was forced to abandon the Capital, we made Fort Ikon our new base of operations. It's an old fortress once used to protect the trade routes leading through the Alpine Valley.{^n}{^n}However, when we began marching south, we encountered immediate opposition from both the Cult and the Aetherials. Many of our men were killed, pincered between two opposing armies, and we were forced to retreat towards Homestead. The Aetherials now control the area known as the Conflagration, but the Cult of Ch'thon has taken residence within the Darkvale Gate, effectively cutting us off from our forces to the north. With the Cult's frontlines battered and their sacrifices freed, I believe it is now time to advance on their main position. {^n}{^n}Karroz, the Sigil of Ch'thon, the name has come up several times, including a recent bloody interrogation. We have no idea if he is the head of the entire Cult or if he is merely a pawn in someone else's game, but one thing is for certain: he is at the Darkvale Gate. I need you to infiltrate the fortress and take out their leader. Lay waste to the Cult's followers, let nothing stop you in reclaiming our bastion!
+When the Legion was forced to abandon the Capital, we made Fort Ikon our new base of operations. It's an old fortress to the far north once used to protect the trade routes leading through the Asterkarn Mountains.{^n}{^n}However, when we began marching south, we encountered immediate opposition from both the Cult and the Aetherials. Many of our men were killed, pincered between two opposing armies, and we were forced to retreat towards Homestead. The Aetherials now control the area known as the Conflagration, but the Cult of Ch'thon has taken residence within the Darkvale Gate, effectively cutting us off from our forces to the north. With the Cult's frontlines battered and their sacrifices freed, I believe it is now time to advance on their main position. {^n}{^n}Karroz, the Sigil of Ch'thon, the name has come up several times, including a recent bloody interrogation. We have no idea if he is the head of the entire Cult or if he is merely a pawn in someone else's game, but one thing is for certain: he is at the Darkvale Gate. I need you to infiltrate the fortress and take out their leader. Lay waste to the Cult's followers, let nothing stop you in reclaiming our bastion!
 It will be done.
 I won't do this.
 I have already killed Karroz. I found some disturbing information on him.

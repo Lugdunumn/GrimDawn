@@ -14,50 +14,52 @@ Farewell.
 I hear we were successful against the wretched Order of Death's Vigil, [[ms]brother[fs]sister].{^n}{^n}You serve Empyrion well.
 
 Farewell.
-May the Light of Empyrion guide your path.
+Father Kymon has requested your presence. Do not make him wait.
 What can you tell me about Father Kymon?
 He is our prophet, the Voice of Empyrion.{^n}{^n}His guidance has brought us strength when we needed it most. He embodies hope in a world with none.
 I see. Thank you.
 Farewell.
+Rumors travel fast. Your allies are working with the vile Order.{^n}{^n}I cannot trust you with our work when you have such questionable company.
+Goodbye.
 May the Light of Empyrion guide your path.
 Goodbye.
-How goes your Trial?
-I have braved the Void and its master.
-You have achieved more than even some of the Chosen can claim.{^n}{^n}Few are asked to brave the Void as you have. Fewer still return alive.{^n}{^n}You are ready to speak to Father Kymon, [[ms]brother[fs]sister].
+Have you dealt with Ravok?
+I have slain the necromancer.
+You have exceeded even the Blessed Father's expectations.{^n}{^n}He wishes to speak with you. Do not make him wait, [[ms]brother[fs]sister].
 
 I will speak to him now.
 I must rest after the ordeal.
-How goes your Trial?
+Have you dealt with Ravok?
 Where should I be looking?
-Chthonic rifts have been opening randomly around the Blood Grove.{^n}{^n}Any one of them will lead you into the Void, and its master Bane'Gargoth.
+Master Ravok is in Fort Haron, in the northern Blood Grove.{^n}{^n}Do not fail us.
 I will go there now.
 I've barely started.
-Father Kymon is impressed with your recent actions against the Cult of Ch'thon, but before you are allowed to receive Empyrion's will from the Blessed Father himself, you must first prove your iron will through a trial-by-fire.
-What is this trial?
-The trial will test your mind and your strength as nothing has ever done so before.{^n}{^n}You are to enter the Chthonic Void itself and lay havoc upon our enemies in the heart of their home. The cult's activities have caused chaos rifts to open randomly around the Blood Grove. Find one and enter it.{^n}{^n}Once inside, seek out its master, a Chthonian beast known as Bane'Gargoth, and destroy it. Go forth with the confidence that Empyrion is with you, as I shall bestow a blessing upon you to guide your hand in battle.
-I will face the trial.
+Father Kymon is impressed with your recent actions against the Cult of Ch'thon.{^n}{^n}I am to entrust you with a critical mission. Do not fail the Father's trust.
+What is the mission?
+In the northern Blood Grove, there is a stronghold known as Fort Haron. It is an old arms storage facility that could prove useful. Unsurprisingly, it has become infested with the Order's vermin.{^n}{^n}Travel to the fort and eliminate all who would oppose you. Find their leader, a Master Ravok, and make an example of her.{^n}{^n}Go forth with the confidence that Empyrion is with you, as I shall bestow a blessing upon you to guide your hand in battle.
+I will eliminate Ravok.
 Sounds like suicide.
-I have already braved the Void and its master.
+I have already dealt with Master Ravok.
 
 I cannot right now.
-Have you dealt with the heretics?
-They are finished.
-Father Kymon will be pleased to learn of their demise.{^n}{^n}You are ever eager to act out Kymon's will. Perhaps you are ready for the Trial of the Void. You are not permitted to receive Empyrion's will from the Blessed Father himself until you have done so.
-The Trial of the Void?
+Have you dealt with the heretic?
+Bolvar lies dead.
+Father Kymon will be pleased to learn of his demise.{^n}{^n}You are ever eager to act out his will. That's good. You will need it for what lies ahead.
+What must be done?
 
 Not interested.
 Have you dealt with the heretics?
 Where should I be looking?
-Bolvar the Bloodbinder and Zaria the Carver have been spotted around Darkvale, to the north of Blood Grove.{^n}{^n}By Kymon's will, hunt them down and act out Empyrion's vengeance upon them.
+Bolvar the Bloodbinder has been spotted around the Blood Grove, to the north.{^n}{^n}By Kymon's will, hunt him down and act out Empyrion's vengeance.
 I will.
 Not yet.
 You have crippled the cult's rituals, but that is not enough. So long as the cult is allowed to act without fear, they shall wreak havoc upon what's left of humanity.{^n}{^n}We have tolerated their movements for too long.
 What must be done?
-Father Kymon demands that the cult's higher ranked members be exterminated as the vermin they are. I speak specifically of Bolvar the Bloodbinder and Zaria the Carver.{^n}{^n}These individuals are responsible for more sacrifices to Ch'thon than any other cultist in the area. By Kymon's will, hunt them down near Darkvale to the north and act out Empyrion's vengeance upon them.
-I will slay them.
+Father Kymon demands that one of the cult's higher ranked members be exterminated as the vermin he is. I speak specifically of Bolvar the Bloodbinder.{^n}{^n}This individual is responsible for more sacrifices to Ch'thon than any other cultist in the area. By Kymon's will, hunt him down in the Blood Grove to the north and act out Empyrion's vengeance upon him.
+I will slay him.
 Find someone else to be your assassin.
-I have already dealt with those two.
-As if guided by Empyrion Himself, you act before even asked. Father Kymon will be pleased to learn of their demise.{^n}{^n}You are ever eager to act out Kymon's will. Perhaps you are ready for the Trial of the Void. You are not permitted to receive Empyrion's will from the Blessed Father himself until you have done so.
+I have already dealt with Bolvar.
+As if guided by Empyrion Himself, you act before even asked. Father Kymon will be pleased to learn of his demise.{^n}{^n}You are ever eager to act out Kymon's will. Will you be his blade against the Order?
 
 Not interested.
 I must deal with other matters.
