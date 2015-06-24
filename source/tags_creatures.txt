@@ -122,8 +122,30 @@ tagChthonianMinionHeroH05=Pulv'Daroth
 tagChthonianMinionHeroH06=Maga'Lugal ~ Defender
 tagChthonianMinionHeroH07=Sharanatu ~ Shielded
 
+tagEnemyChthonianDreadguardA01=Chthonian Vanguard
+tagEnemyChthonianDreadguardB01=Chthonian Dreadguard
+tagEnemyChthonianDreadguardC01=Chthonian Tyrant
+
+tagChthonianDreadguardHeroH01=Shar'Oruuth
+tagChthonianDreadguardHeroH02=Wen'Kazul, the Hungering Blade
+tagChthonianDreadguardHeroH03=Zalyth'Uthax ~Electrified
+tagChthonianDreadguardHeroH04=Jugak'Siin ~ Reflective
+tagChthonianDreadguardHeroH05=Sarmaz'Din ~ Frozen
+
+tagEnemyChthonianLeechA01=Void Parasite
+tagEnemyChthonianLeechB01=Void Leech
+tagEnemyChthonianLeechB02=Void Souldrinker
+
+tagChthonianLeechHeroH01=Vom'Anatu
+tagChthonianLeechHeroH02=Gawtok'Anatu
+tagChthonianLeechHeroH03=Ekket'Anatu
+tagChthonianLeechHeroH04=Orudin'Anatu ~ Diseased
+tagChthonianLeechHeroH05=Yakwa'Anatu ~ Unstoppable
+
 tagChthonianBoss01=Lagoth'Ak, Harbinger of Blood
 tagChthonianBoss02=Shar'Zul, Harbinger of Chaos
+tagChthonianBoss03=Bane'Gargol, Guardian of the Gates
+tagChthonianBoss04=Balok'Anatu, Bloodfiend
 
 #CreatureChthonianFiend
 
@@ -139,6 +161,7 @@ tagVoidFiendHeroH05=Gurgoth'Siin ~ Burning
 
 tagVoidFiendBoss01=Ballog'Nath, the Hellfire
 
+
 #CreatureChthonianDevourer
 
 tagEnemyChthonianDevourerA00=Chthonian Swarmer
@@ -153,6 +176,7 @@ tagChthonianDevourerHeroH04=Nye'Kazul, the Maw of Fire
 tagChthonianDevourerHeroH05=Waban'Ak, the Sparkmaw
 
 tagChthonianDevourerBossB01=Rag'Nadar, the Great Maw
+
 
 #CreatureDranghoul
 
@@ -221,12 +245,15 @@ tagEnemyGhoulB01=Ghoul Corpse-eater
 tagEnemyGhoulB02=Ghoul Blood-drinker
 tagEnemyGhoulC01=Ghoul Necrolyte
 
-tagEnemyGhoulH01=
-tagEnemyGhoulH02=
-tagEnemyGhoulH03=
-tagEnemyGhoulH04=
+tagEnemyGhoulH01=Necrolask
+tagEnemyGhoulH02=Rot-Eye
+tagEnemyGhoulH03=Corpselick
+tagEnemyGhoulH04=Corpran ~ Corrupted
+tagEnemyGhoulH05=Vilnius ~ Voidtouched
 
 tagGhoulBoss01=Nacrathan, the Timeless
+tagGhoulBoss02=Plagius, the Decrepit
+
 
 #CreatureGolem
 
@@ -576,6 +603,8 @@ tagRiftHoundHeroH04=Wolvin, the Inferno
 tagRiftHoundHeroH05=Jarlax, Rage of the Swamp ~ Charger
 tagRiftHoundHeroH06=Garn, the Packhunter ~ Defender
 
+tagBossRifthoundB01=Kalis Ka, the Bonehunter
+
 #CreatureScavenger
 
 tagEnemyScavengerA01=Scavenger
@@ -733,6 +762,13 @@ tagEnemyTrollHalfB02=Mistborn Warrior
 tagEnemyTrollHalfB03=Mistborn Shaman
 tagEnemyTrollHalfC01=Mistborn Elder
 
+tagEnemyTrollHalfSwampA01=Eastmire Brute
+tagEnemyTrollHalfSwampA02=Eastmire Herder
+tagEnemyTrollHalfSwampB01=Eastmire Hunter
+tagEnemyTrollHalfSwampB02=Eastmire Warrior
+tagEnemyTrollHalfSwampB03=Eastmire Shaman
+tagEnemyTrollHalfSwampC01=Eastmire Elder
+
 tagTrollHalfHeroH01=Balarr, the Rockeater
 tagTrollHalfHeroH02=Paldrak, the Warmonger
 tagTrollHalfHeroH03=Stonetooth ~ Defender
@@ -837,12 +873,12 @@ tagEnemyYetiB01=Chillmane Rager
 tagEnemyYetiB02=Chillmane Icesplitter
 tagEnemyYetiC01=Chillmane Alpha
 
-tagYetiHeroH01=
-tagYetiHeroH02=
-tagYetiHeroH03=
-tagYetiHeroH04=
+tagYetiHeroH01=Bonechill
+tagYetiHeroH02=Icesnap
+tagYetiHeroH03=Chillblood ~ Regenerator
+tagYetiHeroH04=Mallus ~ Corrupted
 
-tagYetiBoss01=
+tagYetiBoss01=Ragrathar Rageblood
 
 
 #CreatureZombie

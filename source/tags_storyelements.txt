@@ -37,6 +37,8 @@ tagMapVoidlands=Obsidian Throne
 tagMapVoidlands02=Ashen Waste
 tagMapEastMarsh01=East Marsh
 tagMapEastMarsh02=Noxious Glade
+tagMapEastMarsh03=Craig's Crags
+
 
 tagMapBrokenHills=Broken Hills
 tagMapOldArkovia=Old Arkovia
@@ -238,9 +240,8 @@ tagUGCryptZealot01=Tomb of Korvaak
 tagUGVoidlands01=Bastion of Chaos
 tagUGVoidlands01A=Discord
 tagUGVoidlands01B=Anarchy
-tagUGVoidlands01C=Entropy
-tagUGVoidlands01D=Pandemonium
-tagUGVoidlands01AE=Fields of Despair
+tagUGVoidlands01C=Hellfire
+tagUGVoidlands01D=Fields of Despair
 
 #Signs
 
@@ -456,7 +457,7 @@ tagNPC_AreaC_08=Nathaniel Thorn
 tagNPC_AreaC_09=Lisandra Avery
 tagNPC_AreaC_10=Brother Elluvius
 tagNPC_AreaC_11=Father Kymon
-tagNPC_AreaC_12=Master Varukk
+tagNPC_AreaC_12=Master Varuuk
 tagNPC_AreaC_13=The Keeper of Tomes
 tagNPC_AreaC_14=Rallia
 tagNPC_AreaC_15=Captain Somer

@@ -225,14 +225,16 @@ tagClass02SkillName07A=Blast Shield
 tagClass02SkillDescription07A=A combination of military gear and pyromancy creates a ward capable of absorbing a fixed amount of fire and pierce damage before collapsing. ^oChance to activate when struck by Fire or Pierce Damage. The shield remains active until it has absorbed its capacity in damage.
 
 tagClass02SkillName07B=Ulzuin's Chosen
-tagClass02SkillDescription07B=Those who have sacrificed much in the pursuit of pyrotechnics eventually come to be favored by Ulzuin, receiving his blessing in wreaking fiery devastation upon the world. ^o[Requires and affects Grenado and Canister Bomb]
+tagClass02SkillDescription07B=Those who have sacrificed much in the pursuit of pyrotechnics eventually come to be favored by Ulzuin, receiving his blessing in wreaking fiery devastation upon the world. ^o[Affects Stun Jacks, Grenado and Canister Bomb and requires one to unlock]
 
 tagClass02SkillName08A=Blackwater Cocktail
 tagClass02SkillDescription08A=Blackwater Cocktails were concocted when more conventional explosives ran low. These improvised fire bombs leave a self-fueled blaze upon impact and are particularly effective against tightly packed enemies.
 tagClass02SkillName08B=Demon Fire
 tagClass02SkillDescription08B=Sorcerous enchantment imbues the flames with chaotic power that melts enemy flesh and deteriorates armor.
 tagClass02SkillName08C=Agonizing Flames
-tagClass02SkillDescription08C=The agonizing pain caused by the Blackwater flame weakens your enemies' ability to withstand further sorcerous assault.
+tagClass02SkillDescription08C=Intensifies the fire and hellflame to degrees that will render your enemies to ashes.
+tagClass02SkillName08D=High Potency
+tagClass02SkillDescription08D=This more potent formulation burns longer and degrades your foes ability to fight.
 
 tagClass02SkillName09A=Stun Jacks
 tagClass02SkillDescription09A=Throw out an array of tiny, electrically charged jacks that will temporarily stop enemies in their tracks.
@@ -371,8 +373,10 @@ tagClass04SkillName01B=Heart Seeker
 tagClass04SkillDescription01B=With refined technique, Phantasmal Blades are conjured so sharp that they can pierce through multiple targets while invisible phantasmal threads draw vitality from the victims.
 tagClass04SkillName01C=Nether Edge
 tagClass04SkillDescription01C=Empowers the Phantom Blade with dark magic, a loathsome technique used only in the most dire circumstances.
-tagClass04SkillName01D=Frenetic Throw
-tagClass04SkillDescription01D=Dispense continuous volleys of phantasmal blades with frenetic speed but less killing power per blade.
+tagClass04SkillName01D=Focused Throw
+tagClass04SkillDescription01D=A more controlled and forceful throw, that compounds the lethality of the phantasmal blades in a single vicious strike.
+tagClass04SkillName01X=Frenetic Throw
+tagClass04SkillDescription01X=Dispense continuous volleys of phantasmal blades with frenetic speed but less killing power per blade.
 
 tagClass04SkillName02A=Shadow Strike
 tagClass04SkillDescription02A=A cunning combination of illusion and mental deflection allows you to seemingly vanish and reappear above your victim like a nightmarish specter. ^oRequires a melee weapon.
@@ -1162,6 +1166,9 @@ tagItemSkillC091Desc=A replicating spell that copies itself upon striking an ene
 tagItemSkillC092Name=Storm Surge
 tagItemSkillC092Desc=You call to the heavens in times of dire need, charging you with devastating electrical power.
 
+tagItemSkillC093Name=Spider's Web
+tagItemSkillC093Desc=Traps your foe in sticky webbing that completely inhibits movement and makes them easy prey.  ^oThis spell immobilizes enemies for its duration. Enemies resistant to trap effects will suffer a reduced duration.
+
 tagItemSkillM001Name=Life's Essence
 tagItemSkillM001Desc=Mends wounds and revitalizes the weary hero.
 
@@ -1583,11 +1590,6 @@ tagConsumableSkill_F12=Kymon's Wrath Tincture
 tagConsumableSkill_F12Desc=An explosion of flame emanates from you.
 
 
-#SkillsEnemy
-
-tagEnemySkill01=Curse of Debilitation
-tagEnemySkill01Desc=Weakens the soul's natural defenses against the void.
-
 #SkillsQuest
 
 tagQuestSkill_A01=Kymon's Blessing
@@ -1663,5 +1665,41 @@ tagTemplateDescription=Describe Me
 
 #EnemySkills
 
+tagEnemySkill01=Curse of Debilitation
+tagEnemySkill01Desc=Weakens the soul's natural defenses against the void.
+
 tagEnemySkillA01=Despair Aura
 tagEnemySkillA01_Desc=The Aetherial Harbinger's presence fills you with dread, slowing your actions and inflicting Aether damage.
+
+tagEnemySkillA02=Souldrinker's Presence
+tagEnemySkillA02_Desc=The presence of the Souldrinker saps you of your strength and inflicts Vitality damage.
+
+tagEnemySkillA03=Spectral Miasma
+tagEnemySkillA03_Desc=The Chthonic curse saps all of your defenses.
+
+tagEnemySkillA04=Mark of Pain
+tagEnemySkillA04_Desc=The Fiend's mark saps your strength.
+
+tagEnemySkillA05=Nature's Fury
+tagEnemySkillA05_Desc=The Troll curse slows your mind and body, and exposes you to the elements.
+
+tagEnemySkillA06=Blood Siphon
+tagEnemySkillA06_Desc=The Trog curse drains your vitality and transfers it to the caster.
+
+tagEnemySkillA07=Blood Plague
+tagEnemySkillA07_Desc=The Ghoul curse boils your blood and damage your Defensive Ability.
+
+tagEnemySkillA08=Torment
+tagEnemySkillA08_Desc=The undead curse cause intense pain in your bones, slowing you and weakening physical attacks.
+
+tagEnemySkillA09=Enraged Spirit
+tagEnemySkillA09_Desc=An enraged spirit haunts you, inflicting vitality damage before it spreads to nearby victims.
+
+tagEnemySkillA10=Bone Trap
+tagEnemySkillA10_Desc=The Skeletal Golem has trapped you within a cage of bone, sapping your vitality.
+
+tagEnemySkillA11=Obsidian Trap
+tagEnemySkillA11_Desc=The Obsidian Defiler has trapped you within a cage of obsidian, sapping your vitality.
+
+tagEnemySkillA12=Obsidian Trap
+tagEnemySkillA12_Desc=Benn'Jahr has trapped you within a cage of obsidian, crushing you with the power of chaos.

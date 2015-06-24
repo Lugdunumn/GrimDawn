@@ -1516,7 +1516,7 @@ tagMedalF005=Legion Mark of the Void
 tagMedalF006=Legion Mark of Blades
 tagMedalF007=Chosen Star of War
 tagMedalF008=Chosen Star of Thunder
-tagMedalF009=Corrupted Chosen Star
+tagMedalF009=Defiled Chosen Star
 tagMedalF009Desc="Tarnished by the powers of the enemy, this medal nevertheless can serve a righteous purpose."
 
 
@@ -1707,8 +1707,10 @@ tagBlueprint_ArmorC001=Blueprint: Guardsman's Defender
 tagBlueprint_ArmorC002=Blueprint: Guardsman's Breastplate
 tagBlueprint_ArmorC003=Blueprint: Explorer's Tunic
 tagBlueprint_ArmorC004=Blueprint: Explorer's Trousers
+tagBlueprint_ArmorC005=Blueprint: Decorated Pauldrons
 
 tagBlueprint_AccessoryC001=Blueprint: Maiven's Lens
+tagBlueprint_AccessoryC002=Blueprint: Vortex Stone
 
 
 tagBlueprint_MiscA01=Blueprint: Skeleton Key
@@ -3141,7 +3143,7 @@ tagPrefixAO009=Draining
 tagPrefixAO010=Sapping
 tagPrefixAO011=Corrosive
 tagPrefixAO012=Warped
-tagPrefixAO013=Corrupted
+tagPrefixAO013=Void-Touched
 
 tagPrefixB001_WpnMelee1h_A=Tyrant's
 tagPrefixB002_WpnMelee1h_A=Savage
