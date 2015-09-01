@@ -3,10 +3,6 @@ You return with the materials in hand, a Bounty fulfilled.
 Report in.
 
 Step away from the Bounty Table.
-You return with the materials in hand, a Bounty fulfilled.
-Report in.
-
-Step away from the Bounty Table.
 You return triumphantly, a Bounty fulfilled.
 Report in.
 
@@ -54,7 +50,7 @@ Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-Manticores are vicious hunters, but their Alphas are the ones you have to watch out for. They are the ones that travel beyond the usual manticore hunting grounds, leading entire packs into new areas.{^n}{^n}We cannot allow the Manticores to spread to the areas surrounding Homestead. Eliminate the Alphas around the Jagged Waste and you will be rewarded with iron bits.
+Manticores are vicious hunters, but their Alphas are the ones you have to watch out for. They are the ones that travel beyond the usual manticore hunting grounds, leading entire packs into new areas.{^n}{^n}We cannot allow the Manticores to spread to the areas surrounding Homestead. Eliminate the Alphas around the Jagged Waste and Blood Grove and you will be rewarded with iron bits.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
@@ -104,7 +100,7 @@ Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-This may sound selfish, but I don't much care. Manticores tore my sister apart when I was a child.{^n}{^n}I swore when I was old enough to carry a gun that I'd go out there and gun down as many as I can, but now you can't step five feet outside Homestead without running into something far worse than a manticore.{^n}{^n}Please, to anyone that is braver than I, go out there and slay the manticores. Bring me one of their eyes as proof and I will gladly share some of my scavenged materials.
+Underneath the mountains to the south, there is a cavern system we call the Mountain Deeps. It is a terrible place filled with terrors that should see the light of day.{^n}{^n}However, as the population of cavern crawlers swells, they begin to hunt outside of the caves. It has been too long since their population was culled. Somebody needs to go down there and handle it.{^n}{^n}Anyone that slays Albino Cavern Crawlers will be compensated with scavenged materials from our stores.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.

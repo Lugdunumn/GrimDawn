@@ -122,7 +122,7 @@ Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-Kasparov believes that he may have a solution for the Aetherial's ability to resurrect our dead. I'm not hopeful, but we have to take any chance we can get.{^n}{^n}Unfortuantely, his experiment requires some Tainted Brain Matter.{^n}{^n}Anyone that manages to obtain this rare object for him will be compensated with some of our scavenged materials.
+Kasparov believes that he may have a solution for the Aetherial's ability to resurrect our dead. I'm not hopeful, but we have to take any chance we can get.{^n}{^n}Unfortunately, his experiment requires some Tainted Brain Matter.{^n}{^n}Anyone that manages to obtain this rare object for him will be compensated with some of our scavenged materials.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.

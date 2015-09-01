@@ -17,6 +17,18 @@ I'm on my way.
 I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
 I will seek out your sanctum.
 Perhaps another time.
+You are a fool to trust Kymon's Chosen.
+You're right, it was a mistake. I wish to join you.
+Are you certain of this? The Order will welcome you as an ally, but everything you have done up to this moment will be forgotten.{^n}{^n}(Warning: selecting the Order will reset your Faction Reputation with the Order of Death's Vigil and Kymon's Chosen)
+The Black Legion will work with you. (Select the Order)
+Splendid. I shall make the arrangements immediately.{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
+Perhaps not.
+They are valuable allies.
+Word of your actions has already reached me. The Order is eager to continue their efforts with you alongside them.
+
+We'll speak of this later.
 Greetings, I am Haruuv and I represent the Order of Death's Vigil.{^n}{^n}We are eager to discuss an agreement, even if it has to be made amongst such questionable company.
 I think I've made my decision.
 What will it be then? Will the Black Legion fight alongside the Order of Death's Vigil against these invaders to our realm?
@@ -34,9 +46,11 @@ We are experts in the arcane and masters of necromancy.{^n}{^n}Why send living m
 
 
 
+
 I'll need some time to think this through.
 What can you tell me about Uroboruuk?
 Our master is eternal. He was there when the Arkovian Empire was young and he was there when they fell to his curse. The Arkovians, much like the Erulan Empire shattered by the Grim Dawn, had persecuted necromancy and those who would seek forbidden knowledge.{^n}{^n}They tortured our master, eager to learn his secret to immortality. In return, Uroboruuk cursed them to eternal un-life. Since the fall of Arkovia, Uroboruuk founded the Order of Death's Vigil, to ensure that the pursuit of knowledge and life's mysteries would never again be threatened by the ignorant.{^n}{^n}Now that humanity stands at the brink of annihilation, it seems his teachings are more relevant than ever. We will return balance to the world, as our master had decreed.
+
 
 
 
@@ -48,10 +62,19 @@ Necromancy is the study of death and the forces of life that bind us to that fin
 
 
 
+
 I'll need some time to think this through.
+
 
 What can you tell me about Kymon's Chosen?
 They are fanatics, obsessed with an ancient faith worshipping a nonexistent god known as Empyrion.{^n}{^n}Anyone that stands against their tenets is a heretic and worthy only of extermination. In that, they are no better than the empire which had persecuted the Order for generations.
+
+
+
+I'll need some time to think this through.
+What sort of equipment do you offer?
+You should find that our equipment can handle many situations, but the users of Cold, Vitality and minions will find our arsenal to be of great use.
+
 
 
 I'll need some time to think this through.

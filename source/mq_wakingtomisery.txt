@@ -1,7 +1,7 @@
 The Resistance
 Waking to Misery
 Intro
-Hangman Jarvis has informed you that Captain John Bourbon was the one responsible for sparing your life from the noose. {^n}{^n}The Captain is down the road, near the stone bridge, and wishes to speak with you.
+Hangman Jarvis has informed you that Captain John Bourbon was the one responsible for sparing your life from the noose. {^n}{^n}The Captain is up the road, near the stone bridge, and wishes to speak with you.
 Speak to Captain John Bourbon at Devil's Crossing
 Find The Burial Cave
 Captain Bourbon explained that the survivors at Devil's Crossing are barely enduring through the relentless attacks of the Dead. {^n}{^n}He believes they are coming from the caves beneath Burial Hill and has put it upon you to investigate, in exchange for shelter at Devil's Crossing. {^n}{^n}Head north across the bridge and through the ruins of Lower Crossing. Once past the stream, Burial Hill will be on the left where the road forks.
