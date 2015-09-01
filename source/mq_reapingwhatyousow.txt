@@ -6,7 +6,9 @@ Slay Karroz, Sigil of Ch'thon
 
 Return to Captain
 You have slain Karroz and uncovered the truth regarding the cultist presence here. You should report back to Captain Somer in Homestead immediately.
+Collect Karroz's Tome
 Return to Captain Somer in Homestead
+
 
 
 

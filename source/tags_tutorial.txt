@@ -39,7 +39,7 @@ tagTutorialTip15CaptionB=Shortcut key: {^b}{%t0}{^w}
 tagTutorialTip15TextC=You can track your experience gain on the green bar at the bottom of the HUD and in the {^y}Character Window{^w}. The amount of experience required for your next level is shown on the green bar at the bottom of the HUD and in the {^y}Character Window{^w}. When the bar fills up, you will gain a level.
 
 tagTutorialTip16Title=Character Window
-tagTutorialTip16TextA=Use the {^y}Character Window{^w} to equip items, organize your inventory, spend attribute points and see a summary of your character's stats.
+tagTutorialTip16TextA=Use the {^y}Character Window{^w} to equip items, organize your inventory, spend attribute points and see a summary of your character's stats. Hover over stats for additional information.
 tagTutorialTip16SubtitleA=Inventory:
 tagTutorialTip16TextB=To equip an item, right-click it from your inventory or move it to an appropriate equipment slot. You may drop an item by moving it out of the character window, or by clicking on it and pressing the "{^b}{%t0}{^w}" key.
 tagTutorialTip16SubtitleB=Attribute Points: 

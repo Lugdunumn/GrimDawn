@@ -8,17 +8,17 @@ I have come to represent Kymon's Chosen, as your superiors have requested.
 Goodbye.
 You are expected at our Enclave.
 Where is your enclave located?
-Head out through the northern gates and into the Blood Grove. Follow the road until you reach old fortress ruins. That's Sorrow's Bastion. Our enclave is in the tower.
+Head out through the northern gates and into the Fallow Fields. Follow the road until you reach old fortress ruins. That's Sorrow's Bastion. Our enclave is in the tower.
 Thank you.
 I'm on my way.
-I must ask that you visit our enclave to the north. We have taken over a part of Sorrow's Bastion and made it our new home.{^n}{^n}Seek us out by taking the road north through the Blood Grove. When you've reached the ruins, look for the tower.{^n}{^n}Once there, please speak to Brother Elluvius. He will set you upon our enlightened path.
+I must ask that you visit our enclave to the north. We have taken over a part of Sorrow's Bastion and made it our new home.{^n}{^n}Seek us out by taking the road north through the Fallow Fields. When you've reached the ruins, look for the tower.{^n}{^n}Once there, please speak to Brother Elluvius. He will set you upon our enlightened path.
 I will seek out your enclave.
 Perhaps another time.
 Brother Molltair, Chosen of Kymon, at your service.{^n}{^n}Though I must wonder why you've brought this necromancer filth here as well.
 I think I've made my decision.
 You have decided then? Are the Chosen of Kymon to battle alongside the Black Legion?
 The Black Legion will work with you. (Select the Kymon's Chosen)
-Kymon will be pleased to hear of this. This alliance will be beneficial to both groups. Let us banish the enemy as one!{^n}{^n}I must ask that you visit our enclave to the north. We have taken over a part of Sorrow's Bastion and made it our new home.{^n}{^n}Seek us out by taking the road north through the Blood Grove. When you've reached the ruins, look for the tower.{^n}{^n}Once there, please speak to Brother Elluvius. He will set you upon our enlightened path.
+Kymon will be pleased to hear of this. This alliance will be beneficial to both groups. Let us banish the enemy as one!{^n}{^n}I must ask that you visit our enclave to the north. We have taken over a part of Sorrow's Bastion and made it our new home.{^n}{^n}Seek us out by taking the road north through the Fallow Fields. When you've reached the ruins, look for the tower.{^n}{^n}Once there, please speak to Brother Elluvius. He will set you upon our enlightened path.
 I will seek out your enclave.
 Perhaps another time.
 Actually, I'll need more time to think this through.
@@ -51,7 +51,7 @@ They are abominations that twist the divine threads of life to their will as if 
 
 I'll need some time to think this through.
 Goodbye.
-I have come to represent Kymon's Chosen, as your superiors have requested.
+I have come to represent Kymon's Chosen, as the one you call Ulgrim has requested.
 Who are the Kymon's Chosen?
 We are the chosen of Father Kymon, blessed prophet of Empyrion, guardian of the divine flame and savior of humanity.
 I see.

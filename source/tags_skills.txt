@@ -3,7 +3,7 @@ tagSkillClassName02=Demolitionist
 tagSkillClassName03=Occultist
 tagSkillClassName04=Nightblade
 tagSkillClassName05=Arcanist
-tagSkillClassName06=?
+tagSkillClassName06=Shaman
 tagSkillClassName07=?
 tagSkillClassName08=?
 tagSkillClassName09=?
@@ -12,29 +12,29 @@ tagSkillClassName0102=Commando
 tagSkillClassName0103=Witchblade
 tagSkillClassName0104=Blademaster
 tagSkillClassName0105=Battlemage
-tagSkillClassName0106=
+tagSkillClassName0106=Warder
 tagSkillClassName0107=
 tagSkillClassName0108=
 tagSkillClassName0109=
 tagSkillClassName0203=Pyromancer
 tagSkillClassName0204=Saboteur
 tagSkillClassName0205=[ms]Sorcerer[fs]Sorceress
-tagSkillClassName0206=
+tagSkillClassName0206=Elementalist
 tagSkillClassName0207=
 tagSkillClassName0208=
 tagSkillClassName0209=
 tagSkillClassName0304=Witch Hunter
 tagSkillClassName0305=Warlock
-tagSkillClassName0306=
+tagSkillClassName0306=Conjurer
 tagSkillClassName0307=
 tagSkillClassName0308=
 tagSkillClassName0309=
 tagSkillClassName0405=Spellbreaker
-tagSkillClassName0406=
+tagSkillClassName0406=Trickster
 tagSkillClassName0407=
 tagSkillClassName0408=
 tagSkillClassName0409=
-tagSkillClassName0506=
+tagSkillClassName0506=Druid
 tagSkillClassName0507=
 tagSkillClassName0508=
 tagSkillClassName0509=
@@ -57,7 +57,7 @@ tagSkillClassDescription04=Nightblades were clandestine warriors that sold their
 
 tagSkillClassDescription05=To Arcanists, the manifestation of magic is not some unexplainable mystery or the will of the gods, but a science meant to be unraveled.  This pursuit of knowledge drives all Arcanists, always eager to discover a new technique to make their namesake.  Arcanists warp Aetherial and elemental{^n}energy to their will, creating devastating demonstrations of power that rival small armies.  However, such raw force leaves little in terms of defense.
 
-tagSkillClassDescription06=
+tagSkillClassDescription06=Hailing from the untamed northlands, Shamans were the{^n}spiritual leaders and guardians of their people. Claiming an astounding attunement to the wilds and their patron deity Mogdrogen, Shamans are capable of wielding the terrible forces of nature against their foes or even calling upon savage beasts to come to their aid. Shamans excel in the use of brutal two-handed melee weapons, but can easily adapt to other tools of war when conjuring their primal powers.
 
 tagSkillClassDescription07=
 
@@ -105,7 +105,7 @@ tagClass01SkillName02D=Tremor
 tagClass01SkillDescription02D=With the will of Menhir, smash the ground with a mighty two-hander and let rip devastating waves of energy upon your foes. ^oThis technique requires a two-handed melee weapon.
 
 tagClass01SkillName03A=Blitz
-tagClass01SkillDescription03A=Charge forth into the fray with devastating momentum, taking your enemies by surprise. ^oRequires a melee weapon.
+tagClass01SkillDescription03A=Charge forth into the fray with devastating momentum, taking your enemies by surprise. ^oRequires a melee weapon. When used with a Shield, the Shield's damage is used to slam your targets.
 tagClass01SkillName03B=Blindside
 tagClass01SkillDescription03B=The suddenness and ferocity of your attack puts enemies off-balance, reducing their combat prowess.
 
@@ -225,14 +225,16 @@ tagClass02SkillName07A=Blast Shield
 tagClass02SkillDescription07A=A combination of military gear and pyromancy creates a ward capable of absorbing a fixed amount of fire and pierce damage before collapsing. ^oChance to activate when struck by Fire or Pierce Damage. The shield remains active until it has absorbed its capacity in damage.
 
 tagClass02SkillName07B=Ulzuin's Chosen
-tagClass02SkillDescription07B=Those who have sacrificed much in the pursuit of pyrotechnics eventually come to be favored by Ulzuin, receiving his blessing in wreaking fiery devastation upon the world. ^o[Requires and affects Grenado and Canister Bomb]
+tagClass02SkillDescription07B=Those who have sacrificed much in the pursuit of pyrotechnics eventually come to be favored by Ulzuin, receiving his blessing in wreaking fiery devastation upon the world. ^o[Affects Stun Jacks, Grenado and Canister Bomb and requires one to unlock]
 
 tagClass02SkillName08A=Blackwater Cocktail
 tagClass02SkillDescription08A=Blackwater Cocktails were concocted when more conventional explosives ran low. These improvised fire bombs leave a self-fueled blaze upon impact and are particularly effective against tightly packed enemies.
 tagClass02SkillName08B=Demon Fire
 tagClass02SkillDescription08B=Sorcerous enchantment imbues the flames with chaotic power that melts enemy flesh and deteriorates armor.
 tagClass02SkillName08C=Agonizing Flames
-tagClass02SkillDescription08C=The agonizing pain caused by the Blackwater flame weakens your enemies' ability to withstand further sorcerous assault.
+tagClass02SkillDescription08C=Intensifies the fire and hellflame to degrees that will render your enemies to ashes.
+tagClass02SkillName08D=High Potency
+tagClass02SkillDescription08D=This more potent formulation burns longer and degrades your foes ability to fight.
 
 tagClass02SkillName09A=Stun Jacks
 tagClass02SkillDescription09A=Throw out an array of tiny, electrically charged jacks that will temporarily stop enemies in their tracks.
@@ -371,8 +373,10 @@ tagClass04SkillName01B=Heart Seeker
 tagClass04SkillDescription01B=With refined technique, Phantasmal Blades are conjured so sharp that they can pierce through multiple targets while invisible phantasmal threads draw vitality from the victims.
 tagClass04SkillName01C=Nether Edge
 tagClass04SkillDescription01C=Empowers the Phantom Blade with dark magic, a loathsome technique used only in the most dire circumstances.
-tagClass04SkillName01D=Frenetic Throw
-tagClass04SkillDescription01D=Dispense continuous volleys of phantasmal blades with frenetic speed but less killing power per blade.
+tagClass04SkillName01D=Focused Throw
+tagClass04SkillDescription01D=A more controlled and forceful throw, that compounds the lethality of the phantasmal blades in a single vicious strike.
+tagClass04SkillName01X=Frenetic Throw
+tagClass04SkillDescription01X=Dispense continuous volleys of phantasmal blades with frenetic speed but less killing power per blade.
 
 tagClass04SkillName02A=Shadow Strike
 tagClass04SkillDescription02A=A cunning combination of illusion and mental deflection allows you to seemingly vanish and reappear above your victim like a nightmarish specter. ^oRequires a melee weapon.
@@ -400,7 +404,7 @@ tagClass04SkillDescription05C=Legendary for her speed, Amarasta's blades were sa
 tagClass04SkillName05D=Whirling Death
 tagClass04SkillDescription05D=A devastating technique intended for multi-target combat. Those that survive are left bleeding as if from a thousand cuts. ^oThis is a melee dual-wielding technique.
 tagClass04SkillName05E=Nidalla's Hidden Hand
-tagClass04SkillDescription05E=The controversial Nightblade master Nidalla demonstrated the cruel effectiveness of poisons during the Age of Unreason when she combined the foul toxins with the Whirling Death technique, allowing her to prevail in battle against greatly superior numbers. ^oThis technique modifies Whirling Death.
+tagClass04SkillDescription05E=The controversial Nightblade master Nidalla demonstrated the cruel effectiveness of poisons during the Age of Unreason when she combined the foul toxins with other nigthblade techniques, allowing her to prevail in battle against greatly superior numbers. ^oThis technique modifies Belgothian's Shears, Amarasta's Quick Cut and Whirling Death.
 tagClass04SkillName05F=Execution
 tagClass04SkillDescription05F=A merciless blow, struck during a moment of opportunity, with the intent to quickly finish a foe. Those that survive are not likely to remain alive for very long. ^oThis is a melee dual-wielding technique.
 
@@ -553,12 +557,105 @@ tagClass05SkillName15C=Unlimited Power
 tagClass05SkillDescription15C=Many Arcanists sacrifice much in the pursuit of limitless power. There are some who do not heed the ancient warnings and open themselves up fully to the aether. It is these Arcanists that strike fear into the hearts of lesser mortals.
 
 tagClass05SkillName16A=Olexra's Flash Freeze
-tagClass05SkillDescription16A=A victim of political intrigue, Olexra was condemned to the Black Legion where her former life of arcane academia turned into a bitter struggle to survive on the frontlines of a brutal war. Olexra quickly put her studies to practical use, developing a technique to flash freeze enemies who made it within striking distance.
+tagClass05SkillDescription16A=A victim of political intrigue, Olexra was condemned to the Black Legion where her former life of arcane academia turned into a bitter struggle to survive on the frontlines of a brutal war. Olexra quickly put her studies to practical use, developing a technique to flash freeze enemies who made it within striking distance. ^oThis spell freezes enemies for its duration. Enemies resistant to freeze effects will suffer a reduced duration.
 tagClass05SkillName16B=Absolute Zero
 tagClass05SkillDescription16B=Completely sap the nearby air of heat, leaving anything caught within the Flash Freeze slowed and debilitated even after the initial effects wear off.
 
 
 #Class06
+tagClass06SkillName00=Shaman
+tagClass06SkillDescription00=Attunement to the primal call of the wilds.
+
+tagClass06SkillName01A=Savagery
+tagClass06SkillDescription01A=The heat of battle rouses savage animal impulses within you that heighten your aggression and empower you with nature's fury. When used as your default weapon attack, Savagery increases the intensity of your attacks with every strike. ^oHigher ranks of this skill increase the maximum charge level. The displayed values represent the skill when fully charged.
+tagClass06SkillName01B=Tenacity of the Boar
+tagClass06SkillDescription01B=Embrace the aspect of the boar, becoming a ferocious and unstoppable foe in the wake of battle.
+tagClass06SkillName01C=Storm Touched
+tagClass06SkillDescription01C=Calling out to the heavens, you infuse your attacks with the fury of a thunderstorm.
+tagClass06SkillName01D=Might of the Bear
+tagClass06SkillDescription01D=Shamans dedicated to the spirit of the bear embrace the use of brutal two-handed weapons when entering their savage battle stance. Their unbridled fury is unmatched among the northern tribes. ^oThis technique requires a two-handed melee weapon.
+
+tagClass06SkillName02A=Primal Strike
+tagClass06SkillDescription02A=The first rite undertaken by novice Shamans is to imbue their favored weapon with the raw force of a thunderstorm. Those that survive this critical step become scions to Mogdrogen's will and guardians of their people. ^oRequires a two-handed melee weapon.
+tagClass06SkillName02B=Storm Surge
+tagClass06SkillDescription02B=Primal Strike's raw power surges through the target, bursting blood vessels and leaving them helpless against further onslaught.
+tagClass06SkillName02C=Torrent
+tagClass06SkillDescription02C=Torrential force cascades from your weapon, electrocuting your target and leaping to nearby foes.
+tagClass06SkillName02D=Thunderous Strike
+tagClass06SkillDescription02D=Stormcallers, members of a sect of shamanism devoted to the heavens, are known to call out to Ultos, the god of the sky, when delivering nature's wrath upon their adversaries.
+
+tagClass06SkillName03A=Feral Hunger
+tagClass06SkillDescription03A=Embrace your primal side, feeding voraciously on blood spilled by your weapon attacks during combat.
+tagClass06SkillName03B=Taste for Blood
+tagClass06SkillDescription03B=Your taste for carnage is insatiable. While under the effects of Feral Hunger, your attacks wound deeper and draw more of your target's precious vitality.
+
+tagClass06SkillName04A=Squall
+tagClass06SkillDescription04A=Shamans were often called upon to bring rain in times of heavy drought. This ritual has been manipulated by clever Stormcallers to conjure a lightning storm.
+tagClass06SkillName04B=Raging Tempest
+tagClass06SkillDescription04B=The Squall rages with tumultuous power, electrocuting foes even after they leave its vicinity.
+tagClass06SkillName04C=Maelstrom
+tagClass06SkillDescription04C=Mastery of storm conjuration allows you to repeat the ritual with greater frequency, effectively covering the battlefield with a torrential downpour.
+
+tagClass06SkillName05A=Nature's Boon
+tagClass06SkillDescription05A=Call upon the beast god, Mogdrogen, to bestow nature's blessing upon you and your nearby allies. ^oThis ability must be toggled to maintain its effect.
+tagClass06SkillName05B=Bark Skin
+tagClass06SkillDescription05B=Empower Nature's Boon with the aspect of ancient trees, solemn ageless titans that have outlived civilizations, bestowing additional protection upon those under Mogdrogen's blessing.
+tagClass06SkillName05C=Heart of the Wild
+tagClass06SkillDescription05C=The wild spirit of nature flows through your veins, rapidly sealing wounds and cleansing poisons.
+tagClass06SkillName05D=Heart of Stone
+tagClass06SkillDescription05D=Embracing the nature of the earth upon which you stand, you no longer regenerate health in combat, but your skin becomes tough as stone. ^oThis effect is extended to your allies.
+
+tagClass06SkillName06A=Summon Briarthorn
+tagClass06SkillDescription06A=Briarthorns are tenacious beasts, born of brambly woods and wild magic. Skilled Shamans can call upon these creatures to aid them in battle. ^oOnly one Briarthorn can be summoned at any one time.
+tagClass06SkillName06B=Stonebark
+tagClass06SkillDescription06B=The flesh of the Briarthorn hardens and its spines grow thicker, turning it into an intimidating presence on the battlefield that cannot be ignored.
+tagClass06SkillName06C=Ground Slam
+tagClass06SkillDescription06C=The Briarthorn slams its thorned claws into the ground, crushing any foe unlucky enough to be within reach.
+tagClass06SkillName06D=Emboldening Roar
+tagClass06SkillDescription06D=The Briarthorn calls out to its allies, emboldening them when fighting is at its thickest.
+tagClass06SkillName06E=Thorned Claws
+tagClass06SkillDescription06E=Innate Attack.
+
+tagClass06SkillName07A=Storm Totem
+tagClass06SkillDescription07A=Channeling the power of storm is one of the most sacred rites of the Stormcallers. With sufficient practice, a Shaman can imbue a totem with the destructive force of lightning.
+
+tagClass06SkillName08A=Storm Pact
+tagClass06SkillDescription08A=Unleash the ultimate wrath of nature as the air around you ripples with static energy and nearby foes are randomly struck down by the heavens themselves.
+
+tagClass06SkillName09A=Conjure Primal Spirit
+tagClass06SkillDescription09A=Legends speak of a great predator, the loyal pet of Mogdrogen, which relentlessly hunts down anyone that treads into the beast god's domain uninvited. As a favored follower of Mogdrogen, you call upon this Primal Spirit to aid you in battle.
+tagClass06SkillName09B_Pet=Tail Strike
+tagClass06SkillDescription09B_Pet=Strike the target with a poisonous tail.
+tagClass06SkillName009C=Claw and Fang Attacks
+tagClass06SkillDescription09C=Innate Attack.
+
+tagClass06SkillName10A=Brute Force
+tagClass06SkillDescription10A=To many Shamans, a brutal two-handed weapon serves as the conduit for their storm powers. These practitioners favor a closer connection to the wilds through animalistic rage and close-quarters combat rather than through fragile wands and tomes which they consider to be the toys of those who would prefer to spend their time reading books over practicing their craft. ^oRequires a two-handed melee weapon.
+tagClass06SkillName11A=Shamanism
+tagClass06SkillDescription11A=Rigorous training within the untamed wilds has honed your mind and body into a savage weapon.
+tagClass06SkillName12A=Nature's Wrath
+tagClass06SkillDescription12A=Become as one with the primal forces of nature, tearing your foes apart with tooth, claw and lightning.
+tagClass06SkillName13A=Primal Bond
+tagClass06SkillDescription13A=Strengthen your bond to the beasts that dwell within the wilds.
+
+tagClass06SkillName14A=Upheaval
+tagClass06SkillDescription14A=Strike with the strength of the earth. Whenever you land a critical strike, the ground shakes with the force of the blow, reverberating around the point of impact in a shockwave. ^oRequires a two-handed melee weapon.
+
+tagClass06SkillName15A=Devouring Swarm
+tagClass06SkillDescription15A=Conjure a swarm of bloodthirsty insects that tear apart anything they come in contact with, transferring precious lifeblood to you.
+tagClass06SkillName15B=Crippling Swarm
+tagClass06SkillDescription15B=The swarm assaults sensitive areas, tearing at the eyes, joints and ligaments, effectively crippling your foes.
+tagClass06SkillName15C=Voracious Swarm
+tagClass06SkillDescription15C=Out in the wild, one must do whatever it takes to survive. Some Shaman Conjurers take this lesson to heart by conjuring a more voracious swarm which hungrily tears apart anything it comes in contact with.
+
+
+xtagClass06SkillName13A=Wrath of Mogdrogen
+xtagClass06SkillDescription13A=Mogdrogen is often depicted as a benevolent deity who bestows protective boons upon his followers, but the wrath of the beast god can be terrifying to behold when his sanctum is threatened.
+
+xtagClass06SkillName08A=Conjure Wind Devil
+xtagClass06SkillDescription08A=A tornado is one of the most destructive forces of nature. Shaman Stormcallers conjure manifestations of this raw power in the form of Wind Devils, swirling whirlwinds of destruction that move about the battle seemingly with a mind of their own. ^oWind Devils are considered pets and benefit from pet bonuses.
+xtagClass06SkillName08B_Pet=Howling Wind
+xtagClass06SkillDescription08B_Pet=A swirling whirlwind of destruction assaults nearby foes.
 
 
 #Class07
@@ -777,7 +874,7 @@ tagItemSkillB041Name=Vitality Wave
 tagItemSkillB041Desc=A blast of life-stealing energies surges forward, draining enemies of precious vitality.
 
 tagItemSkillB042Name=Vitality Barrage
-tagItemSkillB042Desc=Bolts of life-stealing energies erupt from you, sapping enemies they come in contact with of precious vitality.
+tagItemSkillB042Desc=Bolts of life-stealing energies erupt from you, sapping any enemies they come in contact with of their precious vitality.
 
 tagItemSkillB043Name=Rejuvenation
 tagItemSkillB043Desc=A soothing calm washes over you, amplifying your body's ability to heal.
@@ -1065,6 +1162,12 @@ tagItemSkillC090Desc=An abhorrent curse that calls down a virulent plague to spr
 
 tagItemSkillC091Name=Replicating Missile
 tagItemSkillC091Desc=A replicating spell that copies itself upon striking an enemy.
+
+tagItemSkillC092Name=Storm Surge
+tagItemSkillC092Desc=You call to the heavens in times of dire need, charging you with devastating electrical power.
+
+tagItemSkillC093Name=Spider's Web
+tagItemSkillC093Desc=Traps your foe in sticky webbing that completely inhibits movement and makes them easy prey.  ^oThis spell immobilizes enemies for its duration. Enemies resistant to trap effects will suffer a reduced duration.
 
 tagItemSkillM001Name=Life's Essence
 tagItemSkillM001Desc=Mends wounds and revitalizes the weary hero.
@@ -1487,11 +1590,6 @@ tagConsumableSkill_F12=Kymon's Wrath Tincture
 tagConsumableSkill_F12Desc=An explosion of flame emanates from you.
 
 
-#SkillsEnemy
-
-tagEnemySkill01=Curse of Debilitation
-tagEnemySkill01Desc=Weakens the soul's natural defenses against the void.
-
 #SkillsQuest
 
 tagQuestSkill_A01=Kymon's Blessing
@@ -1567,5 +1665,41 @@ tagTemplateDescription=Describe Me
 
 #EnemySkills
 
+tagEnemySkill01=Curse of Debilitation
+tagEnemySkill01Desc=Weakens the soul's natural defenses against the void.
+
 tagEnemySkillA01=Despair Aura
 tagEnemySkillA01_Desc=The Aetherial Harbinger's presence fills you with dread, slowing your actions and inflicting Aether damage.
+
+tagEnemySkillA02=Souldrinker's Presence
+tagEnemySkillA02_Desc=The presence of the Souldrinker saps you of your strength and inflicts Vitality damage.
+
+tagEnemySkillA03=Spectral Miasma
+tagEnemySkillA03_Desc=The Chthonic curse saps all of your defenses.
+
+tagEnemySkillA04=Mark of Pain
+tagEnemySkillA04_Desc=The Fiend's mark saps your strength.
+
+tagEnemySkillA05=Nature's Fury
+tagEnemySkillA05_Desc=The Troll curse slows your mind and body, and exposes you to the elements.
+
+tagEnemySkillA06=Blood Siphon
+tagEnemySkillA06_Desc=The Trog curse drains your vitality and transfers it to the caster.
+
+tagEnemySkillA07=Blood Plague
+tagEnemySkillA07_Desc=The Ghoul curse boils your blood and damage your Defensive Ability.
+
+tagEnemySkillA08=Torment
+tagEnemySkillA08_Desc=The undead curse cause intense pain in your bones, slowing you and weakening physical attacks.
+
+tagEnemySkillA09=Enraged Spirit
+tagEnemySkillA09_Desc=An enraged spirit haunts you, inflicting vitality damage before it spreads to nearby victims.
+
+tagEnemySkillA10=Bone Trap
+tagEnemySkillA10_Desc=The Skeletal Golem has trapped you within a cage of bone, sapping your vitality.
+
+tagEnemySkillA11=Obsidian Trap
+tagEnemySkillA11_Desc=The Obsidian Defiler has trapped you within a cage of obsidian, sapping your vitality.
+
+tagEnemySkillA12=Obsidian Trap
+tagEnemySkillA12_Desc=Benn'Jahr has trapped you within a cage of obsidian, crushing you with the power of chaos.

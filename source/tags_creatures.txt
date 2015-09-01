@@ -57,6 +57,10 @@ tagEnemyAetherialA01=Aetherial Watcher
 tagEnemyAetherialB01=Aetherial Wraith
 tagEnemyAetherialC01=Aetherial Spectre
 
+tagAetherialHeroH01=Azar, the Wrathful
+tagAetherialHeroH02=Mondrak, the Everburning
+tagAetherialHeroH03=Intesius
+
 tagEnemyAetherialAbominationB01=Aetherial Abomination
 tagEnemyAetherialAbominationC01=Fused Terror
 
@@ -95,6 +99,7 @@ tagBoneRatHeroH05=Rimeclaw ~ Frozen
 tagBoneRatHeroH06=Wrathclaw ~ Corrupted
 
 tagBoneRatMiniBoss01=Grundleplith the Hoarder
+tagBoneRatMiniBoss02=Pusquill the Hoarder
 
 #CreatureCelestial
 
@@ -117,22 +122,45 @@ tagChthonianMinionHeroH05=Pulv'Daroth
 tagChthonianMinionHeroH06=Maga'Lugal ~ Defender
 tagChthonianMinionHeroH07=Sharanatu ~ Shielded
 
+tagEnemyChthonianDreadguardA01=Chthonian Vanguard
+tagEnemyChthonianDreadguardB01=Chthonian Dreadguard
+tagEnemyChthonianDreadguardC01=Chthonian Tyrant
+
+tagChthonianDreadguardHeroH01=Shar'Oruuth
+tagChthonianDreadguardHeroH02=Wen'Kazul, the Hungering Blade
+tagChthonianDreadguardHeroH03=Zalyth'Uthax ~Electrified
+tagChthonianDreadguardHeroH04=Jugak'Siin ~ Reflective
+tagChthonianDreadguardHeroH05=Sarmaz'Din ~ Frozen
+
+tagEnemyChthonianLeechA01=Void Parasite
+tagEnemyChthonianLeechB01=Void Leech
+tagEnemyChthonianLeechB02=Void Souldrinker
+
+tagChthonianLeechHeroH01=Vom'Anatu
+tagChthonianLeechHeroH02=Gawtok'Anatu
+tagChthonianLeechHeroH03=Ekket'Anatu
+tagChthonianLeechHeroH04=Orudin'Anatu ~ Diseased
+tagChthonianLeechHeroH05=Yakwa'Anatu ~ Unstoppable
+
 tagChthonianBoss01=Lagoth'Ak, Harbinger of Blood
 tagChthonianBoss02=Shar'Zul, Harbinger of Chaos
+tagChthonianBoss03=Bane'Gargol, Guardian of the Gates
+tagChthonianBoss04=Balok'Anatu, Bloodfiend
 
 #CreatureChthonianFiend
 
-tagEnemyVoidFiendA01=Void Fiend
-tagEnemyVoidFiendA02=Void Anomaly
-tagEnemyVoidFiendC01=Void Abomination
+tagEnemyVoidFiendA01=Voidfiend
+tagEnemyVoidFiendA02=Voidfiend Incinterator
+tagEnemyVoidFiendC01=Voidfiend Hellion
 
-tagVoidFiendHeroH01=Innugaru, Horror of the Void
+tagVoidFiendHeroH01=Innugaru, Terror of the Void
 tagVoidFiendHeroH02=Hiln'Raz, the Dark Omen
 tagVoidFiendHeroH03=Sen'Thel Voidbringer
 tagVoidFiendHeroH04=Nii'Thel ~ Bruiser
 tagVoidFiendHeroH05=Gurgoth'Siin ~ Burning
 
 tagVoidFiendBoss01=Ballog'Nath, the Hellfire
+
 
 #CreatureChthonianDevourer
 
@@ -142,10 +170,13 @@ tagEnemyChthonianDevourerB01=Chthonian Devourer
 tagEnemyChthonianDevourerB02=Chthonian Gorger
 
 tagChthonianDevourerHeroH01=Nur'Garu, Jaws of Oblivion
-tagChthonianDevourerHeroH02=Sargo'Din, the Hunering Maw
+tagChthonianDevourerHeroH02=Sargo'Din, the Hungering Maw
 tagChthonianDevourerHeroH03=Narl'Maash, the Engorged
 tagChthonianDevourerHeroH04=Nye'Kazul, the Maw of Fire
 tagChthonianDevourerHeroH05=Waban'Ak, the Sparkmaw
+
+tagChthonianDevourerBossB01=Rag'Nadar, the Great Maw
+
 
 #CreatureDranghoul
 
@@ -214,12 +245,15 @@ tagEnemyGhoulB01=Ghoul Corpse-eater
 tagEnemyGhoulB02=Ghoul Blood-drinker
 tagEnemyGhoulC01=Ghoul Necrolyte
 
-tagEnemyGhoulH01=
-tagEnemyGhoulH02=
-tagEnemyGhoulH03=
-tagEnemyGhoulH04=
+tagEnemyGhoulH01=Necrolask
+tagEnemyGhoulH02=Rot-Eye
+tagEnemyGhoulH03=Corpselick
+tagEnemyGhoulH04=Corpran ~ Corrupted
+tagEnemyGhoulH05=Vilnius ~ Voidtouched
 
 tagGhoulBoss01=Nacrathan, the Timeless
+tagGhoulBoss02=Plagius, the Decrepit
+
 
 #CreatureGolem
 
@@ -394,11 +428,11 @@ tagHumanPossessedA02=Possessed Arcanist
 tagHumanPossessedB01=Possessed Elementalist
 tagHumanPossessedC01=Possessed Archmage
 
-tagHumanPossessedHeroH01=Allaris Starfire
+tagHumanPossessedHeroH01=Allara Starfire
 tagHumanPossessedHeroH02=Aetherblaze
 tagHumanPossessedHeroH03=Kamladris, the Rimeheart
-tagHumanPossessedHeroH04=Corpus ~ Reflective
-tagHumanPossessedHeroH05=Espiris ~ Supporter
+tagHumanPossessedHeroH04=Corpusia ~ Reflective
+tagHumanPossessedHeroH05=Espiria ~ Supporter
 
 tagHumanPossessedBoss01=Noveria Stormfire
 
@@ -424,10 +458,12 @@ tagDermapteranBoss03=Swarm Queen Ravna
 tagDermapteranBoss04=Vizier Anoxis, the Tainted
 
 #CreatureInsectMosquito
-
 tagEnemyInsectMosquitoA01=Mireborn Bloodgorger
 tagEnemyInsectMosquitoB01=Mireborn Bloodfiend
 tagEnemyInsectMosquitoC01=Mireborn Matriarch
+tagEnemyInsectMosquitoA02=Festerborn Bloodgorger
+tagEnemyInsectMosquitoB02=Festerborn Bloodfiend
+tagEnemyInsectMosquitoC02=Festerborn Matriarch
 
 tagInsectMosquitoHeroH01=Vladox, the Bloodletter
 tagInsectMosquitoHeroH02=Sarlap ~ Electrified
@@ -550,6 +586,9 @@ tagRaptorHeroH06=Balra ~ Voidtouched
 tagEnemyRiftHoundA01=Rifthound
 tagEnemyRiftHoundB01=Rifthound ~ Howler
 tagEnemyRiftHoundC01=Rifthound ~ Azure Matriarch
+tagEnemyRiftHoundA02=Plaguehound
+tagEnemyRiftHoundB02=Plaguehound ~ Roteater
+tagEnemyRiftHoundC02=Plaguehound ~ Alpha
 
 tagEnemyPlanesHoundA01=Planeshound
 tagEnemyPlanesHoundB01=Planeshound ~ Pack Leader
@@ -563,6 +602,8 @@ tagRiftHoundHeroH03=Voidrage
 tagRiftHoundHeroH04=Wolvin, the Inferno
 tagRiftHoundHeroH05=Jarlax, Rage of the Swamp ~ Charger
 tagRiftHoundHeroH06=Garn, the Packhunter ~ Defender
+
+tagBossRifthoundB01=Kalis Ka, the Bonehunter
 
 #CreatureScavenger
 
@@ -721,14 +762,30 @@ tagEnemyTrollHalfB02=Mistborn Warrior
 tagEnemyTrollHalfB03=Mistborn Shaman
 tagEnemyTrollHalfC01=Mistborn Elder
 
+tagEnemyTrollHalfSwampA01=Eastmire Brute
+tagEnemyTrollHalfSwampA02=Eastmire Herder
+tagEnemyTrollHalfSwampB01=Eastmire Hunter
+tagEnemyTrollHalfSwampB02=Eastmire Warrior
+tagEnemyTrollHalfSwampB03=Eastmire Shaman
+tagEnemyTrollHalfSwampC01=Eastmire Elder
+
 tagTrollHalfHeroH01=Balarr, the Rockeater
 tagTrollHalfHeroH02=Paldrak, the Warmonger
 tagTrollHalfHeroH03=Stonetooth ~ Defender
 tagTrollHalfHeroH04=Elloras, the Sun-Eater ~ Burning
 
+tagTrollHalfSwampHeroH01=Ragarr Stonecrusher
+tagTrollHalfSwampHeroH02=Toglokk the Ravener
+tagTrollHalfSwampHeroH03=Maglak ~ Shielded
+tagTrollHalfSwampHeroH04=Wallak ~ Supporter
+
 tagEnemyTrollA01=Stonewart Troll
 tagEnemyTrollB01=Stonewart Rager
 tagEnemyTrollC01=Stonewart Behemoth
+
+tagEnemyTrollSwampA01=Plaguewart Troll
+tagEnemyTrollSwampB01=Plaguewart Rager
+tagEnemyTrollSwampC01=Plaguewart Behemoth
 
 tagTrollHeroH01=Uglak, the Immortal
 tagTrollHeroH02=Surrlak, the Earthmover
@@ -736,8 +793,14 @@ tagTrollHeroH03=Troglak ~ Unstoppable
 tagTrollHeroH04=Oldak, the Miasma ~ Diseased
 tagTrollHeroH05=Wontlak ~ Frozen
 
+tagTrollSwampHeroH01=Balglak, the Swamp Warden
+tagTrollSwampHeroH02=Rovos ~ Reflective
+tagTrollSwampHeroH03=Malgalok ~ Voidtouched
+tagTrollSwampHeroH04=Avalgal ~ Corrupted
+
 tagBossTrollB01=Gulgoth, the Rampaging
 tagBossTrollB02=Voldrak, the Destroyer
+tagBossTrollB03=Balegor, the Swamp King
 
 tagEnemyTrollCorruptedA01=Fleshwarped Troll
 tagEnemyTrollCorruptedB01=Fleshwarped Vanguard
@@ -766,13 +829,11 @@ tagEnemyCaveSpiderB01=Terrorweave Arachnid
 tagEnemyCaveSpiderB02=Terrorweave Widow
 tagEnemyCaveSpiderC01=Terrorweave Matriarch
 
-tagCaveTrollHalfHeroH01=Glukrok, the Darkdweller
+tagCaveTrollHalfHeroH01=Glavrok, the Darkdweller
 tagCaveTrollHalfHeroH02=Algrok, the Blind Berserker
 tagCaveTrollHalfHeroH03=Savarok ~ Shielded
 tagCaveGrobleHeroH01=Akala ~ Swift
 tagCaveGrobleHeroH02=Ulbalak ~ Supporter
-tagCaveTrollHeroH01=Balglak, the Cave Warden
-tagCaveTrollHeroH02=Rovos ~ Reflective
 tagCaveSpiderHeroH01=Shelleb, the Darkness
 tagCaveSpiderHeroH02=Vilaxna ~ Regenerator
 tagCaveSpiderHeroH03=Ravnix ~ Swift
@@ -812,12 +873,12 @@ tagEnemyYetiB01=Chillmane Rager
 tagEnemyYetiB02=Chillmane Icesplitter
 tagEnemyYetiC01=Chillmane Alpha
 
-tagYetiHeroH01=
-tagYetiHeroH02=
-tagYetiHeroH03=
-tagYetiHeroH04=
+tagYetiHeroH01=Bonechill
+tagYetiHeroH02=Icesnap
+tagYetiHeroH03=Chillblood ~ Regenerator
+tagYetiHeroH04=Mallus ~ Corrupted
 
-tagYetiBoss01=
+tagYetiBoss01=Ragrathar Rageblood
 
 
 #CreatureZombie
@@ -957,7 +1018,7 @@ tagBountyDC06="The Bruiser" Romanov
 tagBountyDC07=Bolla "The Raven"
 tagBountyDC08=Slathra, the Plagued
 tagBountyDC09=Ballior ~ Burning
-tagBountyDC10="The Bruiser" Romanov
+tagBountyDC10=Igor "The Brawler"
 tagBountyDC11=Caspis, the Blooddrinker
 tagBountyDC15=Rostov, the Aetherflame
 tagBountyDC17=Nalloth, the Frostbound
@@ -969,7 +1030,7 @@ tagBountyHS09=Bogloth the Marrowdrinker
 tagBountyHS10=The Locust
 tagBountyHS11=Vizier Haxin
 tagBountyHS12=Glukrog Lifedrinker
-tagBountyHS13=Phabius ~ Electrified
+tagBountyHS13=Phabius
 tagBountyKC07=Holvuur Bonespeaker
 tagBountyKC08=Igniaa Venomtongue
 tagBountyKC09=Vom'Zul
@@ -986,6 +1047,7 @@ tagBountyODV12=Narl'Sarroth
 tagBountyRO10=Oligeane Dar
 tagBountyRO11=Rixna Plaguefeather
 tagBountyRO12=Mortallis
+tagBountyRO19=Grum
 
 #Races
 

@@ -9,12 +9,12 @@ Thank you. It may seem like a small gesture to you, but you've helped honor the 
 Thank you.
 Any luck recovering those insignias?
 Where should I be looking?
-Head out into cultist territory, to the north of Homestead.{^n}{^n}I'm not holding out any hope that my men survived out there, so just bring back their insignias.
+Head out into cultist territory in the Blood Grove, to the north of Homestead.{^n}{^n}I'm not holding out any hope that my men survived out there, so just bring back their insignias.
 I will head out there at once.
 I'm still searching.
 I hear you're going to attack the cultist camps. Ballsy move. But after what you did to that Aetherial abomination, I suppose you're capable of anything.{^n}{^n}Since you're already planning to stick your neck out for us, I was wondering if you could do the Legion a small service.
 What do you need?
-At Captain Somer's command, I've been sending out scouting parties to the north in order to study the cultist operations there. The cult has a strong presence and they've been bringing powerful chthonic monstrosities into the world. Needless to say, it's dangerous work. Many of my men have not returned.{^n}{^n}When a soldier falls in battle and we can't recover the body, we make sure to at least bring back their insignia so that they can receive a humble send-off to whatever hell awaits us all. My scouts deserve more, but right now I can't even give them that.{^n}{^n}We've lost too many men out there as it is. I can't spare anyone else to recover those insignias. Will you pay my men this last respect? I'll be sure to make it worth your while.
+At Captain Somer's command, I've been sending out scouting parties to the north in order to study the cultist operations there. The cult has a strong presence in the Blood Grove and they've been bringing powerful chthonic monstrosities into the world. Needless to say, it's dangerous work. Many of my men have not returned.When a soldier falls in battle and we can't recover the body, we make sure to at least bring back their insignia so that they can receive a humble send-off to whatever hell awaits us all. My scouts deserve more, but right now I can't even give them that.{^n}{^n}We've lost too many men out there as it is. I can't spare anyone else to recover those insignias. Will you pay my men this last respect? I'll be sure to make it worth your while.
 I will honor your dead.
 I'm sorry, I cannot do this right now.
 I already found some insignias. Here you go.
