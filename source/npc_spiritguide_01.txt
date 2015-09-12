@@ -1,0 +1,15 @@
+Mullone
+Greetings, child. I am pleased to see that the taint of possession has left you.{^n}{^n}Should you require it, I offer spiritual guidance to the survivors. I will gladly extend this service to you.
+Are you the one who stopped me when I was possessed?
+My knowledge of spirits has allowed me to devise a trap with which we were able to contain you and the Aetherial that controlled you.{^n}{^n}It was not until the noose was firmly around your neck that the spirit left you though.
+Why have't you dealt with the Reanimator then?
+I am afraid that I am not at all fit for combat, which from my understanding was more than necessary for you to reach the reanimator's lair.{^n}{^n}I was only able to subdue the Aetherial within you with the use of a trap, which would have required the reanimator to come to us, just as you have.
+You mentioned spiritual guidance?
+I understand. I will return should I require your services.
+You mentioned spiritual guidance?
+I see. I will return should I require your services.
+Spiritual guidance?
+Troubled memories can cloud the mind and torment the spirit.{^n}{^n}With my guidance, you can move past those painful thoughts and begin anew.
+
+Thank you, I would very much appreciate that.
+Thank you, I would very much appreciate that.
