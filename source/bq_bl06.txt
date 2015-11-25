@@ -1,7 +1,7 @@
 Bounties
 Bounty: Bane'Gargoth
 Bounty
-The Legion requests assistance with the spawns of the void.{^n}{^n}A riftgate leading to the void itself has opened up near Sorrow's Bastion. There, an obsidian monster known as Bane'Gargoth commands the chthonians against our world. Someone must brave the void and exterminate it, for the good of humanity.{^n}{^n}Any assistance will be compensated with a substantial sum of iron bits.
+The Legion requests assistance with the spawns of the void.{^n}{^n}A riftgate leading to the void itself has opened up in the Plains of Strife, north of Fort Ikon. There, an obsidian monster known as Bane'Gargoth commands the chthonians against our world. Someone must brave the void and exterminate it, for the good of humanity.{^n}{^n}Any assistance will be compensated with a substantial sum of iron bits.
 
 Slay Bane'Gargoth
 

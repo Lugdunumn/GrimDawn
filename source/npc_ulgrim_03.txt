@@ -3,9 +3,9 @@ Move along, my blades hunger for troll blood, but they'll settle for you.
 Alright, I'm going.
 So, how doomed are we?
 I've secured the way via riftgate.
-Ugh, that wretched thing again? Nearly lost my breakfast the last time you took me through one of those.{^n}{^n}Well, no sense in complaining, these people won't last much longer out here.
+Good work. I can't say I enjoyed my first travel by rift but it's certainly better than the alternative.
 I'll see you all in Homestead. (Open Riftgate)
-A portal? Only ever seen the Aetherials using those.{^n}{^n}I really hope you know what you're doing.
+Now that we come to it, I can't say I'm eager to experience travel by rift. I hope you know what you're doing.
 I'll see you all in Homestead. (Open Riftgate)
 I hope your journey to Homestead goes well.
 Where should I go again?
@@ -19,7 +19,7 @@ I haven't been entirely honest with you. I'm not a chef, not by profession anywa
 Why did you join me in Devil's Crossing only to leave again?
 My job was to scout the countryside, get bearings on enemy strongholds and investigate weaknesses.{^n}{^n}Your mention of people surviving out in Devil's Crossing was intriguing, so I wanted to see it for myself. Having learned everything I could about the area, I felt it was time to return to my men in Homestead.
 Your men?
-Can't say I like it anymore than they do, but I am working alongside the Black Legion. They are all that remain of the imperium's forces.
+Can't say I like it any more than they do, but I am working alongside the Black Legion. They are all that remain of the imperium's forces.
 
 
 
@@ -33,7 +33,7 @@ Look, I'm sure you have many questions, but now is not the time.{^n}{^n}We need 
 
 
 So how can I help here?
-I stumbled upon these refugees on my way through Smuggler's Pass. The trolls were about ready to serve them for dinner before I intervened. Now we are stuck out here, caught in the midst of a battle between the trolls and the Aetherial wretches.{^n}{^n}Doesn't help that the only safe way through to Homestead is now caved in. There is only one option and there is no way we are making it through there alive, well I suppose I would.I know I'm putting a lot of weight on your shoulders, but I need you to go down into the Mountain Deeps. There is a seldom traveled passage there that will spit you out onto the Prospector's Trail. Follow it until you reach the farmlands. Homestead should be not far beyond.{^n}{^n}You must secure the path for us. It's the only way these people will survive. I'm not sure how much longer I can hold off the trolls before they come in force.
+I came upon these refugees on my way through Smuggler's Pass. They were trapped and would soon have become food or entertainment for the trolls. I had to do something. Now we are stuck out here, caught in the midst of a battle between the trolls and the Aetherial forces.{^n}{^n}The tunnel to Homestead is blocked by aetherfire and the only option now is a passage through the Mountain Deeps. It is a foul place at the bottom of the world, infested with all manner terrible things that hate the sun.There is no way these people would survive down there. In Devil's Crossing, I saw that you had the power to open rifts. I need you to fight your way to Homestead, secure a rift and come back for us.{^n}{^n}So please, help these people. Below is an entrance to the Deeps, from there you'll exit onto the Dusty Road and that will lead you into Homestead. Be swift! I'm not sure how much longer I can hold off the trolls before they come in force.
 I will find a way to Homestead.
 I'm sorry, I can't do this.
 I've been there. I can take you there via riftgate.
@@ -47,7 +47,7 @@ I haven't been entirely honest with you. I'm not a chef, not by profession anywa
 
 
 What's the situation here?
-I stumbled upon these refugees on my way through Smuggler's Pass. The trolls were about ready to serve them for dinner before I intervened. Now we are stuck out here, caught in the midst of a battle between the trolls and the Aetherial wretches.{^n}{^n}Doesn't help that the only safe way through to Homestead is now caved in. There is only one option and there is no way we are making it through there alive, well I suppose I would.I know I'm putting a lot of weight on your shoulders, but I need you to go down into the Mountain Deeps. There is a seldom traveled passage there that will spit you out onto the Prospector's Trail. Follow it until you reach the farmlands. Homestead should be not far beyond.{^n}{^n}You must secure the path for us. It's the only way these people will survive. I'm not sure how much longer I can hold off the trolls before they come in force.
+I came upon these refugees on my way through Smuggler's Pass. They were trapped and would soon have become food or entertainment for the trolls. I had to do something. Now we are stuck out here, caught in the midst of a battle between the trolls and the Aetherial forces.{^n}{^n}The tunnel to Homestead is blocked by aetherfire and the only option now is a passage through the Mountain Deeps. It is a foul place at the bottom of the world, infested with all manner terrible things that hate the sun.There is no way these people would survive down there. In Devil's Crossing, I saw that you had the power to open rifts. I need you to fight your way to Homestead, secure a rift and come back for us.{^n}{^n}So please, help these people. Below is an entrance to the Deeps, from there you'll exit onto the Dusty Road and that will lead you into Homestead. Be swift! I'm not sure how much longer I can hold off the trolls before they come in force.
 I will find a way to Homestead.
 I'm sorry, I can't do this.
 I've been there. I can take you there via riftgate.
@@ -56,7 +56,7 @@ It's not my problem.
 So the 'Taken' has returned. Ready to lend a hand after all?
 
 What's the situation here?
-I stumbled upon these refugees on my way through Smuggler's Pass. The trolls were about ready to serve them for dinner before I intervened. Now we are stuck out here, caught in the midst of a battle between the trolls and the Aetherial wretches.{^n}{^n}Doesn't help that the only safe way through to Homestead is now caved in. There is only one option and there is no way we are making it through there alive, well I suppose I would.I know I'm putting a lot of weight on your shoulders, but I need you to go down into the Mountain Deeps. There is a seldom traveled passage there that will spit you out onto the Prospector's Trail. Follow it until you reach the farmlands. Homestead should be not far beyond.{^n}{^n}You must secure the path for us. It's the only way these people will survive. I'm not sure how much longer I can hold off the trolls before they come in force.
+I came upon these refugees on my way through Smuggler's Pass. They were trapped and would soon have become food or entertainment for the trolls. I had to do something. Now we are stuck out here, caught in the midst of a battle between the trolls and the Aetherial forces.{^n}{^n}The tunnel to Homestead is blocked by aetherfire and the only option now is a passage through the Mountain Deeps. It is a foul place at the bottom of the world, infested with all manner terrible things that hate the sun.There is no way these people would survive down there. In Devil's Crossing, I saw that you had the power to open rifts. I need you to fight your way to Homestead, secure a rift and come back for us.{^n}{^n}So please, help these people. Below is an entrance to the Deeps, from there you'll exit onto the Dusty Road and that will lead you into Homestead. Be swift! I'm not sure how much longer I can hold off the trolls before they come in force.
 I will find a way to Homestead.
 I'm sorry, I can't do this.
 I've been there. I can take you there via riftgate.
@@ -79,7 +79,7 @@ Not sure I can trust you anymore.
 
 
 So how can I help here?
-I stumbled upon these refugees on my way through Smuggler's Pass. The trolls were about ready to serve them for dinner before I intervened. Now we are stuck out here, caught in the midst of a battle between the trolls and the Aetherial wretches.{^n}{^n}Doesn't help that the only safe way through to Homestead is now caved in. There is only one option and there is no way we are making it through there alive, well I suppose I would.I know I'm putting a lot of weight on your shoulders, but I need you to go down into the Mountain Deeps. There is a seldom traveled passage there that will spit you out onto the Prospector's Trail. Follow it until you reach the farmlands. Homestead should be not far beyond.{^n}{^n}You must secure the path for us. It's the only way these people will survive. I'm not sure how much longer I can hold off the trolls before they come in force.
+I came upon these refugees on my way through Smuggler's Pass. They were trapped and would soon have become food or entertainment for the trolls. I had to do something. Now we are stuck out here, caught in the midst of a battle between the trolls and the Aetherial forces.{^n}{^n}The tunnel to Homestead is blocked by aetherfire and the only option now is a passage through the Mountain Deeps. It is a foul place at the bottom of the world, infested with all manner terrible things that hate the sun.There is no way these people would survive down there. In Devil's Crossing, I saw that you had the power to open rifts. I need you to fight your way to Homestead, secure a rift and come back for us.{^n}{^n}So please, help these people. Below is an entrance to the Deeps, from there you'll exit onto the Dusty Road and that will lead you into Homestead. Be swift! I'm not sure how much longer I can hold off the trolls before they come in force.
 I will find a way to Homestead.
 I'm sorry, I can't do this.
 I've been there. I can take you there via riftgate.
@@ -87,9 +87,9 @@ I've been there. I can take you there via riftgate.
 How did you know I would come here?
 You seem to want to do the right thing by the people of Devil's Crossing. They're going to run out of food soon.{^n}{^n}If I were looking for a new source, I'd head up here too.
 What are you doing out here?
-Why hello again, mistrusting stranger. I was wondering when you'd be coming through here. You have a knack for going where the killing is thickest.
+Well, we meet again. If you recall, we crossed paths outside of Burrwitch.{^n}{^n}I figured someone would have to come through here eventually. It's no secret the people in Devil's Crossing need food and Homestead is the logical choice.
 How did you end up out here?
-I haven't been entirely honest with you. I'm not a chef, not by profession anyway, although maybe that would have been a better path...{^n}{^n}As it is, I'm an assassin and former First Blade of the Erulan Emperor. It's a title I've not always been proud to bear as my line of work has not always been virtuous, but I dealt with threats to the empire. Now all of humanity is threatened by foes more deadly than anything we've faced before. It is, however, a time when I can put my talents to a more noble purpose.{^n}{^n}But you haven't been entirely forthright with me either, "Taken".
+I haven't been entirely honest with you. I'm not a chef, not by profession anyway, although maybe that would have been a better path...{^n}{^n}As it is, I'm an assassin and former First Blade of the Erulan Emperor. It's a title I've not always been proud to bear as my line of work has not always been virtuous, but I dealt with threats to the empire. Now all of humanity is threatened by foes more deadly than anything we've faced before. It is, however, a time when I can put my talents to a more noble purpose.{^n}{^n}But you haven't been entirely forthright with me either, 'Taken'.
 What did you call me?
 A 'Taken'. Well, formerly so if we get down to semantics. The Aetherial left you just before you hanged to death, am I not correct?
 How do you know all this?
@@ -107,7 +107,7 @@ Look, I'm sure you have many questions, but now is not the time.{^n}{^n}We need 
 
 Seems you have things covered.
 How can I help here?
-I stumbled upon these refugees on my way through Smuggler's Pass. The trolls were about ready to serve them for dinner before I intervened. Now we are stuck out here, caught in the midst of a battle between the trolls and the Aetherial wretches.{^n}{^n}Doesn't help that the only safe way through to Homestead is now caved in. There is only one option and there is no way we are making it through there alive, well I suppose I would.I know I'm putting a lot of weight on your shoulders, but I need you to go down into the Mountain Deeps. There is a seldom traveled passage there that will spit you out onto the Dusty Road. Follow it until you reach the farmlands. Homestead should be not far beyond.{^n}{^n}You must secure the path for us. It's the only way these people will survive. I'm not sure how much longer I can hold off the trolls before they come in force.
+I came upon these refugees on my way through Smuggler's Pass. They were trapped and would soon have become food or entertainment for the trolls. I had to do something. Now we are stuck out here, caught in the midst of a battle between the trolls and the Aetherial forces.{^n}{^n}The tunnel to Homestead is blocked by aetherfire and the only option now is a passage through the Mountain Deeps. It is a foul place at the bottom of the world, infested with all manner terrible things that hate the sun.There is no way these people would survive down there. In Devil's Crossing, I saw that you had the power to open rifts. I need you to fight your way to Homestead, secure a rift and come back for us.{^n}{^n}So please, help these people. Below is an entrance to the Deeps, from there you'll exit onto the Dusty Road and that will lead you into Homestead. Be swift! I'm not sure how much longer I can hold off the trolls before they come in force.
 I will find a way to Homestead.
 I'm sorry, I can't do this.
 I've been there. I can take you there via riftgate.
@@ -130,7 +130,7 @@ I know about your heroics back in Burrwitch. Warden Krieg nearly bested one of t
 I know that you've had to battle through beast and Aetherial to get this far, but yet you refuse to face the world's real demons.{^n}{^n}My sources are very good, if I say so myself.
 
 How can I help here?
-I stumbled upon these refugees on my way through Smuggler's Pass. The trolls were about ready to serve them for dinner before I intervened. Now we are stuck out here, caught in the midst of a battle between the trolls and the Aetherial wretches.{^n}{^n}Doesn't help that the only safe way through to Homestead is now caved in. There is only one option and there is no way we are making it through there alive, well I suppose I would.I know I'm putting a lot of weight on your shoulders, but I need you to go down into the Mountain Deeps. There is a seldom traveled passage there that will spit you out onto the Dusty Road. Follow it until you reach the farmlands. Homestead should be not far beyond.{^n}{^n}You must secure the path for us. It's the only way these people will survive. I'm not sure how much longer I can hold off the trolls before they come in force.
+I came upon these refugees on my way through Smuggler's Pass. They were trapped and would soon have become food or entertainment for the trolls. I had to do something. Now we are stuck out here, caught in the midst of a battle between the trolls and the Aetherial forces.{^n}{^n}The tunnel to Homestead is blocked by aetherfire and the only option now is a passage through the Mountain Deeps. It is a foul place at the bottom of the world, infested with all manner terrible things that hate the sun.There is no way these people would survive down there. In Devil's Crossing, I saw that you had the power to open rifts. I need you to fight your way to Homestead, secure a rift and come back for us.{^n}{^n}So please, help these people. Below is an entrance to the Deeps, from there you'll exit onto the Dusty Road and that will lead you into Homestead. Be swift! I'm not sure how much longer I can hold off the trolls before they come in force.
 I will find a way to Homestead.
 I'm sorry, I can't do this.
 I've been there. I can take you there via riftgate.

@@ -1,7 +1,7 @@
 Bounties
 Bounty: Emberjaw
 Bounty
-The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as Emberjaw has proven surprisingly resistent to flame. It was last spotted in the Pine Barrens, spreading wildfires wherever it goes.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+The Legion requests assistance with a monster hunt.{^n}{^n}A briarthorn known as Emberjaw has proven surprisingly resistent to flame. It was last spotted in the Shaded Basin, spreading wildfires wherever it goes.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
 
 
 
