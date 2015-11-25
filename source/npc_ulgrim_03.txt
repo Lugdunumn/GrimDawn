@@ -65,7 +65,7 @@ Goodbye.
 Well if it isn't my best friend from Devil's Crossing. I had a feeling you'd be making your way through here.
 Ulgrim? What are you doing out here?
 
-I haven't been entirely honest with you. I'm not a chef, not by profession anyway, although maybe that would have been a better path...{^n}{^n}As it is, I'm an assassin and former First Blade of the Erulan Emperor. It's a title I've not always been proud to bear as my line of work has not always been virtuous, but I dealt with threats to the empire. Now all of humanity is threatened by foes more deadly than anything we've faced before. It is, however, a time when I can put my talents to a more noble purpose.{^n}{^n}You haven't been entirely forthright with me either, "Taken" but don't worry, I'm the keeper of many secrets.
+I haven't been entirely honest with you. I'm not a chef, not by profession anyway, although maybe that would have been a better path...{^n}{^n}As it is, I'm an assassin and former First Blade of the Erulan Emperor. It's a title I've not always been proud to bear as my line of work has not always been virtuous, but I dealt with threats to the empire. Now all of humanity is threatened by foes more deadly than anything we've faced before. It is, however, a time when I can put my talents to a more noble purpose.{^n}{^n}You haven't been entirely forthright with me either, "Taken"; but don't worry, I'm the keeper of many secrets.
 What did you call me?
 A 'Taken'. Well, formerly so if we get down to semantics. The Aetherial left you just before you hanged to death, am I not correct?
 How do you know all this?

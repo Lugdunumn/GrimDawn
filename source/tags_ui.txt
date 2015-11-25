@@ -337,6 +337,7 @@ tagFactionKillChampion=Champion Monsters
 tagFactionKillHero=Hero Monsters
 tagFactionKillBoss=Boss Monsters
 tagFactionBonusRep=Bonus Reputation: {%d0}%
+tagFactionBonusInfamy=Bonus Infamy: {%d0}%
 
 #Achievements
 
@@ -534,6 +535,8 @@ tagRollFormat14={%s0} {^b}{%.0f1}
 tagRollFormat15={%s0} {^b}+ {%.1f1}% + {%.0f2}
 tagRollFormat16={%s0} {^s}{%.2f1} {^b}- {%.2f2}
 tagRollFormat17={%s0} {^b}{%.1f1}% + {%.2f2}
+tagRollFormat18={^b}{%.0f0} - {%.0f1}
+tagRollFormat19={^b}{%.0f0}
 tagFormatPercent={%.0f}%
 tagFormatPlusPercent=+ {%.0f}%
 tagFormatMinusPercent=- {%.0f}%
@@ -558,6 +561,7 @@ tagCharHeaderResistance=Resistances
 tagCharHeaderDefense=Defensive Stats
 tagCharHeaderOffense=Offensive Stats
 tagCharHeaderCombat=Combat Stats
+tagCharHeaderDPS=Damage Per Hit
 tagCharHeaderCharacter=Character
 tagCharHeaderPhysical=Physical
 tagCharHeaderMagical=Magical
@@ -567,8 +571,10 @@ tagCharHeaderRetaliation=Retaliation
 tagCharHeaderStats=Stats
 tagCharHeaderMisc=Misc
 
-tagCharStatsDPS=Damage Per Second
-tagCharStatsDPSDescription=Average damage per second, does not factor in enemy defenses.
+tagCharStatsDPS=Damage Per Second {^b}(?)
+tagCharStatsDPSDescription=Average damage per second for your Left-Mouse Button and Right-Mouse Button Abilities against a single target, modified by cooldown and all bonuses from equipment and skills. Does not factor in enemy defenses.
+tagCharStatsDPSRightDescription=Damage breakdown for your Right-Mouse Button Ability against a single target, modified by all bonuses from equipment and skills. Does not factor in enemy defenses.
+tagCharStatsDPSLeftDescription=Damage breakdown for your Left-Mouse Button Ability against a single target, modified by all bonuses from equipment and skills. Does not factor in enemy defenses.
 
 tagCharStatsArmorTotalAlert=Armor Rating {^b}(?)
 tagCharStatsArmorTotal=Armor Rating
@@ -632,30 +638,30 @@ tagCharStatsArcanistSkillsBonusInfo=Bonus to all learned skills in the Arcanist 
 #Physical
 tagCharStatsAttackSpeed=Attack Speed
 tagCharStatsAttackSpeedDescription=Your weapon attack speed relative to the baseline (Includes Total Speed).
-tagCharStatsAvgDmg=Damage Range
+tagCharStatsAvgDmg=Weapon Damage
 tagCharStatsAvgDmgDescription=The damage done per hit with your weapon attacks, including bonuses.
 
 tagCharStatsPhysicalAbsDmg=Physical Damage
 tagCharStatsPhysicalAbsDmgInfo=The Physical Damage done per hit with your weapon attacks, including bonuses.
 tagCharStatsPhysicalPercentDmg=Physical Modifier
-tagCharStatsPhysicalPercentDmgInfo=The percent bonus to all Physical Damage dealt by attacks and spells.
+tagCharStatsPhysicalPercentDmgInfo=The percent bonus to all Physical Damage dealt by attacks and spells, not including the bonus from Cunning.
 
 tagCharStatsPierceAbsDmg=Pierce Damage
 tagCharStatsPierceAbsDmgInfo=The Pierce Damage done per hit with your weapon attacks, including bonuses.
 tagCharStatsPiercePercentDmg=Pierce Modifier
-tagCharStatsPiercePercentDmgInfo=The percent bonus to all Pierce Damage dealt by attacks and spells.
+tagCharStatsPiercePercentDmgInfo=The percent bonus to all Pierce Damage dealt by attacks and spells, not including the bonus from Cunning.
 
 tagCharStatsBleedAbsDmg=Bleed Damage
 tagCharStatsBleedAbsDmgInfo=The Bleed Damage done per second over 3 seconds applied per hit with your weapon attacks, including bonuses.
 tagCharStatsBleedPercentDmg=Bleed Modifier
-tagCharStatsBleedPercentDmgInfo=The percent bonus to all Bleed Damage dealt by attacks and spells.
+tagCharStatsBleedPercentDmgInfo=The percent bonus to all Bleed Damage dealt by attacks and spells, not including the bonus from Cunning.
 tagCharStatsBleedDuration=Bleed Duration
 tagCharStatsBleedDurationInfo=The percent bonus to the duration of your Bleed Damage attacks. The damage per second is not increased.
 
 tagCharStatsInternalTraumaAbsDmg=Trauma Damage
 tagCharStatsInternalTraumaAbsDmgInfo=The Internal Trauma Damage done per second over 5 seconds applied per hit with your weapon attacks, including bonuses.
 tagCharStatsInternalTraumaPercentDmg=Trauma Modifier
-tagCharStatsInternalTraumaPercentDmgInfo=The percent bonus to all Internal Trauma Damage dealt by attacks and spells.
+tagCharStatsInternalTraumaPercentDmgInfo=The percent bonus to all Internal Trauma Damage dealt by attacks and spells, not including the bonus from Cunning.
 tagCharStatsInternalTraumaDuration=Trauma Duration
 tagCharStatsInternalTraumaDurationInfo=The percent bonus to the duration of your Internal Trauma Damage attacks. The damage per second is not increased.
 
@@ -678,70 +684,70 @@ tagCharStatsPercentHealthDamageInfo=The percent of the target's Current Health d
 tagCharStatsFireAbsDmg=Fire Damage
 tagCharStatsFireAbsDmgInfo=The Fire Damage done per hit with your weapon attacks, including bonuses.
 tagCharStatsFirePercentDmg=Fire Modifier
-tagCharStatsFirePercentDmgInfo=The percent bonus to all Fire Damage dealt by attacks and spells.
+tagCharStatsFirePercentDmgInfo=The percent bonus to all Fire Damage dealt by attacks and spells, not including the bonus from Spirit.
 
 tagCharStatsColdAbsDmg=Cold Damage
 tagCharStatsColdAbsDmgInfo=The Cold Damage done per hit with your weapon attacks, including bonuses.
 tagCharStatsColdPercentDmg=Cold Modifier
-tagCharStatsColdPercentDmgInfo=The percent bonus to all Cold Damage dealt by attacks and spells.
+tagCharStatsColdPercentDmgInfo=The percent bonus to all Cold Damage dealt by attacks and spells, not including the bonus from Spirit.
 
 tagCharStatsLightningAbsDmg=Lightning Damage
 tagCharStatsLightningAbsDmgInfo=The Lightning Damage done per hit with your weapon attacks, including bonuses.
 tagCharStatsLightningPercentDmg=Lightning Modifier
-tagCharStatsLightningPercentDmgInfo=The percent bonus to all Lightning Damage dealt by attacks and spells.
+tagCharStatsLightningPercentDmgInfo=The percent bonus to all Lightning Damage dealt by attacks and spells, not including the bonus from Spirit.
 
 tagCharStatsAcidAbsDmg=Acid Damage
 tagCharStatsAcidAbsDmgInfo=The Acid Damage done per hit with your weapon attacks, including bonuses.
 tagCharStatsAcidPercentDmg=Acid Modifier
-tagCharStatsAcidPercentDmgInfo=The percent bonus to all Acid Damage dealt by attacks and spells.
+tagCharStatsAcidPercentDmgInfo=The percent bonus to all Acid Damage dealt by attacks and spells, not including the bonus from Spirit.
 
 tagCharStatsVitalityAbsDmg=Vitality Damage
 tagCharStatsVitalityAbsDmgInfo=The Vitality Damage done per hit with your weapon attacks, including bonuses.
 tagCharStatsVitalityPercentDmg=Vitality Modifier
-tagCharStatsVitalityPercentDmgInfo=The percent bonus to all Vitality Damage dealt by attacks and spells.
+tagCharStatsVitalityPercentDmgInfo=The percent bonus to all Vitality Damage dealt by attacks and spells, not including the bonus from Spirit.
 
 tagCharStatsAetherAbsDmg=Aether Damage
 tagCharStatsAetherAbsDmgInfo=The Aether Damage done per hit with your weapon attacks, including bonuses.
 tagCharStatsAetherPercentDmg=Aether Modifier
-tagCharStatsAetherPercentDmgInfo=The percent bonus to all Aether Damage dealt by attacks and spells.
+tagCharStatsAetherPercentDmgInfo=The percent bonus to all Aether Damage dealt by attacks and spells, not including the bonus from Spirit.
 
 tagCharStatsChaosAbsDmg=Chaos Damage
 tagCharStatsChaosAbsDmgInfo=The Chaos Damage done per hit with your weapon attacks, including bonuses.
 tagCharStatsChaosPercentDmg=Chaos Modifier
-tagCharStatsChaosPercentDmgInfo=The percent bonus to all Chaos Damage dealt by attacks and spells.
+tagCharStatsChaosPercentDmgInfo=The percent bonus to all Chaos Damage dealt by attacks and spells, not including the bonus from Spirit.
 
 tagCharStatsBurnAbsDmg=Burn Damage
 tagCharStatsBurnAbsDmgInfo=The Burn Damage done per second over 3 seconds applied per hit with your weapon attacks, including bonuses.
 tagCharStatsBurnPercentDmg=Burn Modifier
-tagCharStatsBurnPercentDmgInfo=The percent bonus to all Burn Damage dealt by attacks and spells.
+tagCharStatsBurnPercentDmgInfo=The percent bonus to all Burn Damage dealt by attacks and spells, not including the bonus from Spirit.
 tagCharStatsBurnDuration=Burn Duration
 tagCharStatsBurnDurationInfo=The percent bonus to the duration of your Burn Damage attacks. The damage per second is not increased.
 
 tagCharStatsColdburnAbsDmg=Frostburn Damage
 tagCharStatsColdburnAbsDmgInfo=The Frostburn Damage done per second over 3 seconds applied per hit with your weapon attacks, including bonuses.
 tagCharStatsColdburnPercentDmg=Frostburn Modifier
-tagCharStatsColdburnPercentDmgInfo=The percent bonus to all Frostburn Damage dealt by attacks and spells.
+tagCharStatsColdburnPercentDmgInfo=The percent bonus to all Frostburn Damage dealt by attacks and spells, not including the bonus from Spirit.
 tagCharStatsColdburnDuration=Frostburn Duration
 tagCharStatsColdburnDurationInfo=The percent bonus to the duration of your Frostburn Damage attacks. The damage per second is not increased.
 
 tagCharStatsElectrocuteAbsDmg=Electrocute Damage
 tagCharStatsElectrocuteAbsDmgInfo=The Electrocute Damage done per second over 3 seconds applied per hit with your weapon attacks, including bonuses.
 tagCharStatsElectrocutePercentDmg=Electrocute Modifier
-tagCharStatsElectrocutePercentDmgInfo=The percent bonus to all Electrocute Damage dealt by attacks and spells.
+tagCharStatsElectrocutePercentDmgInfo=The percent bonus to all Electrocute Damage dealt by attacks and spells, not including the bonus from Spirit.
 tagCharStatsElectrocuteDuration=Electrocute Duration
 tagCharStatsElectrocuteDurationInfo=The percent bonus to the duration of your Electrocute Damage attacks. The damage per second is not increased.
 
 tagCharStatsPoisonAbsDmg=Poison Damage
 tagCharStatsPoisonAbsDmgInfo=The Poison Damage done per second over 5 seconds applied per hit with your weapon attacks, including bonuses.
 tagCharStatsPoisonPercentDmg=Poison Modifier
-tagCharStatsPoisonPercentDmgInfo=The percent bonus to all Poison Damage dealt by attacks and spells.
+tagCharStatsPoisonPercentDmgInfo=The percent bonus to all Poison Damage dealt by attacks and spells, not including the bonus from Spirit.
 tagCharStatsPoisonDuration=Poison Duration
 tagCharStatsPoisonDurationInfo=The percent bonus to the duration of your Poison Damage attacks. The damage per second is not increased.
 
 tagCharStatsVitalityDecayAbsDmg=Vitality Decay Damage
 tagCharStatsVitalityDecayAbsDmgInfo=The Vitality Decay Damage done per second over 3 seconds applied per hit with your weapon attacks, including bonuses.
 tagCharStatsVitalityDecayPercentDmg=Vitality Decay Modifier
-tagCharStatsVitalityDecayPercentDmgInfo=The percent bonus to all Vitality Decay Damage dealt by attacks and spells.
+tagCharStatsVitalityDecayPercentDmgInfo=The percent bonus to all Vitality Decay Damage dealt by attacks and spells, not including the bonus from Spirit.
 tagCharStatsVitalityDecayDuration=Vitality Decay Duration
 tagCharStatsVitalityDecayDurationInfo=The percent bonus to the duration of your Vitality Decay Damage attacks. The damage per second is not increased.
 
@@ -1070,9 +1076,11 @@ tagDismantleBoxInfo=Place an item greater than common quality in the chamber.
 
 tagShrineDesecrated=Desecrated Shrine
 tagShrineRuined=Ruined Shrine
+tagShrineRestored=Restored Shrine
 tagShrineButton=Offer
 tagShrineButtonInfo=Place this offering near the shrine
 tagShrineWarning=Are you sure you want to place this offering?
+tagShrineConfirmProxy=This shrine is corrupted and needs to be cleansed. Summon what is trapped within?
 
 #Smuggler
 
@@ -1287,7 +1295,7 @@ tagConversionPierce=Piercing Damage
 tagConversionElemental=Elemental Damage
 tagConversionCold=Cold Damage
 tagConversionFire=Fire Damage
-tagConversionPoison=Poison Damage
+tagConversionPoison=Acid Damage
 tagConversionLightning=Lightning Damage
 tagConversionLife=Vitality Damage
 tagConversionChaos=Chaos Damage
@@ -1370,6 +1378,8 @@ ShortLevel=Level {%d0}
 HitFormat={%.0f0}
 CriticalHitFormat={%.0f0}
 CriticalHitFormatMult={%.0f0} (x{%.2f1})
+DurationCriticalHit=Crit
+DurationCriticalHitMult=Crit (x{%.2f1})
 tagMiss=Miss
 tagFumble=Fumble
 tagDodge=Dodge
@@ -1411,11 +1421,16 @@ SkillCostFormat={%.1f0 %s1}
 SkillPercentFormat={%.0f0% %s1}
 SkillNumProjectilesFormat=Launches {%d0} Projectile(s)
 SkillWeaponDamageFormat={%.0f0%} {^E}Weapon Damage
+SkillWeaponDamageValuesFormat={%.0f0%} {^E}Weapon Damage ({^H}{%.0f1} - {%.0f2}{^E})
 SkillChargeFactor=per Charge Level
-SkillChargeMax={^E}Charge Levels
+SkillChargeMax={^E}Charge Levels: 
+SkillChargeLevel={^H}{%d0}%
+SkillChargeLevel2={^E}, {^H}{%d0}%
+SkillChargeLevelMod={%d0}%
+SkillChargeLevelMod2=, {%d0}%
 SkillChargeDuration=Charge Level Duration
 SkillChargeFactorMod=increase per Charge Level
-SkillChargeMaxMod=Charge Levels
+SkillChargeMaxMod=Charge Levels: 
 SkillChargeDurationMod=increase in Charge Duration
 SkillChanceWeight={%d0}% {^E}Chance to be Used
 SkillActivationChance={^E}Chance of Activating
@@ -1438,6 +1453,7 @@ SkillPetDescriptionDamageMinMax={%.0f0} - {%.0f1}  Damage
 tagSkillPetTimeToLive={^E}Lives for {^H}{%.1f0} {^E}Seconds
 tagSkillPrevious=… Previous
 tagSkillNext=Next …
+HoldCtrlToShowBaseValues=Hold CTRL to show base values.
 PressToAddUnusedSkillPoints=Left click to add unused skill points.
 PressToAddUnusedDevotionPoints=Left Click to Add Unused Devotion Points
 PressToActivateDevotion=Left Click to Activate
@@ -1452,7 +1468,10 @@ EnableOneBaseSkill=At Least One Requisite Skill Must Be Enabled
 MaxSkillLevelReached=Maximum Skill Level Reached
 ActiveMasteriesAllowedReached=Number of Active Masteries Allowed has been reached
 LifeMonitorPercent={^E}Activates when Health drops below {^H}{%.1f0}%
-FailedSkillDependancy=Requires: {%s0} 
+FailedSkillDependancy=Requires The {%s0} Skill
+FailedSkillDependancyAll=Requires The Following Skills:
+FailedSkillDependancyOne=Requires One Of The Following Skills:
+FailedSkillDependancyName={%s0}
 ManaCost={^E}Energy Cost
 ManaCostPerSecond={^E}Energy Cost per Second
 ActiveLifeCost={^E}Active Health Cost per Second
@@ -1509,10 +1528,15 @@ DamageInfluenceSingleFormat={%.1f0}
 DamageInfluenceRangeFormat={%.1f0}-{%.1f1}
 DamageReflexSingleFormat={%.1f0}
 DamageReflexRangeFormat={%.1f0}-{%.1f1}
+DamageSingleFormatSecond= {^E}over {^H}{%.1f0} {^E}Second
 DamageSingleFormatTime= {^E}over {^H}{%.1f0} {^E}Seconds
 DamageRangeFormatTime= {^E}over {^H}{%.1f0}-{%.1f1} {^E}Seconds
+DamageFixedSingleFormatSecond= {^E}for {^H}{%.1f0} {^E}Second
 DamageFixedSingleFormatTime= {^E}for {^H}{%.1f0} {^E}Seconds
 DamageFixedRangeFormatTime= {^E}for {^H}{%.1f0} - {%.1f1} {^E}Seconds
+RetaliationFixedSingleFormatSecond={^H}{%.1f0} {^E}Second
+RetaliationFixedSingleFormatTime={^H}{%.1f0} {^E}Seconds
+RetaliationFixedRangeFormatTime={^H}{%.1f0} - {%.1f1} {^E}Seconds
 tagDurationDamageOverTime={%d0} {^E}Damage Over {^H}{%.1f1} {^E}Seconds
 tagDotBleeding=Bleeding
 tagDotCold=Chilled
@@ -1553,16 +1577,16 @@ DamageModifierElementalR={%+.0f0}-{%.0f1}% {^E}Elemental Damage
 DamagePhysical=+{%t0} {^E}Physical Damage
 DamagePierce={%t0} {^E}Piercing Damage
 DamagePoison={%t0} {^E}Acid Damage
-DamageKnockdown={^E}Knockdown target for {^H}{%t0} {^E}{%z1}
-DamageStun={^E}Stun target for {^H}{%t0} {^E}{%z1}
-DamageFreeze={^E}Freeze target for {^H}{%t0} {^E}{%z1}
-DamagePetrify={^E}Petrify target for {^H}{%t0} {^E}{%z1}
-DamageTrap={^E}Immobilize target for {^H}{%t0} {^E}{%z1}
+DamageKnockdown={^E}Knockdown target {^H}{%t0}
+DamageStun={^E}Stun target{%t0}
+DamageFreeze={^E}Freeze target{%t0}
+DamagePetrify={^E}Petrify target{%t0}
+DamageTrap={^E}Immobilize target{%t0}
 DamageTaunt=Taunt
-DamageConvert={^E}Control target's mind for {^H}{%t0} {^E}{%z1}
-DamageFear={^E}Terrify target for {^H}{%t0} {^E}{%z1}
-DamageConfusion={^E}Confuse target for {^H}{%t0} {^E}{%z1}
-DamageDisruption={^E}Disrupt target's skills for {^H}{%t0} {^E}{%z1}
+DamageConvert={^E}Control target's mind{%t0}
+DamageFear={^E}Terrify target{%t0}
+DamageConfusion={^E}Confuse target{%t0}
+DamageDisruption={^E}Disrupt target's skills{%t0}
 DamagePercentCurrentLife={%t0}% {^E}Reduction to Enemy's Health
 DamageManaDrain={%t0}% {^E}Energy Burn
 DamageManaBurnRatio= {^E}({^H}{%.0f0}% {^E}of Energy Burnt causes Damage)
@@ -1595,6 +1619,8 @@ DamageTotalResistanceReductionPercent=% {^E}Reduced target's Resistances
 DamageTotalResistanceReductionAbsolute= {^E}Reduced target's Resistances
 DamagePhysicalResistanceReductionPercent=% {^E}Reduced target's Physical Resistance
 DamagePhysicalResistanceReductionAbsolute= {^E}Reduced target's Physical Resistance
+DamageElementalResistanceReductionPercent=% {^E}Reduced target's Elemental Resistances
+DamageElementalResistanceReductionAbsolute= {^E}Reduced target's Elemental Resistances
 DamageDurationFumble=% {^E}Chance for target to Fumble attacks
 DamageDurationProjectileFumble=% {^E}Chance of Impaired Aim to target
 
@@ -1652,14 +1678,14 @@ RetaliationPierce={%t0} {^E}Piercing Retaliation
 RetaliationPoison={%t0} {^E}Acid Retaliation
 RetaliationAether={%t0} {^E}Aether Retaliation
 RetaliationChaos={%t0} {^E}Chaos Retaliation
-RetaliationStun={%t0} {^E}{%z1} of Stun Retaliation
-RetaliationFreeze={%t0} {^E}{%z1} of Freeze Retaliation
-RetaliationPetrify={%t0} {^E}{%z1} of Petrify Retaliation
-RetaliationTrap={%t0} {^E}{%z1} of Immobilize Retaliation
-RetaliationConvert={%t0} {^E}{%z1} of Mind Control Retaliation
-RetaliationFear={%t0} {^E}{%z1} of Terrify Retaliation
-RetaliationConfusion={%t0} {^E}{%z1} of Confuse Retaliation
-RetaliationSleep={%t0} {^E}{%z1} of Sleep Retaliation
+RetaliationStun={%t0} of Stun Retaliation
+RetaliationFreeze={%t0} of Freeze Retaliation
+RetaliationPetrify={%t0} of Petrify Retaliation
+RetaliationTrap={%t0} of Immobilize Retaliation
+RetaliationConvert={%t0} of Mind Control Retaliation
+RetaliationFear={%t0} of Terrify Retaliation
+RetaliationConfusion={%t0} of Confuse Retaliation
+RetaliationSleep={%t0} of Sleep Retaliation
 RetaliationPercentCurrentLife={^E}Retaliate causing {^H}{%t0}% {^E}Reduction to Enemy's Health
 RetaliationDurationAttackSpeed=% {^E}Reduced Attack Speed Retaliation
 RetaliationDurationCold= {^E}Frostburn Retaliation
@@ -1839,12 +1865,13 @@ RacialBonusAbsoluteDefense={%.0f0} {^E}Less Damage from {%s1}
 RacialBonusRaceName={%s0}
 
 
-tagDamageSleep={^E}Put target to Sleep for {^H}{%t0} {%z1}
+tagDamageSleep={^E}Put target to Sleep{%t0}
 tagDamageModifierSleep={%+.0f0}% {^E}Sleep Damage
 tagDefenseSleep={%.0f0}% {^E}Sleep Resistance
 tagDefenseSleepModifier={%+.0f0}% {^E}Sleep Resistance
 tagDamageModifierTotalDamage={%+.0f0}% {^E}Total Damage
 tagDamageModifierCritDamage={%+.0f0}% {^E}Crit Damage
+tagDamageModifierDamageMult={^E}Damage Modified by {^H}{%.0f0}% 
 tagRetaliationModifierTotalDamage={%+.0f0}% {^E}Total Retaliation Damage
 tagTotalSpeedResistance={%.0f0}% {^E}Slow Resistance
 tagMindcontrolledMonster=Mind-controlled
@@ -1866,7 +1893,7 @@ tagInspectWarning=That player is too far away to be inspected.
 tagGroup01=PVP Enabled
 tagGroup02=Auto Group Enabled
 tagAutoItemSkill= (Granted by Item - Passive Activation)
-tagExclusiveSkill=Exclusive Skill - Only one Exclusive Skill can be active at any one time.
+tagExclusiveSkill=^oExclusive Skill - Only one Exclusive Skill can be active at any one time.
 
 tagAutoSort=Auto Sort
 tagAutoComplete=Complete Components
@@ -1918,6 +1945,7 @@ tagPortraitHireling=Inspect
 
 tagMove=Move
 tagForceMove=Force Move
+tagUse=Interact
 
 tagUC_Button=Unlock Content
 tagUC_Message=Please type in your unlock code to unlock new content.

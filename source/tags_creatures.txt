@@ -150,7 +150,7 @@ tagChthonianBoss04=Balok'Anatu, Bloodfiend
 #CreatureChthonianFiend
 
 tagEnemyVoidFiendA01=Voidfiend
-tagEnemyVoidFiendA02=Voidfiend Incinterator
+tagEnemyVoidFiendA02=Voidfiend Incinerator
 tagEnemyVoidFiendC01=Voidfiend Hellion
 
 tagVoidFiendHeroH01=Innugaru, Terror of the Void
@@ -204,6 +204,8 @@ tagFleshHulkHeroH01=Bonebreaker
 tagFleshHulkHeroH02=Faldonir Aetherborn
 tagFleshHulkHeroH03=Malnotris ~ Unstoppable
 tagFleshHulkHeroH04=Festerlis ~ Bruiser
+
+tagEnemyFleshHulkBoss01=Venarius, the Backbreaker
 
 #CreatureGazer
 
@@ -262,12 +264,21 @@ tagEnemyGolemRockB01=Mossy Shambler
 tagEnemyGolemRockC01=Stonewrought  Shambler
 tagEnemyGolemRockMiniBoss01=Ancient Shambler
 
+tagEnemyGolemIceA01=Frozen Shambler
+tagEnemyGolemIceB01=Hoarfrost Shambler
+tagEnemyGolemIceC01=Icewrought Shambler
+
 tagGolemRockHeroH01=Hammerton
 tagGolemRockHeroH02=Haldras Flamespitter
 tagGolemRockHeroH03=Stoneheart ~ Reflective
 tagGolemRockHeroH04=Stonegrinder ~ Charger
 tagGolemRockHeroH05=Rimestone ~ Frozen
 tagGolemRockHeroH06=Voidstone ~ Voidtouched
+
+tagGolemIceHeroH01=
+tagGolemIceHeroH02=
+tagGolemIceHeroH03=
+tagGolemIceHeroH04=
 
 #CreatureGrobles
 
@@ -320,6 +331,7 @@ tagGrobleHeroH02=Arbagol, the Shank
 tagGrobleHeroH03=Uldagu Flame-Eater
 tagGrobleHeroH04=Molbagdal Stormcaller
 tagGrobleHeroH05=Holborack ~ Defender
+tagGrobleHeroH06=Pukesnot the Unwashed
 
 #Harpy
 
@@ -360,7 +372,7 @@ tagHumanCultistHeroH01=Julius Crowley, the Mindbender
 tagHumanCultistHeroH02=Lucius Bloodboil
 tagHumanCultistHeroH03=Nathalian, the Houndcaller
 tagHumanCultistHeroH04=Ignacius ~ Burning
-tagHumanCultistHeroH05=Bolivar the Bloodthirsty ~ Regenerator
+tagHumanCultistHeroH05=Balvadar the Bloodthirsty ~ Regenerator
 tagEnemyBloodswornMiniBoss01=Salazar, Blade of Ch'thon
 tagEnemyBloodswornMiniBoss02=Bolvar, the Bloodbinder
 tagEnemyBloodswornMiniBoss03=Zaria, the Carver
@@ -943,6 +955,8 @@ tagPetWhirlwindA01=Whirlwind
 tagPetThornedHorrorA01=Briarthorn
 tagPetManticoreA01=Primal Spirit
 tagPetWindDevilA01=Wind Devil
+tagPetTotemA01=Wendigo Totem
+tagPetTotemA02=Storm Totem
 
 tagPetIceWallA01=Ice Barrier
 

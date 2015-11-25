@@ -14,6 +14,18 @@ I'm on my way.
 I must ask that you visit our enclave to the north. We have taken over a part of Sorrow's Bastion and made it our new home.{^n}{^n}Seek us out by taking the road north through the Fallow Fields. When you've reached the ruins, look for the tower.{^n}{^n}Once there, please speak to Brother Elluvius. He will set you upon our enlightened path.
 I will seek out your enclave.
 Perhaps another time.
+Your allegiance to the vile necromancers will lead you down a dark path from which there is no return.
+You're right, it was a mistake. I wish to join you.
+Are you certain of this? The Chosen will welcome you as an ally, but everything you have done up to this moment will be forgotten.{^n}{^n}(Warning: selecting the Chosen will reset your Faction Reputation with the Order of Death's Vigil and Kymon's Chosen)
+The Black Legion will work with you. (Select the Kymon's Chosen)
+Kymon will be pleased to hear of this. This alliance will be beneficial to both groups. Let us banish the enemy as one!{^n}{^n}I must ask that you visit our enclave to the north. We have taken over a part of Sorrow's Bastion and made it our new home.{^n}{^n}Seek us out by taking the road north through the Fallow Fields. When you've reached the ruins, look for the tower.{^n}{^n}Once there, please speak to Brother Elluvius. He will set you upon our enlightened path.
+I will seek out your enclave.
+Perhaps another time.
+Perhaps not.
+They are valuable allies.
+Word of your actions has already reached me. The Chosen of Kymon will gladly see you as an ally once more.
+
+We'll speak of this later.
 Brother Molltair, Chosen of Kymon, at your service.{^n}{^n}Though I must wonder why you've brought this necromancer filth here as well.
 I think I've made my decision.
 You have decided then? Are the Chosen of Kymon to battle alongside the Black Legion?
@@ -31,9 +43,11 @@ We are well-trained and well-armed. Our men and women serve Cairn proudly and wi
 
 
 
+
 I'll need some time to think this through.
 Who is Father Kymon?
 Father Kymon is our spiritual leader. He is blessed by Empyrion the Light-Bringer, first among the gods.{^n}{^n}By His word, we will cleanse Cairn of the impure and the corrupt, starting with the abhorrent Order of Death's Vigil and ending with the eradication of the Aetherials and the Chthonians.
+
 
 
 
@@ -43,10 +57,19 @@ Empyrion the Light-Bringer is first among the gods. Under His just rule, the wor
 
 
 
+
 I'll need some time to think this through.
+
 
 What can you tell me about the Order of Death's Vigil?
 They are abominations that twist the divine threads of life to their will as if they were playthings.{^n}{^n}The Order is a plague upon this world, much like the Aetherials and the Chthonians. In order for Cairn to heal, they must be purged.
+
+
+
+I'll need some time to think this through.
+What sort of equipment do you offer?
+We are well equipped to deal with the fiends infesting our world. There is something there to suit most fighting style, but warriors who wage battle with Physical, Fire and Lightning will fit right in.
+
 
 
 I'll need some time to think this through.
