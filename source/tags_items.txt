@@ -1022,6 +1022,8 @@ tagShoulderD016=Mantle of Dreeg
 tagShoulderD017=Deathmarked Shoulderguard
 tagShoulderD018=Iskandra's Pauldrons
 tagShoulderD019=Ultos' Spaulders
+tagShoulderD020=Mantle of Mogdrogen
+tagShoulderD020Desc="The mantle worn by the avatar of Mogdrogen himself."
 
 tagShoulderF001=Outcast's Burning Mantle
 tagShoulderF002=Outcast's Chilled Mantle
@@ -1208,14 +1210,14 @@ tagWaistC013=Sharpshooter's Pouch
 tagWaistC014=Skyreach Sash
 tagWaistC015=Shadowstalker's Belt
 tagWaistC016=Flamescourge Girdle
-tagWaistC017=Legionnaire's Triumpg
+tagWaistC017=Legionnaire's Triumph
 tagWaistC018=Stormtouched Chains
 tagWaistC019=Stoneskin Girdle
 tagWaistC020=Soulbinder's Chains
 tagWaistC021=Blazethread Sash
 tagWaistC022=Dreadweave Girdle
 tagWaistC023=Equilibrium Sash
-tagWaistC024=Flamekeeper's Girdle
+tagWaistC024=Flame Keeper's Girdle
 
 tagWaistD001=Thorn Girdle of the Misty Glade
 tagWaistD002=Blade Breaker Sash
@@ -3292,6 +3294,7 @@ tagPotionDirections=[Right-Click to Consume]
 tagCombineStacks=[Ctrl-Click to Split Stacks]
 
 # Bonuses
+tagBonusLifePercentAbsPercent={^E}Restores {^H}{%.0f0}%+{%.0f1} {^E}Health {^H}+{%.0f2}% {^E}Over Time
 tagBonusLifePercentPercent={^E}Restores {^H}{%.0f0}% {^E}Health {^H}+{%.0f1}% {^E}Over Time
 tagBonusLifePercentAbs={^E}Restores {^H}{%.0f0}% + {%.0f1} {^E}Health
 tagBonusLifePercent={^E}Restores {^H}{%.0f0}% {^E}Health
@@ -3858,8 +3861,8 @@ tagSuffixB044_Sh_A=of the Glacier
 
 #ItemSkills
 
-tagAutoSkillCondition01= ({%d0}% Chance on Low Health)
-tagAutoSkillCondition02= ({%d0}% Chance on Low Energy)
+tagAutoSkillCondition01= ({%d0}% Chance at {%.0f1}% Health)
+tagAutoSkillCondition02= ({%d0}% Chance at {%.0f1}% Energy)
 tagAutoSkillCondition03= ({%d0}% Chance when Hit)
 tagAutoSkillCondition04= ({%d0}% Chance when Hit by Melee Attacks)
 tagAutoSkillCondition05= ({%d0}% Chance when Hit by Ranged Attacks)

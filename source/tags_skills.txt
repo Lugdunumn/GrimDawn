@@ -57,7 +57,7 @@ tagSkillClassDescription04=Nightblades were clandestine warriors that sold their
 
 tagSkillClassDescription05=To Arcanists, the manifestation of magic is not some unexplainable mystery or the will of the gods, but a science meant to be unraveled.  This pursuit of knowledge drives all Arcanists, always eager to discover a new technique to make their namesake.  Arcanists warp Aetherial and elemental{^n}energy to their will, creating devastating demonstrations of power that rival small armies.  However, such raw force leaves little in terms of defense.
 
-tagSkillClassDescription06=Hailing from the untamed northlands, Shamans were the{^n}spiritual leaders and guardians of their people. Claiming an astounding attunement to the wilds and their patron deity Mogdrogen, Shamans are capable of wielding the terrible forces of nature against their foes or even calling upon savage beasts to come to their aid. Shamans excel in the use of brutal two-handed melee weapons, but can easily adapt to other tools of war when conjuring their primal powers.
+tagSkillClassDescription06=Hailing from the untamed northlands, Shamans were the{^n}spiritual leaders and guardians of their people. Claiming an astounding attunement to the wilds and their patron deity Mogdrogen, Shamans are capable of wielding the terrible forces{^n}of nature against their foes or even calling upon savage beasts to come to their aid. Shamans excel in the use of brutal two-handed{^n}melee weapons, but can easily adapt to other tools of war when conjuring their primal powers.
 
 tagSkillClassDescription07=
 
@@ -2149,7 +2149,7 @@ tagRelicSkillD007Name=Scourge Strike
 tagRelicSkillD007Desc=Strike at your enemies with a chilling blow that cuts to their very core with death's chill, returning some of the stolen vitality to you. ^oRequires a melee weapon.
 
 tagRelicSkillD008Name=Pyroclasm
-tagRelicSkillD008Desc=Unleash a storm of hellfire that tears through the heavens to descend upon your enemies.
+tagRelicSkillD008Desc=A wild flame spirals out from your position, incinerating anything that comes too close with Ulzuin's wrathful touch.
 
 tagRelicSkillD009Name=Necrosis
 tagRelicSkillD009Desc=Invoke a debilitating curse upon your enemies, causing their flesh to rot and their senses to slow.

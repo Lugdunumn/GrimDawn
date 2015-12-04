@@ -65,8 +65,21 @@
 <h5>Lukáš "Lumeriol" Rajchl
 <h5>Miroslav "Iks" Kopecký
 
+<h2>Dutch Translation
+<h5>Sjoerd "fishbone" Groen
+
+<h2>French Translation
+<h5>Alexandre "all_zebest" Mangin
+<h5>Philippe "pendragon64" Reybaud
+<h5>Yann "Rougecorne" Verryken
+
 <h2>German Translation
 <h5>FOE
+<h5>Firewind
+<h5>Skyhaster
+
+<h2>Greek Translation
+<h5>randomspawn
 
 <h2>Portuguese Translation
 <h5>MagoIlusionista
