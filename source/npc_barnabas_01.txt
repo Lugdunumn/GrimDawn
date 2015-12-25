@@ -1,10 +1,13 @@
 Barnabas
+I don' know what you did, but it sure worked. We've already received a shipment of food from Homestead and more seems to be on the way.{^n}{^n}You've singlehandedly secured the future of this settlement. I don' know how to thank ya. Have a glass of water, it's on me.
+I'm just glad we'll all survive.
+Word of your deeds travels fast, friend.{^n}{^n}*Barnabas raises a glass of water*{^n}{^n}To you, and to the fallen.
+There is still a future for Cairn, so long as we fight for it.
+Thank you.
 It's been too long since I've laid my eyes on fresh corn. I used to hate the stuff. Now it's like a blessing.
 Farewell.
 Yer friends have done wonders to secure our relations with Homestead. This sanctuary would not survive without the help of people like you.
 We all do our part.
-I don' know what you did, but it sure worked. We've already received a shipment of food from Homestead and more seems to be on the way.{^n}{^n}You've singlehandedly secured the future of this settlement. I don' know how to thank ya. Have a glass of water, it's on me.
-I'm just glad we'll all survive.
 Your allies already made good work of everythin' I needed done.
 Very well.
 Any progress with Homestead?

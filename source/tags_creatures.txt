@@ -73,12 +73,18 @@ tagEnemyBoarA01=Stonetusk
 tagEnemyBoarA02=Gargantuan Stonetusk
 tagEnemyBoarB01=Ironhide Stonetusk
 
+tagEnemyBoarFrost_A01=Chilltusk
+tagEnemyBoarFrost_A02=Gargantuan Chilltusk
+tagEnemyBoarFrost_B01=Frosthide Chilltusk
+
 tagBoarHeroH01=Dreadtusk, the Hunter's Bane
 tagBoarHeroH02=Ragesnout ~ Swift
 tagBoarHeroH03=Hellmane ~ Burning
 tagBoarHeroH04=Rotmane ~ Diseased
 tagBoarHeroH05=Aetherean ~ Corrupted
 tagBoarHeroH06=Riftsnout ~ Voidtouched
+tagBoarFrostHeroH01=Mutallor ~ Regenerator
+tagBoarFrostHeroH02=Stonemane ~ Defender
 
 
 #CreatureBoneRat
@@ -100,11 +106,6 @@ tagBoneRatHeroH06=Wrathclaw ~ Corrupted
 
 tagBoneRatMiniBoss01=Grundleplith the Hoarder
 tagBoneRatMiniBoss02=Pusquill the Hoarder
-
-#CreatureCelestial
-
-tagEnemyCelestial_QuestA01=Celestial Thing
-
 
 #CreatureChthonian
 
@@ -128,7 +129,7 @@ tagEnemyChthonianDreadguardC01=Chthonian Tyrant
 
 tagChthonianDreadguardHeroH01=Shar'Oruuth
 tagChthonianDreadguardHeroH02=Wen'Kazul, the Hungering Blade
-tagChthonianDreadguardHeroH03=Zalyth'Uthax ~Electrified
+tagChthonianDreadguardHeroH03=Zalyth'Uthax ~ Electrified
 tagChthonianDreadguardHeroH04=Jugak'Siin ~ Reflective
 tagChthonianDreadguardHeroH05=Sarmaz'Din ~ Frozen
 
@@ -144,8 +145,9 @@ tagChthonianLeechHeroH05=Yakwa'Anatu ~ Unstoppable
 
 tagChthonianBoss01=Lagoth'Ak, Harbinger of Blood
 tagChthonianBoss02=Shar'Zul, Harbinger of Chaos
-tagChthonianBoss03=Bane'Gargol, Guardian of the Gates
+tagChthonianBoss03=Bane'Gargoroth, Guardian of the Gates
 tagChthonianBoss04=Balok'Anatu, Bloodfiend
+tagChthonianBoss05=Galar'Bargok, the Black Fiend
 
 #CreatureChthonianFiend
 
@@ -212,6 +214,7 @@ tagEnemyFleshHulkBoss01=Venarius, the Backbreaker
 tagEnemyGazerA01=Corruption
 tagEnemyGazerB01=Overseer
 tagEnemyGazerC01=Overmind
+tagEnemyGazerD01=Mindrager
 
 tagGazerHeroH01=Mesmer
 tagGazerHeroH02=Bane'Zal, the Hellborn
@@ -252,9 +255,12 @@ tagEnemyGhoulH02=Rot-Eye
 tagEnemyGhoulH03=Corpselick
 tagEnemyGhoulH04=Corpran ~ Corrupted
 tagEnemyGhoulH05=Vilnius ~ Voidtouched
+tagEnemyGhoulH06=Hungral ~ Electrified
+tagEnemyGhoulH07=Leperus ~ Burning
 
 tagGhoulBoss01=Nacrathan, the Timeless
 tagGhoulBoss02=Plagius, the Decrepit
+tagGhoulBoss03=Harvoul, the Earthshaker
 
 
 #CreatureGolem
@@ -264,21 +270,12 @@ tagEnemyGolemRockB01=Mossy Shambler
 tagEnemyGolemRockC01=Stonewrought  Shambler
 tagEnemyGolemRockMiniBoss01=Ancient Shambler
 
-tagEnemyGolemIceA01=Frozen Shambler
-tagEnemyGolemIceB01=Hoarfrost Shambler
-tagEnemyGolemIceC01=Icewrought Shambler
-
 tagGolemRockHeroH01=Hammerton
 tagGolemRockHeroH02=Haldras Flamespitter
 tagGolemRockHeroH03=Stoneheart ~ Reflective
 tagGolemRockHeroH04=Stonegrinder ~ Charger
 tagGolemRockHeroH05=Rimestone ~ Frozen
 tagGolemRockHeroH06=Voidstone ~ Voidtouched
-
-tagGolemIceHeroH01=
-tagGolemIceHeroH02=
-tagGolemIceHeroH03=
-tagGolemIceHeroH04=
 
 #CreatureGrobles
 
@@ -447,6 +444,8 @@ tagHumanPossessedHeroH04=Corpusia ~ Reflective
 tagHumanPossessedHeroH05=Espiria ~ Supporter
 
 tagHumanPossessedBoss01=Noveria Stormfire
+tagHumanPossessedBoss02=Archivist Thelon
+tagHumanPossessedBoss03=Usterius Avelone
 
 #CreatureInsectDermapteran
 
@@ -819,6 +818,8 @@ tagEnemyTrollCorruptedB01=Fleshwarped Vanguard
 tagEnemyTrollCorruptedB02=Fleshwarped Deadeye
 tagEnemyTrollCorruptedC01=Fleshwarped Commander
 
+tagTrollCorruptedD01=Hoarfrost Dreadguard
+
 tagTrollCorruptedHeroH01=Sulkarr, the Stormtouched
 tagTrollCorruptedHeroH02=Horcris, the Terror
 tagTrollCorruptedHeroH03=Corruptis
@@ -904,6 +905,7 @@ tagEnemyZombieF01=Burning Dead
 tagEnemyZombieG01=Plague Walker
 tagEnemyZombieSoldierA01=Rotting Soldier
 tagEnemyZombieSoldierB01=Rotting Emberguard
+tagEnemyZombieSoldierC01=Fury Soldier
 tagEnemyZombieBerserkerA01=Corpsefiend
 
 tagEnemyZombieVoidA01=Chthonic Soulless
@@ -957,6 +959,20 @@ tagPetManticoreA01=Primal Spirit
 tagPetWindDevilA01=Wind Devil
 tagPetTotemA01=Wendigo Totem
 tagPetTotemA02=Storm Totem
+tagPetBlackScourge=Black Scourge
+tagPetGazeOfDreeg=Gaze of Dreeg
+tagPetEyeOfGuardian=Eye of the Guardian
+tagPetHeraldOfDoom=Banner of Doom
+tagPetSpirit=Bound Spirit
+
+
+tagDevotionPet_Skeleton=Skeleton
+tagDevotionPet_ArcaneBomb=Arcane Bomb
+tagDevotionPet_Hound=Eldritch Hound
+tagDevotionPet_Hungerling=Hungerling
+tagDevotionPet_ElementalSeeker=Elemental Seeker
+tagDevotionPet_LivingShadow=Living Shadow
+tagDevotionPet_Volcano=Eruption
 
 tagPetIceWallA01=Ice Barrier
 
@@ -995,11 +1011,13 @@ tagQuestEnemyReanimator=Kyzogg the Reanimator
 tagQuestEnemyMiltonHart=Milton Hart
 tagQuestEnemyBanditForge=Outlaw Forge
 tagQuestChthonianMonstrosity=Thall'Nosh, the Unraveler
+tagQuestBloodWagon=Blood Wagon
 
-tagBossTheWarden01=The Warden
+tagBossTheWarden01=Warden Krieg
 tagBossOutcast01=Anasteria, the Rogue Aetherial
 tagBossOutcast02=Anasteria, Vengeance of the Aether
 tagBossOutcast03=Anasteria, Wrath of the Aether
+tagBossLoghorrean01=Loghorrean, the Voice of Ch'thon
 
 #Nemesis
 tagNemesis_Aetherial01=Valdaran, the Storm Scourge
@@ -1019,6 +1037,98 @@ tagNemesis_Undead01=Allminoxius, the Artificer
 tagNemesis_Undead02=Moosilauke, the Chillwind
 tagNemesis_Undead03=Toxemus
 
+#Devotion
+tagDevotion_AetherialH01=Athraz, the Watcher
+tagDevotion_AetherialH02=Naladrak, Essence of the Flame
+tagDevotion_AetherialH03=Idalazius, the Corruptor
+
+tagDevotion_ChthonianDevourerH01=Gal'Barok
+tagDevotion_ChthonianDevourerH02=Har'Nadiin
+tagDevotion_ChthonianDevourerH03=Ellon'Siin
+tagDevotion_ChthonianDevourerH04=Udal'Nadal
+tagDevotion_ChthonianDevourerH05=Balok'Grot
+tagDevotion_ChthonianDevourerH06=Orudin'Ak
+
+tagDevotion_ChthonianDreadguardH01=Serethal'Siin
+tagDevotion_ChthonianDreadguardH02=Wallan'Siin
+tagDevotion_ChthonianDreadguardH03=Zagal'Udal ~ Electrified
+tagDevotion_ChthonianDreadguardH04=Rigak'Doth ~ Reflective
+tagDevotion_ChthonianDreadguardH05=Palloth'Dar ~ Frozen
+
+tagDevotion_VoidFiendH01=Innal'Gargoth
+tagDevotion_VoidFiendH02=Udal'Thel
+tagDevotion_VoidFiendH03=Walloth'Dar
+tagDevotion_VoidFiendH04=Eldon'Siin ~ Electrified
+tagDevotion_VoidFiendH05=Sen'Udal ~ Burning
+tagDevotion_VoidFiendH06=Halloth'Siin
+
+tagDevotion_ChthonianMinionH01=Carath'Lud
+tagDevotion_ChthonianMinionH02=Elegor'Dar
+tagDevotion_ChthonianMinionH03=Fallim'Gargoth
+tagDevotion_ChthonianMinionH04=Ossius'Dar
+tagDevotion_ChthonianMinionH05=Blagal'Doth
+tagDevotion_ChthonianMinionH06=Mal'Thallon ~ Frozen
+tagDevotion_ChthonianMinionH07=Shogal'Gargoth ~ Shielded
+
+tagDevotion_ChthonianMonstrosityH01=Chthonian Unraveler
+
+tagDevotion_FleshHulkH01=Brognathar
+tagDevotion_FleshHulkH02=Aethollin
+tagDevotion_FleshHulkH03=Kollus ~ Burning
+tagDevotion_FleshHulkH04=Feseron ~ Electrified
+
+tagDevotion_GhostH01=Lady Odellia
+tagDevotion_GhostH02=Lord Mardenthal ~ Burning
+tagDevotion_GhostH03=Lady Agathon ~ Regenerator
+tagDevotion_GhostH04=Lord Stormbane ~ Electrified
+tagDevotion_GhostH05=Lord Blackwood ~ Voidtouched
+tagDevotion_GhostH06=Lord Senethal ~ Corrupted
+tagDevotion_GhostH07=Lord Develon
+tagDevotion_GhostH08=Lady Barroth
+tagDevotion_GhostH09=Lady Senethal
+
+tagDevotion_CavePrawnH01=Direcrix
+tagDevotion_CavePrawnH02=Malocrix ~ Voidtouched
+tagDevotion_CavePrawnH03=Idricrix ~ Electrified
+tagDevotion_CaveSpiderH01=Shalloth
+tagDevotion_CaveSpiderH02=Troaxna ~ Regenerator
+tagDevotion_CaveSpiderH03=Waviix ~ Swift
+
+tagDevotion_SkeletalGolemH01=Grubwrath ~ Diseased
+tagDevotion_SkeletalGolemH02=Icesharn ~ Frozen
+tagDevotion_SkeletalGolemH03=Flamegore ~ Burning
+tagDevotion_SkeletalGolemH04=Aethergore ~ Corrupted
+tagDevotion_SkeletalGolemH05=Voidreach ~ Voidtouched
+
+tagDevotion_SkeletonH01=Elledar Bloodthirster
+tagDevotion_SkeletonH02=Priest Dagoll
+tagDevotion_SkeletonH03=Damnoth
+tagDevotion_SkeletonH04=Everon ~ Burning
+tagDevotion_SkeletonH05=Vengar the Vengeful ~ Reflective
+tagDevotion_SkeletonH06=Rimelord ~ Frozen
+tagDevotion_SkeletonH07=Lord Tenethon
+tagDevotion_SkeletonH08=Alladon the Flamewatcher
+tagDevotion_SkeletonH09=Elagorian Darkmarrow
+tagDevotion_SkeletonH10=Ollegon the Icewatcher
+
+tagDevotion_SlithH01=Rexna
+tagDevotion_SlithH02=Balladra Stormscion
+tagDevotion_SlithH03=Sharath
+tagDevotion_SlithH04=Traglodan ~ Voidtouched
+tagDevotion_SlithH05=Wrallan ~ Electrified
+tagDevotion_SlithH06=Calladra ~ Corrupted
+tagDevotion_SlithH07=Bliegna
+tagDevotion_SlithH08=Lunorius
+
+tagDevotion_ZombieH01=Grubnar
+tagDevotion_ZombieH02=Follistad
+tagDevotion_ZombieH03=Flamewretch ~ Burning
+tagDevotion_ZombieH04=Palleod ~ Electrified
+tagDevotion_ZombieH05=Occullon
+tagDevotion_ZombieH06=Bloodwretch ~ Swift
+tagDevotion_ZombieH07=Icerot
+tagDevotion_ZombieH08=Vampireon
+tagDevotion_ZombieH09=Swiftrot ~ Swift
 
 #Bounties
 tagBountyBL08=Gluttrius'Maw

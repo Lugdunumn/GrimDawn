@@ -20,8 +20,20 @@ tagHeroKilled=Enemy Hero Killed
 tagBossKilled=Enemy Boss Killed
 tagXPAwarded={%d0} XP Awarded
 tagRepAwarded=+{%d0} Reputation Awarded with {%s1}
+
+#Devotion
+
 tagDevotionAwarded={%d0} Devotion Point(s) Awarded
 tagDevotionShrine=Shrine Cleansed
+tagDevotionShrineGuardian=Shrine Guardian
+tagDevotionSkillLevelUp={%s0} has reached rank {%d1}
+tagDevotionSkillMaxLevel={%s0} has reached maximum rank
+tagDevotionAffinityBonus=Complete Constellation Bonus:
+tagDevotionAffinity=Affinities:
+tagDevotionSelected= (Selected)
+tagDevotionInUse= (In Use)
+tagDevotionConfirm=Replace Celestial Power?
+tagDevotionExperienceFormat=Experience: {^y}{%d0}{^w} / {^y}{%d1}
 
 tagUndo=Undo
 Chat=Chat:
@@ -53,6 +65,8 @@ tagCodexJournalSubHeadingEnemy=Enemy Insight
 tagCodexJournalSubHeadingFaction=Factions
 tagCodexJournalSubHeadingCreed=Inquisitor Creed
 tagCodexJournalSubHeadingArkovia=History - Arkovia
+tagCodexJournalSubHeadingNecropolis=History - Necropolis
+tagCodexJournalSubHeadingSurvivorBlackLegion=Survivors - Black Legion
 tagCodexJournalSubHeadingSurvivorBurrwitch=Survivors - Burrwitch
 tagCodexJournalSubHeadingSurvivorsHomestead=Survivors - Homestead
 tagCodexJournalSubHeadingDefault=Miscellaneous
@@ -105,8 +119,8 @@ tagFactionSurvivorsRewards3=N/A
 tagFactionSurvivorsRewards4=Empty
 tagFactionSurvivorsRewards5=New Quest {^n}Access to Faction Vendor
 tagFactionSurvivorsRewards6=New Quest {^n}Access to Bounty Table {^n}Faction Weapons {^n}Faction Armor {^n}Faction Blueprints
-tagFactionSurvivorsRewards7=New Dungeon/Quest {^n}Faction Augments  {^n}Faction Accessories
-tagFactionSurvivorsRewards8=Rare Augments {^n}Faction Writs and Mandates
+tagFactionSurvivorsRewards7=New Dungeon/Quest {^n}Faction Augments  {^n}Faction Accessories {^n}Faction Writs {^n}Faction Blueprints
+tagFactionSurvivorsRewards8=Rare Augments {^n}Faction Mandates
 tagFactionAetherials=Aetherials
 tagFactionAetherialsInfo= Foolishly and greedily did the arcanists of Cairn delve into the magical veil known as the Aether, never once suspecting that something was looking back. {^n}{^n} The Aetherials descended upon Cairn in what is now known as the Grim Dawn, possessing countless humans and butchering the rest. Most despicably of all, they began raising the fallen as mutated undead creatures, mindless foot soldiers for their invasion. Their very presence on Cairn is enough to mutate the wildlife, turning once docile creatures into vicious monstrosities. {^n}{^n} But most strange of all is their apparent hatred for Chthonians, as they will battle against the horrors from the Void at every opportunity.
 tagFactionAetherialsRewards1=Nemesis Spawns
@@ -147,8 +161,8 @@ tagFactionUser0Rewards3=N/A
 tagFactionUser0Rewards4=Empty
 tagFactionUser0Rewards5=New Quest {^n}Access to Faction Vendor
 tagFactionUser0Rewards6=Access to Bounty Table {^n}Faction Weapons {^n}Faction Armor {^n}Faction Blueprints
-tagFactionUser0Rewards7=New Quest {^n}Faction Augments  {^n}Faction Accessories
-tagFactionUser0Rewards8=Rare Augments {^n}Faction Writs and Mandates
+tagFactionUser0Rewards7=New Quest {^n}Faction Augments  {^n}Faction Accessories {^n}Faction Writs {^n}Faction Blueprints
+tagFactionUser0Rewards8=Rare Augments {^n}Faction Mandates
 tagFactionUser1=Neutral
 tagFactionUser1Info=N/A
 tagFactionUser2=Homestead
@@ -159,8 +173,8 @@ tagFactionUser2Rewards3=N/A
 tagFactionUser2Rewards4=Empty
 tagFactionUser2Rewards5=Access to Faction Vendor
 tagFactionUser2Rewards6=Access to Bounty Table {^n}Faction Weapons {^n}Faction Armor {^n}Faction Blueprints
-tagFactionUser2Rewards7=New Quest {^n}Faction Augments  {^n}Faction Accessories
-tagFactionUser2Rewards8=Rare Augments {^n}Faction Writs and Mandates
+tagFactionUser2Rewards7=New Quest {^n}Faction Augments  {^n}Faction Accessories {^n}Faction Writs {^n}Faction Blueprints
+tagFactionUser2Rewards8=Rare Augments {^n}Faction Mandates
 tagFactionUser3=Free Men of Corrigan Mine
 tagFactionUser3Info=Headquarters: Corrigan Mine {^n}{^n} WORDS
 tagFactionUser3Rewards1=N/A
@@ -178,9 +192,9 @@ tagFactionUser4Rewards2=Wrath of the Outcast
 tagFactionUser4Rewards3=Minions of the Outcast
 tagFactionUser4Rewards4=Empty
 tagFactionUser4Rewards5=New Quest
-tagFactionUser4Rewards6=New Quest
-tagFactionUser4Rewards7=New Quest {^n}Access to Faction Vendor
-tagFactionUser4Rewards8=Rare Augments
+tagFactionUser4Rewards6=New Quest {^n}Access to Bounty Table
+tagFactionUser4Rewards7=New Quest (coming soon) {^n}Access to Faction Vendor
+tagFactionUser4Rewards8=Rare Augments {^n}Faction Mandates
 tagFactionUser5=Order of Death's Vigil
 tagFactionUser5Info=Headquarters: Sorrow's Bastion {^n}{^n} The Order of Death's Vigil represents the last connection to the nearly lost art of necromancy, precious knowledge passed down to its members from their grandmaster, Uroboruuk. {^n}{^n} Members of the Order do not fear death. Instead they embrace all of its harsh lessons, believing that through mastery of death they can become more in tune with the world itself. {^n}{^n} Having faced persecution at the hands of the empire for centuries, the Order is no stranger to prejudice and controversy, but they had never met a foe as relentless as the Kymon's Chosen. The Chosen, concerned only with cleansing Cairn of corruption, view the Order as a travesty that must be purged.
 tagFactionUser5Rewards1=Nemesis Spawns
@@ -189,8 +203,8 @@ tagFactionUser5Rewards3=Extra Spawns
 tagFactionUser5Rewards4=Empty
 tagFactionUser5Rewards5=Access to Faction Vendor
 tagFactionUser5Rewards6=New Quest {^n}Access to Bounty Table {^n}Faction Weapons {^n}Faction Armor {^n}Faction Blueprints
-tagFactionUser5Rewards7=New Quest {^n}Faction Augments  {^n}Faction Accessories
-tagFactionUser5Rewards8=Rare Augments {^n}Faction Writs and Mandates
+tagFactionUser5Rewards7=New Quest {^n}Faction Augments  {^n}Faction Accessories {^n}Faction Writs {^n}Faction Blueprints
+tagFactionUser5Rewards8=Rare Augments {^n}Faction Mandates
 tagFactionUser6=Undead
 tagFactionUser6Info=Many tragic tales are told about the undead endlessly roaming the ruins of Arkovia. Some believe them to be spirits trapped within the mortal realm, unable to cross over into their promised afterlife. Others will claim it to be the work of vile necromancy, a legion of undead cursed to serve a cruel master. Perhaps the truth lies somewhere in-between. {^n}{^n} One thing everyone can agree upon is that the undead are extremely dangerous to the living. As such, looting their forgotten ruins is considered to be an ill-advised pursuit.
 tagFactionUser6Rewards1=Nemesis Spawns
@@ -209,8 +223,8 @@ tagFactionUser7Rewards3=N/A
 tagFactionUser7Rewards4=Empty
 tagFactionUser7Rewards5=Access to Bounty Table {^n}Access to Faction Vendor
 tagFactionUser7Rewards6=New Bounties {^n}Faction Weapons {^n}Faction Armor {^n}Faction Blueprints
-tagFactionUser7Rewards7=New Dungeon/Quest {^n}Faction Augments  {^n}Faction Accessories
-tagFactionUser7Rewards8=Rare Augments {^n}Faction Writs and Mandates
+tagFactionUser7Rewards7=New Dungeon/Quest {^n}Faction Augments  {^n}Faction Accessories {^n}Faction Writs {^n}Faction Blueprints
+tagFactionUser7Rewards8=Rare Augments {^n}Faction Mandates
 tagFactionUser8=Kymon's Chosen
 tagFactionUser8Info=Headquarters: Sorrow's Bastion {^n}{^n} Kymon's Chosen are the zealous followers of Empyrion, the Light-Bringer, whom they believe will return to Cairn in blazing glory and guide his Chosen into a new dawn of order and prosperity. {^n}{^n} Led by a charismatic preacher known as Father Kymon and guarded by their faith, the Chosen are eager to stamp out all corruption from Cairn, whether it is vile Chthonic horrors or death-manipulating necromancers. To this end, they consider ridding the world of the Order of Death's Vigil to be one of their utmost priorities.
 tagFactionUser8Rewards1=Nemesis Spawns
@@ -219,8 +233,8 @@ tagFactionUser8Rewards3=Extra Spawns
 tagFactionUser8Rewards4=Empty
 tagFactionUser8Rewards5=Access to Faction Vendor
 tagFactionUser8Rewards6=New Quest {^n}Access to Bounty Table {^n}Faction Weapons {^n}Faction Armor {^n}Faction Blueprints
-tagFactionUser8Rewards7=New Quest {^n}Faction Augments  {^n}Faction Accessories
-tagFactionUser8Rewards8=Rare Augments {^n}Faction Writs and Mandates
+tagFactionUser8Rewards7=New Quest {^n}Faction Augments  {^n}Faction Accessories {^n}Faction Writs {^n}Faction Blueprints
+tagFactionUser8Rewards8=Rare Augments {^n}Faction Mandates
 tagFactionUser9=User9
 tagFactionUser9Info=
 tagFactionUser9Rewards1=Nemesis Spawns
@@ -380,6 +394,14 @@ tagHUD_RightMouse_R=Right Mouse Assignment
 tagHUD_RightMouse_R1=This is your secondary attack.  Right click to assign a different skill.
 tagHUD_CompassToggleName=Compass Map Toggle
 tagHUD_CompassToggleDescription=Click to change size or minimize the compass map.
+tagHUD_LootModeToggleOff=Auto Show Loot ^D(Off)
+tagHUD_LootModeToggleCommon=Auto Show Loot (Common+)
+tagHUD_LootModeToggleMagic=Auto Show Loot ^Y(Magic+)
+tagHUD_LootModeToggleRare=Auto Show Loot ^G(Rare+)
+tagHUD_LootModeToggleEpic=Auto Show Loot ^B(Epic+)
+tagHUD_LootModeToggleLegendary=Auto Show Loot ^P(Legendary+)
+
+tagHUD_LootModeToggleDescription=Click to change the type of loot which is automatically shown.
 
 tagHUD_LeftMouse=L
 tagHUD_RightMouse=R
@@ -578,6 +600,7 @@ tagCharStatsDPSLeftDescription=Damage breakdown for your Left-Mouse Button Abili
 
 tagCharStatsArmorTotalAlert=Armor Rating {^b}(?)
 tagCharStatsArmorTotal=Armor Rating
+tagCharStatsAbsorption=Armor Absorption
 tagCharStatsArmorTotalDescription=The higher your Armor Rating, the less damage you will take from physical attacks. Bonuses on skills and on non-armor pieces are added to all armor slots.
 tagCharStatsHitArmor=Chance to Hit Area
 tagCharStatsArmorUnprotected=Unprotected
@@ -634,6 +657,8 @@ tagCharStatsNightbladeSkillsBonus=Nightblade Skills
 tagCharStatsNightbladeSkillsBonusInfo=Bonus to all learned skills in the Nightblade Mastery.
 tagCharStatsArcanistSkillsBonus=Arcanist Skills
 tagCharStatsArcanistSkillsBonusInfo=Bonus to all learned skills in the Arcanist Mastery.
+tagCharStatsShamanSkillsBonus=Shaman Skills
+tagCharStatsShamanSkillsBonusInfo=Bonus to all learned skills in the Shaman Mastery.
 
 #Physical
 tagCharStatsAttackSpeed=Attack Speed
@@ -1077,10 +1102,17 @@ tagDismantleBoxInfo=Place an item greater than common quality in the chamber.
 tagShrineDesecrated=Desecrated Shrine
 tagShrineRuined=Ruined Shrine
 tagShrineRestored=Restored Shrine
-tagShrineButton=Offer
+tagShrineButton01=Offer
+tagShrineButton02=Start
+tagShrineButton03=Cancel
 tagShrineButtonInfo=Place this offering near the shrine
-tagShrineWarning=Are you sure you want to place this offering?
+tagShrineWarning=This shrine is ruined and needs to be restored. Are you sure you want to place this offering?
 tagShrineConfirmProxy=This shrine is corrupted and needs to be cleansed. Summon what is trapped within?
+tagShrineActivated=That shrine has already been restored.
+tagShrineHostActivated=That shrine has already been restored by the host.
+tagShrineHostNotActivated=You have already restored this shrine in another session.
+tagShrineBusy=That shrine is being used by another player.
+tagShrineLocked=The shrine lies dormant.
 
 #Smuggler
 
@@ -1119,11 +1151,6 @@ tagChatBrag=[{%t0}{%t1}{^-}]
 #NPC Conversation
 tagNpcConversationBusy=That NPC is busy talking with another player.
 
-tagShrineActivated=That shrine has already been restored.
-tagShrineHostActivated=That shrine has already been restored by the host.
-tagShrineBusy=That shrine is being used by another player.
-tagShrineLocked=The shrine lies dormant.
-
 #Treasure Trove
 tagTroveBusy=That object is being interacted with by another player.
 
@@ -1158,8 +1185,8 @@ tagMapSymbolVendor=Vendor
 tagMapSymbolVendorDesc=A merchant of martial goods.
 tagMapSymbolWitch=Spirit Guide
 tagMapSymbolWitchDesc=A spiritual figure who can help you unlearn your skills.
-tagMapSymbolShrine=Object of Interest
-tagMapSymbolShrineDesc=Something of use may be found at this location.
+tagMapSymbolShrine=Shrine
+tagMapSymbolShrineDesc=An ancient shrine devoted to the stars and the gods of old.
 tagMapSymbolSmith=Smith
 tagMapSymbolSmithDesc=A skilled craftsman capable of creating new items.
 
@@ -1458,10 +1485,11 @@ PressToAddUnusedSkillPoints=Left click to add unused skill points.
 PressToAddUnusedDevotionPoints=Left Click to Add Unused Devotion Points
 PressToActivateDevotion=Left Click to Activate
 PressToAssignDevotion=Left Click to Assign
+AssignDevotionForExp=Must be Assigned to Earn Experience
 SkillEnhancement=+{%d0} to all skills
 NoSkillPointsToAdd=No skill points to add.
 NoDevotionPointsToAdd=No Devotion Points Available
-LockedDevotion=Locked
+LockedDevotion=Locked - Requires Star Earlier in Constellation
 ActiveDevotion=Active
 YouMustIncreaseMasteryLevel=You must increase your Mastery Level to add more points.
 EnableOneBaseSkill=At Least One Requisite Skill Must Be Enabled
@@ -1472,6 +1500,9 @@ FailedSkillDependancy=Requires The {%s0} Skill
 FailedSkillDependancyAll=Requires The Following Skills:
 FailedSkillDependancyOne=Requires One Of The Following Skills:
 FailedSkillDependancyName={%s0}
+FailedDevotionDependency=Affinity Requirement:
+FailedDevotionDependencyName={%d0} {%s1}
+FailedConstellationDependency=Constellation Dependencies:
 ManaCost={^E}Energy Cost
 ManaCostPerSecond={^E}Energy Cost per Second
 ActiveLifeCost={^E}Active Health Cost per Second
@@ -1521,6 +1552,8 @@ tagQualifyingDamagePoison=Poison or Acid
 tagQualifyingDamageLife=Vitality
 tagQualifyingDamageBleeding=Bleeding
 tagQualifyingDamageElemental=Elemental
+tagQualifyingDamageAether=Aether
+tagQualifyingDamageChaos=Chaos
 
 DamageSingleFormat={%.0f0}
 DamageRangeFormat={%.0f0}-{%.0f1}
@@ -1626,8 +1659,8 @@ DamageDurationProjectileFumble=% {^E}Chance of Impaired Aim to target
 
 DamageModifierPhysical={%+.0f0}% {^E}Physical Damage
 DamageModifierPhysicalR={%+.0f0}-{%.0f1}% {^E}Physical Damage
-DamageModifierPierceRatio={%+.0f0}% {^E}Armor Piercing
-DamageModifierPierceRatioR={%+.0f0}-{%.0f1}% {^E}Armor Piercing
+DamageModifierPierceRatio={^E}Increases Armor Piercing by {^H}{%.0f0}%
+DamageModifierPierceRatioR={^E}Increases Armor Piercing by {^H}{%.0f0}-{%.0f1}%
 DamageModifierPierce={%+.0f0}% {^E}Pierce Damage
 DamageModifierPierceR={%+.0f0}-{%.0f1}% {^E}Pierce Damage
 DamageModifierCold={%+.0f0}% {^E}Cold Damage
@@ -1803,7 +1836,7 @@ DefenseLifeModifier={^E}Increases Current Vitality Resistance by {^H}{%.0f0}%
 DefenseChaosModifier={^E}Increases Current Chaos Resistance by {^H}{%.0f0}%
 DefenseAetherModifier={^E}Increases Current Aether Resistance by {^H}{%.0f0}%
 DefenseStunModifier={^E}Increases Current Stun Resistance by {^H}{%.0f0}%
-DefenseBlockModifier={^E}Increases Shield Block Chance by {^H}{%.0f0}%
+DefenseBlockModifier={%+.0f0}% {^E}Shield Block Chance
 DefenseBlockAmountModifier={%+.0f0}% {^E}Shield Damage Blocked
 DefenseLifeLeachModifier={^E}Increases Current Life Leech Resistance by {^H}{%.0f0}%
 DefenseManaLeachModifier={^E}Increases Current Energy Leech Resistance by {^H}{%.0f0}%
@@ -1857,6 +1890,8 @@ DefenseSleepMaxResist={%+.0f0}% {^E}Maximum Sleep Resistance
 DefenseSleepMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Sleep Resistance
 DefenseAllMaxResist={%+.0f0}% {^E}Maximum All Resistances
 DefenseAllMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum All Resistances
+DefenseReflectResist={%+.0f0}% {^E}Reflected Damage Reduction
+DefenseReflectResistR={%+.0f0}-{%.0f1}% {^E}Reflected Damage Reduction
 
 RacialBonusPercentDamage={%+.0f0}% {^E}Damage to {%s1}
 RacialBonusAbsoluteDamage={%+.0f0} {^E}Damage to {%s1}
@@ -1882,7 +1917,7 @@ tagItemGrantSkill=Grants Skill:
 tagItemSkill= (Granted by Item)
 tagItemSkillShort= (Item)
 tagEffect=Effect:
-tagSkillGrantEffect=Secondary Effect:
+tagSkillGrantEffect=Celestial Power:
 tagDevotionAttached=Bound To:
 
 tagItemUseDirections=[Right-Click to Use]
@@ -1959,6 +1994,10 @@ tagEmptyHotSlot=Clear this quick slot button.
 
 tagDevotionUnassigned=No Skill
 
+#Stack Window
+tagStackOk=Ok
+tagStackCancel=Cancel
+
 #Multiplayer
 
 tagMPTrade=Trade
@@ -1994,6 +2033,7 @@ tagMPInviteDeny=Deny
 tagMPStats=Game Stats:
 tagMPMapName=Map Name :
 tagMPServerName=Server Name :
+tagMPServerAddress=Server Address :
 tagMPPing=Ping :
 tagMPTime=Elapsed Time :
 tagMPServer=Server Name: {%t0}

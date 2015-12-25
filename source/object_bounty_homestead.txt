@@ -100,7 +100,7 @@ Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-Underneath the mountains to the south, there is a cavern system we call the Mountain Deeps. It is a terrible place filled with terrors that should see the light of day.{^n}{^n}However, as the population of cavern crawlers swells, they begin to hunt outside of the caves. It has been too long since their population was culled. Somebody needs to go down there and handle it.{^n}{^n}Anyone that slays Albino Cavern Crawlers will be compensated with scavenged materials from our stores.
+Underneath the mountains to the south, there is a cavern system we call the Mountain Deeps. It is a terrible place filled with terrors that should never see the light of day.{^n}{^n}However, as the population of Cavern Crawlers swells, they begin to hunt outside of the caves. It has been too long since their population was culled. Somebody needs to go down there and handle it.{^n}{^n}Anyone that slays Cavern Crawlers will be compensated with scavenged materials from our stores.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.

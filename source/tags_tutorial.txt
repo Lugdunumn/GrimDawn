@@ -7,11 +7,11 @@ tagTutorialTip06Title=Untouched Meal
 tagTutorialTip06TextA=You have discovered an abandoned meal, likely left behind by a less fortunate adventurer.{^n}{^n}By consuming it, you restored some of your Constitution.
 
 tagTutorialTip08Title=Welcome to Grim Dawn
-tagTutorialTip08TextA=Thank you again for supporting us and helping to make Grim Dawn possible! We hope that you enjoy this first portion of the game.{^n}{^n}Please remember that this is a pre-release build created by an eight-person indie studio. You will encounter bugs, incomplete features and only the first 2/3rd or so of the game. We welcome your feedback on bugs and general gameplay on our forums at www.grimdawn.com.
+tagTutorialTip08TextA=Thank you again for supporting us and helping to make Grim Dawn possible! We hope that you enjoy the game as we work towards the official release.{^n}{^n}Please remember that this is a pre-release build created by an eight-person indie studio. You will encounter bugs while playing. We welcome your feedback on bugs and general gameplay on our forums at www.grimdawn.com.
 
 tagTutorialTip09Title=Merchant Window
 tagTutorialTip09TextA=Merchants buy and sell weapons and equipment necessary to survive the dangers of Cairn.
-tagTutorialTip09TextB=In these desperate times, good equipment doesn't come cheap. Merchants won't pay much for common items, but magically imbued gear can fetch a good price.{^n}
+tagTutorialTip09TextB=In these desperate times, good equipment doesn't come cheap. Merchants won't pay much for common items, but magically imbued gear can fetch a good price.{^n}{^n}You may eventually want to filter out items below a certain quality. You can do so by pressing the Loot Filter button on the left side of the HUD.{^n}
 
 tagTutorialTip10Title=Riftgates
 tagTutorialTip10TextA=Secured Riftgates allow you to traverse quickly between various locations in Cairn. Left-click on a Riftgate to open the {^y}Riftgate Map{^w}.
@@ -37,6 +37,8 @@ tagTutorialTip15CaptionA=Shortcut key: {^b}{%t0}{^w}
 tagTutorialTip15TextB=You can assign Attribute points in the {^y}Character Window{^w}. Each Attribute point increases an attribute by eight.
 tagTutorialTip15CaptionB=Shortcut key: {^b}{%t0}{^w}
 tagTutorialTip15TextC=You can track your experience gain on the green bar at the bottom of the HUD and in the {^y}Character Window{^w}. The amount of experience required for your next level is shown on the green bar at the bottom of the HUD and in the {^y}Character Window{^w}. When the bar fills up, you will gain a level.
+tagTutorialTip15SubtitleA=Skill Points Per Level
+tagTutorialTip15TextD=Initially, you will earn 3 skill points per level, but as you achieve greater feats of power, that number will eventually go down to 2 and finally 1 per level.{^n}{^n}
 
 tagTutorialTip16Title=Character Window
 tagTutorialTip16TextA=Use the {^y}Character Window{^w} to equip items, organize your inventory, spend attribute points and see a summary of your character's stats. Hover over stats for additional information.
@@ -220,11 +222,16 @@ tagTutorialTip59TextA=You have claimed your first Shrine and earned a Devotion P
 tagTutorialTip59CaptionA=Shortcut key: {^b}{%t0}{^w}
 
 tagTutorialTip60Title=Devotion Window
-tagTutorialTip60TextA=The {^y}Devotion Window{^w} allows you to dedicate your Devotion Points to various deities and celestial symbols of Cairn.
+tagTutorialTip60TextA=The {^y}Devotion Window{^w} allows you to dedicate your Devotion Points to various deities and celestial symbols of Cairn.{^N}{^N}As you complete Constellations, you will earn Affinity, which will in-turn earn you access to more powerful Constellations.
 tagTutorialTip60SubtitleA=Earning Devotion Points
 tagTutorialTip60TextB=Devotion Points are earned by claiming Shrines scattered throughout the world. Explore everywhere to find them all!
+tagTutorialTip60SubtitleB=Affinity
+tagTutorialTip60TextC=The Constellations are aligned to five different Affinities, representing different celestial aspects. Different Constellations require different amounts of Affinity to unlock.{^N}{^N}The entry Constellations all give significant Affinity bonuses, while the most powerful Constellations do not give any at all.{^N}{^N}Note that if you unlearn a piece of a completed Constellation, you will lose its Affinity bonus.
+tagTutorialTip60SubtitleC=Spending Devotion Points
+tagTutorialTip60TextD=Bright blue stars indicate where you can put a Devotion Point in next. Left-click on a star to unlock its bonus.
+tagTutorialTip60TextE=The Halo Stars mark the locations of Celestial Powers, which you can unlock to enhance your primary skills with new effects.{^N}{^N}
 
-tagTutorialTip61Title=Secondary Skills
-tagTutorialTip61TextA=Secondary Skills are powerful auto-activated effects which can be assigned to your existing primary skills from your Masteries.
+tagTutorialTip61Title=Celestial Powers
+tagTutorialTip61TextA=Celestial Powers are powerful auto-activated abilities which can be assigned to your primary skills from your Masteries and Equipment.{^N}{^N}Celestial Powers assigned to your skills will earn experience from combat and quests, which will cause them to rank up and increase in strength.
 tagTutorialTip61SubtitleA=Assigning a Primary Skill
-tagTutorialTip61TextB=To assign a Secondary Skill, you must first unlock it in the {^y}Devotion Window{^w}, then select a valid Primary Skill from the drop-down list. To re-assign a Secondary Skill, you must visit a Spirit Guide.
+tagTutorialTip61TextB=To assign a Celestial Power, you must first unlock it in the {^y}Devotion Window{^w}, then select a valid Primary Skill from the drop-down list. You can re-assign a Celestial Power at any time without penalty. If you unassign a Celestial Power, it will retain any experience or ranks it has earned.

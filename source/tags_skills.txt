@@ -57,7 +57,7 @@ tagSkillClassDescription04=Nightblades were clandestine warriors that sold their
 
 tagSkillClassDescription05=To Arcanists, the manifestation of magic is not some unexplainable mystery or the will of the gods, but a science meant to be unraveled.  This pursuit of knowledge drives all Arcanists, always eager to discover a new technique to make their namesake.  Arcanists warp Aetherial and elemental{^n}energy to their will, creating devastating demonstrations of power that rival small armies.  However, such raw force leaves little in terms of defense.
 
-tagSkillClassDescription06=Hailing from the untamed northlands, Shamans were the{^n}spiritual leaders and guardians of their people. Claiming an astounding attunement to the wilds and their patron deity Mogdrogen, Shamans are capable of wielding the terrible forces of nature against their foes or even calling upon savage beasts to come to their aid. Shamans excel in the use of brutal two-handed melee weapons, but can easily adapt to other tools of war when conjuring their primal powers.
+tagSkillClassDescription06=Hailing from the untamed northlands, Shamans were the{^n}spiritual leaders and guardians of their people. Claiming an astounding attunement to the wilds and their patron deity Mogdrogen, Shamans are capable of wielding the terrible forces{^n}of nature against their foes or even calling upon savage beasts to come to their aid. Shamans excel in the use of brutal two-handed{^n}melee weapons, but can easily adapt to other tools of war when conjuring their primal powers.
 
 tagSkillClassDescription07=
 
@@ -102,10 +102,10 @@ tagClass01SkillDescription02B=Forcewave shatters enemy armor, making them more s
 tagClass01SkillName02C=Internal Trauma
 tagClass01SkillDescription02C=Forcewave shatters bones and ruptures organs, causing profuse internal and external bleeding.
 tagClass01SkillName02D=Tremor
-tagClass01SkillDescription02D=With the will of Menhir, smash the ground with a mighty two-hander and let rip devastating waves of energy upon your foes. ^oThis technique requires a two-handed melee weapon.
+tagClass01SkillDescription02D=With the will of Menhir, smash the ground with a mighty two-hander and let rip devastating waves of energy upon your foes. ^oThis technique requires a two-handed melee weapon. Tremor is not a default weapon attack enhancer and cannot trigger effects such as Markovian's Advantage.
 
 tagClass01SkillName03A=Blitz
-tagClass01SkillDescription03A=Charge forth into the fray with devastating momentum, taking your enemies by surprise. ^oRequires a melee weapon. When used with a Shield, the Shield's damage is used to slam your targets.
+tagClass01SkillDescription03A=Charge forth into the fray with devastating momentum, taking your enemies by surprise. ^oRequires a melee weapon. When used with a shield, the shield's damage is used.
 tagClass01SkillName03B=Blindside
 tagClass01SkillDescription03B=The suddenness and ferocity of your attack puts enemies off-balance, reducing their combat prowess.
 
@@ -124,9 +124,9 @@ tagClass01SkillName05C=Clean Sweep
 tagClass01SkillDescription05C=A more powerful form of Blade Arc in which the Soldier builds power between attacks to unleash it in one focused burst of intense damage that can knock foes to the ground.
 
 tagClass01SkillName06A=Markovian's Advantage
-tagClass01SkillDescription06A=The renowned tactician Markovian always maneuvered to strike from the higher ground.  This classic attack, inspired by Markovian's battlefield tactics, features a powerful downward strike to throw enemies off balance, weakening their defenses. ^oCan activate with all weapons.
+tagClass01SkillDescription06A=The renowned tactician Markovian always maneuvered to strike from the higher ground.  This classic attack, inspired by Markovian's battlefield tactics, features a powerful downward strike to throw enemies off balance, weakening their defenses. ^oCan activate with all default weapon attacks.
 tagClass01SkillName06B=Zolhan's Technique
-tagClass01SkillDescription06B=Named for the famed fighting master, this attack uses a low center of mass and powerful swing to imbalance your opponents. ^oCan activate with all weapons. When used with a melee weapon, the attack strikes multiple nearby targets.
+tagClass01SkillDescription06B=Named for the famed fighting master, this attack uses a low center of mass and powerful swing to imbalance your opponents. ^oCan activate with all default weapon attacks. When used with a melee weapon, the attack strikes multiple nearby targets.
 
 tagClass01SkillName07A=Fighting Spirit
 tagClass01SkillDescription07A=Far from beating you into submission, the sting of enemy blows rouses your anger instead, adding extra force to your attacks.
@@ -146,10 +146,10 @@ tagClass01SkillName12A=Decorated Soldier
 tagClass01SkillDescription12A=An ability to remain calm and think clearly in the heat of battle enables veterans to more easily spot the gaps in an enemy's defense, or predict the flow of their attacks so that they can be easily countered.
 
 tagClass01SkillName13A=Menhir's Bulwark
-tagClass01SkillDescription13A=Call out to the earth deity, Menhir. Menhir is an ancient aspect that blesses his followers with the tenacity of the very earth. ^oRequires a shield.
+tagClass01SkillDescription13A=Call out to the earth deity, Menhir. Menhir is an ancient aspect that blesses his followers with the tenacity of the very earth. ^oRequires a shield. This ability must be toggled to maintain its effect.
 
 tagClass01SkillName14A=Oleron's Rage
-tagClass01SkillDescription14A=Call out to the war deity, Oleron. Oleron is an ancient aspect that inspires unwavering ferocity in his followers.
+tagClass01SkillDescription14A=Call out to the war deity, Oleron. Oleron is an ancient aspect that inspires unwavering ferocity in his followers. ^oThis ability must be toggled to maintain its effect.
 
 tagClass01SkillName15A=Overguard
 tagClass01SkillDescription15A=Assume a defensive stance that greatly boosts your combat awareness. You can only maintain this focus for a short duration. ^oRequires a shield.
@@ -160,11 +160,8 @@ tagClass01SkillDescription16=Through countless violent encounters, you have seen
 tagClass01SkillName17=Counter Strike
 tagClass01SkillDescription17=Enter a state of intense readiness in order to unleash lightning-fast counter strikes against your attackers. ^oThis ability must be toggled to maintain its effect.
 
-
-tagClass01SkillName09C=Hold the Line
-tagClass01SkillDescription09C=Strong leadership helps maintain morale and fighting order in combat allowing you and your allies to prevail in situations that would normally be hopeless.
-tagClass01SkillName05X=Death Arc
-tagClass01SkillDescription05X=Greatly magnifies the power of Blade Arc and increases the number of targets hit.
+tagClass01SkillName18=Shield Training
+tagClass01SkillDescription18=Extensive study of shield combat techniques provides improved handling and expert maneuverability; ensuring that your shield is never a hindrance, even when on the offensive. ^oRequires a shield.
 
 
 
@@ -271,7 +268,7 @@ tagClass03SkillName00=Occultist
 tagClass03SkillDescription00=An in-depth study on the manipulation and control of the occult.
 
 tagClass03SkillName01A=Summon Familiar
-tagClass03SkillDescription01A=Summon a mythical storm raven to support you. Storm ravens are eldritch creatures of uncanny intelligence and magical ability quite different from mundane ravens. Some believe they are not birds at all but rather some manner of ancient sky spirit for which the raven is a preferred manifestation. ^oOnly one raven may be summoned at any one time.
+tagClass03SkillDescription01A=Summon a mythical storm raven to support you. Storm ravens are eldritch creatures of uncanny intelligence and magical ability quite different from mundane ravens. Some believe they are not birds at all but rather some manner of ancient sky spirit for which the raven is a preferred manifestation. ^oOnly one raven may be summoned at any one time. The raven scales with Pet Bonuses.
 tagClass03SkillName01B=Storm Orb
 tagClass03SkillDescription01B=Innate Attack.
 tagClass03SkillName01C=Mend Flesh
@@ -282,7 +279,7 @@ tagClass03SkillName01E=Lightning Strike
 tagClass03SkillDescription01E=The storm raven calls forth a powerful lightning bolt to electrocute nearby foes.
 
 tagClass03SkillName02A=Summon Hellhound
-tagClass03SkillDescription02A=Calls forth a hellhound from the eldritch realms to savage the Occultist's enemies. This vicious beast will battle alongside you until its life is extinguished in a blazing inferno. ^oOnly one Hellhound can be summoned at any one time.
+tagClass03SkillDescription02A=Calls forth a hellhound from the eldritch realms to savage the Occultist's enemies. This vicious beast will battle alongside you until its life is extinguished in a blazing inferno. ^oOnly one hellhound can be summoned at any one time. The hellhound scales with Pet Bonuses.
 tagClass03SkillName02B=Ember Claw
 tagClass03SkillDescription02B=Brimstone claws tear an arc of flame through enemies within the hellhound's reach.
 tagClass03SkillName02C=Hellfire
@@ -399,15 +396,15 @@ tagClass04SkillDescription04C=A powerful pneumatic technique causes the ring of 
 tagClass04SkillName05A=Dual Blades
 tagClass04SkillDescription05A=Among the most fundamental skills of the Nightblade are the mastery of melee dual wielding, favoring the use of piercing blades, and the art of drawing elemental cold from iron and steel. ^oThis is a melee dual-wielding bonus. Also enables the ability to dual wield melee weapons.
 tagClass04SkillName05B=Belgothian's Shears
-tagClass04SkillDescription05B=The brawny Belgothian was an anomaly among the lithe Nightblade masters, but he exceeded them all in raw power. Leveraging his strength in direct but lethal attacks like the shears, Belgothian could often finish an enemy in a single move. ^oThis is a melee dual-wielding technique.
+tagClass04SkillDescription05B=The brawny Belgothian was an anomaly among the lithe Nightblade masters, but he exceeded them all in raw power. Leveraging his strength in direct but lethal attacks like the shears, Belgothian could often finish an enemy in a single move. ^oThis is a melee dual-wielding technique that activates off of default weapon attacks.
 tagClass04SkillName05C=Amarasta's Quick Cut
-tagClass04SkillDescription05C=Legendary for her speed, Amarasta's blades were said to sound like a whip through the air, leaving only streaks of light too fast for the eye to follow. Masters of this technique can strike thrice in the space of a normal attack. ^oThis is a melee dual-wielding technique.
+tagClass04SkillDescription05C=Legendary for her speed, Amarasta's blades were said to sound like a whip through the air, leaving only streaks of light too fast for the eye to follow. Masters of this technique can strike thrice in the space of a normal attack. ^oThis is a melee dual-wielding technique that activates off of default weapon attacks.
 tagClass04SkillName05D=Whirling Death
-tagClass04SkillDescription05D=A devastating technique intended for multi-target combat. Those that survive are left bleeding as if from a thousand cuts. ^oThis is a melee dual-wielding technique.
+tagClass04SkillDescription05D=A devastating technique intended for multi-target combat. Those that survive are left bleeding as if from a thousand cuts. ^oThis is a melee dual-wielding technique that activates off of default weapon attacks.
 tagClass04SkillName05E=Nidalla's Hidden Hand
 tagClass04SkillDescription05E=The controversial Nightblade master Nidalla demonstrated the cruel effectiveness of poisons during the Age of Unreason when she combined the foul toxins with other nightblade techniques, allowing her to prevail in battle against greatly superior numbers. ^oThis technique modifies Belgothian's Shears, Amarasta's Quick Cut and Whirling Death.
 tagClass04SkillName05F=Execution
-tagClass04SkillDescription05F=A merciless blow, struck during a moment of opportunity, with the intent to quickly finish a foe. Those that survive are not likely to remain alive for very long. ^oThis is a melee dual-wielding technique.
+tagClass04SkillDescription05F=A merciless blow, struck during a moment of opportunity, with the intent to quickly finish a foe. Those that survive are not likely to remain alive for very long. ^oThis is a melee dual-wielding technique that activates off of default weapon attacks.
 
 tagClass04SkillName06A=Pneumatic Burst
 tagClass04SkillDescription06A=Secret martial techniques of the Nightblades enable you to draw vital breath or "pneuma" from your surroundings for short bursts of speed and power. The metabolic acceleration caused by these vital breaths also confers minor healing. ^oRequires a melee weapon.
@@ -511,12 +508,12 @@ tagClass05SkillName04C=Wrath of Agrivix
 tagClass05SkillDescription04C=Agrivix was reknown for channeling such immense power into the Tempest that the resulting explosion would leave nothing but ashes of anyone foolish enough to stray within reach. However, his technique required great concentration and could not be repeated without rest.
 
 tagClass05SkillName05A=Maiven's Sphere of Protection
-tagClass05SkillDescription05A=A rare defensive technique of arcane magic invented by the revered Arcanist Maiven. Creates a protective shield around the caster, but at a great cost in concentration.
+tagClass05SkillDescription05A=A rare defensive technique of arcane magic invented by the revered Arcanist Maiven. Creates a protective shield around the caster, but at a great cost in concentration. ^oThis ability must be toggled to maintain its effect.
 tagClass05SkillName05B=Conversion
 tagClass05SkillDescription05B=The sphere absorbs harmful debilitating effects and converts them into your energy reserves.
 
 tagClass05SkillName06A=Albrecht's Aether Ray
-tagClass05SkillDescription06A=A powerful arcane technique perfected by Master Albrecht in the years just preceeding the Grim Dawn that channels raw arcane energies into a concentrated beam of destruction. ^oRequires a Caster Off-hand.
+tagClass05SkillDescription06A=A powerful arcane technique perfected by Master Albrecht in the years just preceeding the Grim Dawn that channels raw arcane energies into a concentrated beam of destruction. ^oRequires a Caster Off-Hand.
 tagClass05SkillName06B=Disintegration
 tagClass05SkillDescription06B=Pours all of your energy into the Aether Ray, turning it into a catastrophic force that disintegrates all it touches. ^oEnergy Cost increase is per damage interval.
 tagClass05SkillName06C=Tainted Power
@@ -526,7 +523,7 @@ tagClass05SkillName07A=Nullification
 tagClass05SkillDescription07A=Concentrates massive amounts of negative energy within the target area, purging all enemies caught within it of beneficial auras and spells while allies are purged of negative ailments.
 
 tagClass05SkillName08A=Devastation
-tagClass05SkillDescription08A=Hailed as the ultimate force of destruction known to Arcanists, this technique tears a rift in reality through which fall embers of raw arcane energy. This dangerous spell is extremely draining and should not be used lightly. ^oRequires a Caster Off-hand. If you stand still beyond the first cast, you will unleash up to 2 additional waves upon the target area.
+tagClass05SkillDescription08A=Hailed as the ultimate force of destruction known to Arcanists, this technique tears a rift in reality through which fall embers of raw arcane energy. This dangerous spell is extremely draining and should not be used lightly. ^oRequires a Caster Off-Hand. If you stand still beyond the first cast, you will unleash up to 2 additional waves upon the target area.
 
 tagClass05SkillName09A=Inner Focus
 tagClass05SkillDescription09A=Focusing the mind and body into a locus for arcane energies is one of the first meditative techniques taught to aspiring Arcanists.
@@ -574,16 +571,16 @@ tagClass06SkillDescription01B=Embrace the aspect of the boar, becoming a ferocio
 tagClass06SkillName01C=Storm Touched
 tagClass06SkillDescription01C=Calling out to the heavens, you infuse your attacks with the fury of a thunderstorm.
 tagClass06SkillName01D=Might of the Bear
-tagClass06SkillDescription01D=Shamans dedicated to the spirit of the bear embrace the use of brutal two-handed weapons when entering their savage battle stance. Their unbridled fury is unmatched among the northern tribes. ^oThis technique requires a two-handed melee or ranged weapon.
+tagClass06SkillDescription01D=Shamans dedicated to the spirit of the bear embrace the use of brutal two-handed weapons when entering their savage battle stance. Their unbridled fury is unmatched among the northern tribes. ^oThis technique requires a two-handed weapon, melee or ranged.
 
 tagClass06SkillName02A=Primal Strike
 tagClass06SkillDescription02A=The first rite undertaken by novice Shamans is to imbue their favored weapon with the raw force of a thunderstorm. Those that survive this critical step become scions to Mogdrogen's will and guardians of their people. ^oRequires a two-handed melee weapon.
 tagClass06SkillName02B=Storm Surge
 tagClass06SkillDescription02B=Primal Strike's raw power surges through the target, bursting blood vessels.
 tagClass06SkillName02C=Torrent
-tagClass06SkillDescription02C=Torrential force cascades from your weapon, electrocuting your target and leaping to nearby foes.
+tagClass06SkillDescription02C=Torrential force cascades from your weapon, shocking your target and leaping to nearby foes.
 tagClass06SkillName02D=Thunderous Strike
-tagClass06SkillDescription02D=Stormcallers, members of a sect of shamanism devoted to the heavens, are known to call out to Ultos, the god of the sky, when delivering nature's wrath upon their adversaries, allowing them to call down lightning with greater frequency.
+tagClass06SkillDescription02D=Stormcallers, members of a sect of shamanism devoted to the heavens, are known to call out to Ultos, the god of the sky, when delivering nature's wrath upon their adversaries, allowing them to call down lightning with greater frequency. ^oThunderous Strike is not a default weapon attack enhancer and cannot trigger effects such as Feral Hunger.
 
 tagClass06SkillName03A=Wendigo Totem
 tagClass06SkillDescription03A=Wendigo Totems represent a darker side to Shaman rituals, embracing the vicious duality of nature: one must die so that another may feed and live. Once placed, the totem will drain the life from nearby foes, all while creating a soothing aura that heals allies. The totems are taboo to most tribes though as the primal hunger spirit invoked to power the totem is perilous to control and has driven many shamans mad, filling them with an insatiable hunger that inevitably leads to cannibalism. ^oWendigo Totems scale with player damage bonuses.
@@ -610,7 +607,7 @@ tagClass06SkillName05D=Heart of Stone
 tagClass06SkillDescription05D=Embracing the nature of the earth upon which you stand, you no longer regenerate health in combat, but your skin becomes tough as stone. ^oThis effect is extended to your allies.
 
 tagClass06SkillName06A=Summon Briarthorn
-tagClass06SkillDescription06A=Briarthorns are tenacious beasts, born of brambly woods and wild magic. Skilled Shamans can call upon these creatures to aid them in battle. ^oOnly one Briarthorn can be summoned at any one time.
+tagClass06SkillDescription06A=Briarthorns are tenacious beasts, born of brambly woods and wild magic. Skilled Shamans can call upon these creatures to aid them in battle. ^oOnly one briarthorn can be summoned at any one time. The briarthorn scales with Pet Bonuses.
 tagClass06SkillName06B=Stonebark
 tagClass06SkillDescription06B=The flesh of the Briarthorn hardens and its spines grow thicker, turning it into an intimidating presence on the battlefield that cannot be ignored.
 tagClass06SkillName06C=Ground Slam
@@ -621,13 +618,13 @@ tagClass06SkillName06E=Thorned Claws
 tagClass06SkillDescription06E=Innate Attack.
 
 tagClass06SkillName07A=Feral Hunger
-tagClass06SkillDescription07A=Embrace your primal side, shredding your enemies and feasting voraciously on the spilled blood. ^oRequires a two-handed melee weapon.
+tagClass06SkillDescription07A=Embrace your primal side, shredding your enemies and feasting voraciously on the spilled blood. ^oRequires a two-handed melee weapon. Activates off of default weapon attacks.
 
 tagClass06SkillName08A=Stormcaller's Pact
-tagClass06SkillDescription08A=Become one with Ultos, god of the sky, turning your mortal form into a conduit for the destructive power of lightning storms.
+tagClass06SkillDescription08A=Become one with Ultos, god of the sky, turning your mortal form into a conduit for the destructive power of lightning storms. ^oThis ability must be toggled to maintain its effect.
 
 tagClass06SkillName09A=Conjure Primal Spirit
-tagClass06SkillDescription09A=Legends speak of a great predator, the loyal pet of Mogdrogen, which relentlessly hunts down anyone that treads into the beast god's domain uninvited. As a favored follower of Mogdrogen, you call upon this Primal Spirit to aid you in battle.
+tagClass06SkillDescription09A=Legends speak of a great predator, the loyal pet of Mogdrogen, which relentlessly hunts down anyone that treads into the beast god's domain uninvited. As a favored follower of Mogdrogen, you call upon this Primal Spirit to aid you in battle. ^oThe primal spirit scales with Pet Bonuses.
 tagClass06SkillName09B_Pet=Tail Strike
 tagClass06SkillDescription09B_Pet=Strike the target with a poisonous tail.
 tagClass06SkillName009C=Claw and Fang Attacks
@@ -640,13 +637,13 @@ tagClass06SkillDescription11A=Rigorous training within the untamed wilds has hon
 tagClass06SkillName12A=Nature's Wrath
 tagClass06SkillDescription12A=Become as one with the primal forces of nature, tearing your foes apart with tooth, claw and lightning.
 tagClass06SkillName13A=Primal Bond
-tagClass06SkillDescription13A=Embrace your savage side as you seal your bond with Mogdrogen. Creatures from the beast god's domain readily answer your call.
+tagClass06SkillDescription13A=Embrace your savage side as you seal your bond with Mogdrogen. Creatures from the beast god's domain readily answer your call. ^oThis ability must be toggled to maintain its effect.
 
 tagClass06SkillName14A=Upheaval
-tagClass06SkillDescription14A=Strike with the strength of the earth. Whenever you land a critical strike with your basic weapon attacks, the ground shakes with the force of the blow, reverberating around the point of impact in a shockwave. ^oRequires a two-handed melee weapon.
+tagClass06SkillDescription14A=Strike with the strength of the earth. Whenever you land a critical strike with your basic weapon attacks, the ground shakes with the force of the blow, reverberating around the point of impact in a shockwave. ^oRequires a two-handed melee weapon and activates off of default weapon attacks.
 
 tagClass06SkillName15A=Devouring Swarm
-tagClass06SkillDescription15A=Out in the wild, one must do whatever it takes to survive. Some Shaman Conjurers take this lesson to heart by conjuring a voracious swarm which hungrily tears apart anything it comes in contact with, inflicting grevious wounds and exposing vulnerabilities.
+tagClass06SkillDescription15A=Out in the wild, one must do whatever it takes to survive. Some Shaman Conjurers take this lesson to heart by conjuring a voracious swarm which hungrily tears apart anything it comes in contact with, inflicting grievous wounds and exposing vulnerabilities.
 tagClass06SkillName15B=Crippling Swarm
 tagClass06SkillDescription15B=The swarm assaults sensitive areas, tearing at the eyes, joints and ligaments, effectively crippling your foes.
 tagClass06SkillName15C=Voracious Swarm
@@ -680,8 +677,8 @@ xtagClass06SkillDescription03B=Your taste for carnage is insatiable. While under
 xtagClass06SkillDescription04C=Mastery of storm conjuration allows you to repeat the ritual with greater frequency, effectively covering the battlefield with a torrential downpour.
 xtagClass06SkillName04D=Maelstrom
 xtagClass06SkillDescription04D=Mastery of storm conjuration allows you to focus your powers into one devastating Squall, rather than several lesser tempests.
-xtagClass06SkillName03B=Storm Totem
-xtagClass06SkillDescription03B=Channeling the power of storm is one of the most sacred rites of the Stormcallers. With sufficient practice, a Shaman can imbue a Wendigo Totem with the destructive force of lightning, causing it to rapidly fire off electric bursts at nearby foes.
+xxtagClass06SkillName03B=Storm Totem
+xxtagClass06SkillDescription03B=Channeling the power of storm is one of the most sacred rites of the Stormcallers. With sufficient practice, a Shaman can imbue a Wendigo Totem with the destructive force of lightning, causing it to rapidly fire off electric bursts at nearby foes.
 
 #Class07
 
@@ -1031,7 +1028,7 @@ tagItemSkillC041Name=Spectral Wave
 tagItemSkillC041Desc=Unleash a wave of angry spirits to drain the life out of your enemies.
 
 tagItemSkillC042Name=Add a Notch
-tagItemSkillC042Desc=Adds another notch to the supposed existing thousand, but who is counting anyway?
+tagItemSkillC042Desc=Adds another notch to the supposed existing thousand, but who is counting anyway? ^oActivates off of default weapon attacks.
 
 tagItemSkillC043Name=Ring of Everlasting Flame
 tagItemSkillC043Desc=Bathe yourself in incinerating flames that burn all around you to cinders, but leave you unharmed. ^oThis ability must be toggled to maintain its effect.
@@ -1045,7 +1042,7 @@ tagItemSkillC045Name=Aether Ward
 tagItemSkillC045Desc=Embrace the powers of the great aether, gaining resistance to the arcane and a strengthened resolve.
 
 tagItemSkillC046Name=Soul Steal
-tagItemSkillC046Desc=Devour the essence of your target to restore your own.
+tagItemSkillC046Desc=Devour the essence of your target to restore your own. ^oActivates off of default weapon attacks.
 
 tagItemSkillC047Name=Stoneheart Poison
 tagItemSkillC047Desc=Release the poison contained within this blade, petrifying flesh.
@@ -1060,7 +1057,7 @@ tagItemSkillC050Name=Lichguard
 tagItemSkillC050Desc=In times of great danger, the Lichguard protects its bearer from lethal harm.
 
 tagItemSkillC051Name=Summon Revenant of Og'Napesh
-tagItemSkillC051Desc=Channel the dark writings of Og'Napesh to summon his most foul revenant back into the world of the living.
+tagItemSkillC051Desc=Channel the dark writings of Og'Napesh to summon his most foul revenant back into the world of the living. ^oOnly one revenant can be summoned at any one time. The revenant scales with Pet Bonuses.
 tagItemSkillC051Pet01=Shield Defense
 tagItemSkillC051Pet01Desc=The Revenant wards off nearby allies against crowd control and bolsters their armor and retaliation.
 
@@ -1095,7 +1092,7 @@ tagItemSkillC061Name=Serpent Lash
 tagItemSkillC061Desc=Lash out at your enemy like a vile serpent, injecting your target with a deadly poison. ^oRequires a melee weapon.
 
 tagItemSkillC062Name=Knockout
-tagItemSkillC062Desc=Take your opponent out of the fight with a swift and precise strike. ^oRequires a melee weapon.
+tagItemSkillC062Desc=Take your opponent out of the fight with a swift and precise strike. ^oActivates off of default melee weapon attacks.
 
 tagItemSkillC063Name=Prismatic Shield
 tagItemSkillC063Desc=Triggers the runes engraved upon these bracers, creating a protective shield around you.
@@ -1122,7 +1119,7 @@ tagItemSkillC070Name=Invocation to Chaos
 tagItemSkillC070Desc=Invoke the dark powers, placing a minion of Ch'thon under your devious command.
 
 tagItemSkillC071Name=Diplomacy
-tagItemSkillC071Desc=Your voice carries with it the command of kings, few can withstand its power.
+tagItemSkillC071Desc=Your voice carries with it the command of kings. Few can withstand its power.
 
 tagItemSkillC072Name=Menhir's Touch
 tagItemSkillC072Desc=The devout of Menhir find their faith to be their most formidable shield in times of grave danger.
@@ -1158,13 +1155,13 @@ tagItemSkillC082Name=Voidfire Nova
 tagItemSkillC082Desc=A burst of concentrated negative energy erupts from you.
 
 tagItemSkillC083Name=Marauder's Salvo
-tagItemSkillC083Desc=When brandishing two pistols, you sometimes unleash a salvo of arcane infused ammunition. ^oEnables the ability to dual wield ranged weapons.
+tagItemSkillC083Desc=When brandishing two pistols, you sometimes unleash a salvo of arcane infused ammunition. ^oEnables the ability to dual wield ranged weapons. Activates off of default weapon attacks.
 
 tagItemSkillC084Name=Miasma
 tagItemSkillC084Desc=Releases a cloud of toxic gases which choke and confuse your enemies.
 
 tagItemSkillC085Name=Summon Blighted Rift Scourge
-tagItemSkillC085Desc=Summon a Blighted Rift Scourge from the depths to follow your every command. ^oOnly one Blighted Rift Scourge can be summoned at any one time.
+tagItemSkillC085Desc=Summon a Blighted Rift Scourge from the depths to follow your every command. ^oOnly one rift scourge can be summoned at any one time. The rift scourge scales with Pet Bonuses.
 tagItemSkillC085PetSkillName01=Acid Spit
 tagItemSkillC085PetSkillName02=Poison Nova
 
@@ -1220,7 +1217,7 @@ tagItemSkillC102Name=Fire Claw
 tagItemSkillC102Desc=Cleave your enemies in two with claws of hellfire.
 
 tagItemSkillC103Name=Conjure Devourer
-tagItemSkillC103Desc=Pull a Chthonian Devourer from the depths of the void to protect you.
+tagItemSkillC103Desc=Pull a Chthonian Devourer from the depths of the void to protect you. ^oThe devourer scales with Pet Bonuses.
 
 tagItemSkillC104Name=Spirit Ward
 tagItemSkillC104Desc=Partially enter the spirit realm, warding yourself against life-sapping spells and physical assault.
@@ -1243,35 +1240,14 @@ tagItemSkillC109Desc=A burst of chilling air around you freezes enemies solid.
 tagItemSkillC110Name=Elemental Blast
 tagItemSkillC110Desc=A blast of elemental energies erupts from you, pushing back all nearby foes.
 
-tagItemSkillM001Name=Life's Essence
-tagItemSkillM001Desc=Mends wounds and revitalizes the weary hero.
-
-tagItemSkillM002Name=Death's Essence
-tagItemSkillM002Desc=Destroys the very essence of your enemies.
-
-tagItemSkillM003Name=Apocalypse
-tagItemSkillM003Desc=Rains purging hellfire upon your enemies.
-
-tagItemSkillM004Name=Arcane Focus
-tagItemSkillM004Desc=Enter a trance-like state with each attack, magnifying your arcane power. ^oBuilding up charges increases the potency of the bonuses.
-
 tagItemSkillM005Name=Berserk
 tagItemSkillM005Desc=Enter a berserker state of mind, lashing out with increased ferocity at the cost of survivability.
-
-tagItemSkillM006Name=Call of the Beast
-tagItemSkillM006Desc=Call out to the creatures that heed your will, emboldening them.
 
 tagItemSkillM007Name=Freezing Charge
 tagItemSkillM007Desc=Hurl a chilled projectile at the target, coating it with immobilizing ice.
 
 tagItemSkillM008Name=Empowerment
 tagItemSkillM008Desc=Empower your attacks at the cost of precious lifeblood.
-
-tagItemSkillM009Name=Conjure Flesh Hulk
-tagItemSkillM009Desc=Conjures a mindless behemoth from cursed grounds to serve you for as long as its flesh can bear it.
-
-tagItemSkillM010Name=Vampirism
-tagItemSkillM010Desc=Embrace a darker side to restore your own vitality at the cost of your enemies'.
 
 tagItemSkillM012Name=Magma Orb
 tagItemSkillM012Desc=Hurl a projectile of pure fire which fragments at the slightest touch.
@@ -1291,9 +1267,6 @@ tagItemSkillM016Desc=The diamond's power can be tapped in dire situations, grant
 tagItemSkillM017Name=Prismatic Rage
 tagItemSkillM017Desc=The diamond's power can be tapped in dire situations, granting access to its true potential and untold cosmic forces.
 
-tagItemSkillD017Name=Meteor
-tagItemSkillD017Desc=Conjures a massive burning rock from the nether to drop upon your enemies.
-
 tagItemSkillD018Name=Throw Feces
 tagItemSkillD018Desc=Reach into the seat of your pants and pull out something that is certain to alarm your enemies.
 
@@ -1301,10 +1274,630 @@ tagItemSkillD019Name=Hail Storm
 tagItemSkillD019Desc=Conjure a hail of deadly ice upon the target area.
 
 tagItemSkillD020Name=Call Forth the Harbinger
-tagItemSkillD020Desc=Conjures Salazar's Harbinger from the depths of the void.
+tagItemSkillD020Desc=Conjures Salazar's Harbinger from the depths of the void. ^oThe harbinger scales with Pet Bonuses.
 tagItemSkillD020PetSkillName=Spectral Miasma
 tagItemSkillD020PetSkillName02=Chaos Aura
 tagItemSkillD020PetSkillDesc02=The Harbinger confers the blessing of Chaos upon his allies.
+
+tagItemSkillD021Name=Aether Blastwave
+tagItemSkillD021Desc=A blast of Aether energy knocks your attackers back.
+
+tagItemSkillD022Name=Aetherblaze
+tagItemSkillD022Desc=A blaze of pure arcane fire erupts beneath your foes. ^oRequires a Caster Off-Hand.
+
+tagItemSkillD023Name=Aether Cascade
+tagItemSkillD023Desc=Pure arcane energy erupts from you and cascades among your foes.
+
+tagItemSkillD024Name=Aether Conduit
+tagItemSkillD024Desc=You become a conduit for the aether itself, blasting nearby foes with pure arcane energy.
+
+tagItemSkillD025Name=Agony
+tagItemSkillD025Desc=Curse your foe with agony, inflicting unspeakable pain and exposing them to further harm.
+
+tagItemSkillD026Name=Aldanar's Vanity
+tagItemSkillD026Desc=Aldanar was not know for standing in harms way. He preferred to leave it behind him, far behind him.
+
+tagItemSkillD027Name=Apocalypse
+tagItemSkillD027Desc=Unleash the wrath of the gods themselves as you tear open reality and release a cataclysm of apocalyptic proportions.
+
+tagItemSkillD028Name=Arcane Focus
+tagItemSkillD028Desc=Enter a trance-like state. When used for your default weapon attack, Arcane Focus magnifies your arcane power with every strike. ^oBuilding up charges increases the potency of the bonuses.
+
+tagItemSkillD029Name=Ascendant's Wrath
+tagItemSkillD029Desc=The wrath of the Ascendant is a terrible thing to behold. Few can withstand its crippling might.
+
+tagItemSkillD030Name=Avatar of Ulzuin
+tagItemSkillD030Desc=The flames of Ulzuin surround you, turning nearby foes into cinders.
+
+tagItemSkillD031Name=Azragorian Tactics
+tagItemSkillD031Desc=Embrace the tactics of Azragor, underhanded and questionable techniques, but one cannot argue with results. This effect is extended to nearby allies.  ^oThis ability must be toggled to maintain its effect.
+
+tagItemSkillD032Name=Crossfire
+tagItemSkillD032Desc=Fire a barrage from your twin guns, peppering your foes with ammunition. ^oThis is a ranged dual-wielding technique that activates off of default weapon attacks. Also enables the ability to dual wield ranged weapons.
+
+tagItemSkillD033Name=Salvo
+tagItemSkillD033Desc=Fire a salvo from your twin guns, well-aimed shots that are intended to kill. ^oThis is a ranged dual-wielding technique that activates off of default weapon attacks. Also enables the ability to dual wield ranged weapons.
+
+tagItemSkillD034Name=Battlecry
+tagItemSkillD034Desc=Blows inflicted upon you throw you into a frenzy, emboldening your allies.
+
+tagItemSkillD035Name=Bear Claw
+tagItemSkillD035Desc=Cleave through your foes like the mighty bear. ^oRequires a two-handed melee weapon.
+
+tagItemSkillD036Name=Bestial Rage
+tagItemSkillD036Desc=Whenever they see you harmed, your minions are thrown into a vengeful rage.
+
+tagItemSkillD037Name=Blade Burst
+tagItemSkillD037Desc=Foes who dare strike you will face Amarasta's wrath.
+
+tagItemSkillD038Name=Blade of Korvoran
+tagItemSkillD038Desc=Throw a blade hidden within your jacket.
+
+tagItemSkillD039Name=Bloodfury
+tagItemSkillD039Desc=Taking harm boils your arcane blood, empowering your dark spellwork.
+
+tagItemSkillD040Name=Blood Rite
+tagItemSkillD040Desc=The dark blood of Ch'thon corrupts all that it touches, even the arcane.
+
+tagItemSkillD041Name=Blood Song
+tagItemSkillD041Desc=You swing your blade in perfect harmony, inflicting deeper wounds and cleaving to nearby foes.
+
+tagItemSkillD042Name=Bloody Pox
+tagItemSkillD042Desc=An abhorrent curse that calls down a virulent plague to spread among your foes.
+
+tagItemSkillD043Name=Brutallize
+tagItemSkillD043Desc=Crush your foes with vicious blows that leave them bleeding out.
+
+tagItemSkillD044Name=Burning Justice
+tagItemSkillD044Desc=Become a beacon against the darkness as you erupt in righteous fire.
+
+tagItemSkillD045Name=Burst of Speed
+tagItemSkillD045Desc=A fresh kill invigorates you, giving you momentum towards the next foes.
+
+tagItemSkillD046Name=Call of the Beast
+tagItemSkillD046Desc=Release a bestial roar, inspiring your minions.
+
+tagItemSkillD047Name=Call the Storm
+tagItemSkillD047Desc=Conjure a storm of static energy around yourself.
+
+tagItemSkillD048Name=Caustic Pool
+tagItemSkillD048Desc=Conjure a pool of vile acid to disintegrate your foes.
+
+tagItemSkillD049Name=Chaos Nova
+tagItemSkillD049Desc=Unleash a blast of pure entropic energy upon your foes.
+
+tagItemSkillD050Name=Chilling Presence
+tagItemSkillD050Desc=Your very presence chills enemies to the bone. ^oThis ability must be toggled to maintain its effect.
+
+tagItemSkillD051Name=Clairvoyance
+tagItemSkillD051Desc=Clear your mind in preparation for taxing spellwork.
+
+tagItemSkillD052Name=Colossal Might
+tagItemSkillD052Desc=Mastery of shield combat has honed you into a lethal and unstoppable weapon. ^oRequires a shield.
+
+tagItemSkillD053Name=Conjure Black Scourge
+tagItemSkillD053Desc=Your wanton slaughter calls to the void.
+tagItemSkillD053_Pet01=Entropic End
+
+tagItemSkillD054Name=Eye of the Guardian
+tagItemSkillD054Desc=Conjure one of the infinite eyes of Dreeg to protect you with a barrage of spines. ^oThe eye scales with player damage bonuses.
+tagItemSkillD054_Pet01=Venom Spines
+
+tagItemSkillD055Name=Gaze of Dreeg
+tagItemSkillD055Desc=Unleash a trio of haunting eyes of Dreeg to track down your foes before exploding in a burst of bile and venom. ^oThe Gaze of Dreeg scales with player damage bonuses.
+tagItemSkillD055_Pet01=Caustic Eruption
+
+tagItemSkillD056Name=Herald of Doom
+tagItemSkillD056Desc=Place a banner marking your conquest. Standing near the banner will inspire you and your allies.
+tagItemSkillD056_Pet01=Inspiring Banner
+tagItemSkillD056_Pet01Desc=Fighting near the banner inspires you.
+
+tagItemSkillD057Name=Invocation to Chaos
+tagItemSkillD057Desc=Call out to the void and summon vile fiends to fight for you until such a time as the void calls for them to return. ^oThe fiends scale with Pet Bonuses.
+tagItemSkillD057_Pet01=Claws and Fangs
+
+tagItemSkillD058Name=Raise Spirit
+tagItemSkillD058Desc=Use the energy of a recent kill to call forth a tormented spirit to aid you. ^oThe spirit scales with Pet Bonuses.
+tagItemSkillD058_Pet01=Ghostly Touch
+
+tagItemSkillD059Name=Consumption of Agrivix
+tagItemSkillD059Desc=Agrivix was infamous for pushing the limits of the Aether, until it was discovered that he meddled in the powers of the Void. One of his forbidden techniques involved igniting the air around you with entropic energies.
+
+tagItemSkillD060Name=Contagion
+tagItemSkillD060Desc=Enemies who strike you become diseased with a deadly contagion that continues to spread beyond the host.
+
+tagItemSkillD061Name=Dark Dreams
+tagItemSkillD061Desc=Fill the minds of nearby foes with chilling dreams of their imminent deaths.
+
+tagItemSkillD062Name=Darkflame
+tagItemSkillD062Desc=Mark your foe with a dark flame that weakens their resolve.
+
+tagItemSkillD063Name=Dawnbreaker
+tagItemSkillD063Desc=Blind your foes with your righteous presence.
+
+tagItemSkillD064Name=Deathbound Might
+tagItemSkillD064Desc=Become empowered by the lives you claim.
+
+tagItemSkillD065Name=Bloody Axe
+tagItemSkillD065Desc=Strike with the bloody axe, cleaving nearby foes.
+
+tagItemSkillD066Name=Chilling Claw
+tagItemSkillD066Desc=Strike with the chilling claw, cleaving nearby foes.
+
+tagItemSkillD067Name=Demonslayer's Guard
+tagItemSkillD067Desc=Steel your defenses against the fiends of the void.
+
+tagItemSkillD068Name=Despair
+tagItemSkillD068Desc=Fill your foes with despair, leaving them helpless before you.
+
+tagItemSkillD069Name=Devil's Cage
+tagItemSkillD069Desc=Trap your foes in a prison of pure obsidian.
+
+tagItemSkillD070Name=Devil's Spread
+tagItemSkillD070Desc=Fire a triple-shot of hellish fire at your foes.
+
+tagItemSkillD071Name=Devour
+tagItemSkillD071Desc=Upon landing a vicious blow, devour some of your foe's exposed life essence.
+
+tagItemSkillD072Name=Devout of Dreeg
+tagItemSkillD072Desc=Spread the word of Dreeg to all who would listen, empowering the venomous powers of your allies. ^oThis ability must be toggled to maintain its effect.
+
+tagItemSkillD073Name=Direwolf Claw
+tagItemSkillD073Desc=Cleave your foes with a vicious scissor blade technique that mimics the mauling of a powerful dire wolf. ^oThis is a melee dual-wielding technique that activates off of default weapon attacks. Also enables the ability to dual wield melee weapons.
+
+tagItemSkillD074Name=Divine Guard
+tagItemSkillD074Desc=Fill your allies with divine light, protecting them from the darkness of the void. ^oThis ability must be toggled to maintain its effect.
+
+tagItemSkillD075Name=Divine Light
+tagItemSkillD075Desc=The light swells within you in times of trouble, helping you fight on when things are most grim.
+
+tagItemSkillD076Name=Dominion
+tagItemSkillD076Desc=Impress your dominion over the foes in the target area, shattering the minds of the weak and forcing them to fight for you.
+
+tagItemSkillD077Name=Dreeg's Command
+tagItemSkillD077Desc=The commanding presence of Dreeg fills you when threatened, allowing uninterrupted spellcasting.
+
+tagItemSkillD078Name=Duelist
+tagItemSkillD078Desc=Mastery of two-gun combat has honed you into a deadly weapon. You can fire your guns at the same time with trivial ease, and to lethal effect.
+
+tagItemSkillD079Name=Elemental Blast
+tagItemSkillD079Desc=A blast of elemental energies erupts from you, pushing back all nearby foes.
+
+tagItemSkillD080Name=Elemental Seal
+tagItemSkillD080Desc=Creates an arcane seal on the ground imbued with destructive force.
+
+tagItemSkillD081Name=Entropy
+tagItemSkillD081Desc=Strike your foe with entropic energy that ignites their very being.
+
+tagItemSkillD082Name=Envenom
+tagItemSkillD082Desc=A well-placed strike releases the venom contained within these claws.
+
+tagItemSkillD083Name=Eternal Haunt
+tagItemSkillD083Desc=Inflict an tormenting haunt upon your foe that spreads among your foes.
+
+tagItemSkillD084Name=Exterminate
+tagItemSkillD084Desc=End your foe with a well-aimed shot.
+
+tagItemSkillD085Name=Fade from Reality
+tagItemSkillD085Desc=When a foe lands a particularly crippling blow, the protective nature of this mantle will fade you out of reality so that you can recover.
+
+tagItemSkillD086Name=Falling Skies
+tagItemSkillD086Desc=The sky ripples with destructive power as a shower of falling stars crashes down upon your foes.
+
+tagItemSkillD087Name=Feast of Souls
+tagItemSkillD087Desc=Feast upon the souls of nearby foes, reinvigorating your own.
+
+tagItemSkillD088Name=Fiend's Flesh
+tagItemSkillD088Desc=The flesh of the fiend protects you and your minions from harm.
+
+tagItemSkillD089Name=Fiendmaster
+tagItemSkillD089Desc=Enact your will upon all your minions, and those of your allies. ^oThis ability must be toggled to maintain its effect.
+
+tagItemSkillD090Name=Fiend's Resolve
+tagItemSkillD090Desc=The fiendish tome fills you with resolve, enabling you to continue the fight.
+
+tagItemSkillD091Name=Final Stop
+tagItemSkillD091Desc=Impale your foe upon the shield's spikes.
+
+tagItemSkillD092Name=Fire and Brimstone
+tagItemSkillD092Desc=Become empowered with the cataclysmic power of fire and brimstone. ^oRequires a two-handed ranged weapon.
+
+tagItemSkillD093Name=Rain of Fire
+tagItemSkillD093Desc=Fire rains down from the heavens, incinerating your foes.
+
+tagItemSkillD094Name=Wave of Fire
+tagItemSkillD094Desc=A wave of scorching flame emanates from you in a destructive path.
+
+tagItemSkillD095Name=Flame Breath
+tagItemSkillD095Desc=The mask allows you to breathe fire.
+
+tagItemSkillD096Name=Forked Lightning
+tagItemSkillD096Desc=Lightning forks from you, electrocuting several nearby foes.
+
+tagItemSkillD097Name=Toxic Gas Cloud
+tagItemSkillD097Desc=A toxic cloud erupts from you, choking all enemies caught within it.
+
+tagItemSkillD098Name=Gaze of Beronath
+tagItemSkillD098Desc=The terrifying gaze of Beronath turns your foes to stone.
+
+tagItemSkillD099Name=Glyph of Kelphat'Zoth
+tagItemSkillD099Desc=The glyph of Kelphat'Zoth empowers you and your minions with the power of a storm.
+
+tagItemSkillD100Name=Golemborn
+tagItemSkillD100Desc=Your flesh becomes as stone, nearly impervious to physical attacks.
+
+tagItemSkillD101Name=Great Tide
+tagItemSkillD101Desc=Unleash a great tide to scatter your foes, just as the great leviathan parts the waters with every move.
+
+tagItemSkillD102Name=Grim Fate
+tagItemSkillD102Desc=Turn your foe's remains into a gruesome explosion of carnage.
+
+tagItemSkillD103Name=Ground Smash
+tagItemSkillD103Desc=Smash the ground with your boots, shattering the earth and sending foes reeling.
+
+tagItemSkillD104Name=Gutripper
+tagItemSkillD104Desc=The gutripper has earned its name for leaving targets bleeding out even if the initial shot was not lethal in itself.
+
+tagItemSkillD105Name=The Harbinger
+tagItemSkillD105Desc=Nothing shall stop the harbinger from reaching his bounty.
+
+tagItemSkillD106Name=Harbinger's Mark
+tagItemSkillD106Desc=Tag your foe with the Mark of the Harbinger, a devious spell that will spread to nearby enemies.
+
+tagItemSkillD107Name=Harbinger's Aim
+tagItemSkillD107Desc=The Harbinger was an expert in ranged combat, preferring the use of a rifle to take out his foes at range. ^oRequires a two-handed ranged weapon.
+
+tagItemSkillD108Name=Harbinger's Grasp
+tagItemSkillD108Desc=The Harbinger earned his reputation by combining the lethal power of guns with occult magic. ^oRequires a two-handed ranged weapon.
+
+tagItemSkillD109Name=Havoc
+tagItemSkillD109Desc=Unleash havoc upon your foes with a wild spray of shots.
+
+tagItemSkillD110Name=Healing Winds
+tagItemSkillD110Desc=Summon the winds of the eternal spring to mend your wounds.
+
+tagItemSkillD111Name=Heart of the Winter King
+tagItemSkillD111Desc=The winter king was a savage, yet just ruler, who fiercely defended his homeland besides his loyal white wolf, whom he called father. The spirit of the great king still dwells within his mighty blade.
+
+tagItemSkillD112Name=Hellspawn
+tagItemSkillD112Desc=Inspired by a fresh kill, your minions are empowered with dark magic.
+
+tagItemSkillD113Name=Hungering Swarm
+tagItemSkillD113Desc=Release a swarm of hungering insects to tear apart your foes.
+
+tagItemSkillD114Name=Ice Nova
+tagItemSkillD114Desc=Unleash a surge of chilling energies that will freeze foes solid.
+
+tagItemSkillD115Name=Icechill
+tagItemSkillD115Desc=With great concentration, you sap all the heat from the air around you, chilling and freezing foes.
+
+tagItemSkillD116Name=Spines of Ice
+tagItemSkillD116Desc=Release a burst of frozen razor sharp spines.
+
+tagItemSkillD117Name=Invoker's Fury
+tagItemSkillD117Desc=Mark your foe with an arcane sigil that leaves them vulnerable to your elemental assault.
+
+tagItemSkillD118Name=Invoker's Secret
+tagItemSkillD118Desc=The Invoker's mastery over magic has inspired many unusual techniques, including a little trick the Invoker used to deter foes from even coming near.
+
+tagItemSkillD119Name=Iskandra's Defense
+tagItemSkillD119Desc=Iskandra was a master of conversion, turning martial weapons into conduits for the arcane. This skill has turned her into an unusual combatant capable of both magic and close-quarters combat. But to survive in a thick melee, one needs defensive spells as well, and for that Iskandra created an arcane barrier.
+
+tagItemSkillD120Name=Iskandra's Unity
+tagItemSkillD120Desc=Iskandra's preferred to master all forms of magic rather than focusing on a single element. Her expertise helped train an entire generation of arcanists who would go on to master all of the elements. The power of Iskandra's mastery is extended to nearby allies. ^oThis ability must be toggled to maintain its effect.
+
+tagItemSkillD121Name=Iskandra's Prism
+tagItemSkillD121Desc=Upon entering combat, Iskandra would turn her weapon into a conduit. ^oRequires a melee weapon.
+
+tagItemSkillD122Name=Lifedrinker
+tagItemSkillD122Desc=Drink in the life essence of nearby foes in a deadly display of martial combat. ^oRequires a melee weapon.
+
+tagItemSkillD123Name=Wave of Souls
+tagItemSkillD123Desc=Unleash a wave of tormented spirits to sap your foes of life.
+
+tagItemSkillD124Name=Lightning Bolt
+tagItemSkillD124Desc=A touch of Ultos' wrath rips through the sky to shock your foes.
+
+tagItemSkillD125Name=Chain Lightning
+tagItemSkillD125Desc=Immense electric force emenates from you, cascading to additional enemies.
+
+tagItemSkillD126Name=Lightning Nova
+tagItemSkillD126Desc=Lightning energy surges within you before erupting in deadly force.
+
+tagItemSkillD127Name=Lightning Burst
+tagItemSkillD127Desc=Static energy builds up within you before erupting in a burst of shocking orbs.
+
+tagItemSkillD128Name=Mark of Ch'thon
+tagItemSkillD128Desc=Curse your foes a deadly mark of power that visits all of the void's horrors upon them.
+
+tagItemSkillD129Name=Mark of Death
+tagItemSkillD129Desc=Mark your foe for an imminent death.
+
+tagItemSkillD130Name=Mark of the Deceiver
+tagItemSkillD130Desc=Mark your foes with a debilitating curse that overwhelms their senses.
+
+tagItemSkillD131Name=Mark of the Fallen
+tagItemSkillD131Desc=Curse your foes with the torment of the dead, weakening their hold on the physical realm.
+
+tagItemSkillD132Name=Seal of the Serpent
+tagItemSkillD132Desc=Empower your minions with the might of the mythical serpent.
+
+tagItemSkillD133Name=Markovian's Vigilance
+tagItemSkillD133Desc=Markovian was ever aware of his surroundings, never caught by surprise and ever ready for conflict.
+
+tagItemSkillD134Name=Markovian's Wall
+tagItemSkillD134Desc=Markovian's defensive stance was compared to that of a fortress wall, an unbreachable barrier from which he could safely retaliate.
+
+tagItemSkillD135Name=Prowess
+tagItemSkillD135Desc=Mastery of your preferred combat technique has taught you to find your target's weak points and press the advantage.
+
+tagItemSkillD136Name=Meat Wall
+tagItemSkillD136Desc=Become empowered with the necrotic energies used in the creation of this shield.
+
+tagItemSkillD137Name=Mercy
+tagItemSkillD137Desc=In your darkest moment, mercy from the gods.
+
+tagItemSkillD138Name=Meteor
+tagItemSkillD138Desc=Rip through the fragile barrier between the nether and the mortal realm as you conjure a massive burning rock to drop upon your enemies.
+
+tagItemSkillD139Name=Might of Beronath
+tagItemSkillD139Desc=Channel the might of the great beast Beronath.
+
+tagItemSkillD140Name=Mindwarp
+tagItemSkillD140Desc=Warp reality on a whim, converting all of your physical strength into an arcane force of destruction.
+
+tagItemSkillD141Name=Moment of Clarity
+tagItemSkillD141Desc=You enter a trance-like state of clarity during which your mind opens to the infinite possibilities of the arcane.
+
+tagItemSkillD142Name=Moonglow
+tagItemSkillD142Desc=Mark your foe with the revealing light of a crimson moon, exposing their weakness to you.
+
+tagItemSkillD143Name=Thread of Mortality
+tagItemSkillD143Desc=Harvest the mortal threads of your foes, turning their vitality into your own.
+
+tagItemSkillD144Name=Nidalla's Revenge
+tagItemSkillD144Desc=Foes who dare strike you may find themselves with a nasty surprise as Nidalla's signature toxins seeps into their veins.
+
+tagItemSkillD145Name=Nightshade Venom
+tagItemSkillD145Desc=Release a vile toxin trapped within the blade that turns flesh into stone.
+
+tagItemSkillD146Name=Obliteration
+tagItemSkillD146Desc=Unleash a beam of arcane destruction that obliterates everything it touches, piercing through foes as it erases them from existence.
+
+tagItemSkillD147Name=Obsidian Tremor
+tagItemSkillD147Desc=Shatter the barrier between the void and the physical realm as obsidian spines burst through the earth.
+
+tagItemSkillD148Name=Olexra's Chill
+tagItemSkillD148Desc=Channel your power into a concentrated blast of ice energy that freezes a foe solid.
+
+tagItemSkillD149Name=Plague of Consumption
+tagItemSkillD149Desc=Unleash one of the seven plagues of Dreeg, a powerful contagion that saps vitality and spreads rapidly.
+
+tagItemSkillD150Name=Plague of Corruption
+tagItemSkillD150Desc=Unleash one of the seven plagues of Dreeg, a powerful contagion that causes bewilderment and spreads rapidly.
+
+tagItemSkillD151Name=Plague of Dreeg
+tagItemSkillD151Desc=Unleash the crowning achievement of the witch god, a virulent disease that will leave your foes in shambles.
+
+tagItemSkillD152Name=Plague of Fatigue
+tagItemSkillD152Desc=Unleash one of the seven plagues of Dreeg, a powerful contagion that causes fatigue and spreads rapidly.
+
+tagItemSkillD153Name=Plague of Rot
+tagItemSkillD153Desc=Unleash one of the seven plagues of Dreeg, a powerful contagion that infects with toxins and spreads rapidly.
+
+tagItemSkillD154Name=Plague of Rust
+tagItemSkillD154Desc=Unleash one of the seven plagues of Dreeg, a powerful contagion that eats away at armor and spreads rapidly.
+
+tagItemSkillD155Name=Plague of Shattered Souls
+tagItemSkillD155Desc=Unleash one of the seven plagues of Dreeg, a powerful contagion that saps the spirit and spreads rapidly.
+
+tagItemSkillD156Name=Plague of Terror
+tagItemSkillD156Desc=Unleash one of the seven plagues of Dreeg, a powerful contagion that incites fear and spreads rapidly.
+
+tagItemSkillD157Name=Prismatic Barrier
+tagItemSkillD157Desc=Protective runes form around you, warding you against all harm.
+
+tagItemSkillD158Name=Blazing Fury
+tagItemSkillD158Desc=Unleash a blazing fury from your guns. ^oThis is a ranged dual-wielding technique that activates off of default weapon attacks. Also enables the ability to dual wield ranged weapons.
+
+tagItemSkillD159Name=Reaper's Mark
+tagItemSkillD159Desc=Mark your target for a swift and painful end.
+
+tagItemSkillD160Name=Rebuke
+tagItemSkillD160Desc=Crush your foe with a devastating blow worthy of a giant.
+
+tagItemSkillD161Name=Replication
+tagItemSkillD161Desc=Panetti's talent for replicating arcane spells becomes all the more impressive when he did so under great pressure.
+
+tagItemSkillD162Name=Retribution
+tagItemSkillD162Desc=Provoke nearby foes with a shockwave emanating from your shield. ^oRequires a shield.
+
+tagItemSkillD163Name=Revel in Death
+tagItemSkillD163Desc=Revel in the carnage you have caused, feasting on spilled blood.
+
+tagItemSkillD164Name=Righteousness
+tagItemSkillD164Desc=Steel yourself with every kill, for you never know when the fiends of the void may strike.
+
+tagItemSkillD165Name=Ring of Flame
+tagItemSkillD165Desc=Become surrounded with a ring of cinders that are harmless to you and impossible to approach for your foes.
+
+tagItemSkillD166Name=Ring of Steel
+tagItemSkillD166Desc=In the blink of an eye, hundreds of phantasmal blades encircle you at lethal speed, cutting down adjacent foes.
+
+tagItemSkillD167Name=Sacred Balance
+tagItemSkillD167Desc=Strike a balance between the opposing forces of light and darkness before unleashing their powers upon nearby foes.
+
+tagItemSkillD168Name=Screams of the Aether
+tagItemSkillD168Desc=Cries of the Aether emanate from you, terrifying nearby foes.
+
+tagItemSkillD169Name=Sealed Fate
+tagItemSkillD169Desc=You seal the fate of your foes, confident in the judgement you cast upon them.
+
+tagItemSkillD170Name=Secrets of the Guardian
+tagItemSkillD170Desc=The secrets of the Great Guardian are revealed to you. This dangerous knowledge threatens to overwhelm your senses, but also empowers your spellwork.
+
+tagItemSkillD171Name=Shadowbolt
+tagItemSkillD171Desc=You unleash a bolt of pure darkness at your foe.
+
+tagItemSkillD172Name=Shadowflame
+tagItemSkillD172Desc=Infuse your weapon with shadowflame to unleash a deadly barrage of ammo. ^oRequires a two-handed ranged weapon and activates off of default weapon attacks.
+
+tagItemSkillD173Name=Shimmering Splendor
+tagItemSkillD173Desc=The splendor of these pants is too great to behold.
+
+tagItemSkillD174Name=Siegebreaker
+tagItemSkillD174Desc=Shatters the enemy lines as the earth ruptures and breaks beneath their feet.
+
+tagItemSkillD175Name=Sigil of Consumption
+tagItemSkillD175Desc=Create an occult sigil on the ground that consumes the life-force of enemies caught within its power, returning a portion of the damage dealt as health to you.
+
+tagItemSkillD176Name=Silvercore Armament
+tagItemSkillD176Desc=Arm yourself and your allies against the fiends of the void. ^oThis ability must be toggled to maintain its effect.
+
+tagItemSkillD177Name=Slayer's Blades
+tagItemSkillD177Desc=Release a pair of spinning blades to cut down vile fiends.
+
+tagItemSkillD178Name=Soul Well
+tagItemSkillD178Desc=Tear open a rift to the beyond, unleashing a well of restless spirits that will tear at any enemy that dares enter it.
+
+tagItemSkillD179Name=Sovereign
+tagItemSkillD179Desc=Impose your supreme will upon your minions, granting them unstoppable strength.
+
+tagItemSkillD180Name=Spark of Ultos
+tagItemSkillD180Desc=A spark of Ultos himself empowers you and your minions with a fragment of the sky god's power. ^oThis ability must be toggled to maintain its effect.
+
+tagItemSkillD181Name=Split the Earth
+tagItemSkillD181Desc=Cleave the earth in two, creating a fissure of jagged stone.
+
+tagItemSkillD182Name=Storm Tap
+tagItemSkillD182Desc=Tap into the power of a storm, unleashing an electrifying cascade among your enemies.
+
+tagItemSkillD183Name=Storm Titan
+tagItemSkillD183Desc=You become suffused with lightning, shocking all who stand too close to your presence.
+
+tagItemSkillD184Name=Survival Instincts
+tagItemSkillD184Desc=Sometimes the best way to survive is to run. With a boost of adrenaline, you distance yourself from your enemies.
+
+tagItemSkillD185Name=Temporal Shift
+tagItemSkillD185Desc=You warp time around you, creating a bubble through which enemies can barely move.
+
+tagItemSkillD186Name=Thornhide
+tagItemSkillD186Desc=You become untouchable to your foes as a barrier of thorns forms around you.
+
+tagItemSkillD187Name=Tinker's Ingenuity
+tagItemSkillD187Desc=Your ingenuity allows you to thrive in the toughest moments.
+
+tagItemSkillD188Name=Titan's Might
+tagItemSkillD188Desc=You wield massive weapons with ease, a testament to your titanic strength. ^oRequires a two-handed melee weapon.
+
+tagItemSkillD189Name=Touch of Purity
+tagItemSkillD189Desc=Cleanse nearby allies of their ailments and curse minor wounds.
+
+tagItemSkillD190Name=Harvest Soul
+tagItemSkillD190Desc=Harvest the soul of your slain foe to recover your strength.
+
+tagItemSkillD191Name=Trick Shot
+tagItemSkillD191Desc=With careful aim and a little bit of luck, you pull off an unbelievable shot that catches your target by surprise.
+
+tagItemSkillD192Name=Ultos' Wrath
+tagItemSkillD192Desc=Unleash the wrath of Ultos upon the battlefield in the form of a massive lightning storm.
+
+tagItemSkillD193Name=Ulzuin's Flame
+tagItemSkillD193Desc=Cover your target with the wild flame of Ulzuin, which will hungrily spread to nearby foes as it seeks to cover the world in fire.
+
+tagItemSkillD194Name=Unchained Fury
+tagItemSkillD194Desc=Become enraged, forsaking defense for an unstoppable offense.
+
+tagItemSkillD195Name=Unmake
+tagItemSkillD195Desc=Unravel your foe's existence with a debilitating spell.
+
+tagItemSkillD196Name=Untouchable
+tagItemSkillD196Desc=Your shield becomes an impregnable barrier.
+
+tagItemSkillD197Name=Vampirism
+tagItemSkillD197Desc=Your thirst for blood becomes insatiable, but this newfound lust for sapping your enemies of their vitality comes at a heavy price. ^oThis ability must be toggled to maintain its effect.
+
+tagItemSkillD198Name=Vengeance of Cairn
+tagItemSkillD198Desc=You embody the vengeance of humanity, inspiring your allies to fight back at any cost. ^oThis ability must be toggled to maintain its effect.
+
+tagItemSkillD199Name=Venomlash
+tagItemSkillD199Desc=You lash out with blinding speed, like a viper striking its prey. Your target will seldom realize that deadly poison flows through their veins.
+
+tagItemSkillD200Name=Venom of the Black Matriarch
+tagItemSkillD200Desc=Inject your target with the deadly venom of the Black Matriarch.
+
+tagItemSkillD201Name=Venomspines
+tagItemSkillD201Desc=Venomous spines erupt around you, impaling your foes.
+
+tagItemSkillD202Name=Vile Blood
+tagItemSkillD202Desc=Corrupt the blood of your enemy, causing open sores that bleed profusely. The sudden loss of blood can prove devastating.
+
+tagItemSkillD203Name=Leeching Nova
+tagItemSkillD203Desc=A surge of necrotic energies rips the life from nearby enemies and transfers it to you.
+
+tagItemSkillD204Name=Voidwalker
+tagItemSkillD204Desc=You are resistant to the corrupting effects of the void, putting up a barrier whenever threatened by vile fiends.
+
+tagItemSkillD205Name=Ward of Gul'Amash
+tagItemSkillD205Desc=The Ward of Gul'Amash shields you from physical harm.
+
+tagItemSkillD206Name=Ward of Illusion
+tagItemSkillD206Desc=Create shimmering illusions and yourself and your allies that distract your foes. ^oThis ability must be toggled to maintain its effect.
+
+tagItemSkillD207Name=Warpfire
+tagItemSkillD207Desc=Ignite your foe with aetherfire, weakening them against further arcane assault.
+
+tagItemSkillD208Name=Wildblood
+tagItemSkillD208Desc=Your wild heritage throws you into a frenzy.
+
+tagItemSkillD209Name=Wildvines
+tagItemSkillD209Desc=Vines grow wildly around your foes, entangling them and infecting them with toxins.
+
+tagItemSkillD210Name=Will of the Living
+tagItemSkillD210Desc=Your will to survive makes you all the harder to kill when your life dwindles on the edge of death.
+
+tagItemSkillD211Name=Windshear
+tagItemSkillD211Desc=You become like the wind, swift and difficult to pinpoint.
+
+tagItemSkillD212Name=Winter's Veil
+tagItemSkillD212Desc=Orbs of jagged ice swirl around you in a freezing whirlwind.
+
+tagItemSkillD213Name=Witchblaze
+tagItemSkillD213Desc=A blaze of entropic fire erupts from you.
+
+tagItemSkillD214Name=Witching Hour
+tagItemSkillD214Desc=The witching hour is upon us, empowering your minions and your occult spellwork.
+
+tagItemSkillD215Name=Wraith Walk
+tagItemSkillD215Desc=You step through the veil to become like the dead, barely perceiving the physical realm around you.
+
+tagItemSkillD216Name=Wrath of the Dead
+tagItemSkillD216Desc=Unleash the revenge of the recently slain upon your foes.
+
+tagItemSkillD217Name=Ice Wyrm's Breath
+tagItemSkillD217Desc=Release the breath of the great ice wyrm upon your foes.
+
+tagItemSkillD218Name=Volcanic Wyrm's Breath
+tagItemSkillD218Desc=Release the breath of the great volcanic wyrm upon your foes.
+
+tagItemSkillD219Name=Wyrmscale
+tagItemSkillD219Desc=The wyrmscale shields you from fire and electrocution.
+
+tagItemSkillD220Name=Zolhan's Revenge
+tagItemSkillD220Desc=Zolhan was an expert in keeping his enemies off balance. Just when they would think they had the advantage, he would strike back with a devastating blow from his shield.
+
+tagItemSkillD221Name=Basilisk Blood
+tagItemSkillD221Desc=Foes who strike you become infected with basilisk blood which, just like the beast's unusual glare, can turn a creature to solid stone.
+
+tagItemSkillD222Name=Healing Light
+tagItemSkillD222Desc=A soothing light washes over you, mending wounds.
+
+tagItemSkillD223Name=Time Warp
+tagItemSkillD223Desc=Tear a warp in time itself at the location of your attacker.
+
+tagItemSkillD224Name=Wrath of the Grim Dawn
+tagItemSkillD224Desc=Unleash the suffering and destruction ushered unto the world at the time of the Grim Dawn.
+
 
 tagItemSkillFailName=Failchantment
 tagItemSkillFailDesc=Fail a little harder.
@@ -1483,10 +2076,10 @@ tagRelicSkillB011Name=Troll Rage
 tagRelicSkillB011Desc=Wage battle like a ruthless half-troll. When used as your default weapon attack, Troll Rage throws you into an ever deeper fury with every strike, but at the cost of focus. ^oRequires a melee weapon. Building up charges increases the potency of the bonuses.
 
 tagRelicSkillB012Name=Mutilate
-tagRelicSkillB012Desc=Mutilates your target with three quick attacks, causing heavy bleeding. ^oThis is a melee dual-wielding technique. Also enables the ability to dual wield melee weapons.
+tagRelicSkillB012Desc=Mutilates your target with three quick attacks, causing heavy bleeding. ^oThis is a melee dual-wielding technique that activates off of default weapon attacks. Also enables the ability to dual wield melee weapons.
 
 tagRelicSkillB013Name=Volley
-tagRelicSkillB013Desc=Unleash a calculated volley of bullets at your target. ^oThis is a ranged dual-wielding technique. Also enables the ability to dual wield ranged weapons.
+tagRelicSkillB013Desc=Unleash a calculated volley of bullets at your target. ^oThis is a ranged dual-wielding technique that activates off of default weapon attacks. Also enables the ability to dual wield ranged weapons.
 
 tagRelicSkillC001Name=Gavel of Justice
 tagRelicSkillC001Desc=Pass righteous judgement upon the wicked. ^oRequires a two-handed melee weapon.
@@ -1513,7 +2106,7 @@ tagRelicSkillC008Name=Conflagration
 tagRelicSkillC008Desc=Unleash a beam of pure flame so intense that not even the toughest armor can withstand it. ^oThis is a channeled skill and must be held down to maintain.
 
 tagRelicSkillC009Name=Summon Stormhound
-tagRelicSkillC009Desc=Call forth a loyal Stormhound, an eldritch beast born of the heavens. ^oOnly one Stormhound can be summoned at any one time.
+tagRelicSkillC009Desc=Call forth a loyal Stormhound, an eldritch beast born of the heavens. ^oOnly one Stormhound can be summoned at any one time. The stormhound scales with Pet Bonuses.
 
 tagRelicSkillC010Name=Deathchill Aura
 tagRelicSkillC010Desc=Empower your attacks and those of your nearby allies with the ghastly chill of death. ^oThis ability must be toggled to maintain its effect.
@@ -1541,7 +2134,7 @@ tagRelicSkillD002Name=Malediction
 tagRelicSkillD002Desc=Imbue your weapons with caustic poisons and virulent disease, infecting your enemies with every strike. ^oThis ability must be toggled to maintain its effect.
 
 tagRelicSkillD003Name=Summon Nemesis
-tagRelicSkillD003Desc=Call forth Nemesis, demigod of the shadows and lord of the night hunt. ^oYou can only summon one manifestation of Nemesis at any one time.
+tagRelicSkillD003Desc=Call forth Nemesis, demigod of the shadows and lord of the night hunt. ^oYou can only summon one manifestation of Nemesis at any one time. Nemesis scales with player damage bonuses.
 
 tagRelicSkillD004Name=Citadel
 tagRelicSkillD004Desc=Empower your defenses and those of your allies to become a moving fortress. ^oRequires a shield. This ability must be toggled to maintain its effect.
@@ -1556,13 +2149,13 @@ tagRelicSkillD007Name=Scourge Strike
 tagRelicSkillD007Desc=Strike at your enemies with a chilling blow that cuts to their very core with death's chill, returning some of the stolen vitality to you. ^oRequires a melee weapon.
 
 tagRelicSkillD008Name=Pyroclasm
-tagRelicSkillD008Desc=Unleash a storm of hellfire that tears through the heavens to descend upon your enemies.
+tagRelicSkillD008Desc=A wild flame spirals out from your position, incinerating anything that comes too close with Ulzuin's wrathful touch.
 
 tagRelicSkillD009Name=Necrosis
 tagRelicSkillD009Desc=Invoke a debilitating curse upon your enemies, causing their flesh to rot and their senses to slow.
 
-tagRelicSkillD010Name=Conjure Flesh Hulk
-tagRelicSkillD010Desc=Perform a forbidden ritual reminiscent of the Arcanist Agrivix's old techniques, summoning a Flesh Hulk to do your bidding.
+tagRelicSkillD010Name=Agrivix's Malice
+tagRelicSkillD010Desc=Harness the fury of Agrivix, creating swirling bursts of aether and chaos energy around you.
 
 tagRelicSkillD011Name=Oblivion
 tagRelicSkillD011Desc=Unleash the pure destructive force of chaos upon your enemies.
@@ -1592,10 +2185,10 @@ tagRelicSkillD019Name=Oleron's Wrath
 tagRelicSkillD019Desc=Become empowered with the power of the war god's blood, unleashing his wrath upon nearby enemies.
 
 tagRelicSkillD020Name=Menhir's Bastion
-tagRelicSkillD020Desc=Become empowered with the protective spirit of Menhir, shielding yourself and your allies from physical harm. ^oRequires a shield.
+tagRelicSkillD020Desc=Become empowered with the protective spirit of Menhir, shielding yourself and your allies from harm.
 
 tagRelicSkillD021Name=Elemental Imbalance
-tagRelicSkillD021Desc=Suffering harm disrupts your careful balance between the elements, unleashing a surge of power that will make your foes regret ever coming near you. ^oRequires a Caster Off-hand.
+tagRelicSkillD021Desc=Suffering harm disrupts your careful balance between the elements, unleashing a surge of power that will make your foes regret ever coming near you. ^oRequires a Caster Off-Hand.
 
 
 
@@ -1663,7 +2256,7 @@ tagConsumableSkill_F05Desc=Coats your weapon with Dermapteran toxin.
 tagConsumableSkill_F06=Courageous Tincture
 tagConsumableSkill_F06Desc=Fills you and your allies with the will to keep on fighting.
 tagConsumableSkill_F07=Heartseeker Oil
-tagConsumablevF07Desc=Coats your weapon with the Heartseeker toxin.
+tagConsumableSkill_F07Desc=Coats your weapon with the Heartseeker toxin.
 tagConsumableSkill_F08=Blade-Ward Tincture
 tagConsumableSkill_F08Desc=Surrounds you with swirling blades that strike anything that attacks you.
 tagConsumableSkill_F09=Ice-Blood Oil
@@ -1698,29 +2291,308 @@ DevotionPointsTotal=Points Unlocked: {%d0} / {%d1}
 tagConfirmSkillChanges=Confirm changes?
 
 #SkillDevotion
-tagDevotionHammerAndAnvil=Hammer and Anvil
-tagDevotionNorthWinds=Winds of The North
-tagDevotionAutumnBoar=Autumn Boar
-tagDevotionSerpent=Three Headed Serpent
-tagDevotionShepherd=Shepherd's Crook
-tagDevotionTreeOfLife=Tree of Life
-tagDevotionMenhir=Menhir
-tagDevotionRaven=The Raven
-tagDevotionBysmiel=Bysmiel's Bonds
-tagDevotionHunter=The Hunter
-tagDevotionMogdrogen=Mogdrogen the Wolf
-tagDevotionHarvestman=Harvestman's Scythe
-tagDevotionBat=The Bat
-tagDevotionSpear=Spear of the Heavens
-tagDevotionOleron=Oleron
-tagDevotionBear=The Bear
-tagDevotionUlzuin=Ulzuin's Torch
-tagDevotionDyingGod=The Dying God
-tagDevotionMagi=The Magi
-tagDevotionAssassin=The Assassin
-tagDevotionAkeron=Akeron's Scorpion
+tagDevotionInfo=In its darkest hour, humanity turns to the stars. Devote yourself to the celestial symbols and deities of old. Reclaim their ancient power.
 
-tagDevotionInfo=In its darkest hour, humanity turns to the stars. Devote yourself to the celestial symbols and deities of old to claim their ancient power.
+tagDevotionAffinity01=Ascendant
+tagDevotionAffinity01Info=The quantity of Ascendant Affinity you have harnessed.^n^nAscendant beings have risen to godlike status through immense feats or reverence from their lessers.
+tagDevotionAffinity02=Chaos
+tagDevotionAffinity02Info=The quantity of Chaos Affinity you have harnessed.^n^nChaotic beings crave entropy and destruction above all else.
+tagDevotionAffinity03=Eldritch
+tagDevotionAffinity03Info=The quantity of Eldritch Affinity you have harnessed.^n^nEldritch beings represent the wild forces of magic and the metaphysical realms beyond the veil.
+tagDevotionAffinity04=Order
+tagDevotionAffinity04Info=The quantity of Order Affinity you have harnessed.^n^nBeings of Order cherish harmony and balance in all things.
+tagDevotionAffinity05=Primordial
+tagDevotionAffinity05Info=The quantity of Primordial Affinity you have harnessed.^n^nPrimordial beings embody the powers of creation, life, death, and reality itself.
+
+tagDevotion_RequiresSword=^oRequires a sword.
+tagDevotion_RequiresAxe=^oRequires an axe.
+tagDevotion_RequiresMace=^oRequires a mace.
+tagDevotion_RequiresCaster=^oRequires a scepter or dagger.
+tagDevotion_RequiresFocus=^oRequires a caster off-hand.
+tagDevotion_Requires1hRange=^oRequires a one-handed ranged weapon.
+tagDevotion_Requires2hRange=^oRequires a two-handed ranged weapon.
+tagDevotion_RequiresShield=^oRequires a shield.
+
+tagDevotion_A01=Bat
+tagDevotion_A01Desc=The vampiric bat easily finds its way across the night sky, hunting for flickers of lost stars to sap of their light.
+tagDevotion_A02=Akeron's Scorpion
+tagDevotion_A02Desc=Akeron was doomed to walk the desert until dead, but fate intervened in the form of a scorpion which led the sun-dazed mortal to water. Akeron survived his sentence and returned to take revenge upon those who had left him to die with the use of scorpion venom.
+tagDevotion_A03=Raven
+tagDevotion_A03Desc=The raven represents guile. It is for this reason that the witch gods have taken favor in ravens as their familiars and messengers.
+tagDevotion_A04=Hammer
+tagDevotion_A04Desc=The hammer strikes down upon the anvil with divine force, forging arms for the gods at Targo's firm grip.
+tagDevotion_A05=Anvil
+tagDevotion_A05Desc=The anvil absorbs the hammer's blows, an indispensible tool in Targo's celestial forge.
+tagDevotion_A06=Shepherd's Crook
+tagDevotion_A06Desc=The shepherd guides his celestial flock across the night sky.
+tagDevotion_A07=Sailor's Guide
+tagDevotion_A07Desc=The sailor's guide serves as a celestial marker for those lost at sea. Its guiding light has saved many a sailor braving the tumultuous waters.
+tagDevotion_A08=Assassin's Blade
+tagDevotion_A08Desc=The assassin's dagger, the favored tool of the sanctioned killer.
+tagDevotion_A09=Eye of the Guardian
+tagDevotion_A09Desc=Dreeg, the witch god, is said to have peered beyond the veil and witnessed the truth of all things. For that, the gods have cursed his mortal form into a spined abomination with a thousand lidless eyes. He now stands immortal guard over the veil, his peerless gaze ever watchful for those who would dare follow in his stead.
+tagDevotion_A10=Falcon
+tagDevotion_A10Desc=The falcon's sharp gaze scans the skies for easy prey.
+tagDevotion_A11=Eel
+tagDevotion_A11Desc=The eel glides gently across the night sky, its slick form impossible to grasp.
+tagDevotion_A12=Owl
+tagDevotion_A12Desc=The owl represents wisdom and scholarly pursuits. Spellwork is believed to be more potent under the gaze of the owl.
+tagDevotion_A13=Viper
+tagDevotion_A13Desc=The viper represents the flow of energy between the living world and the aether, which powers all forms of magic.
+tagDevotion_A14=Gallows
+tagDevotion_A14Desc=The gallows is a solemn sign of passed judgement and deadly portents.
+tagDevotion_A15=Crossroads
+tagDevotion_A15Desc=The crossroads mark the changing of ways, the opening of endless possibilities.
+tagDevotion_A16=Empty Throne
+tagDevotion_A16Desc=When Rhowan of Arkovia abdicated his throne, the seat of power remained vacant until the fall of the once great nation as its oligarchs bickered amongst themselves for power.
+tagDevotion_A17=Rat
+tagDevotion_A17Desc=The plague rat skitters across the night sky, careful to avoid the gaze of the falcon and hawk.
+tagDevotion_A18=Tsunami
+tagDevotion_A18Desc=The tsunami marks the most dangerous time of the year to take to the great seas, with frequent storms and devastating waves ruining many an expedition. Wise captains plan their journeys to avoid the storm season.
+tagDevotion_A19=Imp
+tagDevotion_A19Desc=The imp is a trickster, its constellation flickering in and out of view throughout the year.
+tagDevotion_A20=Fiend
+tagDevotion_A20Desc=The fiend hides in the darkness of the void, hungry for wayward stars to extinguish.
+tagDevotion_A21=Bull
+tagDevotion_A21Desc=The bull charges across the night sky with determination and strength.
+tagDevotion_A22=Wraith
+tagDevotion_A22Desc=The wraith roams the skies for all eternity, its final judgement by Ulcama never passed.
+tagDevotion_A23=Harpy
+tagDevotion_A23Desc=The harpy represents dark omens. To be born under her light is seen as a sign of shame, driving some families to abandon such children altogether.
+tagDevotion_A24=Fox
+tagDevotion_A24Desc=The wily fox leaps playfully across the night sky.
+tagDevotion_A25=Ghoul
+tagDevotion_A25Desc=The ghoul embodies corruption and decay, its counterpart is the dryad.
+tagDevotion_A26=Dryad
+tagDevotion_A26Desc=The dryad embodies nature's spirit and purity, her counterpart is the ghoul.
+tagDevotion_A27=Hawk
+tagDevotion_A27Desc=The hawk soars through the heavens, seeking its next meal.
+tagDevotion_A28=Wolverine
+tagDevotion_A28Desc=The wolverine represents untamed ferocity.
+tagDevotion_A29=Tortoise
+tagDevotion_A29Desc=The tortoise represents fortitude and unyielding dedication.
+tagDevotion_A30=Panther
+tagDevotion_A30Desc=The panther represents spiritual strength and dexterity.
+tagDevotion_A31=Crane
+tagDevotion_A31Desc=The crane represents harmony and peace, its counterpart is the vulture.
+tagDevotion_A32=Vulture
+tagDevotion_A32Desc=The vulture represents disorder and chaos, its counterpart is the crane.
+tagDevotion_A33=Hound
+tagDevotion_A33Desc=The loyal hound awaits the call of its celestial masters, ever eager to follow the huntress onto another hunt.
+tagDevotion_A34=Spider
+tagDevotion_A34Desc=The spider weaves its web in the night sky, trapping rogue stars for the gods to weave into their celestial tapestry.
+tagDevotion_A35=Lizard
+tagDevotion_A35Desc=The lizard was one of the first spawn of the celestial Tree of Life, the forefather of all reptiles.
+tagDevotion_A36=Scholar's Light
+tagDevotion_A36Desc=The scholar's light glows brightly when sleep-deprived scholars are still working under the dim glow of their candles.
+tagDevotion_A37=Lion
+tagDevotion_A37Desc=The lion represent bravery, valor, the birth of kings.
+tagDevotion_A38=Jackal
+tagDevotion_A38Desc=The jackal skulks through the sky, searching for easy pickings.
+
+tagDevotion_B01=Rhowan's Crown
+tagDevotion_B01Desc=It is said that when Rhowan of Arkovia abdicated his throne, his crown and scepter were quickly lost, only to be found in the night sky the following day.
+tagDevotion_B02=Scales of Ulcama
+tagDevotion_B02Desc=Ulcama, the judge, presides over the heavens and judges the lives of all mortals. It is said that all of a person's deeds are placed upon his golden scales, and should the evils of their life outweigh the good, their spirit is forever banished into the void.
+tagDevotion_B03=Wendigo
+tagDevotion_B03Desc=The wendigo is a primal hunger spirit. Many shamans go against their very teachings and try to make a pact with wendigos in the hope of invoking the vile spirits upon their enemies; but wendigos are ultimately very perilous to control and have driven many  shamans mad, filling them with an insatiable hunger that inevitably leads to cannibalism.
+tagDevotion_B04=Huntress
+tagDevotion_B04Desc=The huntress roams the night sky, stalking her celestial prey. It is said that her eternal hunt will end when at last she slays the immortal hydra.
+tagDevotion_B05=Dire Bear
+tagDevotion_B05Desc=The dire bear is a symbol of pride and physical might. Those born under its light are said to descend from the kings of old.
+tagDevotion_B06=Assassin
+tagDevotion_B06Desc=The assassin, the celestial executioner is rarely seen in the night sky. Its arrival is often cloaked in thick clouds, from which it emerges for brief moments before disappearing once more into the veil.
+tagDevotion_B07=Magi
+tagDevotion_B07Desc=The magi is the patron of all practitioners of magic. Those born under his gaze are said to be blessed, or cursed depending on the point of view, with unparalleled control over arcane forces.
+tagDevotion_B08=Autumn Boar
+tagDevotion_B08Desc=The autumn boar's arrival in the sky marks the beginning of a celebration of the fall season and the changing of the leaves. The event begins with a great hunt and ends with a feast that lasts until the meat and beer run dry.
+tagDevotion_B09=Widow
+tagDevotion_B09Desc=The widow mourns for the lost and the dead. When streaks of light mark the night sky, they are said to be the widow's tears.
+tagDevotion_B10=Revenant
+tagDevotion_B10Desc=The revenant represents death and misery. It is said that none can escape its deathly gaze, not even the gods themselves.
+tagDevotion_B11=Solael's Witchblade
+tagDevotion_B11Desc=Solael is said to be the most cruel of the three witch gods, having carved open countless victims with his curved sacrificial blade in his mad pursuit of immortality.
+tagDevotion_B12=Bysmiel's Bonds
+tagDevotion_B12Desc=It is said that Bysmiel, the witch god, was headed to the gallows when he abandoned his mortal form and ascended into the heavens, his broken chains the only sign of his escape.
+tagDevotion_B13=Tempest
+tagDevotion_B13Desc=The tempest is said to shine brightest when a dangerous storm looms on the horizon. Children born during a thunderstorm are believed marked for great things.
+tagDevotion_B14=Targo the Builder
+tagDevotion_B14Desc=Targo is the patron of craftsmen and architects, the god believed to have created the celestial tapestry upon which all stars now rest.
+tagDevotion_B15=Amatok the Spirit of Winter
+tagDevotion_B15Desc=In the winter months this constellation appears on the northern horizon. It is said that travelers in desperation who follow the guiding star of Amatok may come upon his lodge. Those who enter will be allowed to sit at his blazing hearth and share in a bountiful feast but those who are foolish, Amatok will flay and prepare as his feast on the following night. 
+tagDevotion_B16=Affliction
+tagDevotion_B16Desc=The appearance of the affliction in the sky, following the great feast of the Autumn Boar, marks the beginning of the cold months, when disease and decay turn Cairn into a bleak contrast to the prosperous months of harvest.
+tagDevotion_B17=Crab
+tagDevotion_B17Desc=The crab marks the beginning of the most prosperous fishing season of the year, but also one of the most dangerous as the larger spawns of the sea come closer to shore following the migration patterns of the smaller fish and crabs.
+tagDevotion_B18=Manticore
+tagDevotion_B18Desc=The manticore is a vicious predator that roams the night sky in search of its next meal. Its bite and tail are filled with venom.
+tagDevotion_B19=Solemn Watcher
+tagDevotion_B19Desc=Symon, the watcher, stood guard at Symon's Ward til his dying day, protecting the empire from supernatural threats. Symon's eternal vigil continues in the celestial sky, watching over Cairn as he did in life.
+tagDevotion_B20=Messenger of War
+tagDevotion_B20Desc=The messenger of war is a symbol of fear and tyranny. The messenger rides across the starry void, heralding in a new age of conflict and strife.
+tagDevotion_B21=Kraken
+tagDevotion_B21Desc=Sea captains are known to refuse voyage if the Kraken is bright in the sky without the light of the Sailor's Guide to protect them.
+tagDevotion_B22=Hydra
+tagDevotion_B22Desc=The mythical beast roams the night sky, immortal and imposing. Its many heads are said to regrow within moments.
+tagDevotion_B23=Blades of Nadaan
+tagDevotion_B23Desc=Nadaan is the guardian of thieves and assassins. The appearance of his blades in the sky is often interpreted as a sign of ill omen; that an evil, but necessary, act is about to be carried out.
+tagDevotion_B24=Rhowan's Scepter
+tagDevotion_B24Desc=It is said that when Rhowan of Arkovia abdicated his throne, his crown and scepter mysteriously disappeared, only to be found in the night sky the following day.
+tagDevotion_B25=Berserker
+tagDevotion_B25Desc=The berserker is the wild and untamed matron of war. She represents strength and ferocity.
+tagDevotion_B26=Oklaine's Lantern
+tagDevotion_B26Desc=Oklaine, is the guardian of mages and sorcerers. It is said that his guiding light serves as a beacon when traversing the veil between reality and the aether.
+tagDevotion_B27=Shieldmaiden
+tagDevotion_B27Desc=The shieldmaiden stands guard over the stars, so that none leave their celestial positions without the behest of the gods.
+tagDevotion_B28=Behemoth
+tagDevotion_B28Desc=The behemoth serves the gods, endlessly moving and shifting the countless stars in the sky at their command.
+tagDevotion_B29=Chariot of the Dead
+tagDevotion_B29Desc=The chariot of the dead gathers wayward souls and delivers them to their final judgement across the veil.
+tagDevotion_B30=Ulo the Keeper of the Waters
+tagDevotion_B30Desc=Ulo represents the endless cycle and unstoppable flow of water, renewing all the rivers of the world and in turn the lakes and the seas.
+tagDevotion_B31=Harvestman's Scythe
+tagDevotion_B31Desc=The scythe represents bounty and the time of harvests. It shines brightest in the hottest months, before giving way to the Autumn Boar.
+
+tagDevotion_C01=Aeon's Hourglass
+tagDevotion_C01Desc=Aeon is known as the keeper of time, the master of fate's thread. It is by his judgement that mortals are born and die. His symbol is the hourglass.
+tagDevotion_C02=Abomination
+tagDevotion_C02Desc=Golgoran, the abomination, represents humanity's basest instincts, fear of death and shadows, the desire to have what you have not. The abomination embodies all that turns man wicked.
+tagDevotion_C03=Light of Empyrion
+tagDevotion_C03Desc=Empyrion, the greatest among the gods, is the light of the world and protector of all of Cairn. It is by his mercy and example that the sun greets mankind each day.
+tagDevotion_C04=Oleron
+tagDevotion_C04Desc=Tragic is the tale of Oleron, who would come to be known as the war god. When faced with the destruction of his nation, Oleron made the difficult choice to rise to the defense of his people, but the victory cost him his wife and only child. The loss weighed heavily upon the war hero, and legends say that he would charge recklessly into battle since that day, seeking death upon a foe's blade so that he could be reunited with his family. But the bittersweet release had never come. To this day, when soldiers charge into battle, they call upon Oleron's name to grant them strength and courage.
+tagDevotion_C05=Obelisk of Menhir
+tagDevotion_C05Desc=Menhir, god of the earth, is a steadfast protector of Cairn. He is prayed to equally both by men eager to defend their home and farmers hoping for a bountiful crop. Ancient stone monoliths mark sacred grounds of Menhir to this day.
+tagDevotion_C06=Spear of the Heavens
+tagDevotion_C06Desc=The Spear of the Heavens is the celestial symbol of power. It is said that the Spear was wielded by Empyrion himself when he smote down the Dying God and shattered the deity into a thousand-thousand pieces.
+tagDevotion_C07=Ulzuin's Torch
+tagDevotion_C07Desc=Ulzuin the Betrayed was once a god of healing and ceremonies, but millennia of torment following a most grisly betrayal from his lover has twisted the once benevolent entity into a bitter deity interested only in vengeance and destruction.
+tagDevotion_C08=Dying God
+tagDevotion_C08Desc=In an age preceding the creation of the mortal planes, an elder god was betrayed by his children; his body torn apart and drained of blood so that they could use it's power to breathe life into their own creations. His remains were cast out of creation into a void but, incapable of death, the god lingered on in the darkness, doomed to an eternity of pain and madness; feeling the suffering and death of all mortal things that were given life from his blood. His name forgotten by time, the dying god is known only as Ch'thon; he who dwells below creation.
+tagDevotion_C09=Tree of Life
+tagDevotion_C09Desc=Legends say that when the world was first born from the darkness of the void, a single tree was planted which would come to bear all the fruit and animals of the world.
+tagDevotion_C10=Mogdrogen the Wolf
+tagDevotion_C10Desc=A titan created during the war of the gods, Mogdrogen has become the god of beasts and is said to roam the wild reaches of Cairn. Legends claim Mogdrogen is a shapeshifter, usually seen as a giant wolf but occasionally taking other forms, even that of a human. Mogdrogen roams the far reaches of Cairn, guarding the wilds against the encroachment of civilization.
+tagDevotion_C11=Blind Sage
+tagDevotion_C11Desc=Many would travel thousands of miles to seek out the wisdom of the great blind sage, but most would leave unsatisfied, their souls underserving of her ageless wisdom.
+tagDevotion_C12=Leviathan
+tagDevotion_C12Desc=The great serpent in the sky, devourer of stars and deliverer of the cold chill of night.
+tagDevotion_C13=Unknown Soldier
+tagDevotion_C13Desc=Many a legend are told about the nameless men and women who were felled in battle, their valor and deeds never acknowledged. In honor of their sacrifice, the stars themselves were rearranged to form the Unknown Soldier.
+
+tagDevotionEffectA01=Twin Fangs
+tagDevotionEffectA01Desc=Vampric fangs assault your foes and sap them of vitality.
+tagDevotionEffectA02=Scorpion Sting
+tagDevotionEffectA02Desc=Spines coated with deadly toxin erupt around you.
+tagDevotionEffectA05=Targo's Hammer
+tagDevotionEffectA05Desc=Targo's celestial hammer orbits around you, striking down nearby foes.
+tagDevotionEffectA06=Shepherd's Call
+tagDevotionEffectA06Desc=Call upon your minions to join you in battle.
+tagDevotionEffectA08=Assassin's Mark
+tagDevotionEffectA08Desc=Mark your target for a swift and painful death.
+tagDevotionEffectA09=Guardian's Gaze
+tagDevotionEffectA09Desc=A peerless eye of the Great Guardian circles around you.
+tagDevotionEffectA10=Falcon Swoop
+tagDevotionEffectA10Desc=A cast of celestial falcons swoops down upon your foes.
+tagDevotionEffectA18=Tsunami
+tagDevotionEffectA18Desc=A torrent of water crashes down upon any foes unfortunate enough to be standing in front of you.
+tagDevotionEffectA19=Aetherfire
+tagDevotionEffectA19Desc=A small burst of aetherfire erupts at your target's feet.
+tagDevotionEffectA20=Flame Torrent
+tagDevotionEffectA20Desc=Devilish flames swirl around you, incinerating all they touch.
+tagDevotionEffectA21=Bull Rush
+tagDevotionEffectA21Desc=Strike nearby foes in a rush of physical force, like a charging bull. ^oRequires a melee weapon.
+tagDevotionEffectA25=Ghoulish Hunger
+tagDevotionEffectA25Desc=When cornered, you are thrown into a ghoulish fervor, desperate for a morsel of flesh.
+tagDevotionEffectA26=Dryad's Blessing
+tagDevotionEffectA26Desc=The dryad's blessing cleanses your wounds and wards you against poison.
+tagDevotionEffectA29=Turtle Shell
+tagDevotionEffectA29Desc=When threatened, a protective barrier forms around you, negating further harm.
+
+tagDevotionEffectB01=Elemental Storm
+tagDevotionEffectB01Desc=A crackling whirlwind of flame and ice manifests itself at your command.
+tagDevotionEffectB02=Tip the Scales
+tagDevotionEffectB02Desc=Tip the scales in your favor, sapping your attackers of vitality and transferring it to you.
+tagDevotionEffectB03=Wendigo's Mark
+tagDevotionEffectB03Desc=You mark your foes with the sign of the wendigo, sapping them of what little there is left of their vitality and transferring it to you.
+tagDevotionEffectB04=Rend
+tagDevotionEffectB04Desc=Shred your foes, exposing delicate arteries and inducing intense bleeding.
+tagDevotionEffectB05=Maul
+tagDevotionEffectB05Desc=Maul your foes with the might of a dire bear. ^oRequires a melee weapon.
+tagDevotionEffectB06=Blades of Wrath
+tagDevotionEffectB06Desc=Push the advantage by unleashing a burst of phantasmal blades that pass through enemies with ease.
+tagDevotionEffectB07=Fissure
+tagDevotionEffectB07Desc=A fissure opens in the earth, spewing lava and brimstone upon nearby foes.
+tagDevotionEffectB07_Pet01=Magma
+tagDevotionEffectB08=Trample
+tagDevotionEffectB08Desc=Unleash a wave of force from your shield that shatters the very earth and scatters your foes.
+tagDevotionEffectB09=Arcane Bomb
+tagDevotionEffectB09Desc=Mark the ground with an arcane sigil that erupts upon coming in contact with an enemy. ^oArcane Bombs take 1 second to arm.
+tagDevotionEffectB09_Pet01=Detonate
+tagDevotionEffectB10=Raise the Dead
+tagDevotionEffectB10Desc=Raise the dead to serve you. The necrotic energies required for this ritual are very unstable however, and the undead minions will only exist for a limited time.
+tagDevotionEffectB10_Pet01=Melee Attack
+tagDevotionEffectB11=Eldritch Fire
+tagDevotionEffectB11Desc=Eldritch flames erupt from your blows and spread wildly among your foes.
+tagDevotionEffectB12=Bysmiel's Command
+tagDevotionEffectB12Desc=Call forth an eldritch hound to snap and tear at your foes. The hound's presence in the physical realm is unstable and it will only remain at your side for a limited time. ^oThe hound scales with Pet Bonuses.
+tagDevotionEffectB12_Pet01=Tooth and Claw
+tagDevotionEffectB12_Pet02=Plague Breath
+tagDevotionEffectB13=Reckless Tempest
+tagDevotionEffectB13Desc=Static energy swells within you, unleashed upon nearby foes in the form of destructive bolts of lightning.
+tagDevotionEffectB14=Shield Wall
+tagDevotionEffectB14Desc=Your shield turns into a barrier that extends beyond its physical limitations. ^oRequires a shield.
+tagDevotionEffectB15=Blizzard
+tagDevotionEffectB15Desc=Shards of razor-sharp ice rain down from the sky upon your foes.
+tagDevotionEffectB16=Fetid Pool
+tagDevotionEffectB16Desc=A festering pool erupts beneath your enemies, corrupting the ground.
+tagDevotionEffectB17=Elemental Barrier
+tagDevotionEffectB17Desc=Your shield becomes a barrier against the forces of magic.
+tagDevotionEffectB18=Acid Spray
+tagDevotionEffectB18Desc=The manticore's sting pierces through your target, creating a spray of caustic acid behind them.
+tagDevotionEffectB20=Messenger of War
+tagDevotionEffectB20Desc=Carry on your message of conquest, unimpeded by any foe.
+tagDevotionEffectB28=Giant's Blood
+tagDevotionEffectB28Desc=Giant's blood flows through your veins, incurring improved regeneration and healing.
+tagDevotionEffectB29=Wayward Soul
+tagDevotionEffectB29Desc=Sacrifice a wayward soul to ward yourself against the specter of death.
+tagDevotionEffectB30=Cleansing Waters
+tagDevotionEffectB30Desc=Ulo's cleansing waters purge all foul magic from the area, removing beneficial auras and spells from foes while allies are cleansed of negative ailments.
+
+tagDevotionEffectC01=Time Stop
+tagDevotionEffectC01Desc=The sands of the hourglass halt their ceasless motion, stopping time for foes that dare strike you.
+tagDevotionEffectC02=Vile Eruption
+tagDevotionEffectC02Desc=The corruption trapped within you is unleashed in a massive explosion of vile toxins.
+tagDevotionEffectC03=Abominable Might
+tagDevotionEffectC03Desc=The chaotic powers of the Void flow through you, turning your weapons into conduits for your fiendish might.
+tagDevotionEffectC04=Light of Empyrion
+tagDevotionEffectC04Desc=The divine light of Empyrion banishes the darkness and sears your foes.
+tagDevotionEffectC05=Blind Fury
+tagDevotionEffectC05Desc=Exhilarated by the blood and gore you spill, you violently assault all nearby foes in a flurry of vicious blows. ^oRequires a melee weapon.
+tagDevotionEffectC06=Stone Form
+tagDevotionEffectC06Desc=Your flesh becomes as stone, nearly impervious to all but the toughest blows.
+tagDevotionEffectC07=Spear of the Heavens
+tagDevotionEffectC07Desc=A celestial spear smites foes who dare strike you.
+tagDevotionEffectC08=Meteor Shower
+tagDevotionEffectC08Desc=At your behest, the sky splits open to unleash a barrage of molten rock.
+tagDevotionEffectC09=Hungering Void
+tagDevotionEffectC09Desc=The hungering void empowers you, your allies and your minions, but the power gained comes at a heavy toll to the body.
+tagDevotionEffectC09_Pet01=Devour
+tagDevotionEffectC09_Pet02=Tooth and Claw
+tagDevotionEffectC10=Healing Rain
+tagDevotionEffectC10Desc=A soothing mist emanates from you, mending wounds and curing ailments.
+tagDevotionEffectC11=Howl of Mogdrogen
+tagDevotionEffectC11Desc=Driven by the thrill of a fresh kill, you throw your minions into a fervent rage.
+tagDevotionEffectC12=Elemental Seeker
+tagDevotionEffectC12Desc=Conjure an eldritch creature of pure energy that seeks out and burns nearby foes with its very presence before returning to the Aether in an explosion of energy. ^oElemental Seekers scale with player damage bonuses.
+tagDevotionEffectC12_Pet01=Burning Presence
+tagDevotionEffectC12_Pet02=Detonate
+tagDevotionEffectC13=Whirlpool
+tagDevotionEffectC13Desc=The stirring depths are unleashed as a hungering whirlpool appears to devastate your foes.
+tagDevotionEffectC14=Living Shadow
+tagDevotionEffectC14Desc=A manifestation of a nameless hero rises to fight alongside you. ^oLiving Shadows scale with player damage bonuses.
+tagDevotionEffectC14_Pet01=Shadow Strike
+tagDevotionEffectC14_Pet02=Shadow Blades
 
 #SkillsReallocator
 
@@ -1729,7 +2601,7 @@ tagReallocateError02=You do not have enough iron bits to remove any more skill p
 tagReallocateError03=You cannot remove points from your Mastery.
 tagDecreaseMasteryError=Cannot reclaim points from the mastery.
 tagReclaimPoint=Click to Reclaim Skill Point (Cost {^s}{%t0}{^-} Iron Bits)
-tagReclaimDevotionPoint=Click to Reclaim Devotion Point (Cost {^s}{%t0}{^-} Iron Bits, {^g}{%t1}{^-} Aether)
+tagReclaimDevotionPoint=Click to Reclaim Devotion Point (Cost {^s}{%t0}{^-} Iron Bits, {^g}{%t1}{^-} Aether Crystal)
 tagRemovePoint=Left click to Remove Devotion Point
 tagReclaimBase=Remove Modifiers to Reclaim Final Point
 tagReclaimDevotion=Remove Attached Devotion Effect
@@ -1742,7 +2614,7 @@ tagReclaimNoGold=Insufficient Iron Bits (Cost {^s}{%t0}{^r})
 tagReclaimNoAether=Insufficient Aether Crystals (Cost {^g}{%t0}{^r})
 tagReallocateTitle=Skill Reallocation
 tagReallocationDescription=Clicking on a skill icon will remove a skill point.  The cost to remove a skill point increases with each point removed.
-tagReclaimTotalAether=Total Aether Crystal:
+tagReclaimTotalAether=Total Aether Crystals:
 
 tagTemplateName=Rename Me
 tagTemplateDescription=Describe Me
