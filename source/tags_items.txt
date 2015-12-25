@@ -74,6 +74,8 @@ tagWeaponSwordD007Desc="You can sense your own mortality when looking upon this 
 tagWeaponSwordD008=Ortus
 tagWeaponSwordD008Desc="The mere sight of this blade fills you with hope."
 tagWeaponSwordD009=Deathmarked Claw
+tagWeaponSwordD010=Stormheart
+tagWeaponSwordD010Desc="There are letters etched into the hilt: D.T."
 
 tagWeaponSwordF001=Legion Carver
 tagWeaponSwordF002=Chosen Blade
@@ -398,6 +400,7 @@ tagWeaponMelee2hC015Desc="Great hammer of Brother Bernard Mellington of the Temp
 tagWeaponMelee2hC016=Champion of the Light
 tagWeaponMelee2hC017=Wildcaller's Decapitator
 tagWeaponMelee2hC018=Shar'Zul's Furnace
+tagWeaponMelee2hC018B=Shar'Zul's Incinerator
 tagWeaponMelee2hC018Desc="Flames stoke endlessly within Shar'Zul's warmaul."
 tagWeaponMelee2hC019=Wrathmourne
 tagWeaponMelee2hC020=Trollgut Eviscerator
@@ -573,7 +576,7 @@ tagShieldC008=Lichguard
 tagShieldC009=Dawnshard Bulwark
 tagShieldC009Desc="Forged from the purest shard of soladrin crystal."
 tagShieldC010=Templar's Faith
-tagShieldC011=Shield of Redemption
+tagShieldC011=Shield of Perdition
 tagShieldC012=Oathbreaker's Guard
 tagShieldC013=Elementium
 tagShieldC013Desc="Forged by arcane smiths to channel the raw forces of the elements."
@@ -825,6 +828,7 @@ tagLegend=Legendary
 
 tagStyleUniqueTier2=Empowered
 tagStyleUniqueTier3=Mythical
+tagStyleFactionTier2=Elite
 
 tagSoulbound=Soulbound
 tagDestroySoulbound=Destroy soulbound item?
@@ -899,7 +903,7 @@ tagHeadC014Desc="Cut from the hide of an ancient Thorned Horror."
 tagHeadC015=Spiritweaver Circlet
 tagHeadC016=Outcast's Hood
 tagHeadC017=Herald's Mask
-tagHeadC018=Faceguard of Redemption
+tagHeadC018=Faceguard of Perdition
 tagHeadC019=Cowl of the Blind Assassin
 tagHeadC020=Sharpshooter's Glass Eye
 tagHeadC021=Unholy Visage of the Covenant
@@ -935,6 +939,8 @@ tagHeadD014=Hood of Dreeg
 tagHeadD015=Deathmarked Hood
 tagHeadD016=Iskandra's Circlet
 tagHeadD017=Ultos' Hood
+tagHeadD018=Crown of the Winter King
+tagheadD018Desc="Crown of King Hrothnar, ruler of the northern reaches and son of the great white wolf."
 
 tagHeadF001=Outcast's Hood
 tagHeadF001Desc="You can't help but feel as if the mask is staring back at you."
@@ -987,7 +993,7 @@ tagShoulderC007=Shellshock Epaulets
 tagShoulderC008=Decorated Pauldrons
 tagShoulderC009=Mantle of the Patron
 tagShoulderC009Desc="A mantle of great raven feathers, bestowed by the witch god Bysmiel upon his mortal followers."
-tagShoulderC010=Shoulderguards of Redemption
+tagShoulderC010=Shoulderguards of Perdition
 tagShoulderC011=Sharpshooter's Cover
 tagShoulderC012=Unholy Mantle of the Covenant
 tagShoulderC013=Shoulderguard of the Paragon
@@ -1103,7 +1109,7 @@ tagTorsoC015=Spidersilk Hauberk
 tagTorsoC016=Cloth of Unspeakable Invocation
 tagTorsoC016Desc="Chthonian robes worn only by elite members of the bloodthirsty cult."
 tagTorsoC017=Herald's Jacket
-tagTorsoC018=Chestguard of Redemption
+tagTorsoC018=Chestguard of Perdition
 tagTorsoC019=Stealth Jacket of the Blind Assassin
 tagTorsoC020=Sharpshooter's Coat
 tagTorsoC021=Dawnguard Plate
@@ -1143,6 +1149,7 @@ tagTorsoD015=Vestments of Dreeg
 tagTorsoD016=Deathmarked Jacket
 tagTorsoD017=Iskandra's Vestments
 tagTorsoD018=Ultos' Cuirass
+tagTorsoD019=Frostdread Cuirass
 
 tagTorsoF001=Outcast's Burning Vestments
 tagTorsoF002=Outcast's Chilled Vestments
@@ -1286,7 +1293,7 @@ tagHandsC011=Silktouch Handwraps
 tagHandsC011Desc="Bask in the shadows, for in the darkness you are invincible."
 tagHandsC012=Herald's Gloves
 tagHandsC013=Apothecary's Touch
-tagHandsC014=Handguards of Redemption
+tagHandsC014=Handguards of Perdition
 tagHandsC015=Dawnguard Gauntlets
 tagHandsC016=Embergrip Handguards
 tagHandsC017=Quickdraw Gloves
@@ -1635,6 +1642,7 @@ tagNecklaceD019=Iskandra's Focusing Prism
 tagNecklaceD020=Ultos' Gem
 tagNecklaceD021=Markovian's Distinction
 tagNecklaceD022=Heart of Ulzuin
+tagNecklaceD023=Heart of the Mountain
 
 tagNecklaceF001=Rhowari Guardstone
 tagNecklaceF002=Rhowari Rancor
@@ -1951,6 +1959,7 @@ tagBlueprint_ArmorD014=Blueprint: Hood of Dreeg
 tagBlueprint_ArmorD015=Blueprint: Deathmarked Hood
 tagBlueprint_ArmorD016=Blueprint: Iskandra's Circlet
 tagBlueprint_ArmorD017=Blueprint: Ultos' Hood
+tagBlueprint_ArmorD018=Blueprint: Crown of the Winter King
 
 
 tagBlueprint_AccessoryC001=Blueprint: Maiven's Lens
@@ -2139,6 +2148,7 @@ tagCraftComponentDesc=Experienced forging technique can yield materials of super
 tagCraftComponentRareDesc=An extraordinary crafting technique thought lost to the ages.
 tagCraftShardBeronathDesc=Transmute steel into a shard of the sacred Beronath.
 tagCraftRelicDesc=Ancient forging technique thought lost to the Grim Dawn.
+tagCraftTransmuteDesc=Through the heat of the forge and a bit of alchemy, rare materials can be transmuted to other equally rare creations.
 
 tagCraftRandomAxe=Enchanted Axe
 tagCraftRandomBlunt=Enchanted Mace
@@ -2221,8 +2231,6 @@ tagConsumableBlueprintA19=Recipe: Royal Jelly Salve
 tagConsumableBlueprintA19Desc="A secret medicinal technique of the Rovers."
 tagConsumableBlueprintA20=Recipe: Royal Jelly Ointment
 tagConsumableBlueprintA20Desc="A secret medicinal technique of the Rovers."
-tagConsumableBlueprintA21=Recipe: Celestial Bane
-tagConsumableBlueprintA21Desc="Elixir of demigods which shields mortals from divine retribution."
 
 tagConsumable_RoyalJellyBalm=Royal Jelly Balm
 tagConsumable_RoyalJellyBalmDesc="A soothing concoction made from concentrated Royal Jelly."
@@ -2266,8 +2274,8 @@ tagConsumableA19=Royal Jelly Salve
 tagConsumableA19Desc="A soothing concoction made from concentrated Royal Jelly."
 tagConsumableA20=Royal Jelly Ointment
 tagConsumableA20Desc="A soothing concoction made from concentrated Royal Jelly."
-tagConsumableA21=Celestial Bane
-tagConsumableA21Desc="Elixir of demigods which shields mortals from divine retribution."
+tagConsumableA21=
+tagConsumableA21Desc=
 tagConsumableA22=Aether Cluster
 tagConsumableA22Desc="A large cluster of Aether crystals, humming with strange energy."
 
@@ -2940,7 +2948,7 @@ tagCompA002Name=Ballistic Plating
 tagCompA002Desc="Fragments of old armor designed to withstand arrows, bolts, and bullets."^w^n(Used in chest armor)
 
 tagCompA003Name=Sanctified Bone
-tagCompA003Desc="The purified bones of a paladin slain in righteous combat"^w^n(Used in chest armor)
+tagCompA003Desc="The purified bones of a paladin slain in righteous combat"^w^n(Used in chest and head armor)
 
 tagCompA004Name=Leathery Hide
 tagCompA004Desc="A thick hide with a rough surface, perfect for absorbing sudden shocks."^w^n(Used in head armor)
@@ -2955,7 +2963,7 @@ tagCompA007Name=Rotten Heart
 tagCompA007Desc="A long silenced heart shriveled with necromantic power."^w^n(Used in chest armor)
 
 tagCompA008Name=Mutated Scales
-tagCompA008Desc="Unusually thick, tough scales mutated by exposure to Aetherial energy."^w^n(Used in chest and shoulder armor)
+tagCompA008Desc="Unusually thick, tough scales mutated by exposure to Aetherial energy."^w^n(Used in shoulder, chest, leg and hand armor)
 
 tagCompA009Name=Corpse Dust
 tagCompA009Desc="Dust derived from the remains of the deceased, often used for witchcraft and enchantments."^w^n(Used in rings, amulets and medals)
@@ -3309,7 +3317,7 @@ tagBonusAttribPoint={%+d0} Attribute Points
 
 
 #Devotion
-tagDevotionReset=Use to Reset your Devotion Points
+tagDevotionReset={^E}Use to Reset your Devotion Points
 tagDevotionNoPointsUsed={^r}[No Devotion Points to Reset]
 tagDevotionResetConfirmation=Reset all your Devotion Points?
 
@@ -3344,9 +3352,9 @@ tagItemSetC007Name=The Apothecary
 tagItemSetC007NameB=The Soothsayer
 tagItemSetC007Desc="Regalia worn by medics and soothsayers dedicated to aiding those in need, designating them as healers with no diplomatic affiliation."
 
-tagItemSetC008Name=Redemption
+tagItemSetC008Name=Perdition
 tagItemSetC008NameB=Absolution
-tagItemSetC008Desc="Armor worn by Templar Randall Grayweather during his lifelong crusade, in absolution for his fall from grace when he broke his sacred vows and took on a wife."
+tagItemSetC008Desc="Armor of Inquisitor Grayweather, infamous for splashing foes with acid, as he believed merely slaying the wicked was insuficient and that punishment should be exacted in the process."
 
 tagItemSetC009Name=The Unseeing Eye
 tagItemSetC009Desc="The blind assassin, Thaddeus Brannagan, earned his fame when he assassinated a headmaster of the Templar order in broad daylight."
@@ -3554,7 +3562,7 @@ tagPrefixB011_WpnMelee1h_A=Eldritch
 tagPrefixB012_WpnMelee1h_A=Skyfallen
 tagPrefixB013_WpnMelee1h_A=Frostborn
 tagPrefixB014_WpnMelee1h_A=Earthbound
-tagPrefixB015_WpnMelee1h_A=Stormheart
+tagPrefixB015_WpnMelee1h_A=Stormcharged
 tagPrefixB016_WpnMelee1h_A=Hellfire
 tagPrefixB017_WpnMelee1h_A=Incanter's
 tagPrefixB018_WpnMelee1h_A=Venomfang
@@ -3640,7 +3648,7 @@ tagPrefixB015_Sh_A=Caustic
 tagPrefixB016_Sh_A=Stonehide
 tagPrefixB017_Sh_A=Eldritch
 tagPrefixB018_Sh_A=Infernal
-tagPrefixB019_Sh_A=Stormheart
+tagPrefixB019_Sh_A=Stormcharged
 tagPrefixB020_Sh_A=Hoarfrost
 tagPrefixB021_Sh_A=Demonic
 tagPrefixB022_Sh_A=Aetherfire
@@ -3813,6 +3821,18 @@ tagSuffixB052_Ar_A=of Nature's Bounty
 tagSuffixB053_Ar_A=of Destruction
 tagSuffixB054_Ar_A=of Amarasta's Flurry
 tagSuffixB055_Ar_A=of Fallen Skies
+tagSuffixB056_Ar_A=of Arcane Winds
+tagSuffixB057_Ar_A=of Featherstep
+tagSuffixB058_Ar_A=of Stonefooting
+tagSuffixB059_Ar_A=of Dancing Shadows
+tagSuffixB060_Ar_A=of Reptilian Resilience
+tagSuffixB061_Ar_A=of Arcane Winds
+tagSuffixB062_Ar_A=of Rapid Reflexes
+tagSuffixB063_Ar_A=of Amarasta's Alacrity
+tagSuffixB064_Ar_A=of the Honor Guard
+tagSuffixB065_Ar_A=of Arcane Minds
+tagSuffixB066_Ar_A=of Aether Storms
+tagSuffixB067_Ar_A=of Dark Intent
 
 tagSuffixB001_Sh_A=of Redoubt
 tagSuffixB002_Sh_A=of Valor
@@ -3922,6 +3942,7 @@ tagChestHeroD05=Glorious Chest
 tagChestHeroD06=Transcendent Chest
 tagChestHeroD07=Obsidian Cluster
 tagChestHeroD08=Obsidian Trove
+tagChestHeroD09=Obsidian Wealth
 tagChestNemesis01=Nemesis Trove
 
 tagBreakableA01=Barrel
@@ -3948,6 +3969,7 @@ tagChestLockedQuest= {^R} ~ Locked by a Quest
 
 tagChestBossOneShot_Warden=Warden's Chest
 tagChestBossOneShot_Darius=Darius' Chest
+tagChestBossOneShot_Loghorrean=Loghorrean's Corruption
 tagChestOneShot_Sacrifice=Isaac's Stash
 tagChestOneShot_Generic01=Exalted Stash
 tagChestOneShot_Generic02=Exalted Stash
@@ -3998,7 +4020,8 @@ tagCellDoor=Cell Door
 tagPrisonEntranceDoor=Burrwitch Prison Gate
 tagMineDoor=Mine Door
 tagEpicDoor_StepsOfTorment=Gates of Anguish
-tagEpicDoor_StepsOfTormentLocked= {^R} ~ Sealed by Ancient Power
+tagEpicDoor_BastionOfChais=Bastion Gates
+tagEpicDoor_StepsOfTormentLocked= {^R} ~ Sealed by Ancient Power (Requires a Skeleton Key)
 tagLocked= {^R} ~ Locked
 tagBlocked= {^R} ~ the Cave-In Blocks the way
 tagLocked_BlackLegion= {^R} ~ Sealed by the Black Legion
@@ -4013,6 +4036,7 @@ tagDoorStone=Stone Door
 tagLocked_Kymon= {^R} ~ Sealed by Father Kymon
 tagLocked_Necro= {^R} ~ Sealed by the Order of Death's Vigil
 tagLocked_Outcast= {^R} ~ Sealed by Anasteria
+tagLocked_BoCGauntlet= {^R} ~ Sealed by the Guardians
 
 #Quest Rewards
 
@@ -4021,3 +4045,21 @@ tagQuestItemBrothersAmuletDesc="To my dear brother: May this amulet keep you str
 
 tagQuestItemSlithRing=Slith Primal Ring
 tagQuestItemSlithRingDesc="There is a lingering stench about this ring that won't wash out."
+
+#Equipment Locations
+
+tagSlotLeftHand= (Left Hand)
+tagSlotRightHand= (Right Hand)
+tagSlotHead= (Head)
+tagSlotNeck= (Neck)
+tagSlotRing1= (Ring 1)
+tagSlotRing2= (Ring 2)
+tagSlotChest= (Chest)
+tagSlotLegs= (Legs)
+tagSlotShoulders= (Shoulders)
+tagSlotHands= (Hands)
+tagSlotFeet= (Feet)
+tagSlotWaist= (Waist)
+tagSlotRelic= (Relic)
+tagSlotMedal= (Medal)
+tagSlotUnknown= (Unknown)

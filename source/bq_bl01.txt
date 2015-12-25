@@ -1,5 +1,5 @@
 Bounties
-Bounty: Fleshwarped Commanders
+Bounty: Fleshwarped
 Bounty
 The Legion requests assistance in dealing with the Fleshwarped troll threat.{^n}{^n}The elimination of Fleshwarped Commanders is imperative to the success of our forces in the region.{^n}{^n}Any assistance will be compensated with iron bits.
 
@@ -8,6 +8,10 @@ Slay Fleshwarped Commanders
 Turn In
 You have completed the task for the Black Legion and should return to the Bounty Table for your reward.
 Return to the Black Legion Bounty Table
+
+
+
+
 
 
 

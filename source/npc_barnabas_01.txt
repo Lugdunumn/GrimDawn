@@ -53,7 +53,7 @@ Well, the good news is I got the water pumping again. The only problem is it sme
 Since what?
 Since I've cleared out a den of Slith, ages ago. They're loathsome reptiles - make their homes in swamps and dank caves. {^n}{^n}They secrete a nasty poison into the water that makes it drinkable for them, but nearly always fatal to us. I'd bet good iron there is a nest in the cave that fuels our pump. {^n}{^n}I'm too old for all this spelunking so I need you to go down there and kill it.
 How do I get to the cave?
-This key will open the cellar in the shack behind me, right by that acursed riftgate. It connects to the bowels of the prison, which should lead you to the cave. {^n}{^n}Find the Slith Matriarch that's likely polluting our water supply and the poison should clear out on its own. {^n}{^n}You do this, and all of Devil's Crossing will be honoring your name with every glass.
+This key will open the cellar in the shack behind me, right by that accursed riftgate. It connects to the bowels of the prison, which should lead you to the cave. {^n}{^n}Find the Slith Matriarch that's likely polluting our water supply and the poison should clear out on its own. {^n}{^n}You do this, and all of Devil's Crossing will be honoring your name with every glass.
 I'll take care of the Slith.
 I don't have time for this.
 Did you get the Scrap?

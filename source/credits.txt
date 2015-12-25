@@ -16,6 +16,7 @@
 <h2>Design
 <h5>Arthur Bruno - Lead Designer
 <h5>Kamil Marczewski - Designer
+<h5>Eric Sexton - Designer
 
 <h1>SkewSound
 
@@ -58,8 +59,12 @@
 <h5>Matthew Farmery
 <h5>Jon "Jaknet" Kent
 <h5>Powbam
+<h5>Nine
 
 <h1>A Special Thanks to the Community Translators
+
+<h2>Bulgarian Translation
+<h2>Адмирал АнимЕ
 
 <h2>Czech Translation
 <h5>Lukáš "Lumeriol" Rajchl
@@ -80,6 +85,9 @@
 
 <h2>Greek Translation
 <h5>randomspawn
+
+<h2>Japanese  Translation
+<h5>"Matougi The BlueBamboo"
 
 <h2>Portuguese Translation
 <h5>MagoIlusionista

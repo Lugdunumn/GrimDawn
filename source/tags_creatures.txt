@@ -126,6 +126,7 @@ tagChthonianMinionHeroH07=Sharanatu ~ Shielded
 tagEnemyChthonianDreadguardA01=Chthonian Vanguard
 tagEnemyChthonianDreadguardB01=Chthonian Dreadguard
 tagEnemyChthonianDreadguardC01=Chthonian Tyrant
+tagEnemyChthonianDreadguardD01=Loghorrean's Vanguard
 
 tagChthonianDreadguardHeroH01=Shar'Oruuth
 tagChthonianDreadguardHeroH02=Wen'Kazul, the Hungering Blade
@@ -148,6 +149,8 @@ tagChthonianBoss02=Shar'Zul, Harbinger of Chaos
 tagChthonianBoss03=Bane'Gargoroth, Guardian of the Gates
 tagChthonianBoss04=Balok'Anatu, Bloodfiend
 tagChthonianBoss05=Galar'Bargok, the Black Fiend
+tagChthonianBoss06=Harak'Bargoth, Guardian of the Bastion
+tagChthonianBoss07=Zal'Naroth, Guardian of the Bastion
 
 #CreatureChthonianFiend
 
@@ -443,6 +446,7 @@ tagHumanPossessedHeroH03=Kamladris, the Rimeheart
 tagHumanPossessedHeroH04=Corpusia ~ Reflective
 tagHumanPossessedHeroH05=Espiria ~ Supporter
 
+tagHumanPossessedHeroH06=Loxmere Nightmage
 tagHumanPossessedBoss01=Noveria Stormfire
 tagHumanPossessedBoss02=Archivist Thelon
 tagHumanPossessedBoss03=Usterius Avelone
@@ -959,6 +963,7 @@ tagPetManticoreA01=Primal Spirit
 tagPetWindDevilA01=Wind Devil
 tagPetTotemA01=Wendigo Totem
 tagPetTotemA02=Storm Totem
+tagPetTotemA02B=Corrupted Totem
 tagPetBlackScourge=Black Scourge
 tagPetGazeOfDreeg=Gaze of Dreeg
 tagPetEyeOfGuardian=Eye of the Guardian
@@ -987,9 +992,11 @@ tagItemGuardianA02=Reckless Guardian
 tagItemAncestorA01=Ancestral Spirit
 tagItemRevenantA01=Revenant of Og'Napesh
 tagItemPrawnA01=Blighted Rift Scourge
+tagItemYetiA01=Chillmane Rocksplitter
 tagRelicStormhound=Stormhound
 tagRelicNemesis=Nemesis
 tagRelicSwarm=Swarmling
+
 
 tagDLCWisp=Will'O'Wisp
 
@@ -1004,6 +1011,11 @@ tagEnemySummonRaven=Raven
 tagEnemySummonAetherTrap=Aether Trap
 tagEnemySummonIceCrystal=Ice Crystal
 tagEnemySummonTentacle=Writhing Tentacle
+tagEnemySummonVoid=Entropic Void
+
+tagEnemyMogdrogenBoar=Mogdrogen's Chilltusk
+tagEnemyMogdrogenRat=Mogdrogen's Boneback
+tagEnemyMogdrogenHorror=Mogdrogen's Briarthorn
 
 #Boss&Quest
 
@@ -1018,6 +1030,9 @@ tagBossOutcast01=Anasteria, the Rogue Aetherial
 tagBossOutcast02=Anasteria, Vengeance of the Aether
 tagBossOutcast03=Anasteria, Wrath of the Aether
 tagBossLoghorrean01=Loghorrean, the Voice of Ch'thon
+tagBossLoghorreanTentacle01=Loghorrean's Tentacle
+tagBossLoghorreanTentacle02=Loghorrean's Tentacle
+tagBossLoghorreanTentacleCluster=Tentacle Cluster
 
 #Nemesis
 tagNemesis_Aetherial01=Valdaran, the Storm Scourge

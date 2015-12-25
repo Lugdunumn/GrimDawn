@@ -153,7 +153,7 @@ tagTutorialTip42TextA=The Blacksmith is capable of crafting items of great power
 tagTutorialTip42SubtitleA=Blueprints
 tagTutorialTip42TextB=The Blacksmith will learn to craft new items when you discover new blueprints. Blueprints can be earned from quests, or found out in the world.
 tagTutorialTip42SubtitleB=Crafting
-tagTutorialTip42TextC=To begin crafting an item, select a recipe in the Crafting UI. Place the required items into the designated spaces in the UI or shift-click them within your inventory.{^N}{^N}When all required materials are in the UI, press the Combine button to craft the item.{^N}{^N}
+tagTutorialTip42TextC=To begin crafting an item, select a recipe in the Crafting UI. Items are automatically placed in the crafting UI, taken from your Personal Stash, Shared Stash, Inventory and Equipped items, in that order.{^N}{^N}If you have all the required materials, you can press the Combine button to craft the item.{^N}{^N}
 
 tagTutorialTip43Title=Blueprints
 tagTutorialTip43TextA=Blueprints are forgotten templates for the creation of powerful items, which a Blacksmith can study.
@@ -215,7 +215,7 @@ tagTutorialTip57TextA=You are near a Devotion Shrine. By claiming Shrines, you w
 tagTutorialTip58Title=Claiming a Shrine
 tagTutorialTip58TextA=Devotion Shrines are ancient remnants of a long-lost empire, monuments dedicated to various gods and celestial symbols.{^N}{^N}Shrines must either be cleansed by defeating a corrupting presence trapped within or restored by placing an offering of rare crafting materials. The requirements vary from shrine to shrine.
 tagTutorialTip58SubtitleA=Restoring a Shrine
-tagTutorialTip58TextB=To Restore a ruined shrine, place the required materials into the Shrine UI or shift-click them within your inventory.{^N}{^N}When all required materials are in the UI, press the Offer button to restore the Shrine.
+tagTutorialTip58TextB=To Restore a ruined shrine, you must have the required materials in your Personal Stash, Shared Stash, Inventory and Equipped items, taken automatically in that order{^N}{^N}If you have all the required materials, you can press the Offer button to restore the Shrine.
 
 tagTutorialTip59Title=Devotion Points
 tagTutorialTip59TextA=You have claimed your first Shrine and earned a Devotion Point. Devotion Points can be allocated in the {^y}Devotion Window{^w}, which can be accessed through the {^y}Skill Window{^w}.
@@ -232,6 +232,6 @@ tagTutorialTip60TextD=Bright blue stars indicate where you can put a Devotion Po
 tagTutorialTip60TextE=The Halo Stars mark the locations of Celestial Powers, which you can unlock to enhance your primary skills with new effects.{^N}{^N}
 
 tagTutorialTip61Title=Celestial Powers
-tagTutorialTip61TextA=Celestial Powers are powerful auto-activated abilities which can be assigned to your primary skills from your Masteries and Equipment.{^N}{^N}Celestial Powers assigned to your skills will earn experience from combat and quests, which will cause them to rank up and increase in strength.
+tagTutorialTip61TextA=Celestial Powers are powerful auto-activated abilities which can be assigned to your primary skills from your Masteries and Equipment.{^N}{^N}Celestial Powers assigned to your skills will earn experience from combat and quests, which will cause them to rank up and increase in strength. When assigned to pet skills, they will scale with the pet's damage.
 tagTutorialTip61SubtitleA=Assigning a Primary Skill
 tagTutorialTip61TextB=To assign a Celestial Power, you must first unlock it in the {^y}Devotion Window{^w}, then select a valid Primary Skill from the drop-down list. You can re-assign a Celestial Power at any time without penalty. If you unassign a Celestial Power, it will retain any experience or ranks it has earned.

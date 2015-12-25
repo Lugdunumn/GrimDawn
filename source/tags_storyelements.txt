@@ -124,7 +124,7 @@ tagRiftRottedCroplands=Rotted Croplands Rift
 tagRiftRottedHarvest=The Rotted Harvest
 tagRiftSorrowsBastion=Sorrow's Bastion Rift
 tagRiftBloodGrove=Blood Grove Rift
-tagRiftDarkvale=Darkvale Rift
+tagRiftDarkvale=Darkvale Gate Rift
 tagRiftAlpineGate=Asterkarn Mountains Rift
 tagRiftAlpineRoad=Asterkarn Road Rift
 tagRiftAlpineValley=Asterkarn Valley Rift
@@ -410,6 +410,7 @@ tagNotification_WardenCellarFound=This must be the Warden's Cellar...
 tagNotification_WardenLabFound=A laboratory, the Warden must be nearby...
 tagNotification_LostApprenticeCellar=Someone has been here recently...
 tagNotification_LostApprenticeFound=Kasparov's apprentice is here!
+tagNotification_WightmireRiftgate=The riftgate is surrounded by Slith!
 
 tagNotification_HS_RemoveTheHead_ElsaFound=It appears that Cronley does not have Elsa...
 tagNotification_HS_SpoilsOfTheGrimDawn=You have scoured the old ruins.
@@ -428,11 +429,15 @@ tagNotification_AreaC_TrappedAndAloneReturn=A Chthonian is rampaging through the
 tagNotification_AreaD_KymonSecret=You hear the sound of a stone door opening nearby.
 tagNotification_AreaD_NecropolisRiftgate=Fiends of the void spill out of the riftgate!
 tagNotification_AreaD_FortIkonRiftgate=The riftgate is swarming with Aetherials.
+tagNotification_AreaD_FinalCryptLocked=The crypt is sealed by a cultist sigil empowered by nearby Blood Wagons.
+tagNotification_AreaD_FinalBossUlgrim=Void rifts open up around the chamber, consuming Ulgrim!
 
 tagNotification_WarningToughArea=A presence far more powerful than you dwells within this place...
 tagNotification_WarningRiftgateDisabled=Your connection to riftgates feels absent within this place...
 tagNotification_WarningGatesOfAnguish=The Gates of Anguish have been opened. Make haste, as they will not remain open for long...
 tagNotification_WarningGatesOfAnguishLocked=The Gates of Anguish are sealed and will not reopen again in this session.
+tagNotification_WarningBastionGates=The Bastion Gates have been opened. Make haste, as they will not remain open for long...
+tagNotification_WarningBastionGatesLocked=The Bastion Gates are sealed and will not reopen again in this session.
 
 #NPC Names
 
@@ -524,7 +529,7 @@ tagNPC_AreaC_23=Soulkeeper Kaandris
 tagNPC_AreaC_24=
 tagNPC_AreaC_25=
 
-tagNPC_AreaD_01=Battlemage Moira
+tagNPC_AreaD_01=Spellbreaker Moira
 tagNPC_AreaD_02=Captain Reave
 tagNPC_AreaD_03=Weapons Master Edric
 tagNPC_AreaD_04=Anasteria
@@ -540,7 +545,7 @@ tagNPC_OldGroveBridge=Old Grove Bridge Repair Site
 tagNPC_HomesteadBridge=Twin Falls Bridge Repair Site
 tagNPC_WightmireBridge=Wightmire Bridge Repair Site
 tagNPC_BurrwitchBridge=Burrwitch Bridge Repair Site
-
+tagNPC_NecropolisBridge=Necropolis Bridge Repair Site
 
 tagNPC_JosephClaxton=Joseph Claxton
 tagNPC_MariaFletcher=Maria Fletcher
@@ -645,9 +650,6 @@ tagQuestItemSlithNecklace=Slith Necklace
 tagQuestItemSlithNecklaceDesc="Carried by Slith Shamans, for only they know what."
 tagQuestItemFabric=Fabric
 tagQuestItemFabricDesc="A little worn and stained, but otherwise in good condition."
-
-tagQuestItemSaltMineKey_Name=Key to the Forgotten Depths
-tagQuestItemSaltMineKey_Text="The key to the iron door sealing away the Forgotten Depths within the Corrigan Mine."
 
 tagQuestItemForgottenPassage=Forgotten Passage
 tagQuestItemForgottenPassage_Desc="A fragmented passage on Old Arkovia's history. Impossible to decipher without the remaining pieces."
@@ -936,7 +938,7 @@ tagLoreObj_TrappedAndAloneName=Elara's Journal
 tagLoreObj_TrappedAndAloneText=Had the nightmare again. I am in an old tomb, barely a candle to light the way. Off in the corner I see a pair of red glowing eyes. They come closer...closer...then just before I can make out what it is through the shadows, the creature is gone.{^n}{^n}I try to run, but every way I go ends in rubble and stone. There is no escape. I turn around to see the eyes once more, staring back at me. I hear laughter, a child's laughter. Then everything is fire. I try to scream, but nothing comes out. The eyes just stare ahead as I writhe in the flames.{^n}{^n}That is when I awaken, drenched in sweat. It has been like this for five nights in a row. The nightmares are becoming more frequent and I am not sure how much more of this I can stand. It may not be wise, but perhaps it is time we moved on from this wretched place.
 
 tagLoreObj_AreaCThornsburyDiary_Name=Excerpt from Daila's Diary
-tagLoreObj_AreaCThornsburyDiary_Text=Oliver doesn't want me writing in here anymore. He says it fills my head with dreams when there's work to be done around the farm. So I've been writing at night, when he's asleep. He cannot stop the muse that pulls the strings of my heart.{^n}{^n}The Lashing Willow, by Daila Thornsbury{^n}{^n}The limbs of the willow tree tapped a steady rhythm against the bedroom window. Another storm was building up on the horizon, but Daila could not shake the feeling that this would not be just another shower. She sat up in her bed and took a quick glance at her husband, Oliver. He was still fast asleep. Not even a hurricane would stir that man from his slumber.{^n}{^n}Daila got up, making sure not to shift the covers off her husband. She tip-toed to the wardrobe and retrieved her gear: a well-worn suit of light leather armor and her trusty sword, Stormheart. The blade sparked with electricity as she removed it from its scabbard. The enchantment was still as strong as the day she had found it in the tomb north of Sorrow's Bastion. Daila replaced the blade and hooked the scabbard into her belt. She took one last glance at Oliver before heading out the door. It was best he did not know about her little nightly vigils. He would just worry himself sick, and Daila could not stand to see him so obsessed over her safety.{^n}{^n}The wind whipped Daila's hair around her face as she stepped out the front door. The rain was already starting to pick up; the ground was drenched with moisture, turning the path into mud. Daila tread carefully, planting every step on a stone or where the ground was still firm. At last, she arrived at the edge of the weeping willow, where a deep sense of dread immediately overcame her.{^n}{^n}"I knew you'd come out to greet me, Daila my dear," a ghastly voice spoke from behind the tree. Daila drew Stormheart, its sparking surface turning the rain drops into mist. A dark figure showed itself and calmly walked towards her. She could not see the man's face, but she knew well who he was. "Come now, is that any way to greet your brother?" The man spoke again. Daila did not say a word. Instead, she let her blade do the talking for her. The figure countered her blows with a blade of his own, a burning sword that left streaks of fire across the air with every swing. "I see you've been practicing," the man said with a grin forming on his lips.{^n}{^n}Thunder crackled in the sky as lightning flared down from the heavens, briefly illuminating the scene. The light from the storm revealed the face of Daila's adversary, the grisly heavily decayed face of her dead brother. "Dravis," Daila hissed through clenched teeth. She dove in for another attack...
+tagLoreObj_AreaCThornsburyDiary_Text=Oliver doesn't want me writing in here anymore. He says it fills my head with dreams when there's work to be done around the farm. So I've been writing at night, when he's asleep. He cannot stop the muse that pulls the strings of my heart.{^n}{^n}The Lashing Willow, by Daila Thornsbury{^n}{^n}The limbs of the willow tree tapped a steady rhythm against the bedroom window. Another storm was building up on the horizon, but Daila could not shake the feeling that this would not be just another shower. She sat up in her bed and took a quick glance at her husband, Oliver. He was still fast asleep. Not even a hurricane would stir that man from his slumber.{^n}{^n}Daila got up, making sure not to shift the covers off her husband. She tip-toed to the wardrobe and retrieved her gear: a well-worn suit of light leather armor and her trusty sword, Stormheart. The blade sparked with electricity as she removed it from its scabbard. The enchantment was still as strong as the day she had found it in the tomb north of Darkvale. Daila replaced the blade and hooked the scabbard into her belt. She took one last glance at Oliver before heading out the door. It was best he did not know about her little nightly vigils. He would just worry himself sick, and Daila could not stand to see him so obsessed over her safety.{^n}{^n}The wind whipped Daila's hair around her face as she stepped out the front door. The rain was already starting to pick up; the ground was drenched with moisture, turning the path into mud. Daila tread carefully, planting every step on a stone or where the ground was still firm. At last, she arrived at the edge of the weeping willow, where a deep sense of dread immediately overcame her.{^n}{^n}"I knew you'd come out to greet me, Daila my dear," a ghastly voice spoke from behind the tree. Daila drew Stormheart, its sparking surface turning the rain drops into mist. A dark figure showed itself and calmly walked towards her. She could not see the man's face, but she knew well who he was. "Come now, is that any way to greet your brother?" The man spoke again. Daila did not say a word. Instead, she let her blade do the talking for her. The figure countered her blows with a blade of his own, a burning sword that left streaks of fire across the air with every swing. "I see you've been practicing," the man said with a grin forming on his lips.{^n}{^n}Thunder crackled in the sky as lightning flared down from the heavens, briefly illuminating the scene. The light from the storm revealed the face of Daila's adversary, the grisly heavily decayed face of her dead brother. "Dravis," Daila hissed through clenched teeth. She dove in for another attack...
 
 tagLoreObj_AreaCFarmer_NoteA01Name=Walter's Note
 tagLoreObj_AreaCFarmer_NoteA01Text=I can see smoke rising from the Everbrook estate. They're nearly here, whatever they are. I've barricaded the doors and windows as best I could. All that remains now is to wait for them to come to us.{^n}{^n}The wife insisted that we abandon the farm and head for Homestead, but I'll be damned if I let some green-eyed freaks kick us off our land. Our family has not toiled on this farm for generations just to leave it at the first sign of trouble. Those cowards in Homestead can leave their crops to rot. When all this blows over, I'll still be here tending to the harvest, and they will look the fools.
@@ -1095,7 +1097,7 @@ tagNPC_MerchantA04=Isaiah Reddan
 tagStoreTitle_MerchantA04A=Specialty Goods
 tagStoreTitle_MerchantA04B=Salvage Dealer
 
-tagNPC_MerchantA05=Pavill
+tagNPC_MerchantA05=Pavla
 tagStoreTitle_MerchantA05=Black Legion Wares
 
 tagNPC_MerchantB01=Benevald
@@ -1113,13 +1115,16 @@ tagStoreTitle_MerchantB04=Order Supplier
 tagNPC_MerchantC01=Marris Kas
 tagStoreTitle_MerchantC01=Wares of the Lost
 
+tagNPC_MerchantC02=Karros Adal
+tagStoreTitle_MerchantC02=Wares of the Damned
+
 tagNPC_MerchantT01=Roving Dealer
 tagStoreTitle_MerchantT01=Roving Dealer
 
 tagNPC_SmugglerA01=Carlile
 tagStoreTitle_SmugglerA01=Smuggler
 
-tagNPC_SmugglerA02=Harry
+tagNPC_SmugglerA02=Hannah
 tagStoreTitle_SmugglerA02=Smuggler
 
 tagNPC_SmugglerA03=Ogvald
@@ -1154,7 +1159,7 @@ tagStoreDesc_SmithA03_3=
 tagStoreDesc_SmithA03_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
 
 tagNPC_SmithA04=Horrus
-tagStoreTitle_SmithA04=Fallen Smith
+tagStoreTitle_SmithA04=Cursed Smith
 tagStoreDesc_SmithA04_1={}Gift of Unlife
 tagStoreDesc_SmithA04_2=Horrus is gifted with centuries of smithing knowledge, bolstered by his rather unique...state of existence.
 tagStoreDesc_SmithA04_3= 
@@ -1188,7 +1193,7 @@ tagStoreTitle_FactionQuartermaster_06=Keeper of Artifacts
 tagNPC_FactionQuartermaster_07=Keeper Poruuk
 tagStoreTitle_FactionQuartermaster_07=Keeper of Artifacts
 
-tagNPC_FactionQuartermaster_08=Thorne
+tagNPC_FactionQuartermaster_08=Thalia
 tagStoreTitle_FactionQuartermaster_08=Quartermaster
 tagNPC_FactionQuartermaster_09=Klines
 
@@ -1203,3 +1208,34 @@ tagNPC_FactionTable_04=Black Legion Bounty Table
 tagNPC_FactionTable_05=Kymon's Chosen Bounty Table
 tagNPC_FactionTable_06=Order of Death's Vigil Bounty Table
 tagNPC_FactionTable_07=The Outcasts's Bounty Table
+
+#Devotion Shrines
+tagDevotionShrineA01=Burial Hill
+tagDevotionShrineA02=Foggy Bank
+tagDevotionShrineA03=Burrwitch Outskirts
+tagDevotionShrineA04=Flooded Passage
+tagDevotionShrineA05=Burrwitch
+tagDevotionShrineA06=Devil's Aquifer
+tagDevotionShrineA07=Warden's Lab
+tagDevotionShrineA08=East Marsh
+tagDevotionShrineB01=Arkovian Foothills
+tagDevotionShrineB02=Old Arkovia
+tagDevotionShrineB03=Undercity
+tagDevotionShrineB04=Cronley's Lair
+tagDevotionShrineB05=Broken Hills
+tagDevotionShrineB06=Old Arkovia
+tagDevotionShrineB07=Steps Of Torment
+tagDevotionShrineC01=Mountain Deeps
+tagDevotionShrineC02=Jagged Waste
+tagDevotionShrineC03=Tyrant's Hold
+tagDevotionShrineC04=Forgotten Depths
+tagDevotionShrineC05=Infested Farms
+tagDevotionShrineC06=Darkvale Village
+tagDevotionShrineC07=Bastion of Chaos
+tagDevotionShrineC08=Blood Grove
+tagDevotionShrineD01=Alpine Valley
+tagDevotionShrineD02=Tomb of the Damned
+tagDevotionShrineD03=Necropolis
+tagDevotionShrineD04=The Black Sepulcher
+tagDevotionShrineD05=???
+tagDevotionShrineMogdrogen=Mogdrogen's Shrine
