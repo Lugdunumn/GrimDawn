@@ -76,6 +76,7 @@ tagWeaponSwordD008Desc="The mere sight of this blade fills you with hope."
 tagWeaponSwordD009=Deathmarked Claw
 tagWeaponSwordD010=Stormheart
 tagWeaponSwordD010Desc="There are letters etched into the hilt: D.T."
+tagWeaponSwordD011=Reaver's Claw
 
 tagWeaponSwordF001=Legion Carver
 tagWeaponSwordF002=Chosen Blade
@@ -307,6 +308,7 @@ tagWeaponGun2hD004=Vortex of Souls
 tagWeaponGun2hD004Desc="Every shot fired sends ripples through the aether."
 tagWeaponGun2hD005=Gutripper
 tagWeaponGun2hD006=Ulzuin's Flamespreader
+tagWeaponGun2hD007=Valdun's Rifle
 
 tagWeaponGun2hF001=Devil's Musket
 tagWeaponGun2hF002=Harvest's Double-Barrel
@@ -510,6 +512,7 @@ tagWeaponCaster1hD013=Fang of Ch'thon
 tagWeaponCaster1hD014=Basilisk Claw
 tagWeaponCaster1hD015=Clairvoyant's Wand
 tagWeaponCaster1hD016=Runed Dagger of Dreeg
+tagWeaponCaster1hD017=Trozan's Starkeeper
 
 tagWeaponCaster1hF001=Legion Firestarter
 tagWeaponCaster1hF002=Legion Aetherspark
@@ -937,10 +940,12 @@ tagHeadD012=Markovian's Visor
 tagHeadD013=Ulzuin's Headguard
 tagHeadD014=Hood of Dreeg
 tagHeadD015=Deathmarked Hood
-tagHeadD016=Iskandra's Circlet
+tagHeadD016=Iskandra's Hood
 tagHeadD017=Ultos' Hood
 tagHeadD018=Crown of the Winter King
 tagheadD018Desc="Crown of King Hrothnar, ruler of the northern reaches and son of the great white wolf."
+tagHeadD019=Trozan's Hat
+tagHeadD020=Valdun's Hat
 
 tagHeadF001=Outcast's Hood
 tagHeadF001Desc="You can't help but feel as if the mask is staring back at you."
@@ -1005,6 +1010,7 @@ tagShoulderC018=Chillmane Mantle
 tagShoulderC019=Amarastan Pauldrons
 tagShoulderC020=Flame Keeper's Pauldrons
 tagShoulderC021=Callidor's Mantle
+tagShoulderC030=Spaulders of Mogdrogen
 
 tagShoulderD001=Fateweaver's Mantle
 tagShoulderD001Desc="The strands of fate, like an endless weave, intertwine and fray with the passing ages of man."
@@ -1030,6 +1036,7 @@ tagShoulderD018=Iskandra's Pauldrons
 tagShoulderD019=Ultos' Spaulders
 tagShoulderD020=Mantle of Mogdrogen
 tagShoulderD020Desc="The mantle worn by the avatar of Mogdrogen himself."
+tagShoulderD021=Trozan's Mantle
 
 tagShoulderF001=Outcast's Burning Mantle
 tagShoulderF002=Outcast's Chilled Mantle
@@ -1150,6 +1157,8 @@ tagTorsoD016=Deathmarked Jacket
 tagTorsoD017=Iskandra's Vestments
 tagTorsoD018=Ultos' Cuirass
 tagTorsoD019=Frostdread Cuirass
+tagTorsoD020=Trozan's Vestments
+tagTorsoD021=Valdun's Jacket
 
 tagTorsoF001=Outcast's Burning Vestments
 tagTorsoF002=Outcast's Chilled Vestments
@@ -1643,6 +1652,7 @@ tagNecklaceD020=Ultos' Gem
 tagNecklaceD021=Markovian's Distinction
 tagNecklaceD022=Heart of Ulzuin
 tagNecklaceD023=Heart of the Mountain
+tagNecklaceD024=Valdun's Bounty
 
 tagNecklaceF001=Rhowari Guardstone
 tagNecklaceF002=Rhowari Rancor
@@ -1773,7 +1783,7 @@ tagBlueprint_RelicD006=Blueprint: Relic - Reckoning
 tagBlueprint_RelicD007=Blueprint: Relic - Scourge
 tagBlueprint_RelicD008=Blueprint: Relic - Ulzuin's Pyroclasm
 tagBlueprint_RelicD009=Blueprint: Relic - Necrosis
-tagBlueprint_RelicD010=Blueprint: Relic - Agravix's Malice
+tagBlueprint_RelicD010=Blueprint: Relic - Agrivix's Malice
 tagBlueprint_RelicD011=Blueprint: Relic - Oblivion
 tagBlueprint_RelicD012=Blueprint: Relic - Belgothian's Carnage
 tagBlueprint_RelicD013=Blueprint: Relic - Annihilation
@@ -1960,6 +1970,8 @@ tagBlueprint_ArmorD015=Blueprint: Deathmarked Hood
 tagBlueprint_ArmorD016=Blueprint: Iskandra's Circlet
 tagBlueprint_ArmorD017=Blueprint: Ultos' Hood
 tagBlueprint_ArmorD018=Blueprint: Crown of the Winter King
+tagBlueprint_ArmorD019=Blueprint: Trozan's Hat
+tagBlueprint_ArmorD020=Blueprint: Valdun's Hat
 
 
 tagBlueprint_AccessoryC001=Blueprint: Maiven's Lens
@@ -3216,7 +3228,7 @@ tagFactionMandateConfirmation=Are you sure you want to apply this Faction Mandat
 tagFactionWarrantConfirmation=Are you sure you want to apply this Faction Warrant? This will overwrite the current Faction Mandate.
 
 tagBoosterADesc=Faction documents recognizing you as a paragon of their people.
-tagBoosterBDesc=Faction documents entrusting another entity as a representative. ^oCan be placed in the Transfer Stash to use on other characters.
+tagBoosterBDesc=Faction documents entrusting another entity as a representative. ^oCan be placed in the Transfer Stash to use on other characters. Does not stack with Writs.
 tagBoosterCDesc=A wanted poster condemning you as a sworn enemy.
 tagBoosterBL_A01=Writ of the Black Legion
 tagBoosterBL_A02=Greater Writ of the Black Legion
@@ -3354,7 +3366,7 @@ tagItemSetC007Desc="Regalia worn by medics and soothsayers dedicated to aiding t
 
 tagItemSetC008Name=Perdition
 tagItemSetC008NameB=Absolution
-tagItemSetC008Desc="Armor of Inquisitor Grayweather, infamous for splashing foes with acid, as he believed merely slaying the wicked was insuficient and that punishment should be exacted in the process."
+tagItemSetC008Desc="Armor of Inquisitor Grayweather, infamous for splashing foes with acid, as he believed merely slaying the wicked was insufficient  and that punishment should be exacted in the process."
 
 tagItemSetC009Name=The Unseeing Eye
 tagItemSetC009Desc="The blind assassin, Thaddeus Brannagan, earned his fame when he assassinated a headmaster of the Templar order in broad daylight."
@@ -3372,7 +3384,7 @@ tagItemSetC013Name=Oathbreaker
 tagItemSetC013NameB=Oathbreaker's Flame
 tagItemSetC013Desc="Equipment once carried by the Oathbreaker, a knight who betrayed his king by opening the city gates to the enemy."
 
-tagItemSetC014Name=Adorments of Valiance
+tagItemSetC014Name=Adornments of Valiance
 tagItemSetC014Desc="Commendations bestowed upon soldiers for heroic actions in time of war."
 
 tagItemSetC015Name=Carnage
@@ -3474,6 +3486,13 @@ tagItemSetD016Desc="Carefully preserved regalia of Master Iskandra, worn on the 
 tagItemSetD017Name=Ultos' Storm
 tagItemSetD017Desc="Armor worn by the avatars of Ultos, god of the sky, conjurer of cataclysmic storms."
 
+tagItemSetD018Name=Trozan's Ascension
+tagItemSetD018Desc="In his seclusion, Trozan studied the stars and learned to harness their unbelievable power, despite all risks involved in taming such raw energies."
+
+tagItemSetD019Name=Valdun's Treachery
+tagItemSetD019Desc="Valdun was one of the finest marksmen in all of Cairn, but it was not until he turned his sights upon the nobility of Erulan that he became truly infamous."
+
+
 #Prefixes
 
 tagPrefixAA002=Enlightening
@@ -3526,7 +3545,7 @@ tagPrefixAD023=Stanching
 tagPrefixAD024=Thawing
 tagPrefixAD025=Durable
 tagPrefixAD026=Enduring
-tagPrefixAD027=Impenetrable
+tagPrefixAD027=Impassable
 tagPrefixAD028=Tough
 tagPrefixAD029=Everlasting
 tagPrefixAD030=Unbreakable
@@ -3943,6 +3962,7 @@ tagChestHeroD06=Transcendent Chest
 tagChestHeroD07=Obsidian Cluster
 tagChestHeroD08=Obsidian Trove
 tagChestHeroD09=Obsidian Wealth
+tagChestHeroD10=Loghorrean's Trove
 tagChestNemesis01=Nemesis Trove
 
 tagBreakableA01=Barrel

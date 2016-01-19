@@ -60,7 +60,7 @@ tagTutorialTip20Title=Using Components
 tagTutorialTip20SubtitleA=Attaching Components
 tagTutorialTip20TextA=Right-click a component to select it, then left-click on the item you wish to attach it to. Note that each component can only go in certain item types.
 tagTutorialTip20SubtitleB=Combining Components
-tagTutorialTip20TextB=You can combine component fragments of the same name to create more powerful bonuses. A completed component will generate an additional completion bonus.{^n}{^n}Component fragments of the same type may be attached to items after the first fragment has been applied.
+tagTutorialTip20TextB=You can combine component fragments of the same name to create more powerful bonuses.{^n}{^n}Component fragments of the same type may be attached to items after the first fragment has been applied.
 
 tagTutorialTip21Title=Second Skill Mastery
 tagTutorialTip21TextA=At level 10, you will have the option to select a second mastery. To select your second mastery, open the {^y}Skill Window{^w}. You are not required to select a second mastery, but you will always have the option after reaching level 10.

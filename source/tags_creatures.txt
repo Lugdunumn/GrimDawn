@@ -5,7 +5,7 @@ tagSurvivorGuardGenericRangedB01=Survivor ~ Skirmisher
 tagSurvivorGuardGenericMeleeA01=Survivor ~ Defender
 tagSurvivorGuardGenericMeleeB01=Survivor ~ Guardian
 
-tagHumanRover_GuardGeneric_MeleeA01=Rover Enforcer
+tagHumanRover_GuardGeneric_MeleeA01=Rover Protector
 
 tagBlackLegion_GuardMeleeA01=Black Legion ~ Footman
 tagBlackLegion_GuardRangedA01=Black Legion ~ Marksman
@@ -125,7 +125,9 @@ tagChthonianMinionHeroH07=Sharanatu ~ Shielded
 
 tagEnemyChthonianDreadguardA01=Chthonian Vanguard
 tagEnemyChthonianDreadguardB01=Chthonian Dreadguard
+tagEnemyChthonianDreadguardB01Logghorrean=Loghorrean's Dreadguard
 tagEnemyChthonianDreadguardC01=Chthonian Tyrant
+tagEnemyChthonianDreadguardC01Logghorrean=Loghorrean's Tyrant
 tagEnemyChthonianDreadguardD01=Loghorrean's Vanguard
 
 tagChthonianDreadguardHeroH01=Shar'Oruuth
@@ -431,7 +433,7 @@ tagHumanBoss04=Boris, Master of the Pit
 
 tagHumanRoverA_A01=Rover
 tagHumanRoverA_B01=Rover Scout
-tagHumanRoverA_C01=Rover Enforcer
+tagHumanRoverA_C01=Rover Protector
 
 #CreatureHumanPossessed
 

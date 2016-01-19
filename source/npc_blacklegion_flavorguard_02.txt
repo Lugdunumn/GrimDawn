@@ -5,6 +5,9 @@ Ulgrim has requested your presence. Please see him immediately.
 Can you open the gates?
 Ulgrim has made it clear that nobody is to leave until he's been debriefed on recent events.
 I'll speak to him.
+Where is Ulgrim?
+Ulgrim is currently speaking with Inquisitor Creed, on the balcony overlooking the fields.{^n}{^n}You will find the stairs up near the planning room where the Captain is situated.
+Thank you.
 I'll speak to him.
 Stay on your guard. The enemies of humanity are all around us.
 Can you open the gates?

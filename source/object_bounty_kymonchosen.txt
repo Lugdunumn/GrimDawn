@@ -56,7 +56,7 @@ Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-Legends say that ghouls were once humans. Humans twisted by madness and obsessed with devouring dead flesh.{^n}{^n}Now they are little more than mindless fiends, abominations that deserve no pity or remorse. The Necropolis is teeming with these Corpse-eaters. If Cairn is to be cleansed, then they must be eradicated.{^n}{^n}Any such effort shall be rewarded with iron bits.
+Legends say that ghouls were once humans. Humans twisted by madness and obsessed with devouring dead flesh.{^n}{^n}Now they are little more than mindless fiends, abominations that deserve no pity or remorse. The Black Sepulcher in the Necropolis is teeming with these Corpse-eaters. If Cairn is to be cleansed, then they must be eradicated.{^n}{^n}Any such effort shall be rewarded with iron bits.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
@@ -101,7 +101,7 @@ Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-The Bastion of Chaos is one of the largest rifts we've ever seen. Every day, it spits out countless demons into our world. But the true terrors dwell within.{^n}{^n}Obsidian Annihilators are the harbingers of our world's destruction. One such creature once felled a dozen loyal Chosen. The Bastion is where these monsters are birthed, and where they must be destroyed.{^n}{^n}Anyone daring enough to enter the Bastion will be justly rewarded with a substantial sum of iron bits. Tavel with Kymon's blessing, brave Chosen.
+The Bastion of Chaos is one of the largest rifts we've ever seen. Every day, it spits out countless demons into our world. But the true terrors dwell within.{^n}{^n}Obsidian Annihilators are the harbingers of our world's destruction. One such creature once felled a dozen loyal Chosen. The Bastion is where these monsters are birthed, and where they must be destroyed.{^n}{^n}Anyone daring enough to enter the Bastion will be justly rewarded with a substantial sum of iron bits. Travel with Kymon's blessing, brave Chosen.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.

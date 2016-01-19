@@ -1,7 +1,7 @@
 Bounties
 Bounty: Corpse-eaters
 Bounty
-Legends say that ghouls were once humans. Humans twisted by madness and obsessed with devouring dead flesh.{^n}{^n}Now they are little more than mindless fiends, abominations that deserve no pity or remorse. The Necropolis is teeming with these Corpse-eaters. If Cairn is to be cleansed, then they must be eradicated.{^n}{^n}Any such effort shall be rewarded with iron bits.
+Legends say that ghouls were once humans. Humans twisted by madness and obsessed with devouring dead flesh.{^n}{^n}Now they are little more than mindless fiends, abominations that deserve no pity or remorse. The Black Sepulcher in the Necropolis is teeming with these Corpse-eaters. If Cairn is to be cleansed, then they must be eradicated.{^n}{^n}Any such effort shall be rewarded with iron bits.
 
 Slay Ghoul Corpse-eaters
 

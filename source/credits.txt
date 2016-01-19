@@ -64,7 +64,15 @@
 <h1>A Special Thanks to the Community Translators
 
 <h2>Bulgarian Translation
-<h2>Адмирал АнимЕ
+<h5>Адмирал АнимЕ
+
+<h2>Chinese Translation
+<h5>EsclaveDuReve
+<h5>gpqkevin
+<h5>LiuLimk2
+<h5>kingzy
+<h5>tt300
+<h5>USunOfBeach
 
 <h2>Czech Translation
 <h5>Lukáš "Lumeriol" Rajchl
