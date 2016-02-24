@@ -20,9 +20,27 @@
 
 <h1>SkewSound
 
-<h5>Dan Crislip - Lead Audio
-<h5>Steve Pardo - Composer 
+<h5>Dan Crislip - Audio Lead
+<h5>Steve Pardo - Lead Composer
 <h5>Christopher Wilson - Sound Designer 
+<h5>Nicholas Kallman - Sound Designer
+
+<h2>Voice Talent
+<h5>Kent Clark
+<h5>Gary Craig
+<h5>Mark Dodson
+<h5>Josh Glavine
+<h5>David Godfrey
+<h5>Charlie Hughes
+<h5>Obehi Janice
+<h5>Mark H. Lucas
+<h5>Helen McWilliams
+<h5>Chris Rando
+<h5>Hannah Risser-Sperry
+<h5>Paul Sherrard
+<h5>Kylie Sullivan
+<h5>Michael Sutherland
+<h5>Gabriel Wolf
 
 <h1>Additional Team
 
@@ -41,6 +59,9 @@
 <h5>Ian Wells
 <h5>Matthew Ball
 <h5>Angela Nerell
+<h5>Tim Croteau
+<h5>Tom Lennon
+<h5>Lee Smith
 
 <h1>Playtesters
 
@@ -67,11 +88,11 @@
 <h5>Адмирал АнимЕ
 
 <h2>Chinese Translation
-<h5>EsclaveDuReve
+<h5>EsclaveDuReve(zyhmuyu)
 <h5>gpqkevin
-<h5>LiuLimk2
-<h5>kingzy
-<h5>tt300
+<h5>Otic(琉璃mk2)
+<h5>kingzy(04160131)
+<h5>tt300(GD汉化小白丁)
 <h5>USunOfBeach
 
 <h2>Czech Translation
@@ -1739,6 +1760,7 @@
 <h5>Mischa Venables
 <h5>Shane "Shedoa" Copeland
 <h5>Marty Smith
+<h5>Joseph "The Late Guy" Fuller
 
 <h1>Epic Supporters
 

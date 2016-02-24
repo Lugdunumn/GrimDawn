@@ -156,7 +156,7 @@ On my way.
 
 I'm off to Burial Hill.
 
-You're not looking too bad for someone just back from the brink of death! You were Taken, possessed by the same creatures that have been reanimating these zombies here. {^n}{^n}Normally I'd have burned you with the rest, to be safe, but we've lost too many people to the Dead. I need someone expendable, someone with nothing to lose but a lot to gain. Right now, you're that person. {^n}{^n}Prove your worth to me and the survivors of Devil's Crossing may just welcome you.
+You're not looking too bad for someone just come back from the brink of death! You were Taken, possessed by the same creatures that have been reanimating these zombies here. {^n}{^n}Normally I'd have burned you with the rest, to be safe, but we've lost too many people to the Dead. I need someone expendable, someone with nothing to lose but a lot to gain. Right now, you're that person. {^n}{^n}Prove your worth to me and the survivors of Devil's Crossing may just welcome you.
 What is it you want me to do?
 The bodies of the dead are rising again in some horrible unlife. Corpses don't just get up and move around on their own. {^n}{^n}Something is reanimating our deceased with Aetherial energy. We have observed the Dead for some time and they appear to be flooding Lower Crossing from the Burial Hill, just beyond town. {^n}{^n}I want you to go to Burial Hill, find whatever is controlling those abominations and destroy it.
 Where can I find Burial Hill?

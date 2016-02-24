@@ -67,11 +67,11 @@ Darius did not have Elsa.
 Damnation! Perhaps... perhaps she escaped and ran for Homestead? Or maybe they sold her... I have to go back out there. If there is any chance that Elsa still lives, I have to find her. I owe her that much.
 What do we do now?
 
-The world is a little safer today with that monster dead. Now on to our ongoing list of problems.
-What is it now?
+The world is a little safer today with that monster dead.
+Is there anything else?
 
 
-Later.
+We'll talk later.
 How goes the campaign against Darius?
 Where do I need to go again?
 Head northwest out of Devil's Crossing and follow the road through the Arkovian Foothills until you enter Old Arkovia. The Four Hills are at the northern point. Darius' gang has several fortified camps around there, including an old mine shaft.{^n}{^n}When I last saw Quade, he was moving his group near Four Hills.

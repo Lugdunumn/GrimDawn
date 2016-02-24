@@ -130,7 +130,7 @@ Where is the armory?
 The armory is on the north side of Fort Ikon. Do not tarry!
 I will head there now.
 Not yet.
-Betrayal, sabotage, call it what you will. We've been attacked from within.{^n}{^n}The Aetherials, it seems, have gotten a hold of the commander.
+Betrayal, sabotage, call it what you will. We've been attacked from within.{^n}{^n}The Aetherials have gotten a hold of the commander.
 He's been possessed?
 Precisely. Based on the reports, Commander Lucius has been sending our men out on futile missions, thinning out the fort's defenses. Then, once the watch was sufficiently weak, he opened the gates allowing the Aetherials to pour in.{^n}{^n}He was not counting on human ingenuity however. Weapons Master Edric collapsed the front gates with some explosives, cutting off the enemy's forces. When we arrived with reinforcements from the south, the coward Lucius fled into the armory.Until those gates are cleared, we are stuck here. I need you to enter the armory and recover what's left of the Heavy Explosives; use them to clear the rubble. But beware of Lucius. He has shed his human disguise in favor of a monstrous form which I cannot even begin to describe. You will likely have to deal with him to get to the explosives.
 It will be done.

@@ -148,7 +148,7 @@ tagChthonianLeechHeroH05=Yakwa'Anatu ~ Unstoppable
 
 tagChthonianBoss01=Lagoth'Ak, Harbinger of Blood
 tagChthonianBoss02=Shar'Zul, Harbinger of Chaos
-tagChthonianBoss03=Bane'Gargoroth, Guardian of the Gates
+tagChthonianBoss03=Bane'Galgalor, Guardian of the Gates
 tagChthonianBoss04=Balok'Anatu, Bloodfiend
 tagChthonianBoss05=Galar'Bargok, the Black Fiend
 tagChthonianBoss06=Harak'Bargoth, Guardian of the Bastion
@@ -234,14 +234,14 @@ tagEnemyGhostA01=Apparition
 tagEnemyGhostB01=Haunted Noble
 tagEnemyGhostB02=Haunted Champion
 
-tagHeroGhostH01=Lady Valavan, the Wandering Soul
-tagHeroGhostH02=Lord Blacktail ~ Reflective
-tagHeroGhostH03=Lady Rosenthal ~ Regenerator
+tagHeroGhostH01=Valavan, the Wandering Soul
+tagHeroGhostH02=Ballan Voros ~ Reflective
+tagHeroGhostH03=Rosena Malgos ~ Regenerator
 tagHeroGhostH04=Stormshriek ~ Electrified
-tagHeroGhostH05=Lord Oldrakan ~ Swift
+tagHeroGhostH05=Oldrakan Pald ~ Swift
 tagHeroGhostH06=Aetherwraith ~ Corrupted
 
-tagGhostBoss01=Baron Wradlith, Lord of the Lost Souls
+tagGhostBoss01=Baros Wradlith, Lord of the Lost Souls
 tagGhostBoss02=Nomos Dred
 tagGhostBoss03=Laudos Vagra
 tagGhostBoss04=Rhovena Kur
@@ -334,6 +334,8 @@ tagGrobleHeroH03=Uldagu Flame-Eater
 tagGrobleHeroH04=Molbagdal Stormcaller
 tagGrobleHeroH05=Holborack ~ Defender
 tagGrobleHeroH06=Pukesnot the Unwashed
+
+tagGrobleBoss01=Narbalgal, the Stormseeker
 
 #Harpy
 
@@ -472,7 +474,7 @@ tagDermapteranHeroH05=Vildrix ~ Voidtouched
 tagDermapteranBoss01=Grand Vizier Lozakal
 tagDermapteranBoss02=Grand Vizier Inixil
 tagDermapteranBoss03=Swarm Queen Ravna
-tagDermapteranBoss04=Vizier Anoxis, the Tainted
+tagDermapteranBoss04=Hive Guard Anoxis, the Tainted
 
 #CreatureInsectMosquito
 tagEnemyInsectMosquitoA01=Mireborn Bloodgorger
@@ -671,9 +673,9 @@ tagEnemySkeletonC04=Death Revenant
 
 tagSkeletonHeroH01=Tenebris, the Blood Drinker
 tagSkeletonHeroH02=Balrazar, Eternal Servant of Dreeg
-tagSkeletonHeroH03=Lord Harris, the Damned
+tagSkeletonHeroH03=Harros Dred, the Damned
 tagSkeletonHeroH04=Hellwraith ~ Burning
-tagSkeletonHeroH05=Lord Alistar Hernsworth ~ Reflective
+tagSkeletonHeroH05=Allos Sadarin ~ Reflective
 tagSkeletonHeroH06=Chillheart ~ Frozen
 
 tagSkeletonBoss01=Kilrian, the Tainted Soul
@@ -919,6 +921,8 @@ tagEnemyZombieVoidA01=Chthonic Soulless
 tagEnemyZombieMutatedA01=Fleshwarped Butcher
 tagEnemyZombieMutatedB01=Fleshwarped Thrasher
 
+tagZombieMutatedBoss01=Barrog, the Bloodied
+
 tagZombieHeroH01=Abner, the Forsaken One
 tagZombieHeroH02=Crimson Bane
 tagZombieHeroH03=Gastris, the Foul
@@ -1036,6 +1040,8 @@ tagBossLoghorreanTentacle01=Loghorrean's Tentacle
 tagBossLoghorreanTentacle02=Loghorrean's Tentacle
 tagBossLoghorreanTentacleCluster=Tentacle Cluster
 
+tagMiscTargetDummy=Training Dummy
+
 #Nemesis
 tagNemesis_Aetherial01=Valdaran, the Storm Scourge
 tagNemesis_Aetherial02=Obligious Foul
@@ -1053,6 +1059,17 @@ tagNemesis_Outlaw03=Dead-Eye
 tagNemesis_Undead01=Allminoxius, the Artificer
 tagNemesis_Undead02=Moosilauke, the Chillwind
 tagNemesis_Undead03=Toxemus
+
+tagNemesis_Clone01=Clone of John Bourbon
+tagNemesis_Clone02=Burning Clone of John Bourbon
+tagNemesis_Clone03=Frozen Clone of John Bourbon
+tagNemesis_Clone04=Electrified Clone of John Bourbon
+tagNemesis_Clone05=Tainted Clone of John Bourbon
+tagNemesis_Clone06=Deathly Clone of John Bourbon
+tagNemesis_Clone07=Corrupted Clone of John Bourbon
+tagNemesis_Clone08=The Final Form of the Clone of John Bourbon
+tagNemesis_Clone09=The Actually Final Form of the Clone of John Bourbon
+
 
 #Devotion
 tagDevotion_AetherialH01=Athraz, the Watcher
@@ -1094,15 +1111,15 @@ tagDevotion_FleshHulkH02=Aethollin
 tagDevotion_FleshHulkH03=Kollus ~ Burning
 tagDevotion_FleshHulkH04=Feseron ~ Electrified
 
-tagDevotion_GhostH01=Lady Odellia
-tagDevotion_GhostH02=Lord Mardenthal ~ Burning
-tagDevotion_GhostH03=Lady Agathon ~ Regenerator
-tagDevotion_GhostH04=Lord Stormbane ~ Electrified
-tagDevotion_GhostH05=Lord Blackwood ~ Voidtouched
-tagDevotion_GhostH06=Lord Senethal ~ Corrupted
-tagDevotion_GhostH07=Lord Develon
-tagDevotion_GhostH08=Lady Barroth
-tagDevotion_GhostH09=Lady Senethal
+tagDevotion_GhostH01=Odellia Lanos
+tagDevotion_GhostH02=Marden Thal ~ Burning
+tagDevotion_GhostH03=Agalla Varos ~ Regenerator
+tagDevotion_GhostH04=Stormbane ~ Electrified
+tagDevotion_GhostH05=Baullos Gar ~ Voidtouched
+tagDevotion_GhostH06=Senal Thandris ~ Corrupted
+tagDevotion_GhostH07=Develos Ondal
+tagDevotion_GhostH08=Barrosa Namos
+tagDevotion_GhostH09=Aneria Thandris
 
 tagDevotion_CavePrawnH01=Direcrix
 tagDevotion_CavePrawnH02=Malocrix ~ Voidtouched
@@ -1123,7 +1140,7 @@ tagDevotion_SkeletonH03=Damnoth
 tagDevotion_SkeletonH04=Everon ~ Burning
 tagDevotion_SkeletonH05=Vengar the Vengeful ~ Reflective
 tagDevotion_SkeletonH06=Rimelord ~ Frozen
-tagDevotion_SkeletonH07=Lord Tenethon
+tagDevotion_SkeletonH07=Tenethon
 tagDevotion_SkeletonH08=Alladon the Flamewatcher
 tagDevotion_SkeletonH09=Elagorian Darkmarrow
 tagDevotion_SkeletonH10=Ollegon the Icewatcher

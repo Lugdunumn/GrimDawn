@@ -67,7 +67,7 @@ tagWeaponSwordD002Desc="A Soladrin crystal blade teeming with untapped power."
 tagWeaponSwordD003=Grim Fate
 tagWeaponSwordD004=Mindwarp
 tagWeaponSwordD005=Beronath, Reforged
-tagWeaponSwordD005Desc="The slayer of Beronath once broken, reforged at last."
+tagWeaponSwordD005Desc="The slayer of Beronath once broken, reforged at last as a mighty blade."
 tagWeaponSwordD006=Bloodsong
 tagWeaponSwordD007=Nex
 tagWeaponSwordD007Desc="You can sense your own mortality when looking upon this blade."
@@ -165,6 +165,7 @@ tagWeaponAxeB002=Spectral Battle Axe
 tagWeaponAxeB003=Pit Master's Axe
 tagWeaponAxeB004=Bonecleaver
 tagWeaponAxeB005=Bonescythe
+tagWeaponAxeB006=Olman's Axe
 
 tagWeaponAxeC001=Cruel Edge
 tagWeaponAxeC002=Reaper's Touch
@@ -185,7 +186,7 @@ tagWeaponAxeC012=Corpse Desecrator
 tagWeaponAxeC013=Chonag'Ri
 tagWeaponAxeC013Desc="A shamanistic axe comprising of various unidentifiable human and animal bones."
 tagWeaponAxeC014=Asterkarn Cleaver
-tagWeaponAxeC015=Hellborn Slicer
+tagWeaponAxeC015=Hellclaw Slicer
 
 tagWeaponAxeD001=Butcher of Burrwitch
 tagWeaponAxeD001Desc="Embodiment of the madness and depravity that overwhelmed the people of Cairn following the Grim Dawn."
@@ -217,6 +218,7 @@ tagWeaponGun1hB002=Hand Mortar
 tagWeaponGun1hB003=Shrapnel Pistol
 tagWeaponGun1hB004=Bloodsworn Pistol
 tagWeaponGun1hB005=Bloodsworn Repeater
+tagWeaponGun1hB006=Francis' Gun
 
 tagWeaponGun1hC001=Leander Greene's Hand Cannon
 tagWeaponGun1hC001Desc="Taken from the cold dead hands of the Blackwater bandit."
@@ -227,6 +229,7 @@ tagWeaponGun1hC003Desc="The old priest wasn't known for his peace talks."
 tagWeaponGun1hC004=Marauder's Fury
 tagWeaponGun1hC005=Marauder's Justice
 tagWeaponGun1hC006=The Slugger
+tagWeaponGun1hC006B=Slugger
 tagWeaponGun1hC007=3rd Company's Revolver
 tagWeaponGun1hC007Desc="Inscribed on the barrel is a single word: Loyal."
 tagWeaponGun1hC008=Mutiny
@@ -283,13 +286,16 @@ tagWeaponGun2hB004=Fleshwarped Rifle
 tagWeaponGun2hB005=Fleshwarped Carbine
 
 tagWeaponGun2hC001=The Huntsman
+tagWeaponGun2hC001B=Huntsman
 tagWeaponGun2hC002=The Eye
+tagWeaponGun2hC002B=Eye
 tagWeaponGun2hC002Desc="One shot, one kill"
 tagWeaponGun2hC003=Hellmaw Shotgun
 tagWeaponGun2hC004=Devil's Mark
 tagWeaponGun2hC005=Will of Fate
 tagWeaponGun2hC005Desc="Every bullet is destined to meet its true mark, regardless of who stands in its way."
 tagWeaponGun2hC006=The Scarlet Marksman
+tagWeaponGun2hC006B=Scarlet Marksman
 tagWeaponGun2hC007=Salt-core Bolter
 tagWeaponGun2hC007Desc="A scrapped-together weapon designed to destroy Aetherials."
 tagWeaponGun2hC008=Wrathbringer
@@ -331,6 +337,7 @@ tagWeaponCrossbow2hC004Desc="Crafted using wood from the forest outside Blackwoo
 tagWeaponCrossbow2hC005=Frigid Quillbreath
 tagWeaponCrossbow2hC006=Stake-Thrower
 tagWeaponCrossbow2hC007=The Arachnid's Embrace
+tagWeaponCrossbow2hC007B=Arachnid's Embrace
 tagWeaponCrossbow2hC008=Wretched Crow of Bysmiel
 tagWeaponCrossbow2hC008Desc="Symbolic weapon of devout followers of Bysmiel."
 tagWeaponCrossbow2hC009=Ulda'Jax
@@ -377,6 +384,7 @@ tagWeaponMelee2hB009=Spectral Warmaul
 tagWeaponMelee2hB010=Archon's Warmaul
 tagWeaponMelee2hB011=Obsidian Headsplitter
 tagWeaponMelee2hB012=Obsidian War Cleaver
+tagWeaponMelee2hB013=Hevill's Greatsword
 
 tagWeaponMelee2hC001=Gutwrench Eviscerator
 tagWeaponMelee2hC002=Massacre
@@ -385,11 +393,13 @@ tagWeaponMelee2hC003Desc="Earned its name for the countless abomination skulls i
 tagWeaponMelee2hC004=Falcon's Claw
 tagWeaponMelee2hC005=Tremor
 tagWeaponMelee2hC006=The Conduit
+tagWeaponMelee2hC006B=Conduit
 tagWeaponMelee2hC006Desc="A rare success in the experimentation of arcane forging techniques."
 tagWeaponMelee2hC007=Boneshard Lacerator
 tagWeaponMelee2hC008=Golemfist Gavel
 tagWeaponMelee2hC009=Wrathblade
 tagWeaponMelee2hC010=The Farmstead Liberator
+tagWeaponMelee2hC010B=Farmstead Liberator
 tagWeaponMelee2hC010Desc="A historic weapon from the rebellion of Farmstead, mercilessly crushed by Imperial forces."
 tagWeaponMelee2hC011=Alvarick's Rebuke
 tagWeaponMelee2hC012=Prismatic Eviscerator
@@ -461,6 +471,7 @@ tagWeaponCaster1hB010=Rift Scourge Claw
 tagWeaponCaster1hB011=Rift Scourge Slicer
 tagWeaponCaster1hB012=Bloodsworn Wand
 tagWeaponCaster1hB013=Bloodsworn Scepter
+tagWeaponCaster1hB014=Loxmere's Frostblade
 
 tagWeaponCaster1hC001=Burning Hatred
 tagWeaponCaster1hC002=Spellfire Wand
@@ -565,6 +576,8 @@ tagShieldB008=Trog Bonewall
 tagShieldB009=Vampiric Bonewall
 tagShieldB010=Obsidian Guard
 tagShieldB011=Obsidian Bulwark
+tagShieldB012=Fleshwarped Shield
+tagShieldB013=Fleshwarped Bulwark
 
 tagShieldC001=Defender of Devil's Crossing
 tagShieldC002=Spiriteater Bulwark
@@ -596,7 +609,7 @@ tagShieldD002=The Final Stop
 tagShieldD002Desc="Forged by railyard workers during a desparate battle against the rising Chthonian forces."
 tagShieldD003=The Untouchable
 tagShieldD004=Will of the Living
-tagShieldD004Desc="Formerly  the Emperor's Crest, this shield has passed through Chthonian flame to become a paragon of mankind."
+tagShieldD004Desc="Formerly the Emperor's Crest, this shield has passed through Aetherfire to become a paragon of mankind."
 tagShieldD005=Skybreach Bulwark
 tagShieldD006=Siegebreaker
 tagShieldD007=Zolhan's Revenge
@@ -904,7 +917,7 @@ tagHeadC013=Glory of the Silver Knight
 tagHeadC014=Terror of the Grove
 tagHeadC014Desc="Cut from the hide of an ancient Thorned Horror."
 tagHeadC015=Spiritweaver Circlet
-tagHeadC016=Outcast's Hood
+tagHeadC016=Shadowspark Hood
 tagHeadC017=Herald's Mask
 tagHeadC018=Faceguard of Perdition
 tagHeadC019=Cowl of the Blind Assassin
@@ -946,6 +959,7 @@ tagHeadD018=Crown of the Winter King
 tagheadD018Desc="Crown of King Hrothnar, ruler of the northern reaches and son of the great white wolf."
 tagHeadD019=Trozan's Hat
 tagHeadD020=Valdun's Hat
+tagHeadD021=Outcast's Secret
 
 tagHeadF001=Outcast's Hood
 tagHeadF001Desc="You can't help but feel as if the mask is staring back at you."
@@ -1402,6 +1416,7 @@ tagFeetC004=Stonewrought Groundbreakers
 tagFeetC005=Explorer's Footpads
 tagFeetC006=Bloodhound Greaves
 tagFeetC007=The Final March
+tagFeetC007B=Final March
 tagFeetC007Desc="Each step bears the weight of a thousand soldiers who lost their lives to Chthonian Forces."
 tagFeetC008=Rifthound Leather Boots
 tagFeetC008Desc="Good for nothing beasts, but they make great boots."
@@ -1464,6 +1479,8 @@ tagRingB004=Gollus' Ring
 tagRingB004Desc="He really liked that ring."
 tagRingB005=Bloodsworn Signet
 tagRingB005Desc="The gem within shimmers during summoning rituals."
+tagRingB006=Viloth's Ring
+tagRingB006Desc="A crudely fashioned piece of jewelry. Strange that a slith would use such a thing."
 
 tagRingC001=Marrow Band
 tagRingC002=Obsidian Seal
@@ -2324,6 +2341,14 @@ tagDLCA01=Illusion: Powdered Wig
 tagDLCA01Desc="The definition of sophistication and style."
 tagDLCA02=Illusion: Swashbuckler's Coat
 tagDLCA02Desc="The preferred choice of adventurers everywhere."
+tagDLCA03=Backer's Distinction
+tagDLCA03Desc="Recognition for the most dedicated of backers."
+tagDLCA04=Kickstarter Service Medal
+tagDLCA04Desc="A military insignia from the great Kickstarter Wars of 2012."
+tagDLCA05=Kickstarter Veteran's Medal
+tagDLCA05Desc="A veteran's insignia from the great Kickstarter Wars of 2012."
+tagDLCA06=Kickstarter Officer's Medal
+tagDLCA06Desc="An officer's insignia from the great Kickstarter Wars of 2012."
 tagDLCConsumableA01=Will'O'Wisp in a Jar
 tagDLCConsumableA01Desc="A harmless spirit, trapped in a jar."
 tagDLCConsumableA01PetSkill01=Wisp Aura
@@ -3180,7 +3205,7 @@ tagCompB013Name=^kHaunted Steel
 tagCompB013Desc="It fills your mind with the maddening whispers of trapped spirits."^w^n(Used in all weapons, shields and caster off-hands)
 
 tagCompB014Name=^kShard of Beronath
-tagCompB014Desc="But a piece of the legendary blade Beronath, yet still retains great power."^w^n(Used in melee weapons)
+tagCompB014Desc="But a piece of the legendary spear that felled Beronath, yet still retains great power."^w^n(Used in melee weapons)
 
 tagCompB015Name=^kBloody Whetstone
 tagCompB015Desc="Soaked in the blood of the fallen, this accursed whetstone gives blades a hunger for blood."^w^n(Used in axes and swords)
@@ -3341,7 +3366,6 @@ tagItemSetC001NameB=Peacekeeper's Raiment
 tagItemSetC001Desc="Once the standard issue equipment of peacekeepers and royal guards, only a few of these outfits survived the Grim Dawn."
 
 tagItemSetC002Name=Explorer's Garments
-tagItemSetC002NameB=Explorer's Vestments
 tagItemSetC002Desc="Light but durable armor for the eager traveler."
 
 tagItemSetC003Name=Maiven's Sanctuary
@@ -3490,8 +3514,7 @@ tagItemSetD018Name=Trozan's Ascension
 tagItemSetD018Desc="In his seclusion, Trozan studied the stars and learned to harness their unbelievable power, despite all risks involved in taming such raw energies."
 
 tagItemSetD019Name=Valdun's Treachery
-tagItemSetD019Desc="Valdun was one of the finest marksmen in all of Cairn, but it was not until he turned his sights upon the nobility of Erulan that he became truly infamous."
-
+tagItemSetD019Desc="Valdun was one of the finest marksmen in all of Cairn, but he only became truly infamous after turning his sights upon the nobility of Erulan."
 
 #Prefixes
 
@@ -3852,6 +3875,9 @@ tagSuffixB064_Ar_A=of the Honor Guard
 tagSuffixB065_Ar_A=of Arcane Minds
 tagSuffixB066_Ar_A=of Aether Storms
 tagSuffixB067_Ar_A=of Dark Intent
+tagSuffixB068_Ar_A=of Battle Fury
+tagSuffixB069_Ar_A=of Arcane Might
+tagSuffixB070_Ar_A=of Stone Fists
 
 tagSuffixB001_Sh_A=of Redoubt
 tagSuffixB002_Sh_A=of Valor
@@ -3963,7 +3989,13 @@ tagChestHeroD07=Obsidian Cluster
 tagChestHeroD08=Obsidian Trove
 tagChestHeroD09=Obsidian Wealth
 tagChestHeroD10=Loghorrean's Trove
+tagChestHeroD11=Edmund's Stash
 tagChestNemesis01=Nemesis Trove
+tagChestNemesis02=Clone's Trove
+
+tagChestSecret01=Hidden Spoils
+tagChestSecret02=Hidden Remains
+tagChestSecret03=Hidden Trove
 
 tagBreakableA01=Barrel
 tagBreakableA02=Crate
@@ -4001,6 +4033,8 @@ tagChestOneShot_HiddenWealth=Hidden Wealth
 
 #Interactive Objects
 tagShrineConstitutionA01=Untouched Meal
+tagShrineBossLocked= {^R} ~ Sealed by a Powerful Presence
+tagShrineMogdrogenLocked= {^R} ~ Sealed by Chthonic Energies
 
 #Breakables
 
@@ -4066,6 +4100,9 @@ tagQuestItemBrothersAmuletDesc="To my dear brother: May this amulet keep you str
 tagQuestItemSlithRing=Slith Primal Ring
 tagQuestItemSlithRingDesc="There is a lingering stench about this ring that won't wash out."
 
+tagItemTest=Gazer Man
+tagItemTestDesc="A crowning achievement in Gazer wear."
+
 #Equipment Locations
 
 tagSlotLeftHand= (Left Hand)
@@ -4082,4 +4119,4 @@ tagSlotFeet= (Feet)
 tagSlotWaist= (Waist)
 tagSlotRelic= (Relic)
 tagSlotMedal= (Medal)
-tagSlotUnknown= (Unknown)
+tagSlotUnknown= (Unequipped)

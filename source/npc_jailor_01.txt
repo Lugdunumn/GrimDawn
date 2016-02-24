@@ -29,9 +29,9 @@ Who am I supposed to talk to again?
 You slow or something? Captain Bourbon is up the road, by the stone bridge. Now move!
 I'm on my way.
 Still drawing breath, I see. You're one lucky bastard, I'll give you that. Best go speak to Captain Bourbon right away. He seems to have a plan for you now that we've spared your life.
-I don't... what's going on? Where am I?
-Welcome to Devil's Crossing, possibly the last refuge of humanity. {^n}{^n}You were possessed, so we strung you up as we do with all Aetherial 'Taken'. Seems the spirit fled your body before your life ran out. {^n}{^n}I'd have left you to hang but the Captain had other plans. He sees some purpose in you and I'm not going to argue.
+What happened... how did I get here?
+You were possessed, so we strung you up. Seems the spirit fled your body before your life ran out. {^n}{^n}I'd have left you to hang but the Captain had other plans. He sees some purpose in you and I'm not going to argue.
 Where can I find this Captain then?
-He's up the road, in the courtyard, probably coordinating our defenses against the Dead. Don't make me regret cutting you down.
+He's up the road, in the courtyard. Don't make me regret cutting you down.
 I'll be on my way then.
 It can wait.

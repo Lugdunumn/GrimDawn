@@ -47,17 +47,17 @@ tagSkillClassName0809=
 
 tagSkillDevotion=Devotion
 
-tagSkillClassDescription01=Soldiers of the imperial army were trained to survive in the{^n}most hellish conditions and hold the line against the deadliest{^n}enemies of the empire. Soldiers prefer the use of close combat{^n}weaponry, such as a sword and shield, but can also prove{^n}formidable with firearms. What a Soldier may lack in outright{^n}damage output is made up for in fortitude and leadership.
+tagSkillClassDescription01=Soldiers of the imperial army were trained to survive in the most hellish conditions and hold the line against the deadliest enemies of the empire. Soldiers prefer the use of close combat weaponry, such as a sword and shield, but can also prove formidable with firearms. What a Soldier may lack in outright damage output is made up for in fortitude and leadership.
 
-tagSkillClassDescription02=Pyrotechnic masters of the imperial army, Demolitionists are{^n}part engineer and part sorcerer. They were used to break enemy{^n}ranks and breach fortifications with their devastating array{^n}of explosives and destructive magic. They usually prefer to{^n}fight at range; engaging enemies with guns, traps and explosives{^n}but they can also be proficient with melee weapons.
+tagSkillClassDescription02=Pyrotechnic masters of the imperial army, Demolitionists are part engineer and part sorcerer. They were used to break enemy ranks and breach fortifications with their devastating array of explosives and destructive magic. They usually prefer to fight at range; engaging enemies with guns, traps and explosives but they can also be proficient with melee weapons.
 
-tagSkillClassDescription03=Once hunted by imperial forces in an effort to control eldritch{^n}power, the Occultist's craft focuses heavily on summoning and{^n}borrowed powers granted by the three witch "gods" Bysmiel,{^n}Solael and Dreeg. Their diverse arts include abhorrent curses{^n}and spells that inflict damage with poison, acid, and entropic{^n}energy. Excelling with neither sword nor gun, they can use{^n}either to augment their offense.
+tagSkillClassDescription03=Once hunted by imperial forces in an effort to control eldritch power, the Occultist's craft focuses heavily on summoning and borrowed powers granted by the three witch "gods" Bysmiel, Solael and Dreeg. Their diverse arts include abhorrent curses and spells that inflict damage with poison, acid, and entropic energy. Excelling with neither sword nor gun, they can use either to augment their offense.
 
-tagSkillClassDescription04=Nightblades were clandestine warriors that sold their services to the great houses of the empire. Nightblades excel with all{^n}manner of martial weapons, but are even more feared for the deadly blade magic that is the secret of their trade. Nightblades are not suited to go toe to toe with tougher enemies and rely on illusion to close for quick, devastating attacks or fight from a distance with phantasmal blades.
+tagSkillClassDescription04=Nightblades were clandestine warriors that sold their services to the great houses of the empire. Nightblades excel with all manner of martial weapons, but are even more feared for the deadly blade magic that is the secret of their trade. Nightblades are not suited to go toe to toe with tougher enemies and rely on illusion to close for quick, devastating attacks or fight from a distance with phantasmal blades.
 
-tagSkillClassDescription05=To Arcanists, the manifestation of magic is not some unexplainable mystery or the will of the gods, but a science meant to be unraveled.  This pursuit of knowledge drives all Arcanists, always eager to discover a new technique to make their namesake.  Arcanists warp Aetherial and elemental{^n}energy to their will, creating devastating demonstrations of power that rival small armies.  However, such raw force leaves little in terms of defense.
+tagSkillClassDescription05=To Arcanists, the manifestation of magic is not some unexplainable mystery or the will of the gods, but a science meant to be unraveled.  This pursuit of knowledge drives all Arcanists, always eager to discover a new technique to make their namesake.  Arcanists warp Aetherial and elemental energy to their will, creating devastating demonstrations of power that rival small armies.  However, such raw force leaves little in terms of defense.
 
-tagSkillClassDescription06=Hailing from the untamed northlands, Shamans were the{^n}spiritual leaders and guardians of their people. Claiming an astounding attunement to the wilds and their patron deity Mogdrogen, Shamans are capable of wielding the terrible forces{^n}of nature against their foes or even calling upon savage beasts to come to their aid. Shamans excel in the use of brutal two-handed{^n}melee weapons, but can easily adapt to other tools of war when conjuring their primal powers.
+tagSkillClassDescription06=Hailing from the untamed northlands, Shamans were the spiritual leaders and guardians of their people. Claiming an astounding attunement to the wilds and their patron deity Mogdrogen, Shamans are capable of wielding the terrible forces of nature against their foes or even calling upon savage beasts to come to their aid. Shamans excel in the use of brutal two-handed melee weapons, but can easily adapt to other tools of war when conjuring their primal powers.
 
 tagSkillClassDescription07=
 
@@ -89,7 +89,7 @@ tagClass01SkillDescription00A=Intense physical conditioning necessary to brave t
 tagClass01SkillName01A=Cadence
 tagClass01SkillDescription01A=The use of weapon forms in combat gives your attacks a natural cadence with peaks and ebbs that, while predictable, are none the less effective and difficult to counter.  ^oWhen used as your default weapon attack, Cadence will magnify the power of every 3rd strike.
 tagClass01SkillName01B=Fighting Form
-tagClass01SkillDescription01B=The fury of Cadence resonates with the target, causing heavy bleeding. ^oWith melee weapons, the resonance causes Cadence to strike additional nearby targets.
+tagClass01SkillDescription01B=The fury of Cadence resonates with the target, causing heavy bleeding and striking additional nearby targets. ^oWith ranged weapons, Cadence has a chance to pierce through enemies.
 tagClass01SkillName01C=Deadly Momentum
 tagClass01SkillDescription01C=You push the advantage following a Cadence strike, briefly causing all of your blows to strike with additional deadly force. ^oDeadly Momentum affects all attacks while active.
 tagClass01SkillName01D=Discord
@@ -189,9 +189,9 @@ tagClass02SkillDescription03B=Increases the potency of Fire Strike with a chance
 tagClass02SkillName03C=Static Strike
 tagClass02SkillDescription03C=Further alchemical alterations cause Fire Strike to electrocute the target with a chance of knocking them off their feet.
 tagClass02SkillName03D=Brimstone
-tagClass02SkillDescription03D=Pyromancy with a hint of the occult imbues Firestrike with the chaotic power of brimstone. ^oRanged attacks will also splinter into molten fragments.
+tagClass02SkillDescription03D=Pyromancy with a hint of the occult imbues Fire Strike with the chaotic power of brimstone. ^oRanged attacks will also splinter into molten fragments.
 tagClass02SkillName03E=Searing Strike
-tagClass02SkillDescription03E=Focusing the destructive power of Fire Strike allows it to hit with greater intensity while requiring less energy, but this technique can only be achieved with the proper handling of a melee weapon or two-handed rifle or crossbow.  ^oRequires a melee or two-handed ranged weapon.
+tagClass02SkillDescription03E=Focusing the destructive power of Fire Strike allows it to hit with greater intensity while requiring less energy, but this technique can only be achieved with the proper handling of a melee weapon or two-handed rifle or crossbow.  ^oRequires a melee weapon or two-handed ranged weapon.
 
 tagClass02SkillName04A=Canister Bomb
 tagClass02SkillDescription04A=An explosive packed with more explosives, this devilish contraption is capable of laying waste to an entire field of enemies. 
@@ -213,8 +213,8 @@ tagClass02SkillDescription05E=Launches an electrically charged mortar at enemies
 
 tagClass02SkillName06A=Thermite Mine
 tagClass02SkillDescription06A=Drops a trio of small but deadly pyrotechnic charges that will sear enemies with intense jets of flame. ^oThe mines scale with player damage bonuses.
-tagClass02SkillName06B=Lightning Arc
-tagClass02SkillDescription06B=Half pyrotechnics, half alchemy, this lethal improvement to the Thermite Mine causes it to scorch enemies with both intense fire and bolts of electricity.
+tagClass02SkillName06B=Hellfire Mine
+tagClass02SkillDescription06B=Half pyrotechnics, half alchemy, this lethal improvement to the Thermite Mine causes it to scorch enemies with unearthly flame that sears the very being.
 tagClass02SkillName06C=Flame Jet
 tagClass02SkillDescription06C=Emits a deadly jet of white-hot flame to incinerate enemies that pass over it.
 tagClass02SkillName06D=Detonation
@@ -297,8 +297,8 @@ tagClass03SkillDescription03B=Subtle manipulation of the bonds of control beguil
 
 tagClass03SkillName04A=Blood of Dreeg
 tagClass03SkillDescription04A=A binding with the great guardian confers some of Dreeg's regenerative ability, while wounds inflicted by enemies will spray caustic blood as though inflicted upon Dreeg himself. ^oThis effect is also applied to nearby allies.
-tagClass03SkillName04B=Armor of the Guardian
-tagClass03SkillDescription04B=The Occultist becomes ensconced in a phantasmal barrier that causes enemy hits to impact as though they were striking the quilled scales of Dreeg.
+tagClass03SkillName04B=Aspect of the Guardian
+tagClass03SkillDescription04B=Deepening the connection to Dreeg causes enemy attacks on the occultist to impact as though they were striking the quilled scales of the guardian.
 tagClass03SkillName04C=Quills of the Guardian
 tagClass03SkillDescription04C=Sacrifice all of your regenerative power to enhance the caustic potential of Dreeg's blood.
 
@@ -307,7 +307,7 @@ tagClass03SkillDescription05A=Harness the eldritch power of Solael, burning your
 tagClass03SkillName05B=Second Rite
 tagClass03SkillDescription05B=Deepens the Occultist's bond to the hidden realm, intensifying the power of witchfire such that the slightest touch burns through the arcane essence of foes.
 tagClass03SkillName05C=Consecrated Blade
-tagClass03SkillDescription05C=Witchfire consumes your weapon, turning it into a focal point for chaotic powers. ^oRequires a melee or two-handed ranged weapon.
+tagClass03SkillDescription05C=Witchfire consumes your weapon, turning it into a focal point for chaotic powers.
 
 tagClass03SkillName06A=Curse of Frailty
 tagClass03SkillDescription06A=A cruel word of power that robs enemies of their fortitude, making them slow and fragile.
@@ -406,7 +406,7 @@ tagClass04SkillName05F=Execution
 tagClass04SkillDescription05F=A merciless blow, struck during a moment of opportunity, with the intent to quickly finish a foe. Those that survive are not likely to remain alive for very long. ^oThis is a melee dual-wielding technique that activates off of default weapon attacks.
 
 tagClass04SkillName06A=Pneumatic Burst
-tagClass04SkillDescription06A=Secret martial techniques of the Nightblades enable you to draw vital breath or "pneuma" from your surroundings for short bursts of speed and power. The metabolic acceleration caused by these vital breaths also confers minor healing. ^oRequires a melee weapon.
+tagClass04SkillDescription06A=Secret martial techniques of the Nightblades enable you to draw vital breath or "pneuma" from your surroundings for short bursts of speed and power. The metabolic acceleration caused by these vital breaths also confers minor healing.
 tagClass04SkillName06B=Shadow Dance
 tagClass04SkillDescription06B=Practice in combat meditation allows you to achieve a calm clarity in the heat of battle where you can calculate the path of enemy attacks and shift subtly to lessen the impact of weapon hits on your armor or to deflect projectiles.
 tagClass04SkillName06C=Elemental Awakening
@@ -422,7 +422,7 @@ tagClass04SkillDescription07B=Causes foes affected by the Veil of Shadow to feel
 tagClass04SkillName08A=Blade Spirit
 tagClass04SkillDescription08A=Conjure a swirling cloud of lethal blades that will roam the battlefield, slicing enemies to pieces before finally expiring in a shower of jagged shards. ^oBlade Spirits scale with player damage bonuses.
 tagClass04SkillName08PetA=Whirling Blades
-tagClass04SkillName08PetB=Blade Burst
+tagClass04SkillName08PetB=Blade Eruption
 tagClass04SkillDescription08PetB=The Blade Spirit shoots out eviscerating blades in all directions.
 
 tagClass04SkillName11A=Blade Trap
@@ -456,15 +456,24 @@ tagClass04SkillDescription12A=Draw vital breathe from enemies within an area, ga
 tagClass04SkillName13D=Merciless Repertoire
 tagClass04SkillDescription13D=Efficient use of poisons and anti-clotting agents can sometimes be the deadliest weapon of all.
 
-tagClass04SkillName14A=Lethal Gambit
-tagClass04SkillDescription14A=A risky technique favored by the master of assassins Amarasta. Lethal Gambit has the potential to inflict devastating harm when carried off perfectly, but with the risk that it may falter. ^oRequires a melee or two-handed ranged weapon. When used with a melee weapon, will strike additional nearby targets.
-tagClass04SkillName14B=Amarasta's Blade Burst
-tagClass04SkillDescription14B=Mastery of the Lethal Gambit technique enhances it with a burst of dozens of deadly phantasmal blades which spread out from the point of attack to damage all adjacent foes.
+tagClass04SkillName14A=Amarasta's Blade Burst
+tagClass04SkillDescription14A=Master of assassins Amarasta, legendary among the Nightblades for her alacrity, developed a technique by which she would unleash a burst of deadly phantasmal blades which spread out from the point of attack to impale all adjacent foes. ^oRequires a melee weapon or two-handed ranged weapon.
+tagClass04SkillName14B=Lethal Assault
+tagClass04SkillDescription14B=Committed to the offensive, Amarasta would continue her relentless assault following a blade burst to quickly and decisively finish off any surviving adversaries with her imbued weapons. ^oLethal Assault affects all attacks while active.
 
-tagClass04SkillName15A=Eviscerate
-tagClass04SkillDescription15A=A quick cut to the gut that will bleed out a victim over time, while impairing their mobility and attack speed. ^oRequires a Sword or Axe.
-tagClass04SkillName15B=Amarasta's Gambit
-tagClass04SkillDescription15B=A master technique that enhances eviscerate and has the potential to cause devastating damage if carried off perfectly but with the risk that it may falter and do little to nothing.
+xtagClass04SkillName14A=Lethal Gambit
+xtagClass04SkillDescription14A=A risky technique favored by the master of assassins Amarasta. Lethal Gambit has the potential to inflict devastating harm when carried off perfectly, but with the risk that it may falter. ^oRequires a melee weapon or two-handed ranged weapon. When used with a melee weapon, strikes additional nearby targets.
+xtagClass04SkillName14B=Amarasta's Blade Burst
+xtagClass04SkillDescription14B=Mastery of the Lethal Gambit technique enhances it with a burst of dozens of deadly phantasmal blades which spread out from the point of attack to damage all adjacent foes. ^oFor ranged weapons, only one projectile will trigger this effect.
+
+
+xtagClass04SkillName15A=Eviscerate
+xtagClass04SkillDescription15A=A quick cut to the gut that will bleed out a victim over time, while impairing their mobility and attack speed. ^oRequires a Sword or Axe.
+xtagClass04SkillName15B=Amarasta's Gambit
+xtagClass04SkillDescription15B=A master technique that enhances eviscerate and has the potential to cause devastating damage if carried off perfectly but with the risk that it may falter and do little to nothing.
+xtagClass04SkillName14C=Splintering Gambit
+xtagClass04SkillDescription14C=An outnumbered gunman can quickly turn the odds in their favor with clever use of a splintering round. As desperate measure, this method can also prove lethal at point-blank range. ^oRequires a two-handed ranged weapon to launch additional projectiles.
+
 
 
 #Class05
@@ -550,8 +559,6 @@ tagClass05SkillName15A=Reckless Power
 tagClass05SkillDescription15A=Turn your body into a conduit of the aether, manifesting terrifying arcane energies through your mortal form that ignite the air and send ripples through reality. ^oThis ability must be toggled to maintain its effect.
 tagClass05SkillName15B=Star Pact
 tagClass05SkillDescription15B=Many Arcanists sacrifice much in the pursuit of limitless power. There are some who do not heed the ancient warnings and tap into sources of power that others would consider unsafe, or even unnatural. It is these Arcanists that strike fear into the hearts of lesser mortals. ^oThis ability must be toggled to maintain its effect.
-tagClass05SkillName15C=UNLEARN ME
-tagClass05SkillDescription15C=THIS SKILL NO LONGER DOES ANYTHING. UNLEARN IT BEFORE BUILD 31 IN FEBRUARY OR LOSE THESE SKILL POINTS.
 
 
 tagClass05SkillName16A=Olexra's Flash Freeze
@@ -910,6 +917,9 @@ tagItemSkillB042Desc=Bolts of life-stealing energies erupt from you, sapping any
 tagItemSkillB043Name=Rejuvenation
 tagItemSkillB043Desc=A soothing calm washes over you, amplifying your body's ability to heal.
 
+tagItemSkillB044Name=Poison Bolt
+tagItemSkillB044Desc=Launches a bolt of toxins at your enemies.
+
 tagItemSkillC002Name=Lightning Orb
 tagItemSkillC002Desc=Retaliates with an orb of lightning launched in the attacker's direction, damaging and stunning all in its path.
 
@@ -1011,7 +1021,7 @@ tagItemSkillC032Name=Homebrewed Potion
 tagItemSkillC032Desc=Drink deep and feel all better.
 
 tagItemSkillC033Name=Quickdraw
-tagItemSkillC033Desc=With a flick of the hand, draw a trusty revolver and fire with deadly accuracy.  ^oRequires one-handed pistols.
+tagItemSkillC033Desc=With a flick of the hand, draw a trusty revolver and fire with deadly accuracy.  ^oRequires a ranged weapon.
 
 tagItemSkillC034Name=Interruption
 tagItemSkillC034Desc=The immense speed of these boots requires complete focus on every step taken. Even the slightest distraction could result in a misstep.
@@ -1758,7 +1768,7 @@ tagItemSkillD157Name=Prismatic Barrier
 tagItemSkillD157Desc=Protective runes form around you, warding you against all harm.
 
 tagItemSkillD158Name=Blazing Fury
-tagItemSkillD158Desc=Unleash a blazing fury from your guns. ^oThis is a ranged dual-wielding technique that activates off of default weapon attacks. Also enables the ability to dual wield ranged weapons.
+tagItemSkillD158Desc=Unleash a blazing fury from your guns. ^oThis is a ranged dual-wielding or two-handed technique that activates off of default weapon attacks. Also enables the ability to dual wield ranged weapons.
 
 tagItemSkillD159Name=Reaper's Mark
 tagItemSkillD159Desc=Mark your target for a swift and painful end.
@@ -1767,7 +1777,7 @@ tagItemSkillD160Name=Rebuke
 tagItemSkillD160Desc=Crush your foe with a devastating blow worthy of a giant.
 
 tagItemSkillD161Name=Replication
-tagItemSkillD161Desc=Panetti's talent for replicating arcane spells becomes all the more impressive when he did so under great pressure.
+tagItemSkillD161Desc=Panetti's talent for replicating arcane spells becomes all the more impressive when he did so under great pressure. ^oRequires a Caster Off-Hand.
 
 tagItemSkillD162Name=Retribution
 tagItemSkillD162Desc=Provoke nearby foes with a shockwave emanating from your shield. ^oRequires a shield.
@@ -1794,7 +1804,7 @@ tagItemSkillD169Name=Sealed Fate
 tagItemSkillD169Desc=You seal the fate of your foes, confident in the judgement you cast upon them.
 
 tagItemSkillD170Name=Secrets of the Guardian
-tagItemSkillD170Desc=The secrets of the Great Guardian are revealed to you. This dangerous knowledge threatens to overwhelm your senses, but also empowers your spellwork.
+tagItemSkillD170Desc=The secrets of Dreeg are revealed to you, threatening your sanity but also empowering your spellwork.
 
 tagItemSkillD171Name=Shadowbolt
 tagItemSkillD171Desc=You unleash a bolt of pure darkness at your foe.
@@ -1851,7 +1861,7 @@ tagItemSkillD188Name=Titan's Might
 tagItemSkillD188Desc=You wield massive weapons with ease, a testament to your titanic strength. ^oThis is a two-handed melee weapon passive bonus.
 
 tagItemSkillD189Name=Touch of Purity
-tagItemSkillD189Desc=Cleanse nearby allies of their ailments and curse minor wounds.
+tagItemSkillD189Desc=Cleanse nearby allies of their ailments and cure minor wounds.
 
 tagItemSkillD190Name=Harvest Soul
 tagItemSkillD190Desc=Harvest the soul of your slain foe to recover your strength.
@@ -1902,7 +1912,7 @@ tagItemSkillD205Name=Ward of Gul'Amash
 tagItemSkillD205Desc=The Ward of Gul'Amash shields you from physical harm when struck by physical blows.
 
 tagItemSkillD206Name=Ward of Illusion
-tagItemSkillD206Desc=Create shimmering illusions and yourself and your allies that distract your foes. ^oThis ability must be toggled to maintain its effect.
+tagItemSkillD206Desc=Create shimmering field around yourself and your allies that distract your foes. ^oThis ability must be toggled to maintain its effect.
 
 tagItemSkillD207Name=Warpfire
 tagItemSkillD207Desc=Ignite your foe with aetherfire, weakening them against further arcane assault.
@@ -1959,7 +1969,7 @@ tagItemSkillD224Name=Wrath of the Grim Dawn
 tagItemSkillD224Desc=Unleash the suffering and destruction ushered unto the world at the time of the Grim Dawn.
 
 tagItemSkillD225Name=Winter King's Might
-tagItemSkillD225Desc=^oRequires a two-handed melee weapon.
+tagItemSkillD225Desc=Slam your weapon into the earth with the might of the Winter King, unleashing a cascade of icy spines. ^oRequires a two-handed melee weapon.
 
 tagItemSkillD226Name=Summon Chillmane
 tagItemSkillD226Desc=Calls forth a mighty Chillmane Yeti to fight beside you. ^oOnly one Chillmane can be summoned at any one time. The yeti scales with Pet Bonuses.
@@ -1974,7 +1984,7 @@ tagItemSkillD229Name=Fallen Comet
 tagItemSkillD229Desc=Trozan's powers continued to evolve beyond calling down shards of the sky, until the day he brought down the very heavens.
 
 tagItemSkillD230Name=Perforator Round
-tagItemSkillD230Desc=Load a custom round of Valdun's making which pierces through your target to strike those behind.
+tagItemSkillD230Desc=Load a custom round that pierces through your target.
 
 tagItemSkillD231Name=Valdun's Lethality
 tagItemSkillD231Desc=Valdun was infamous for his talent with rifles. ^oThis is a ranged two-handed weapon passive bonus.
@@ -1983,9 +1993,22 @@ tagItemSkillD232Name=Valdun's Cunning
 tagItemSkillD232Desc=Valdun was equally known for his skills with a rifle as with evading the authorities. He was never captured. ^oThis is a ranged two-handed weapon passive bonus.
 
 tagItemSkillD233Name=Valdun's Clip
-tagItemSkillD233Desc=In a ruthless assault, Valdun's Rifle fires a custom round that splinters upon coming in contact with an enemy. ^oRequires a two-handed ranged weapon and activates off of default weapon attacks.
+tagItemSkillD233Desc=Fire a custom round that splinters on contact. ^oActivates off of default weapon attacks.
 
+tagItemSkillD234Name=Valdun's Treachery
+tagItemSkillD234Desc=Valdun was not know for fighting fairly. He once ended an honorable duel by loading an explosive round into his clip. ^oRequires a two-handed ranged weapon and activates off of default weapon attacks.
 
+tagItemSkillD235Name=Anasteria's Devastation
+tagItemSkillD235Desc=This technique tears a rift in reality through which fall embers of raw arcane energy. ^oRequires a Caster Off-Hand. Embers continue to fall over the duration of the spell.
+
+tagItemSkillD236Name=Justicar's Guard
+tagItemSkillD236Desc=The Grand Arbiter stands resolute against any blow. ^oThis is a shield passive bonus.
+
+tagItemSkillD237Name=Justicar's Vengeance
+tagItemSkillD237Desc=Horvald seldom uttered a word, instead letting his shield do the talking. ^oThis is a shield passive bonus.
+
+tagItemSkillD238Name=Power of the Gazer
+tagItemSkillD238Desc=The power of the Gazer flows through you.
 
 tagItemSkillFailName=Failchantment
 tagItemSkillFailDesc=Fail a little harder.
@@ -2170,7 +2193,7 @@ tagRelicSkillB012Name=Mutilate
 tagRelicSkillB012Desc=Mutilates your target with three quick attacks, causing heavy bleeding. ^oThis is a melee dual-wielding technique that activates off of default weapon attacks. Also enables the ability to dual wield melee weapons.
 
 tagRelicSkillB013Name=Volley
-tagRelicSkillB013Desc=Unleash a calculated volley of bullets at your target. ^oThis is a ranged dual-wielding technique that activates off of default weapon attacks. Also enables the ability to dual wield ranged weapons.
+tagRelicSkillB013Desc=Unleash a calculated volley of bullets at your target. ^oThis is a ranged dual-wielding or two-handed technique that activates off of default weapon attacks. Also enables the ability to dual wield ranged weapons.
 
 tagRelicSkillC001Name=Gavel of Justice
 tagRelicSkillC001Desc=Pass righteous judgement upon the wicked. ^oRequires a two-handed melee or ranged weapon.
@@ -2219,7 +2242,7 @@ tagRelicSkillC015Name=Ancestral Bond
 tagRelicSkillC015Desc=Your ancestral bond with your minions unlocks power within them previously thought impossible. ^oThis ability must be toggled to maintain its effect.
 
 tagRelicSkillD001Name=Aegis
-tagRelicSkillD001Desc=Imbue your shield with divine light, protecting you from further harm as it absorbs incoming blows.
+tagRelicSkillD001Desc=Imbue yourself with divine light, protecting you from further harm as it absorbs incoming blows.
 
 tagRelicSkillD002Name=Malediction
 tagRelicSkillD002Desc=Imbue your weapons with caustic poisons and virulent disease, infecting your enemies with every strike. ^oThis ability must be toggled to maintain its effect.
@@ -2402,7 +2425,10 @@ tagDevotion_RequiresCaster=^oRequires a scepter or dagger.
 tagDevotion_RequiresFocus=^oRequires a caster off-hand.
 tagDevotion_Requires1hRange=^oRequires a one-handed ranged weapon.
 tagDevotion_Requires2hRange=^oRequires a two-handed ranged weapon.
+tagDevotion_RequiresRange=^oRequires a ranged weapon.
+tagDevotion_Requires2h=^oRequires a two-handed melee or ranged weapon.
 tagDevotion_RequiresShield=^oRequires a shield.
+tagDevotion_RequiresMagic=^oRequires a scepter, dagger or caster off-hand.
 
 tagDevotion_A01=Bat
 tagDevotion_A01Desc=The vampiric bat easily finds its way across the night sky, hunting for flickers of lost stars to sap of their light.
@@ -2559,7 +2585,7 @@ tagDevotion_C06Desc=The Spear of the Heavens is the celestial symbol of power. I
 tagDevotion_C07=Ulzuin's Torch
 tagDevotion_C07Desc=Ulzuin the Betrayed was once a god of healing and ceremonies, but millennia of torment following a most grisly betrayal from his lover has twisted the once benevolent entity into a bitter deity interested only in vengeance and destruction.
 tagDevotion_C08=Dying God
-tagDevotion_C08Desc=In an age preceding the creation of the mortal planes, an elder god was betrayed by his children; his body torn apart and drained of blood so that they could use it's power to breathe life into their own creations. His remains were cast out of creation into a void but, incapable of death, the god lingered on in the darkness, doomed to an eternity of pain and madness; feeling the suffering and death of all mortal things that were given life from his blood. His name forgotten by time, the dying god is known only as Ch'thon; he who dwells below creation.
+tagDevotion_C08Desc=In an age preceding the creation of the mortal planes, an elder god was betrayed by his children; his body torn apart and drained of blood so that they could use its power to breathe life into their own creations. His remains were cast out of creation into a void but, incapable of death, the god lingered on in the darkness, doomed to an eternity of pain and madness; feeling the suffering and death of all mortal things that were given life from his blood. His name forgotten by time, the dying god is known only as Ch'thon; he who dwells below creation.
 tagDevotion_C09=Tree of Life
 tagDevotion_C09Desc=Legends say that when the world was first born from the darkness of the void, a single tree was planted which would come to bear all the fruit and animals of the world.
 tagDevotion_C10=Mogdrogen the Wolf
@@ -2619,7 +2645,8 @@ tagDevotionEffectB08=Trample
 tagDevotionEffectB08Desc=Unleash a wave of force from your shield that shatters the very earth and scatters your foes.
 tagDevotionEffectB09=Arcane Bomb
 tagDevotionEffectB09Desc=Mark the ground with an arcane sigil that erupts upon coming in contact with an enemy. ^oArcane Bombs take 1 second to arm.
-tagDevotionEffectB09_Pet01=Detonate
+tagDevotionEffectB09_Pet01=Arcane Mark
+tagDevotionEffectB09_Pet01Desc=Marked by an Arcane Bomb.
 tagDevotionEffectB10=Raise the Dead
 tagDevotionEffectB10Desc=Raise the dead to serve you. The necrotic energies required for this ritual are very unstable however, and the undead minions will only exist for a limited time. ^oThe dead scale with Pet Bonuses.
 tagDevotionEffectB10_Pet01=Melee Attack
@@ -2642,7 +2669,7 @@ tagDevotionEffectB17Desc=Your shield becomes a barrier against the forces of mag
 tagDevotionEffectB18=Acid Spray
 tagDevotionEffectB18Desc=The manticore's sting pierces through your target, creating a spray of caustic acid behind them.
 tagDevotionEffectB20=Messenger of War
-tagDevotionEffectB20Desc=Carry on your message of conquest, unimpeded by any foe.
+tagDevotionEffectB20Desc=Carry on your message of conquest, rebuking any foe daring enough to try and stop you.
 tagDevotionEffectB28=Giant's Blood
 tagDevotionEffectB28Desc=Giant's blood flows through your veins, incurring improved regeneration and healing.
 tagDevotionEffectB29=Wayward Soul
@@ -2673,7 +2700,7 @@ tagDevotionEffectC09_Pet02=Tooth and Claw
 tagDevotionEffectC10=Healing Rain
 tagDevotionEffectC10Desc=A soothing mist emanates from you, mending wounds and curing ailments.
 tagDevotionEffectC11=Howl of Mogdrogen
-tagDevotionEffectC11Desc=Driven by the thrill of a fresh kill, you throw your minions into a fervent rage.
+tagDevotionEffectC11Desc=Driven by the thrill of a fresh kill, you and your minions enter a fervent rage.
 tagDevotionEffectC12=Elemental Seeker
 tagDevotionEffectC12Desc=Conjure an eldritch creature of pure energy that seeks out and burns nearby foes with its very presence before returning to the Aether in an explosion of energy. ^oElemental Seekers scale with player damage bonuses.
 tagDevotionEffectC12_Pet01=Burning Presence

@@ -80,6 +80,8 @@ tagCodexJournalSubHeadingNecropolis=History - Necropolis
 tagCodexJournalSubHeadingSurvivorBlackLegion=Survivors - Black Legion
 tagCodexJournalSubHeadingSurvivorBurrwitch=Survivors - Burrwitch
 tagCodexJournalSubHeadingSurvivorsHomestead=Survivors - Homestead
+tagCodexJournalSubHeadingSurvivorsDarkvale= Survivors - Darkvale
+tagCodexJournalSubHeadingHistoryGods= History - Gods of Cairn
 tagCodexJournalSubHeadingDefault=Miscellaneous
 tagDevotionJournalTitle={%d0}/{%d1} Devotion Shrines
 tagAccept=Accept
@@ -373,6 +375,7 @@ tagFactionBonusInfamy=Bonus Infamy: {%d0}%
 
 tagAchievements=Achievements
 tagAchievementUnlocked=Achievement Unlocked!
+tagAchievementsComplete={%d0} / {%d1}
 
 #HUD
 
@@ -441,21 +444,21 @@ tagHUDQuickslotBarSwap=Toggle alternate quickslot bars.
 tagHUDButtonCharacter=Character Window
 tagHUDButtonSkills=Skills Window
 tagHUDButtonGroup=Group Window
-tagHUDButtonQuest=Quest Window
+tagHUDButtonQuest=Codex Window
 tagHUDButtonMap=Map Window
 tagHUDButtonChat=Chat Window
 tagHUDButtonFaction=Faction Window
-tagHUDButtonHelp=Help Window
+tagHUDButtonAchievements=Achievements Window
 tagHUDButtonOptions=Options Menu
 
 tagHUDButtonRollCharacter=Character attributes, inventory, and equipment management.
-tagHUDButtonRollSkills=Skill class selection and skill assignment.
+tagHUDButtonRollSkills=Skill class selection, skill assignment and devotion.
 tagHUDButtonRollGroup=Player invite and group management.
-tagHUDButtonRollQuest=Quest log with details about quest status and objects.
+tagHUDButtonRollQuest=Quest log, lore, devotion shrines and in-game help.
 tagHUDButtonRollMap=Detailed local and world maps.
 tagHUDButtonRollChat=Send messages to other players in your game.
 tagHUDButtonRollFaction=Details on the various Factions that inhabit Cairn.
-tagHUDButtonRollHelp=Access the in-game help.
+tagHUDButtonRollAchievements=Achievements completed.
 tagHUDButtonRollOptions=Save, exit and configure game options.
 
 #SkillUI
@@ -609,6 +612,7 @@ tagCharHeaderRetaliation=Retaliation
 tagCharHeaderStats=Stats
 tagCharHeaderMisc=Misc
 
+tagCharStatsDPSTitle=Damage Per Second
 tagCharStatsDPS=Damage Per Second {^b}(?)
 tagCharStatsDPSDescription=Average damage per second for your Left-Mouse Button and Right-Mouse Button Abilities against a single target, modified by cooldown and all bonuses from equipment and skills. Does not factor in enemy defenses.
 tagCharStatsDPSRightDescription=Damage breakdown for your Right-Mouse Button Ability against a single target, modified by all bonuses from equipment and skills. Does not factor in enemy defenses.
@@ -835,6 +839,33 @@ tagCharStatsPetOAInfo=The percent bonus to the Offensive Ability of your pets an
 
 tagCharStatsPetDA=Defensive Ability
 tagCharStatsPetDAInfo=The percent bonus to the Defensive Ability of your pets and summoned minions.
+
+tagCharStatsPetFireResist=Fire Resist
+tagCharStatsPetFireResistInfo=The percent bonus to the Fire Resistance of your pets and summoned minions.
+
+tagCharStatsPetColdResist=Cold Resist
+tagCharStatsPetColdResistInfo=The percent bonus to the Cold Resistance of your pets and summoned minions.
+
+tagCharStatsPetLightningResist=Lightning Resist
+tagCharStatsPetLightningResistInfo=The percent bonus to the Lightning Resistance of your pets and summoned minions.
+
+tagCharStatsPetPoisonResist=Poison/Acid Resist
+tagCharStatsPetPoisonResistInfo=The percent bonus to the Poison/Acid Resistance of your pets and summoned minions.
+
+tagCharStatsPetPierceResist=Pierce Resist
+tagCharStatsPetPierceResistInfo=The percent bonus to the Pierce Resistance of your pets and summoned minions.
+
+tagCharStatsPetBleedResist=Bleeding Resist
+tagCharStatsPetBleedResistInfo=The percent bonus to the Bleeding Resistance of your pets and summoned minions.
+
+tagCharStatsPetVitalityResist=Vitality Resist
+tagCharStatsPetVitalityResistInfo=The percent bonus to the Vitality Resistance of your pets and summoned minions.
+
+tagCharStatsPetAetherResist=Aether Resist
+tagCharStatsPetAetherResistInfo=The percent bonus to the Aether Resistance of your pets and summoned minions.
+
+tagCharStatsPetChaosResist=Chaos Resist
+tagCharStatsPetChaosResistInfo=The percent bonus to the Chaos Resistance of your pets and summoned minions.
 
 #Char Stats Tab 3
 
@@ -1066,7 +1097,8 @@ tagCraftingCreate=Crafts:
 tagCraftingLearn=[Right-Click to Learn]
 tagCraftingRandom={^E}+Random Stat(s)
 tagCraftingQuantity={%d0}/{%d1}
-tagCraftingLargeQuantity=*/{%d0}
+tagCraftingLargeQuantity=99+/{%d0}
+tagCraftingLargeStack=99+
 
 tagCraftingItemType00= ~ Device
 tagCraftingItemType01= ~ Completed Component
@@ -1446,7 +1478,7 @@ HitFormat={%.0f0}
 CriticalHitFormat={%.0f0}
 CriticalHitFormatMult={%.0f0} (x{%.2f1})
 DurationCriticalHit=Crit
-DurationCriticalHitMult=Crit (x{%.2f1})
+DurationCriticalHitMult=Crit (x{%.2f0})
 tagMiss=Miss
 tagFumble=Fumble
 tagDodge=Dodge
@@ -1489,6 +1521,8 @@ SkillPercentFormat={%.0f0% %s1}
 SkillNumProjectilesFormat=Launches {%d0} Projectile(s)
 SkillWeaponDamageFormat={%.0f0%} {^E}Weapon Damage
 SkillWeaponDamageValuesFormat={%.0f0%} {^E}Weapon Damage ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamageMainhandFormat={%.0f0%} {^E}Main Hand Damage ({^H}{%.0f1} - {%.0f2}{^E})
+SkillWeaponDamageOffhandFormat={%.0f0%} {^E}Off-Hand Damage ({^H}{%.0f1} - {%.0f2}{^E})
 SkillChargeFactor=per Charge Level
 SkillChargeMax={^E}Charge Levels: 
 SkillChargeLevel={^H}{%d0}%
@@ -1543,6 +1577,7 @@ FailedSkillDependancyName={%s0}
 FailedDevotionDependency=Affinity Requirement:
 FailedDevotionDependencyName={%d0} {%s1}
 FailedConstellationDependency=Constellation Dependencies:
+FailedConstellationSelfLocked=This Constellation is depending on its own Affinity. You require more Affinity from other Constellations before you can unlearn it.
 ManaCost={^E}Energy Cost
 ManaCostPerSecond={^E}Energy Cost per Second
 ActiveLifeCost={^E}Active Health Cost per Second
@@ -1619,6 +1654,7 @@ tagDotLightning=Electrocuted
 tagDotChaos=Chaos
 tagDotAether=Aether
 tagDotLifeLeech=Life Leech
+tagDotPhysical=Internal Trauma
 
 tagSetItems=({%d0}) Set
 tagSecond={^E}Second
@@ -1656,7 +1692,7 @@ DamageFreeze={^E}Freeze target{%t0}
 DamagePetrify={^E}Petrify target{%t0}
 DamageTrap={^E}Immobilize target{%t0}
 DamageTaunt={^E}Taunt target
-DamageThreat={^E}Generates threat
+DamageThreat={^E}Generate Additional Threat
 DamageConvert={^E}Control target's mind{%t0}
 DamageFear={^E}Terrify target{%t0}
 DamageConfusion={^E}Confuse target{%t0}
@@ -1829,18 +1865,23 @@ DefenseLightningR={%.0f0}-{%.0f1}% {^E}Lightning Resistance
 DefenseLife={%.0f0}% {^E}Vitality Resistance
 DefenseLifeR={%.0f0}-{%.0f1}% {^E}Vitality Resistance
 DefenseStun={%.0f0}% {^E}Reduced Stun Duration
+DefenseStunNegative={%.0f0}% {^E}Stun Resistance
 DefenseStunR={%.0f0}-{%.0f1}% {^E}Reduced Stun Duration
 DefenseLifeLeach={%.0f0}% {^E}Life Leech Resistance
 DefenseLifeLeachR={%.0f0}-{%.0f1}% {^E}Life Leech Resistance
 DefenseManaLeach={%.0f0}% {^E}Energy Leech Resistance
 DefenseManaLeachR={%.0f0}-{%.0f1}% {^E}Energy Leech Resistance
 DefenseTrap={%.0f0}% {^E}Reduced Entrapment Duration
+DefenseTrapNegative={%.0f0}% {^E}Entrapment Resistance
 DefenseTrapR={%.0f0}-{%.0f1}% {^E}Reduced Entrapment Duration
 DefenseFreeze={%.0f0}% {^E}Reduced Freeze Duration
+DefenseFreezeNegative={%.0f0}% {^E}Freeze Resistance
 DefenseFreezeR={%.0f0}-{%.0f1}% {^E}Reduced Freeze Duration
 DefenseKnockdown={%.0f0}% {^E}Reduced Knockdown Duration
+DefenseKnockdownNegative={%.0f0}% {^E}Knockdown Resistance
 DefenseKnockdownR={%.0f0}-{%.0f1}% {^E}Reduced Knockdown Duration
 DefensePetrify={%.0f0}% {^E}Reduced Petrify Duration
+DefensePetrifyNegative={%.0f0}% {^E}Petrify Resistance
 DefensePetrifyR={%.0f0}-{%.0f1}% {^E}Reduced Petrify Duration
 DefenseTaunt={%.0f0}% {^E}Protection from Taunting (Pet/Trap Only)
 DefenseConvert={%.0f0}% {^E}Reduced Mind Control Duration (Pet/Trap Only)
@@ -1946,10 +1987,10 @@ tagDamageSleep={^E}Put target to Sleep{%t0}
 tagDamageModifierSleep={%+.0f0}% {^E}Sleep Damage
 tagDefenseSleep={%.0f0}% {^E}Sleep Resistance
 tagDefenseSleepModifier={%+.0f0}% {^E}Sleep Resistance
-tagDamageModifierTotalDamage={%+.0f0}% {^E}All Damage
+tagDamageModifierTotalDamage={%+.0f0}% {^E}to All Damage
 tagDamageModifierCritDamage={%+.0f0}% {^E}Crit Damage
 tagDamageModifierDamageMult={^E}Total Damage Modified by {^H}{%.0f0}% 
-tagRetaliationModifierTotalDamage={%+.0f0}% {^E}All Retaliation Damages
+tagRetaliationModifierTotalDamage={%+.0f0}% {^E}to All Retaliation Damage
 tagTotalSpeedResistance={%.0f0}% {^E}Slow Resistance
 tagMindcontrolledMonster=Mind-controlled
 tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}Chance of affecting up to {^H}{%d1} {^E}target

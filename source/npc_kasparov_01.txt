@@ -100,7 +100,7 @@ Will this Dynamite suffice?
 
 Did my allies deliver the Dynamite?
 Yes, yes. The experiment was a smashing, no...an explosive success! There may have been an explosion. But everyone was fine, really.{^n}{^n}You should speak to Darlet if you want anything else...uh, exploded.
-
+Um, arlight.
 Oh no, not another experiment...
 Ah, there you are! Come, come, we have an errand you must perform immediately.
 Excuse me?
@@ -111,7 +111,7 @@ Will this Dynamite suffice?
 
 Did my allies deliver the Dynamite?
 Yes, yes. The experiment was a smashing, no...an explosive success! There may have been an explosion. But everyone was fine, really.{^n}{^n}You should speak to Darlet if you want anything else...uh, exploded.
-
+Um, arlight.
 Oh no, not another experiment...
 You're back! Is there anything I can help you with?
 Can you provide me with Inventor services?
@@ -127,6 +127,8 @@ I see that my lazy assistant is finally back from her little trip. Good, good. I
 I'll do that.
 I see that my lazy assistant is finally back from her little trip. Good, good. I'll put her back to work.{^n}{^n}She mentioned you. You should speak with her.
 I'll do that.
+Have you happened to find my apprentice? I'm sure she's probably in some cellar in the Burrwitch Estates. You can bring her back here by opening a riftgate. As a matter of fact, if you find others stranded out there, you could do the same for them.
+I'll keep looking.
 Have you happened to find my apprentice? I'm sure she's probably in some cellar in the Burrwitch Estates. You can bring her back here by opening a riftgate. As a matter of fact, if you find others stranded out there, you could do the same for them.
 I'll keep looking.
 Ah, we've been so preoccupied with this riftgate business that I completely forgot about my apprentice, Darlet! {^n}{^n}I sent her out to the Burrwitch Estates to fetch parts for our research and she's been gone entirely too long. Seems her ineptitude carries beyond just the workstation.

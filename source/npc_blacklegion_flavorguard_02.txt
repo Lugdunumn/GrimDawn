@@ -2,13 +2,17 @@ Footman
 As you were.
 Farewell.
 Ulgrim has requested your presence. Please see him immediately.
-Can you open the gates?
-Ulgrim has made it clear that nobody is to leave until he's been debriefed on recent events.
-I'll speak to him.
 Where is Ulgrim?
 Ulgrim is currently speaking with Inquisitor Creed, on the balcony overlooking the fields.{^n}{^n}You will find the stairs up near the planning room where the Captain is situated.
 Thank you.
 I'll speak to him.
+Ulgrim has requested your presence. Please see him immediately.
+I'll speak to him.
+I don't have time for this.
+Can you open the gates?
+Ulgrim has made it clear that nobody is to leave until he's been debriefed on recent events.
+I'll speak to him.
+I don't have time for this.
 Stay on your guard. The enemies of humanity are all around us.
 Can you open the gates?
 I'm sorry. We are under strict orders to not open the gates as long as the Aetherial threat to the west still looms over us.

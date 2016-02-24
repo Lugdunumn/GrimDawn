@@ -1,8 +1,12 @@
 # Achievement Groups
 
-achGroupAct1=Act 1
-achGroupAct2=Act 2
-achGroupAct3=Act 3
+achGroupAct1=Act I
+achGroupAct2=Act II
+achGroupAct3=Act III
+achGroupChallenges=Challenges
+achGroupCharacter=Character
+achGroupMonsters=Monsters
+achGroupStory=Story
 achGroupWorld=World
 
 # Achievements
@@ -82,7 +86,7 @@ ach024Desc=Slay Gutworm in Smuggler's Basin.
 ach025Title=You've Got Guts
 ach025Desc=Slay Gutworm in Smuggler's Basin on Ultimate Difficulty.
 
-ach026Title=Tinkering is Her Speciality
+ach026Title=Tinkering is Her Specialty
 ach026Desc=Rescue Darlet in Burrwitch.
 
 ach027Title=By the Malleum Menhir
