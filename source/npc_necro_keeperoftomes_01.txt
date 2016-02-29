@@ -91,7 +91,7 @@ You have served the Order well in preparing for Malkadarr's return, but the fina
 Very well.
 Have you vanquished our foes and claimed the ashes?
 Yes, I have them here.
-Excellent! With these ashes, Malkadarr shall once again take form in the physical realm.{^n}{^n}I hope many Chosen died tried to stop you from claiming them.
+Excellent! With these ashes, Malkadarr shall once again take form in the physical realm.{^n}{^n}I hope many Chosen died trying to stop you from claiming them.
 Can we perform the ritual now?
 
 

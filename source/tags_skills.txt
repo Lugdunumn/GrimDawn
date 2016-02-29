@@ -282,7 +282,7 @@ tagClass03SkillDescription02A=Calls forth a hellhound from the eldritch realms t
 tagClass03SkillName02B=Ember Claw
 tagClass03SkillDescription02B=Brimstone claws tear an arc of flame through enemies within the hellhound's reach.
 tagClass03SkillName02C=Hellfire
-tagClass03SkillDescription02C=An aura of hellfire surrounds the hellhound, augmenting it with power from its natural realm and searing enemies that draw too close. This power extends to nearby allies.
+tagClass03SkillDescription02C=An aura of hellfire surrounds the hellhound, augmenting it with power from its natural realm and searing enemies that strike its flesh. This power extends to nearby allies.
 tagClass03SkillName02D=Infernal Breath
 tagClass03SkillDescription02D=The hellhound belches forth furious hellfire, incinerating your enemies.
 tagClass03SkillName02E=Claw and Fang Attacks
@@ -305,7 +305,7 @@ tagClass03SkillDescription04C=Sacrifice all of your regenerative power to enhanc
 tagClass03SkillName05A=Solael's Witchfire
 tagClass03SkillDescription05A=Harness the eldritch power of Solael, burning your enemies with entropic energy with every weapon attack. ^oThis ability must be toggled to maintain its effect.
 tagClass03SkillName05B=Second Rite
-tagClass03SkillDescription05B=Deepens the Occultist's bond to the hidden realm, intensifying the power of witchfire such that the slightest touch burns through the arcane essence of foes.
+tagClass03SkillDescription05B=Deepens the Occultist's bond to the hidden realm, intensifying the power of witchfire such that the slightest touch burns through the life essence of foes.
 tagClass03SkillName05C=Consecrated Blade
 tagClass03SkillDescription05C=Witchfire consumes your weapon, turning it into a focal point for chaotic powers.
 

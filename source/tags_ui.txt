@@ -469,10 +469,10 @@ tagSkillClassSelect=Select Class
 tagCurrentLevel=Current Level : {%d0}
 tagNextLevel=Next Level : {%d0}
 tagSkillClassSelectInfo=Select a Training Class{^n}{^n} Once you make a selection and exit from the skill window, your selection will be permanent.
-tagSkillReq01=Requires {%d0} additional points in {%s1}.
-tagSkillReq01Singular=Requires {%d0} additional point in {%s1}.
-tagSkillReq02=Requires {%d0} additional points in {%s1} and the {%s2} skill.
-tagSkillReq02Singular=Requires {%d0} additional point in {%s1} and the {%s2} skill.
+tagSkillReq01=Requires {%d0} additional points in {%t1}.
+tagSkillReq01Singular=Requires {%d0} additional point in {%t1}.
+tagSkillReq02=Requires {%d0} additional points in {%t1} and the {%s2} skill.
+tagSkillReq02Singular=Requires {%d0} additional point in {%t1} and the {%s2} skill.
 tagSkillReq03=Requires the {%s1} skill.
 tagSkillPointsRemain={%d0} Points Remaining
 tagSkillPointsRemainSingular={%d0} Point Remaining
@@ -1287,6 +1287,8 @@ LifeDisplayFormat=Health  {%d0} / {%d1}
 ExperienceDisplayFormat=Current Experience : {^y}{%d0}{^w}  ~  Experience to Next Level : {^y}{%d1}
 
 tagExpDisplayFormat=Current Experience : {^y}{%t0}{^w}  ~  Experience till Next Level : {^y}{%t1}
+
+tagCharPointsSpent=Points Spent:
 
 tagCharAttribute01={%+.0f0} {^E}Cunning
 tagCharAttribute02={%+.0f0} {^E}Physique

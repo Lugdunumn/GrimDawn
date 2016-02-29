@@ -326,6 +326,7 @@ tagWeaponCrossbow2hA004=Scorpion
 
 tagWeaponCrossbow2hB001=Spectral Crossbow
 tagWeaponCrossbow2hB002=Spectral Arbalest
+tagWeaponCrossbow2hB003=Ghavlin's Crossbow
 
 tagWeaponCrossbow2hC001=Boltspitter
 tagWeaponCrossbow2hC001Desc="A prototype weapon. Unfortunately, its inventor was slain before it could be taken to mass production."
@@ -472,6 +473,7 @@ tagWeaponCaster1hB011=Rift Scourge Slicer
 tagWeaponCaster1hB012=Bloodsworn Wand
 tagWeaponCaster1hB013=Bloodsworn Scepter
 tagWeaponCaster1hB014=Loxmere's Frostblade
+tagWeaponCaster1hB015=Slithtongue
 
 tagWeaponCaster1hC001=Burning Hatred
 tagWeaponCaster1hC002=Spellfire Wand
@@ -578,6 +580,7 @@ tagShieldB010=Obsidian Guard
 tagShieldB011=Obsidian Bulwark
 tagShieldB012=Fleshwarped Shield
 tagShieldB013=Fleshwarped Bulwark
+tagShieldB014=Bernard's Slightly-Chewed Buckler
 
 tagShieldC001=Defender of Devil's Crossing
 tagShieldC002=Spiriteater Bulwark
@@ -683,6 +686,7 @@ tagFocusB021=Groble Death Effigy
 tagFocusB022=Gazer Eye
 tagFocusB023=Overseer Eye
 tagFocusB023_Desc="The eye still twitches in your hands."
+tagFocusB024=Karvor's Conjuring Bone
 
 tagFocusC001=Dementia
 tagFocusC002=Crushing Will
