@@ -206,7 +206,7 @@ Now that we've put that unpleasantness behind us, I was hoping you could hear me
 What's wrong?
 With all the commotion during the Aetherial attack, I'm afraid that most of my personal stores were damaged, or even destroyed.{^n}{^n}If I am to continue my work here, I must have another Ancient Heart, Blood of Ch'thon and Tainted Brain Matter. They are pivotal to my research, but acquiring them on my own is simply out of the question for this old crone.{^n}{^n}Will you be so kind as to gather these materials for me?
 I will gather these for you.
-I'm not your running your errands for you.
+I'm not running your errands for you.
 I have the objects you require.
 
 Alright, but where would I find them?

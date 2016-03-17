@@ -56,7 +56,7 @@ tagTutorialTip15SubtitleA=Assigning Points
 tagTutorialTip15TextE=Attribute points are assigned in the Character Window. Click the icon to the left of the skill bar, or press {^x}[%t0]{^-}. To assign an attribute point, click the "+" next to the appropriate attribute.
 tagTutorialTip15TextF=Skill points are assigned by opening the Skill Window. Click the icon to the left of the skill bar, or press {^x}[%t0]{^-}.
 tagTutorialTip15SubtitleB=Experience
-tagTutorialTip15TextG=You can track your experience on the yellow bar below your health and mana, and in the Character Window. The bar shows your current experience, experience gain, and experience required to reach the next level. When the bar fills up, you gain a level.
+tagTutorialTip15TextG=You can track your experience on the yellow bar below your health and energy, and in the Character Window. The bar shows your current experience, experience gain, and experience required to reach the next level. When the bar fills up, you gain a level.
 
 tagTutorialTip16Title=Character Window
 tagTutorialTip16TextA=Use the Character Window to equip items, organize your inventory, spend attribute points and see a summary of your character's stats. Hover over stats for additional information.
@@ -105,7 +105,7 @@ tagTutorialTip26TextB=To link items in the chat, shift-click on the desired item
 
 tagTutorialTip27Title=Multiplayer
 tagTutorialTip27TextA=Joining a party with other players allows you to share experience and loot. You can access the Group Window by clicking the icon, or by pressing {^x}[%t0]{^-}. Parties are also important for PvP sessions.
-tagTutorialTip27TextB=You can initiate a trade with another player in your party by right-clicking on their portait and choosing "Trade".
+tagTutorialTip27TextB=You can initiate a trade with another player in your party by right-clicking on their portrait and choosing "Trade".
 tagTutorialTip27TextC=You can also chat with other players in the game by using the Chat Window, which can be opened by pressing {^x}[%t0]{^-}.
 
 tagTutorialTip28Title=Player Trading
@@ -140,7 +140,7 @@ tagTutorialTip38TextB=You can expand your shared storage by purchasing additiona
 tagTutorialTip38SubtitleA=Transfer Between Characters
 tagTutorialTip38TextC=To transfer items, place them in the Item Transfer Window. When you load another character, you can access these items from the Smuggler.
 tagTutorialTip38SubtitleB=Transfer Between Players
-tagTutorialTip38TextD=In order to trade items with other player's characters in multiplayer games, you must use the Trade function instead. Right click the player's portait, and choose "Trade".
+tagTutorialTip38TextD=In order to trade items with other player's characters in multiplayer games, you must use the Trade function instead. Right click the player's portrait, and choose "Trade".
 
 tagTutorialTip39Title=Inventor
 tagTutorialTip39TextA=Inventors are capable of removing Components and Augments from items. Either the item or the component is preserved in the process. Any Augments are lost.
@@ -273,7 +273,7 @@ tagQuickTip46={^z}Constitution Exhausted!{^-}{^n}{^n}When your Constitution runs
 tagQuickTip47={^z}Dismantling{^-}{^n}{^n}The Dismantle Window allows you to break unwanted items down into their component parts, which can then be used for crafting.
 tagQuickTip49={^z}Equipment Comparison{^-}{^n}{^n}Placing the cursor over an item will show a comparison of that item with your current equipment.
 tagQuickTip50={^z}Augments{^-}{^n}{^n}Augments can be used on equipment to add additional bonuses. They can be purchased from Faction Quartermasters when you have met the reputation requirements.
-tagQuickTip52={^z}Reputation Gained{^-}{^n}{^n}You have gained some reputation with one of Cairn's factions. You can view your repution status in the in the Factions Window {^x}[%t0]{^-}.
+tagQuickTip52={^z}Reputation Gained{^-}{^n}{^n}You have gained some reputation with one of Cairn's factions. You can view your reputation status in the in the Factions Window {^x}[%t0]{^-}.
 tagQuickTip53={^z}Faction Quartermaster{^-}{^n}{^n}Faction Quatermasters allow you to purchase faction related items and enhancements if your reputation meets their requirements.
 tagQuickTip54={^z}Reputation{^-}{^n}{^n}Your Reputation level has increased with one of Cairn's factions. The Factions Window {^x}[%t0]{^-} contains information on the rewards associated with higher reputation levels.
 tagQuickTip55={^z}Faction Window{^-}{^n}{^n}The Faction Window allows you to view your current Reputation with the various friendly and enemy factions, and learn background information about them.

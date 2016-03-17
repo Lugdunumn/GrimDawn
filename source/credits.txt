@@ -8,6 +8,7 @@
 
 <h2>Art
 <h5>Ben Soderstrom - Lead Artist
+<h5>Scott Duquette - Senior Artist
 <h5>Jim Dobbler - Artist
 
 <h2>Animation

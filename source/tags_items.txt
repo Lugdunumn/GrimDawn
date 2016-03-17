@@ -326,6 +326,7 @@ tagWeaponCrossbow2hA004=Scorpion
 
 tagWeaponCrossbow2hB001=Spectral Crossbow
 tagWeaponCrossbow2hB002=Spectral Arbalest
+tagWeaponCrossbow2hB003=Ghavlin's Crossbow
 
 tagWeaponCrossbow2hC001=Boltspitter
 tagWeaponCrossbow2hC001Desc="A prototype weapon. Unfortunately, its inventor was slain before it could be taken to mass production."
@@ -472,6 +473,7 @@ tagWeaponCaster1hB011=Rift Scourge Slicer
 tagWeaponCaster1hB012=Bloodsworn Wand
 tagWeaponCaster1hB013=Bloodsworn Scepter
 tagWeaponCaster1hB014=Loxmere's Frostblade
+tagWeaponCaster1hB015=Slithtongue
 
 tagWeaponCaster1hC001=Burning Hatred
 tagWeaponCaster1hC002=Spellfire Wand
@@ -578,6 +580,7 @@ tagShieldB010=Obsidian Guard
 tagShieldB011=Obsidian Bulwark
 tagShieldB012=Fleshwarped Shield
 tagShieldB013=Fleshwarped Bulwark
+tagShieldB014=Bernard's Slightly-Chewed Buckler
 
 tagShieldC001=Defender of Devil's Crossing
 tagShieldC002=Spiriteater Bulwark
@@ -683,6 +686,7 @@ tagFocusB021=Groble Death Effigy
 tagFocusB022=Gazer Eye
 tagFocusB023=Overseer Eye
 tagFocusB023_Desc="The eye still twitches in your hands."
+tagFocusB024=Karvor's Conjuring Bone
 
 tagFocusC001=Dementia
 tagFocusC002=Crushing Will
@@ -821,20 +825,39 @@ tagStyle041=Exalted
 tagStyle042=Opulent
 
 #ArmorClass
-tagArmorClass01=Caster Armor
-tagArmorClass02=Armor
-tagArmorClass03=Heavy Armor
+tagArmorClass01=Caster 
+tagArmorClass02=
+tagArmorClass03=Heavy 
 
 #WeaponClass
-tagOneHanded=One-Handed
-tagTwoHanded=Two-Handed
 tagOffHand=Off-Hand
+tagShield=Shield
 
-#MiscClass
+tagOneHandedSword=One-Handed Sword
+tagOneHandedMace=One-Handed Mace
+tagOneHandedAxe=One-Handed Axe
+tagOneHandedDagger=One-Handed Dagger
+tagOneHandedScepter=One-Handed Scepter
+tagOneHandedPistol=One-Handed Ranged
+
+tagTwoHandedSword=Two-Handed Sword
+tagTwoHandedMace=Two-Handed Mace
+tagTwoHandedAxe=Two-Handed Axe
+tagTwoHandedRifle=Two-Handed Ranged
+
+tagWeaponUnknown=Unknown
+
+#ArmorSlots
 tagRing=Ring
 tagAmulet=Amulet
 tagMedal=Medal
 tagBelt=Belt
+tagShoulders=Shoulders
+tagHead=Helm
+tagLegs=Pants
+tagChest=Chest Armor
+tagFeet=Boots
+tagGloves=Gloves
 
 #QualityClass
 tagMagic=Magic 
@@ -998,6 +1021,18 @@ tagShoulderB010=Ascended Mantle
 tagShoulderB011=Ascended Epaulets
 tagShoulderB012=Fleshwarped Spaulders
 tagShoulderB013=Fleshwarped Pauldrons
+tagShoulderB014=Valdaran's Mantle
+tagShoulderB015=Valdaran's Shoulderguard
+tagShoulderB016=Benn'Jahr's Shoulderguards
+tagShoulderB017=Benn'Jahr's Pauldrons
+tagShoulderB018=Moosilauke's Shoulderguards
+tagShoulderB019=Moosilauke's Pauldrons
+tagShoulderB020=Iron Maiden's Mantle
+tagShoulderB021=Iron Maiden's Shoulderguard
+tagShoulderB022=Zantarin's Mantle
+tagShoulderB023=Zantarin's Shoulderguard
+tagShoulderB024=Fabius' Shoulderguard
+tagShoulderB025=Fabius' Pauldron
 
 tagShoulderC001=Razorback's Spined Mantle
 tagShoulderC001Desc="Stitched together from the carcass of Razorback."
@@ -2178,6 +2213,7 @@ tagCraftComponentRareDesc=An extraordinary crafting technique thought lost to th
 tagCraftShardBeronathDesc=Transmute steel into a shard of the sacred Beronath.
 tagCraftRelicDesc=Ancient forging technique thought lost to the Grim Dawn.
 tagCraftTransmuteDesc=Through the heat of the forge and a bit of alchemy, rare materials can be transmuted to other equally rare creations.
+tagCraftRandomLegendaryDesc=The blacksmith combines the raw arcane power within these objects to create an object of Legendary potential.
 
 tagCraftRandomAxe=Enchanted Axe
 tagCraftRandomBlunt=Enchanted Mace
@@ -2217,6 +2253,12 @@ tagCraftRandomShoulder_Light=Enchanted Shoulder Armor
 tagCraftRandomTorso_Caster=Enchanted Caster Chest Armor
 tagCraftRandomTorso_Heavy=Enchanted Heavy Chest Armor
 tagCraftRandomTorso_Light=Enchanted Chest Armor
+
+tagCraftRandomLegendary_Armor=Legendary Armor
+tagCraftRandomLegendary_Accessory=Legendary Accessory
+tagCraftRandomLegendary_MeleeWeapon=Legendary Melee Weapon
+tagCraftRandomLegendary_RangedWeapon=Legendary Ranged Weapon
+tagCraftRandomLegendary_CasterWeapon=Legendary Caster Weapon
 
 
 tagSuppliesIncomplete=Crafting Supply Parts
@@ -2665,7 +2707,7 @@ tagEnchantB011Desc="Rhowan, the last king of Arkovia and founder of the Rhowari,
 tagEnchantB012A=Mogdrogen's Sanctity
 tagEnchantB012B=Mogdrogen's Sanctity II
 tagEnchantB012BC=Mogdrogen's Sanctity III
-tagEnchantB012Desc="Legends speak of a time when Mogdrogen, the beast god, made a pact with Rhowan that no animal shall harm him or his people for as long as they never lifts a blade. Unfortunately aether-afflicted animals do not seem to share this sentiment."^w^n(Applied to rings and amulets)
+tagEnchantB012Desc="Legends speak of a time when Mogdrogen, the beast god, made a pact with Rhowan that no animal shall harm him or his people for as long as they never lift a blade. Unfortunately aether-afflicted animals do not seem to share this sentiment."^w^n(Applied to rings and amulets)
 
 tagEnchantB013A=Traveler's Boon
 tagEnchantB013B=Traveler's Boon II
@@ -2710,7 +2752,7 @@ tagEnchantB020Desc="Even as they prepare their defenses, the survivors speak fon
 tagEnchantB021A=Song of the Elements
 tagEnchantB021B=Song of the Elements II
 tagEnchantB021BC=Song of the Elements III
-tagEnchantB021Desc="Mullone, the spirit guide, has devised this enchantment to contain the conflicting forces of fire and ice."^w^n(Applied to rings and amulets)
+tagEnchantB021Desc="Sahdina, the spirit guide, has devised this enchantment to contain the conflicting forces of fire and ice."^w^n(Applied to rings and amulets)
 
 tagEnchantB022A=Viloth's Bite
 tagEnchantB022B=Viloth's Bite II
@@ -3233,7 +3275,7 @@ tagCompB022Desc="The tainted soul of Kilrian, terror of the Arkovian Undercity."
 
 
 tagCompAetherCrystal=Aether Crystal
-tagCompAetherCrystalDesc="A crystalline shard still lingering with aetherial power.  Can be used in the creation of arcane items."
+tagCompAetherCrystalDesc="A crystalline shard still lingering with Aetherial power.  Can be used in the creation of arcane items."
 
 tagCompAmmoBox=Ammunition Box
 tagCompAmmoBoxDesc="The resistance can always use more ammunition to hold off the dark forces plaguing Cairn."
@@ -3337,6 +3379,7 @@ tagPotionConstitutionB01Desc=Lingering vital energy that can be absorbed to rest
 
 tagPotionDirections=[Right-Click to Consume]
 tagCombineStacks=[Ctrl-Click to Split Stacks]
+tagHideTooltip=[Hold Ctrl to Hide Tooltip]
 
 # Bonuses
 tagBonusLifePercentAbsPercent={^E}Restores {^H}{%.0f0}%+{%.0f1} {^E}Health {^H}+{%.0f2}% {^E}Over Time

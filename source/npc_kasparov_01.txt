@@ -100,7 +100,7 @@ Will this Dynamite suffice?
 
 Did my allies deliver the Dynamite?
 Yes, yes. The experiment was a smashing, no...an explosive success! There may have been an explosion. But everyone was fine, really.{^n}{^n}You should speak to Darlet if you want anything else...uh, exploded.
-Um, arlight.
+Um, alright.
 Oh no, not another experiment...
 Ah, there you are! Come, come, we have an errand you must perform immediately.
 Excuse me?
@@ -111,7 +111,7 @@ Will this Dynamite suffice?
 
 Did my allies deliver the Dynamite?
 Yes, yes. The experiment was a smashing, no...an explosive success! There may have been an explosion. But everyone was fine, really.{^n}{^n}You should speak to Darlet if you want anything else...uh, exploded.
-Um, arlight.
+Um, alright.
 Oh no, not another experiment...
 You're back! Is there anything I can help you with?
 Can you provide me with Inventor services?

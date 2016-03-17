@@ -3,13 +3,43 @@ Well met, friend! Have I seen you before?... Perhaps we've met... on the road so
 That's an interesting coat you are wearing...
 Ah, indeed...the mark of the swashbuckler is upon it. I was an adventurer like yourself, at one time...
 (Receive Illusion: Swashbuckler's Coat)
+Ah, indeed...the mark of the swashbuckler is upon it. I was an adventurer like yourself, at one time...{^n}{^n}But you already have this wondrous item in your possession.
+True, I already have the coat.
 *Secret Handshake*
 *Kory Whispers*{^n}{^n}Welcome, [[ms]brother[fs]sister]. Eternal vigilance.
 (Receive Illusion: Powdered Wig)
+*Kory Whispers*{^n}{^n}Welcome, [[ms]brother[fs]sister]. Eternal vigilance.{^n}{^n}But you already have this wondrous item in your possession.
+True, I already have the wig.
 Care for a drink?
 *Kory lifts up a bottle of Burrwitch Brew*{^n}{^n}To your health!
 (Receive Item: Burrwitch Brew)
+*Kory lifts up a bottle of Burrwitch Brew*{^n}{^n}To your health!{^n}{^n}Hope you enjoy the one you already have.
+True, I already have the brew.
 What's that glowing in your pocket?
 Oh this?{^n}{^n}*Kory holds up a jar filled with a swirling blue light*{^n}{^n}That, my friend, is a Will'O'Wisp. They are handy in dark places.
 (Receive Item: Will'O'Wisp in a Jar)
+Oh this?{^n}{^n}*Kory holds up a jar filled with a swirling blue light*{^n}{^n}That, my friend, is a Will'O'Wisp. But you have your own already.
+True, I already have the wisp.
+Got any War Medals?
+I dare say I am quite the war veteran.{^n}{^n}Which one interests you?
+How about that golden one?
+Ah, a veteran of the old wars I see.{^n}{^n}Here, your years of dedication earned you this distinction.{^n}{^n}*Kory Salutes*
+(Receive Item: Backer's Distinction)
+Ah, a veteran of the old wars I see.{^n}{^n}*Kory Salutes*{^n}{^n}You've certainly earned the distinction for such valiant service.
+(Salute back)
+How about this orange one?
+Ah, also served in the great Kickstarter Wars of 2012?{^n}{^n}Here, you've earned it.{^n}{^n}*Kory Salutes*
+(Receive Item: Kickstarter Service Medal)
+Ah, also served in the great Kickstarter Wars of 2012?{^n}{^n}*Kory Salutes*{^n}{^n}You've certainly earned that medal.
+(Salute back)
+How about this green one?
+Ah, a veteran from the great Kickstarter Wars of 2012?{^n}{^n}Here, you've earned it.{^n}{^n}*Kory Salutes*
+(Receive Item: Kickstarter Veteran's Medal)
+Ah, a veteran from the great Kickstarter Wars of 2012?{^n}{^n}*Kory Salutes*{^n}{^n}You've certainly earned that medal.
+(Salute back)
+How about this jeweled one?
+Ah, an officer from the great Kickstarter Wars of 2012?{^n}{^n}Here, you've earned it.{^n}{^n}*Kory Salutes*
+(Receive Item: Kickstarter Officer's Medal)
+Ah, an officer from the great Kickstarter Wars of 2012?{^n}{^n}*Kory Salutes*{^n}{^n}You've certainly earned that medal.
+(Salute back)
 Um, ok. Goodbye.
