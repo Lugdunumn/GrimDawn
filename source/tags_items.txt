@@ -77,6 +77,8 @@ tagWeaponSwordD009=Deathmarked Claw
 tagWeaponSwordD010=Stormheart
 tagWeaponSwordD010Desc="There are letters etched into the hilt: D.T."
 tagWeaponSwordD011=Reaver's Claw
+tagWeaponSwordD012=Mad Queen's Claw
+tagWeaponSwordD012Desc="Separated from her brood and trapped beneath the fortress walls, the dermapteran queen was slowly driven mad."
 
 tagWeaponSwordF001=Legion Carver
 tagWeaponSwordF002=Chosen Blade
@@ -450,7 +452,7 @@ tagWeaponCaster1hA004=Arcane Scepter
 tagWeaponCaster1hA005=Ritual Wand
 tagWeaponCaster1hA006=Ritual Scepter
 tagWeaponCaster1hA007=Exalted Scepter
-tagWeaponCaster1hA008=Sacrifical Knife
+tagWeaponCaster1hA008=Sacrificial Knife
 tagWeaponCaster1hA009=Runed Dagger
 tagWeaponCaster1hA010=Arcane Dagger
 tagWeaponCaster1hA011=Spellblade
@@ -957,6 +959,10 @@ tagHeadC029=Circlet of Burning Rage
 tagHeadC030=Eyes of the Reaper
 tagHeadC031=Myrmidon Visor
 tagHeadC032=Cowl of Mogdrogen
+tagHeadC033=Eldritch-Keeper's Casque
+tagHeadC033Desc="The helm blurs your vision, as if you were staring into another realm."
+tagHeadC034=The Triumvirate
+tagHeadC034Desc="Blessed by the Three."
 
 tagHeadD001=Maw of Despair
 tagHeadD001Desc="Look upon me and despair, for your hour has struck."
@@ -983,6 +989,10 @@ tagheadD018Desc="Crown of King Hrothnar, ruler of the northern reaches and son o
 tagHeadD019=Trozan's Hat
 tagHeadD020=Valdun's Hat
 tagHeadD021=Outcast's Secret
+tagHeadD022=Eldritch Gaze
+tagHeadD022Desc="The helm whispers to you in voices you cannot comprehend."
+tagHeadD023=Covenant of the Three
+tagHeadD023Desc="Empowered with the essence of the three Witch Gods in a covenant binding them and their followers against mutual destruction."
 
 tagHeadF001=Outcast's Hood
 tagHeadF001Desc="You can't help but feel as if the mask is staring back at you."
@@ -1046,7 +1056,7 @@ tagShoulderC006Desc="Symbolic garment of a secretive order eradicated during the
 tagShoulderC007=Shellshock Epaulets
 tagShoulderC008=Decorated Pauldrons
 tagShoulderC009=Mantle of the Patron
-tagShoulderC009Desc="A mantle of great raven feathers, bestowed by the witch god Bysmiel upon his mortal followers."
+tagShoulderC009Desc="A mantle of great raven feathers, bestowed by the witch god Bysmiel upon her mortal followers."
 tagShoulderC010=Shoulderguards of Perdition
 tagShoulderC011=Sharpshooter's Cover
 tagShoulderC012=Unholy Mantle of the Covenant
@@ -1391,6 +1401,10 @@ tagLegsA004=Breeches
 tagLegsA005=Chausses
 tagLegsA006=Legguards
 
+tagLegsB001=Dreeg-Sect Legguards
+tagLegsB002=Solael-Sect Legguards
+tagLegsB003=Bysmiel-Sect Legguards
+
 tagLegsC001=Mistwalker Leggings
 tagLegsC002=Hermit's Legguards
 tagLegsC003=Swampdweller's Legguards
@@ -1567,7 +1581,7 @@ tagRingC039=Sapphire of Elemental Balance
 
 tagRingD001=Signet of the Fallen
 tagRingD002=Glyph of Kelphat'Zoth
-tagRingD002Desc="Signed granted by Kelphat'Zoth, Grand Harbinger of Ch'Thon, upon his most loyal followers."
+tagRingD002Desc="Signet granted by Kelphat'Zoth, Grand Harbinger of Ch'Thon, upon his most loyal followers."
 tagRingD003=Lifegiver Signet
 tagRingD004=Time-Flux Band
 tagRingD005=Screams of the Aether
@@ -2019,16 +2033,18 @@ tagBlueprint_ArmorD012=Blueprint: Markovian's Visor
 tagBlueprint_ArmorD013=Blueprint: Ulzuin's Headguard
 tagBlueprint_ArmorD014=Blueprint: Hood of Dreeg
 tagBlueprint_ArmorD015=Blueprint: Deathmarked Hood
-tagBlueprint_ArmorD016=Blueprint: Iskandra's Circlet
+tagBlueprint_ArmorD016=Blueprint: Iskandra's Hood
 tagBlueprint_ArmorD017=Blueprint: Ultos' Hood
 tagBlueprint_ArmorD018=Blueprint: Crown of the Winter King
 tagBlueprint_ArmorD019=Blueprint: Trozan's Hat
 tagBlueprint_ArmorD020=Blueprint: Valdun's Hat
+tagBlueprint_ArmorD021=Blueprint: Eldritch Gaze
+tagBlueprint_ArmorD022=Blueprint: Covenant of the Three
 
 
 tagBlueprint_AccessoryC001=Blueprint: Maiven's Lens
 tagBlueprint_AccessoryC002=Blueprint: Vortex Stone
-tagBlueprint_AccessoryC003=Blueprint: Lapis Manticora
+tagBlueprint_AccessoryC003=Blueprint: Lapis Mantichora
 tagBlueprint_AccessoryC004=Blueprint: Mark of Fierce Resolve
 tagBlueprint_AccessoryC005=Blueprint: Ruby of Elemental Balance
 tagBlueprint_AccessoryC006=Blueprint: Sapphire of Elemental Balance
@@ -2213,7 +2229,8 @@ tagCraftComponentRareDesc=An extraordinary crafting technique thought lost to th
 tagCraftShardBeronathDesc=Transmute steel into a shard of the sacred Beronath.
 tagCraftRelicDesc=Ancient forging technique thought lost to the Grim Dawn.
 tagCraftTransmuteDesc=Through the heat of the forge and a bit of alchemy, rare materials can be transmuted to other equally rare creations.
-tagCraftRandomLegendaryDesc=The blacksmith combines the raw arcane power within these objects to create an object of Legendary potential.
+tagCraftRandomLegendaryDesc=The blacksmith combines the raw arcane power within these objects to create an object of Legendary potential, characters below level 50 will craft an Epic item instead.
+tagCraftRandomLegendaryAccessoryDesc=The blacksmith combines the raw arcane power within these objects to create an object of Legendary potential, characters below level 58 will craft an Epic item instead.
 
 tagCraftRandomAxe=Enchanted Axe
 tagCraftRandomBlunt=Enchanted Mace
@@ -3692,6 +3709,8 @@ tagPrefixB030_Ar_A=Glacial
 tagPrefixB031_Ar_A=Thunderstruck
 tagPrefixB032_Ar_A=Demonic
 tagPrefixB033_Ar_A=Aetherfire
+tagPrefixB034_Ar_A=Taskmaster's
+tagPrefixB035_Ar_A=Dominator's
 
 tagPrefixB001_Class_A=Commando's
 tagPrefixB002_Class_A=Witchblade's
@@ -3699,10 +3718,10 @@ tagPrefixB003_Class_A=Blademaster's
 tagPrefixB004_Class_A=Battlemage's
 tagPrefixB005_Class_A=Pyromancer's
 tagPrefixB006_Class_A=Saboteur's
-tagPrefixB007_Class_A=Deathdealer's
+tagPrefixB007_Class_A=Sorcerer's
 tagPrefixB008_Class_A=Witch Hunter's
 tagPrefixB009_Class_A=Warlock's
-tagPrefixB010_Class_A=Nightstalker's
+tagPrefixB010_Class_A=Spellbreaker's
 tagPrefixB011_Class_A=Warrior's
 tagPrefixB012_Class_A=Arsonist's
 tagPrefixB013_Class_A=Heretic's
@@ -3921,6 +3940,8 @@ tagSuffixB067_Ar_A=of Dark Intent
 tagSuffixB068_Ar_A=of Battle Fury
 tagSuffixB069_Ar_A=of Arcane Might
 tagSuffixB070_Ar_A=of Stone Fists
+tagSuffixB071_Ar_A=of the Wild
+tagSuffixB072_Ar_A=of the Untamed
 
 tagSuffixB001_Sh_A=of Redoubt
 tagSuffixB002_Sh_A=of Valor
@@ -4105,11 +4126,13 @@ tagUGDoorBoat=Row Boat
 tagUGDoorObsidian=Obsidian Spines
 tagUGDoorFort=Fort Entrance
 tagUGDoorCrypt=Crypt Entrance
+tagUGDoorWitchGods=Marked Stone
 tagDoorLocked= {^R} ~ Locked
 
 tagDoorOneWay01=Escape to the Surface
 tagDoorLever01=Portcullis Control
 tagTorchLever01=Loose Torch
+tagStoneLever01=Loose Stone
 
 #Doors
 
@@ -4134,6 +4157,7 @@ tagLocked_Kymon= {^R} ~ Sealed by Father Kymon
 tagLocked_Necro= {^R} ~ Sealed by the Order of Death's Vigil
 tagLocked_Outcast= {^R} ~ Sealed by Anasteria
 tagLocked_BoCGauntlet= {^R} ~ Sealed by the Guardians
+tagLocked_WitchGods= {^R} ~ Sealed by Eldritch Forces
 
 #Quest Rewards
 

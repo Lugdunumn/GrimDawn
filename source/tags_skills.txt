@@ -205,7 +205,7 @@ tagClass02SkillDescription05A=Places a mortar that will continuously lob explosi
 tagClass02SkillName05B=Heavy Ordnance
 tagClass02SkillDescription05B=Potent sorcery increases the damage output of mortar shells and infuses them with electrical damage.
 tagClass02SkillName05C="The Big One"
-tagClass02SkillDescription05C=Loads the Mortar Trap with a devastating bomb known only as "The Big One", which will fire at the beginning of the trap's barrage. The resulting colossal explosion will leave your enemies shellshocked, if they survive at all.
+tagClass02SkillDescription05C=Loads the Mortar Trap with a devastating bomb known only as "The Big One", which will fire towards the beginning of the trap's barrage. The resulting colossal explosion will leave your enemies shellshocked, if they survive at all.
 tagClass02SkillName05D=Fire Mortar
 tagClass02SkillDescription05D=Launches an explosive mortar at enemies.
 tagClass02SkillName05E=Electrical Mortar
@@ -1564,7 +1564,7 @@ tagItemSkillD089Name=Fiendmaster
 tagItemSkillD089Desc=Enact your will upon all your minions, and those of your allies. ^oThis ability must be toggled to maintain its effect.
 
 tagItemSkillD090Name=Fiend's Resolve
-tagItemSkillD090Desc=The fiendish tome fills you with resolve, enabling you to continue the fight.
+tagItemSkillD090Desc=The fiendish effigy fills you with resolve, enabling you to continue the fight.
 
 tagItemSkillD091Name=Final Stop
 tagItemSkillD091Desc=Impale your foe upon the shield's spikes.
@@ -1678,7 +1678,7 @@ tagItemSkillD127Name=Lightning Burst
 tagItemSkillD127Desc=Static energy builds up within you before erupting in a burst of shocking orbs.
 
 tagItemSkillD128Name=Mark of Ch'thon
-tagItemSkillD128Desc=Curse your foes a deadly mark of power that visits all of the void's horrors upon them.
+tagItemSkillD128Desc=Curse your foes with a deadly mark of power that visits all of the void's horrors upon them.
 
 tagItemSkillD129Name=Mark of Death
 tagItemSkillD129Desc=Mark your foe for an imminent death.
@@ -2002,13 +2002,19 @@ tagItemSkillD235Name=Anasteria's Devastation
 tagItemSkillD235Desc=This technique tears a rift in reality through which fall embers of raw arcane energy. ^oRequires a Caster Off-Hand. Embers continue to fall over the duration of the spell.
 
 tagItemSkillD236Name=Justicar's Guard
-tagItemSkillD236Desc=The Grand Arbiter stands resolute against any blow. ^oThis is a shield passive bonus.
+tagItemSkillD236Desc=The Grand Arbiter stands resolute against any blow. ^oThis is a melee passive bonus
 
 tagItemSkillD237Name=Justicar's Vengeance
-tagItemSkillD237Desc=Horvald seldom uttered a word, instead letting his shield do the talking. ^oThis is a shield passive bonus.
+tagItemSkillD237Desc=Horvald seldom uttered a word, instead letting his weapon do the talking. ^oThis is a melee passive bonus.
 
 tagItemSkillD238Name=Power of the Gazer
 tagItemSkillD238Desc=The power of the Gazer flows through you.
+
+tagItemSkillD239Name=Black Flame
+tagItemSkillD239Desc=A patch of Eldritch flames erupts underneath your foes.
+
+tagItemSkillD240Name=Mad Queen's Bite
+tagItemSkillD240Desc=Lash out desperately at nearby foes, driving your blade deep.
 
 tagItemSkillFailName=Failchantment
 tagItemSkillFailDesc=Fail a little harder.
@@ -2530,7 +2536,7 @@ tagDevotion_B10Desc=The revenant represents death and misery. It is said that no
 tagDevotion_B11=Solael's Witchblade
 tagDevotion_B11Desc=Solael is said to be the most cruel of the three witch gods, having carved open countless victims with his curved sacrificial blade in his mad pursuit of immortality.
 tagDevotion_B12=Bysmiel's Bonds
-tagDevotion_B12Desc=It is said that Bysmiel, the witch god, was headed to the gallows when he abandoned his mortal form and ascended into the heavens, his broken chains the only sign of his escape.
+tagDevotion_B12Desc=It is said that Bysmiel, the witch god, was headed to the gallows when she abandoned her mortal form and ascended into the heavens, her broken chains the only sign of her escape.
 tagDevotion_B13=Tempest
 tagDevotion_B13Desc=The tempest is said to shine brightest when a dangerous storm looms on the horizon. Children born during a thunderstorm are believed marked for great things.
 tagDevotion_B14=Targo the Builder
@@ -2677,8 +2683,8 @@ tagDevotionEffectB29Desc=Sacrifice a wayward soul to ward yourself against the s
 tagDevotionEffectB30=Cleansing Waters
 tagDevotionEffectB30Desc=Ulo's cleansing waters purge all foul magic from the area, removing beneficial auras and spells from foes while allies are cleansed of negative ailments, including damage over time effects.
 
-tagDevotionEffectC01=Time Stop
-tagDevotionEffectC01Desc=The sands of the hourglass halt their ceaseless motion, stopping time for foes that dare strike you.
+tagDevotionEffectC01=Time Dilation
+tagDevotionEffectC01Desc=The sands of the hourglass spin in an untamed whirlwind. The laws of time itself no longer apply to you.
 tagDevotionEffectC02=Tainted Eruption
 tagDevotionEffectC02Desc=The corruption trapped within you is unleashed in a massive explosion of vile toxins.
 tagDevotionEffectC03=Abominable Might
@@ -2785,3 +2791,11 @@ tagEnemySkillD01_Desc=The void pulls you apart slowly with chaotic energy.
 
 tagEnemySkillD02=Fire Devil
 tagEnemySkillD02_Desc=The spinning flames singe you.
+
+tagEnemySkillD03=Siphoning Spirit
+tagEnemySkillD03_Desc=A vile spirit haunts you and saps your vitality and regeneration.
+
+tagEnemySkillD04=Eldritch Aura
+tagEnemySkillD04_Desc=Raw eldritch energies surround this crystal, empowering eldritch beings and harming natural life.
+
+

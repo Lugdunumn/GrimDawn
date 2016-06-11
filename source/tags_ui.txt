@@ -1764,6 +1764,12 @@ DamageModifierAether={%+.0f0}% {^E}Aether Damage
 DamageModifierAetherR={%+.0f0}-{%.0f1}% {^E}Aether Damage
 DamageModifierKnockdown={%+.0f0}% {^E}Knockdown Duration
 DamageModifierKnockdownR={%+.0f0}-{%.0f1}% {^E}Knockdown Duration
+DamageModifierTrap={%+.0f0}% {^E}Trap Duration
+DamageModifierTrapR={%+.0f0}-{%.0f1}% {^E}Trap Duration
+DamageModifierFreeze={%+.0f0}% {^E}Freeze Duration
+DamageModifierFreezeR={%+.0f0}-{%.0f1}% {^E}Freeze Duration
+DamageModifierPetrify={%+.0f0}% {^E}Petrify Duration
+DamageModifierPetrifyR={%+.0f0}-{%.0f1}% {^E}Petrify Duration
 
 DamageDurationModifierPhysical={%+.0f0}% {^E}Internal Trauma Damage 
 DamageDurationModifierBleeding={%+.0f0}% {^E}Bleeding Damage 
@@ -1900,7 +1906,7 @@ DefenseBleedingR={%.0f0}-{%.0f1}% {^E}Bleeding Resistance
 DefenseBlock={%.0f0} {^E}Damage Blocked
 DefenseReflect={%.0f0}% {^E}Damage Reflected
 DefenseReflectR={^H}{%.0f0}-{%.0f1}% {^E}Damage Reflected
-DefensePhysicalDuration={%.0f0}% {^E}Reduction in Physical Duration
+DefensePhysicalDuration={%.0f0}% {^E}Reduction in Internal Trauma Duration
 DefenseBleedingDuration={%.0f0}% {^E}Reduction in Bleeding Duration
 DefenseColdDuration={%.0f0}% {^E}Reduction in Frostburn Duration
 DefenseFireDuration={%.0f0}% {^E}Reduction in Burn Duration
@@ -2085,6 +2091,7 @@ tagEmptyHotSlot=Clear this quick slot button.
 tagDevotionUnassigned=No Skill
 
 #Stack Window
+
 tagStackOk=Ok
 tagStackCancel=Cancel
 
@@ -2155,7 +2162,5 @@ tagChatCommandShort03=r
 tagChatCommandShort04=t
 tagChatCommandShort05=m
 tagChatCommandShort06=u
-
-
 
 

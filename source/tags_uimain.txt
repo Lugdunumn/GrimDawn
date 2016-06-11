@@ -7,7 +7,6 @@ tagMenu04=Options
 tagMenu05=Credits
 tagMenu06=Updates
 tagMenu07=Exit
-tagMenu08=Survival Mode
 tagMenuButton01=Create Character
 tagMenuButton02=Import
 tagMenuButton03=Delete Character
@@ -77,11 +76,15 @@ tagDifficultyJoinElite=Up to Elite Difficulty
 tagDifficultyJoinUltimate=Up to Ultimate Difficulty
 tagDifficultyJoinAny=Any Difficulty
 
+tagSDifficultyTitle01=Bronze
+tagSDifficultyTitle02=Silver
+tagSDifficultyTitle03=Gold
+
 tagPlayOptionsAccept=Accept
 tagPlayOptionsCancel=Cancel
 tagPlayGameModeCampaign=Main Campaign
 tagPlayGameModeCustom=Custom Game
-tagPlayGameModeSurvival=Survival Mode
+tagPlayGameModeSurvival=Crucible
 
 tagGameStateInit=Initializing...
 tagGameStateLoading=Loading...

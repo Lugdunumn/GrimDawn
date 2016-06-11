@@ -95,6 +95,9 @@ tagEnemyBoneRatRangedA01=Boneback
 tagEnemyBoneRatMeleeB01=Rabid Boneback
 tagEnemyBoneRatMeleeB02=Boneback Plaguebearer
 
+tagEnemyBoneratWitchGodA01=Frenzied Plaguebeast
+tagEnemyBoneratWitchGodA02=Rotting Plaguebeast
+
 tagEnemyBoneRatMeleeB02_Summon=Halion's Wittle Rat
 
 tagBoneRatHeroH01=Maledictus
@@ -362,6 +365,16 @@ tagHarvestmanHeroH02=Effigus, the Infested
 tagHarvestmanHeroH03=Asper ~ Swift
 tagHarvestmanHeroH04=Crowfiend ~ Bruiser
 
+
+#Hellhound
+
+tagEnemyHellhoundA01=Hellhound
+
+tagEnemyHellHoundWitchGodA01=Eldritch Hound
+tagEnemyHellHoundWitchGodA02=Eldritch Stormchaser
+
+
+
 #CreatureHuman
 
 tagEnemyBloodswornA01=Bloodsworn Adulant
@@ -475,6 +488,7 @@ tagDermapteranBoss01=Grand Vizier Lozakal
 tagDermapteranBoss02=Grand Vizier Inixil
 tagDermapteranBoss03=Swarm Queen Ravna
 tagDermapteranBoss04=Hive Guard Anoxis, the Tainted
+tagDermapteranBoss05=Rashalga, the Mad Queen
 
 #CreatureInsectMosquito
 tagEnemyInsectMosquitoA01=Mireborn Bloodgorger
@@ -569,6 +583,9 @@ tagEnemyCavePrawnB01=Albino Cavern Crawler
 tagEnemyCavePrawnC01=Bursting Cavern Crawler
 tagEnemyCavePrawnSummonA01=Swarming Cavern Crawler
 
+tagEnemyPrawnWitchGodA01=Eldritch Swarmer
+tagEnemyPrawnWitchGodA02=Nightmare Crawler
+
 tagPrawnHeroH01=Ravacrix, the Ravenous
 tagPrawnHeroH02=Palacrix, the Ancient
 tagPrawnHeroH03=Velacrix, the Plagueswarm
@@ -593,6 +610,9 @@ tagEnemyRaptorB_MeleeA01=Wind Raptor ~ Stalker
 tagEnemyRaptorB_RangedA01=Wind Raptor ~ Assassin
 tagEnemyRaptorB_ChampionA01=Wind Raptor ~ Sky Lord
 
+tagEnemyRaptorWitchGodA01=Winged Horror
+tagEnemyRaptorWitchGodA02=Elditch Lifedrinker
+
 tagRaptorHeroH01=Soulrend
 tagRaptorHeroH02=Aragonax, the Spirit Eater
 tagRaptorHeroH03=Baldim, the Chaosbringer
@@ -614,6 +634,9 @@ tagEnemyPlanesHoundB01=Planeshound ~ Pack Leader
 
 tagEnemyVoidHoundA01=Voidhound
 tagEnemyVoidHoundB01=Voidhound ~ Pack Leader
+
+tagEnemyRiftHoundWitchGodA01=Eldritch Hound
+tagEnemyRiftHoundWitchGodA02=Eldritch Alpha
 
 tagRiftHoundHeroH01=Charrus
 tagRiftHoundHeroH02=Plaguelord
@@ -735,6 +758,11 @@ tagEnemySpiderB01=Dreadweave Leaper
 tagEnemySpiderB02=Dreadweave Widow
 tagEnemySpiderC01=Dreadweave Matriarch
 tagEnemySpiderSummon=Spiderling
+
+tagEnemySpiderWitchGodA01=Eldritch Arachnid
+tagEnemySpiderWitchGodA02=Eldritch Weaver
+tagEnemySpiderWitchGodA03=Eldritch Matriarch
+tagEnemySpiderWitchGodSummon=Eldritch Crawler
 
 tagSpiderHeroH01=Oldelon, the Molten
 tagSpiderHeroH02=Raglis, the Leaper
@@ -934,6 +962,13 @@ tagZombieHeroH08=Teselon ~ Electrified
 tagZombieHeroH09=Blightfeast ~ Charger
 tagZombieHeroH10=Alrick Magefire
 
+tagZombieMiniBoss01=Farros, the Rotted
+tagZombieMiniBoss02=Jillius, the Decayed
+tagZombieMiniBoss03=Neegan, the Withered
+tagZombieMiniBoss04=Balros, the Malformed
+tagZombieMiniBoss05=Hagra, the Tormented
+
+
 #CreatureZombieHound
 
 tagEnemyZombieHoundA01=Tainted Hound
@@ -1018,6 +1053,7 @@ tagEnemySummonAetherTrap=Aether Trap
 tagEnemySummonIceCrystal=Ice Crystal
 tagEnemySummonTentacle=Writhing Tentacle
 tagEnemySummonVoid=Entropic Void
+tagEnemySummonWitchGodCrystal=Sentinel's Beacon
 
 tagEnemyMogdrogenBoar=Mogdrogen's Chilltusk
 tagEnemyMogdrogenRat=Mogdrogen's Boneback
@@ -1032,15 +1068,18 @@ tagQuestChthonianMonstrosity=Thall'Nosh, the Unraveler
 tagQuestBloodWagon=Blood Wagon
 
 tagBossTheWarden01=Warden Krieg
-tagBossOutcast01=Anasteria, the Rogue Aetherial
-tagBossOutcast02=Anasteria, Vengeance of the Aether
-tagBossOutcast03=Anasteria, Wrath of the Aether
 tagBossLoghorrean01=Loghorrean, the Voice of Ch'thon
 tagBossLoghorreanTentacle01=Loghorrean's Tentacle
 tagBossLoghorreanTentacle02=Loghorrean's Tentacle
 tagBossLoghorreanTentacleCluster=Tentacle Cluster
 
 tagMiscTargetDummy=Training Dummy
+
+tagQuestWitchGod01=Guardian of Dreeg
+tagQuestWitchGod01_Summon=Eye of Dreeg
+tagQuestWitchGod02=Guardian of Solael
+tagQuestWitchGod03=Guardian of Bysmiel
+tagQuestWitchGod04=The Sentinel
 
 #Nemesis
 tagNemesis_Aetherial01=Valdaran, the Storm Scourge

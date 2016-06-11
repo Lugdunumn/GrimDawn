@@ -81,6 +81,12 @@ I sense there is something you're holding back?
 Yes, the most terrible part of this tale. I had thought not to speak it but you seem determined to seek the full truth.{^n}{^n}The last part of the tale is of the children birthed after the ritual's magic had taken hold. They entered this world horribly deformed and inhuman. Their feet were said to be clawed and from their backs sprouted diseased plumage, like the feathers of birds who feast upon the dead. Not many venture into the Broken Hills anymore, but those who do say these accursed children of Arkovia have endured and now prey upon travelers who pass through those lands.{^n}{^n}Thus the doom of Arkovia was complete, wiping out the past and future bloodlines of the great houses and cursing these lands to this day.
 
 Farewell.
+How can I get to Homestead from here?
+The road north is collapsed, a terrible conflict between the legionnaires and the bandits that ended in much needless bloodshed.{^n}{^n}I'm afraid the only way now would be through the mines controlled by Cronley's Gang.
+I have to get there somehow. Which way to the mines?
+The bandits have taken over the area just northeast of here known as the Four Hills.{^n}{^n}You will find what you seek there.
+Thank you. Farewell.
+Thank you, I have to be on my way.
 I have to be on my way.
 May your path be true.
 Farewell.
@@ -88,8 +94,10 @@ Go in peace, but beware the spirits of this land. They are treacherous.
 I have found some texts you may find interesting.
 That is an astounding discovery. I thank you, in the name of all Rhowari, for bringing these texts to us.{^n}{^n}I will make certain that all rovers who visit here learn of their contents.
 Farewell.
+
 I'll heed your words.
 You are always welcome here.
+
 
 
 

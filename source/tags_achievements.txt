@@ -33,7 +33,7 @@ ach007Title=A Wake of Carnage
 ach007Desc=Rid Cairn of 100000 Monsters.
 
 ach008Title=An Ocean of Blood
-ach008Desc=Rid Cairn of 1000000 Monsters.
+ach008Desc=Rid Cairn of 500000 Monsters.
 
 ach009Title=Friends in the Apocalypse
 ach009Desc=Become Revered with a Faction.
@@ -153,7 +153,7 @@ ach047Title=No Exceptions
 ach047Desc=Slay Anasteria.
 
 ach048Title=I Was Not Expecting You, Human
-ach048Desc=Slay Warden Krieg on Veteran mode with a character under level 11.
+ach048Desc=Slay Warden Krieg on Veteran mode without your character hitting level 11.
 
 ach049Title=Securing Burrwitch
 ach049Desc=Secure the Burrwitch Riftgate on Veteran Mode.
