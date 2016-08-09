@@ -53,7 +53,7 @@ Intruder...leave this place!
 Leaving now.
 You carry the markings of the Three, seeker. Long has it been since one such as you has traveled these halls.{^n}{^n}Greetings. I am the Attendant to the gods.
 I have come to learn of the Witch Gods.
-You are wise to seek them out. Only through the Three can we peer into the eldritch realm and learn its secrets.{^n}{^n}It is a place of incredible power, rivaling even the Aether the arcanists so cherish, but we cannot simply go there. Through immense sacrifice, the Witch Gods pierced the veil between worlds and ascended to the eldritch realm. Through their teachings we can harness a mere fragment of its power, summon eldritch beings to serve us and rise above the the falsehoods imposed upon us by the fallen empire.
+You are wise to seek them out. Only through the Three can we peer into the eldritch realm and learn its secrets.{^n}{^n}It is a place of incredible power, rivaling even the Aether the arcanists so cherish, but we cannot simply go there. Through immense sacrifice, the Witch Gods pierced the veil between worlds and ascended to the eldritch realm. Through their teachings we can harness a mere fragment of its power, summon eldritch beings to serve us and rise above the falsehoods imposed upon us by the fallen empire.
 How do I learn from the Three?
 That is an honor few can rightfully claim, but your dedication to seeking them out will not go unnoticed.{^n}{^n}I have witnessed the powers of the eldritch realm and many of its secrets have been revealed to me. Through the Three, I can bestow upon you a gift from the eldritch realm, insight into the larger truths.
 I am ready to receive this gift.

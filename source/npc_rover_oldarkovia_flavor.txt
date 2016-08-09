@@ -35,7 +35,7 @@ I will restore the shrine of Mogdrogen.
 Find someone else.
 I have already restored the shrine.
 That is good to hear, but did you cleanse it of the vile Chthonians?{^n}{^n}The shrine will not be safe for the Rhowari unless this is done.
-I will clenase the area of Chthonians.
+I will cleanse the area of Chthonians.
 Find someone else.
 I have already restored the shrine, and cleansed it of evil.
 You are a true champion of Mogdrogen and the Rhowari.{^n}{^n}If you have done as you say, then please visit the shrine. In times of such bravery, the beast god has been known to manifest before his followers.{^n}{^n}Perhaps you shall be so fortunate?

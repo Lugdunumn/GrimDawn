@@ -105,7 +105,7 @@ tagClass01SkillName02D=Tremor
 tagClass01SkillDescription02D=With the will of Menhir, smash the ground with a mighty two-hander and let rip devastating waves of energy upon your foes. ^oThis technique requires a two-handed melee weapon. Tremor is not a default weapon attack enhancer and cannot trigger effects such as Markovian's Advantage.
 
 tagClass01SkillName03A=Blitz
-tagClass01SkillDescription03A=Charge forth into the fray with devastating momentum, taking your enemies by surprise. ^oRequires a melee weapon. When used with a shield, the shield's damage is used.
+tagClass01SkillDescription03A=Charge forth into the fray with devastating momentum, taking your enemies by surprise. ^oRequires a melee weapon. When used with a shield, the shield's damage is added.
 tagClass01SkillName03B=Blindside
 tagClass01SkillDescription03B=The suddenness and ferocity of your attack puts enemies off-balance, reducing their combat prowess.
 
@@ -183,7 +183,7 @@ tagClass02SkillName02B=Searing Light
 tagClass02SkillDescription02B=After-images burnt into enemy's retina reduce their ability to land attacks.
 
 tagClass02SkillName03A=Fire Strike
-tagClass02SkillDescription03A=A deadly alchemical technique causes martial attacks to combust the air around the enemy. ^oWhen used as your default weapon attack, Fire Strike inflicts additional physical and fire damage.
+tagClass02SkillDescription03A=A deadly alchemical technique causes martial attacks to combust the air around the enemy. ^oWhen used as your default weapon attack, Fire Strike inflicts additional damage.
 tagClass02SkillName03B=Explosive Strike
 tagClass02SkillDescription03B=Increases the potency of Fire Strike with a chance to inflict increased fire damage.  ^oWith ranged attacks, it also explodes, causing damage to nearby enemies.
 tagClass02SkillName03C=Static Strike
@@ -191,7 +191,9 @@ tagClass02SkillDescription03C=Further alchemical alterations cause Fire Strike t
 tagClass02SkillName03D=Brimstone
 tagClass02SkillDescription03D=Pyromancy with a hint of the occult imbues Fire Strike with the chaotic power of brimstone. ^oRanged attacks will also splinter into molten fragments.
 tagClass02SkillName03E=Searing Strike
-tagClass02SkillDescription03E=Focusing the destructive power of Fire Strike allows it to hit with greater intensity while requiring less energy, but this technique can only be achieved with the proper handling of a melee weapon or two-handed rifle or crossbow.  ^oRequires a melee weapon or two-handed ranged weapon.
+tagClass02SkillDescription03E=Focusing the destructive power of Fire Strike allows it to hit with greater intensity while requiring less energy, but this technique can only be achieved with the proper handling of one-handed melee weapons. ^oRequires a one-handed melee weapon.
+tagClass02SkillName03F=Searing Might
+tagClass02SkillDescription03F=When channeled through a mighty two-handed melee or ranged weapon, Flame Strike inflicts devastating harm. ^oRequires a two-handed melee or ranged weapon.
 
 tagClass02SkillName04A=Canister Bomb
 tagClass02SkillDescription04A=An explosive packed with more explosives, this devilish contraption is capable of laying waste to an entire field of enemies. 
@@ -1221,8 +1223,8 @@ tagItemSkillC096Desc=Blinding light erupts from you, confounding your foes.
 tagItemSkillC097Name=Aetherbolt
 tagItemSkillC097Desc=Shocks the target with lightning infused by the Aether. The wild magic cascades to nearby foes.
 
-tagItemSkillC098Name=Elemental Balance
-tagItemSkillC098Desc=Strike a balance between the opposing forces of fire and ice, empowering your attacks.
+tagItemSkillC098Name=Elemental Forces
+tagItemSkillC098Desc=Imbue your attacks with the opposing forces of fire and ice.
 
 tagItemSkillC099Name=Rain of Fire
 tagItemSkillC099Desc=At your command, fire rains from the sky.
@@ -1309,6 +1311,40 @@ tagItemSkillC126Desc=Training in the art of field medicine enables you to soothe
 
 tagItemSkillC127Name=Aether Lightning
 tagItemSkillC127Desc=Lightning infused with pure aether emanates from you and cascades through your foes.
+
+tagItemSkillC128Name=Eye of Thaddeus
+tagItemSkillC128Desc=The Eye of Thaddeus exposes easy to exploit weak points on your feeble foes.
+
+tagItemSkillC129Name=Ignited Round
+tagItemSkillC129Desc=Fire an ignition round from the rifle that sets anything on fire and frequently pierces through your foes. ^oActivates off of default weapon attacks.
+
+tagItemSkillC130Name=Unholy Covenant
+tagItemSkillC130Desc=Forge an unholy covenant with your minions, empowering your connections to the dark forces of the void. ^oThis ability must be toggled to maintain its effect.
+
+tagItemSkillC131Name=Lightning Spike
+tagItemSkillC131Desc=An spike of electric energy erupts towards your assailant.
+
+tagItemSkillC132Name=Fire Spread
+tagItemSkillC132Desc=Fires an exploding round that shatters on impact in a large burst of flame. ^oActivates off of default weapon attacks.
+
+tagItemSkillC133Name=Callidor's Wrath
+tagItemSkillC133Desc=Unleash a massive explosion of arcane energies.
+
+tagItemSkillC134Name=Myrmidon Strike
+tagItemSkillC134Desc=Strike your foe with your shield, inflicting grievous internal harm. ^oRequires a melee weapon.
+
+tagItemSkillC135Name=Mogdrogen's Tranquility
+tagItemSkillC135Desc=Fills you and your nearby allies with Mogdrogen's tranquility, emboldening them and their beastly companions. ^oThis ability must be toggled to maintain its effect.
+
+tagItemSkillC136Name=Aether Lightning
+tagItemSkillC136Desc=Unleash lightning infused with pure aether that cascades through your foes.
+
+tagItemSkillC137Name=Elemental Force
+tagItemSkillC137Desc=Unleash a force of fire and ice magic that spirals outward from your location.
+
+tagItemSkillC138Name=Oathbreaker
+tagItemSkillC138Desc=The Oathbreaker fires an explosive round teeming with dark powers. ^oActivates off of default weapon attacks.
+
 
 tagItemSkillM005Name=Berserk
 tagItemSkillM005Desc=Enter a berserker state of mind, lashing out with increased ferocity at the cost of survivability.
@@ -1567,7 +1603,7 @@ tagItemSkillD090Name=Fiend's Resolve
 tagItemSkillD090Desc=The fiendish effigy fills you with resolve, enabling you to continue the fight.
 
 tagItemSkillD091Name=Final Stop
-tagItemSkillD091Desc=Impale your foe upon the shield's spikes.
+tagItemSkillD091Desc=Impale your foe upon the shield's spikes. ^oRequires a melee weapon.
 
 tagItemSkillD092Name=Fire and Brimstone
 tagItemSkillD092Desc=Become empowered with the cataclysmic power of fire and brimstone.
@@ -1983,8 +2019,8 @@ tagItemSkillD228Desc=Shatter nearby foes' defenses with a rush of physical force
 tagItemSkillD229Name=Fallen Comet
 tagItemSkillD229Desc=Trozan's powers continued to evolve beyond calling down shards of the sky, until the day he brought down the very heavens.
 
-tagItemSkillD230Name=Perforator Round
-tagItemSkillD230Desc=Load a custom round that pierces through your target.
+tagItemSkillD230Name=Fragmenting Round
+tagItemSkillD230Desc=Load a custom round that fragments and pierces through your targets.
 
 tagItemSkillD231Name=Valdun's Lethality
 tagItemSkillD231Desc=Valdun was infamous for his talent with rifles. ^oThis is a ranged two-handed weapon passive bonus.
@@ -2002,10 +2038,10 @@ tagItemSkillD235Name=Anasteria's Devastation
 tagItemSkillD235Desc=This technique tears a rift in reality through which fall embers of raw arcane energy. ^oRequires a Caster Off-Hand. Embers continue to fall over the duration of the spell.
 
 tagItemSkillD236Name=Justicar's Guard
-tagItemSkillD236Desc=The Grand Arbiter stands resolute against any blow. ^oThis is a melee passive bonus
+tagItemSkillD236Desc=The Grand Arbiter stands resolute against any blow. ^oThis is a passive bonus, requires a melee weapon or a shield.
 
 tagItemSkillD237Name=Justicar's Vengeance
-tagItemSkillD237Desc=Horvald seldom uttered a word, instead letting his weapon do the talking. ^oThis is a melee passive bonus.
+tagItemSkillD237Desc=Horvald seldom uttered a word, instead letting his weapon do the talking. ^oThis is a passive bonus, requires a melee weapon or a shield.
 
 tagItemSkillD238Name=Power of the Gazer
 tagItemSkillD238Desc=The power of the Gazer flows through you.
@@ -2015,6 +2051,36 @@ tagItemSkillD239Desc=A patch of Eldritch flames erupts underneath your foes.
 
 tagItemSkillD240Name=Mad Queen's Bite
 tagItemSkillD240Desc=Lash out desperately at nearby foes, driving your blade deep.
+
+tagItemSkillD241Name=Venomspine
+tagItemSkillD241Desc=Unleash a cascade of venomous spines.
+
+tagItemSkillD242Name=Venomwrath
+tagItemSkillD242Desc=A vile poison that infuses the flesh and exposes hidden weaknesses.
+
+tagItemSkillD243Name=Ritual Circle
+tagItemSkillD243Desc=Conjure a ritual circle that empowers your spellwork and protects you from physical harm so long as you stand within it.
+
+tagItemSkillD244Name=Storm Shard
+tagItemSkillD244Desc=Conjure a storm-infused crystal at the target location to shock nearby enemies. ^oStorm Shards scale with player damage bonuses.
+
+tagItemSkillD245Name=Call Forth the Inferno
+tagItemSkillD245Desc=Infernal flames burst out from the earth beneath your foes.
+
+tagItemSkillD246Name=Agrivix's Pact
+tagItemSkillD246Desc=Conjure a wisp of arcane energy to assault your foes. ^oArcane Wisps scale with player damage bonuses.
+
+tagItemSkillD247Name=Warborn
+tagItemSkillD247Desc=You were born for combat and thrive in the thick of it.
+
+tagItemSkillD248Name=Bloodrage
+tagItemSkillD248Desc=Slaying a foe throws you into a rage as you thirst for more blood to spill.
+
+tagItemSkillD249Name=Arcane Destruction
+tagItemSkillD249Desc=Tear a small rift in reality through which falls an arcane ember.
+
+tagItemSkillD250Name=Spill the Blood
+tagItemSkillD250Desc=Rip through nearby foes in a bloody display.
 
 tagItemSkillFailName=Failchantment
 tagItemSkillFailDesc=Fail a little harder.
@@ -2095,7 +2161,7 @@ tagCompSkillA024Name=Radiant Shield
 tagCompSkillA024Desc=Imbue your shield against the elements.
 
 tagCompSkillA025Name=Sacred Strike
-tagCompSkillA025Desc=Strike your enemies with a devastating blow which weakens their resistance to the elements.
+tagCompSkillA025Desc=Strike your enemies with a devastating blow which weakens their resilience.
 
 tagCompSkillA026Name=Shield Slam
 tagCompSkillA026Desc=Slam your enemy with your shield, disabling lesser foes completely. ^oRequires a melee weapon.
@@ -2257,7 +2323,7 @@ tagRelicSkillD003Name=Summon Nemesis
 tagRelicSkillD003Desc=Call forth Nemesis, demigod of the shadows and lord of the night hunt. ^oYou can only summon one manifestation of Nemesis at any one time. Nemesis scales with player damage bonuses.
 
 tagRelicSkillD004Name=Citadel
-tagRelicSkillD004Desc=Empower your defenses and those of your allies to become a moving fortress. ^oRequires a shield. This ability must be toggled to maintain its effect.
+tagRelicSkillD004Desc=Empower your defenses and those of your allies to become a moving fortress. This ability must be toggled to maintain its effect.
 
 tagRelicSkillD005Name=Stormcaller Aura
 tagRelicSkillD005Desc=Empower yourself and your allies with the power of a lightning storm. ^oThis ability must be toggled to maintain its effect.
@@ -2308,7 +2374,7 @@ tagRelicSkillD020Name=Menhir's Bastion
 tagRelicSkillD020Desc=Become empowered with the protective spirit of Menhir, shielding yourself and your allies from harm.
 
 tagRelicSkillD021Name=Elemental Imbalance
-tagRelicSkillD021Desc=Suffering harm disrupts your careful balance between the elements, unleashing a surge of power that will make your foes regret ever coming near you. ^oRequires a Caster Off-Hand.
+tagRelicSkillD021Desc=Your furious arcane assault sometimes disrupts your careful balance between the elements, unleashing a surge of power that will make your foes regret ever coming near you. ^oRequires a Caster Off-Hand.
 
 
 
@@ -2604,7 +2670,7 @@ tagDevotion_C13=Unknown Soldier
 tagDevotion_C13Desc=Many a legend are told about the nameless men and women who were felled in battle, their valor and deeds never acknowledged. In honor of their sacrifice, the stars themselves were rearranged to form the Unknown Soldier.
 
 tagDevotionEffectA01=Twin Fangs
-tagDevotionEffectA01Desc=Vampric fangs assault your foes and sap them of vitality.
+tagDevotionEffectA01Desc=Vampiric fangs assault your foes and sap them of vitality.
 tagDevotionEffectA02=Scorpion Sting
 tagDevotionEffectA02Desc=Spines coated with deadly toxin erupt around you.
 tagDevotionEffectA05=Targo's Hammer
@@ -2665,13 +2731,13 @@ tagDevotionEffectB12_Pet02=Plague Breath
 tagDevotionEffectB13=Reckless Tempest
 tagDevotionEffectB13Desc=Static energy swells within you, unleashed upon nearby foes in the form of destructive bolts of lightning.
 tagDevotionEffectB14=Shield Wall
-tagDevotionEffectB14Desc=Your shield turns into a barrier that extends beyond its physical limitations. ^oRequires a shield.
+tagDevotionEffectB14Desc=A metaphysical barrier forms around you.
 tagDevotionEffectB15=Blizzard
 tagDevotionEffectB15Desc=Shards of razor-sharp ice rain down from the sky upon your foes.
 tagDevotionEffectB16=Fetid Pool
 tagDevotionEffectB16Desc=A festering pool erupts beneath your enemies, corrupting the ground.
 tagDevotionEffectB17=Elemental Barrier
-tagDevotionEffectB17Desc=Your shield becomes a barrier against the forces of magic.
+tagDevotionEffectB17Desc=A barrier to the forces of magic forms around you.
 tagDevotionEffectB18=Acid Spray
 tagDevotionEffectB18Desc=The manticore's sting pierces through your target, creating a spray of caustic acid behind them.
 tagDevotionEffectB20=Messenger of War

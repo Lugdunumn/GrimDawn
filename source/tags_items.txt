@@ -847,6 +847,9 @@ tagTwoHandedMace=Two-Handed Mace
 tagTwoHandedAxe=Two-Handed Axe
 tagTwoHandedRifle=Two-Handed Ranged
 
+tagSpear=Spear
+tagStaff=Staff
+
 tagWeaponUnknown=Unknown
 
 #ArmorSlots

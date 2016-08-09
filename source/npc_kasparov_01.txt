@@ -99,6 +99,15 @@ Oh no, I'm not getting involved in another of your experiments.
 Will this Dynamite suffice?
 
 Did my allies deliver the Dynamite?
+
+Ah, there you are! Come, come, we have an errand you must perform immediately.
+Excuse me?
+Yes, at once. Do not tarry! There are experiments to be run and Darlet and I require explosive materials immediately. No time for questions. These magical artifacts aren't going to break themselves down, now are they?{^n}{^n}Are you still here? Head to the mines around the Arkovian Foothills and Old Arkovia immediately!
+Very well. I'll gather the explosives.
+Oh no, I'm not getting involved in another of your experiments.
+Will this Dynamite suffice?
+
+Did my allies deliver the Dynamite?
 Yes, yes. The experiment was a smashing, no...an explosive success! There may have been an explosion. But everyone was fine, really.{^n}{^n}You should speak to Darlet if you want anything else...uh, exploded.
 Um, alright.
 Oh no, not another experiment...

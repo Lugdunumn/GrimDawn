@@ -370,7 +370,7 @@ tagHarvestmanHeroH04=Crowfiend ~ Bruiser
 
 tagEnemyHellhoundA01=Hellhound
 
-tagEnemyHellHoundWitchGodA01=Eldritch Hound
+tagEnemyHellHoundWitchGodA01=Eldritch Mongrel
 tagEnemyHellHoundWitchGodA02=Eldritch Stormchaser
 
 
@@ -611,7 +611,7 @@ tagEnemyRaptorB_RangedA01=Wind Raptor ~ Assassin
 tagEnemyRaptorB_ChampionA01=Wind Raptor ~ Sky Lord
 
 tagEnemyRaptorWitchGodA01=Winged Horror
-tagEnemyRaptorWitchGodA02=Elditch Lifedrinker
+tagEnemyRaptorWitchGodA02=Eldritch Lifedrinker
 
 tagRaptorHeroH01=Soulrend
 tagRaptorHeroH02=Aragonax, the Spirit Eater

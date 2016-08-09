@@ -99,6 +99,8 @@ tagQuestUpdate=Quest Progress
 tagQuestUpdated=Quest Updated: {^n}"{%t0}"
 tagQuestFailed=Quest Failed: {^n}"{%t0}"
 tagActionGiveMoney={%d0} Iron
+tagActionGiveTribute={%d0} Tribute
+tagActionGiveTributes={%d0} Tributes
 tagActionGiveExperience={%d0} Experience
 tagActionGiveFaction={%d0} {%t1} Faction
 tagActionGiveLevel={%d0} Level
@@ -120,6 +122,8 @@ tagQuestRewardReputationPositive=+{%d0} {%s1} Reputation
 tagQuestRewardReputationNegative=-{%d0} {%s1} Reputation
 tagQuestRewardAcceptButton=Close
 tagQuestBlockedDescription=Quest Locked in this Session based on Host's Progress.
+
+tagObjectives=Objectives
 
 #Faction
 
@@ -1126,6 +1130,8 @@ tagCraftingBlunt=BLUNT
 tagCraftingSwords=SWORDS
 tagCraftingImplements=IMPLEMENTS
 tagCraftingTwoHandedMelee=TWO-HANDED MELEE
+tagCraftingSpears=SPEARS
+tagCraftingStaves=STAVES
 
 tagCraftingOneHanded=ONE-HANDED RANGED
 tagCraftingTwoHanded=TWO-HANDED RANGED
@@ -1558,8 +1564,8 @@ SkillPetDescriptionMana={%.0f0}  {^E}Energy
 SkillPetDescriptionDamageMinOnly={%.0f0}  Damage
 SkillPetDescriptionDamageMinMax={%.0f0} - {%.0f1}  Damage
 tagSkillPetTimeToLive={^E}Lives for {^H}{%.1f0} {^E}Seconds
-tagSkillPrevious=… Previous
-tagSkillNext=Next …
+tagSkillPrevious=... Previous
+tagSkillNext=Next ...
 HoldCtrlToShowBaseValues=Hold CTRL to show base values.
 PressToAddUnusedSkillPoints=Left click to add unused skill points.
 PressToAddUnusedDevotionPoints=Left Click to Add Unused Devotion Points
