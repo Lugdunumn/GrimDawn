@@ -79,6 +79,7 @@ tagWeaponSwordD010Desc="There are letters etched into the hilt: D.T."
 tagWeaponSwordD011=Reaver's Claw
 tagWeaponSwordD012=Mad Queen's Claw
 tagWeaponSwordD012Desc="Separated from her brood and trapped beneath the fortress walls, the dermapteran queen was slowly driven mad."
+tagWeaponSwordD013=Razor of the Venomblade
 
 tagWeaponSwordF001=Legion Carver
 tagWeaponSwordF002=Chosen Blade
@@ -144,6 +145,8 @@ tagWeaponBluntD003=Agony
 tagWeaponBluntD004=Herald of Blazing Ends
 tagWeaponBluntD005=Plaguebearer of Dreeg
 tagWeaponBluntD006=Dawnbreaker's Sledge
+tagWeaponBluntD007=Fist of the Venomblade
+tagWeaponBluntD008=Warborn Gavel
 
 tagWeaponBluntF001=Devil's Crusher
 tagWeaponBluntF002=Legion Warhammer
@@ -528,6 +531,7 @@ tagWeaponCaster1hD014=Basilisk Claw
 tagWeaponCaster1hD015=Clairvoyant's Wand
 tagWeaponCaster1hD016=Runed Dagger of Dreeg
 tagWeaponCaster1hD017=Trozan's Starkeeper
+tagWeaponCaster1hD018=Blade of the Black Flame
 
 tagWeaponCaster1hF001=Legion Firestarter
 tagWeaponCaster1hF002=Legion Aetherspark
@@ -732,6 +736,8 @@ tagFocusD012=Consumption of Agrivix
 tagFocusD012Desc="The Grand Arcanist Agrivix was famous for pouring inordinate quantities of energy into his spellwork, but this hunger for power took him down a path of destruction that had him convinced he was the rightful ruler of the world. Agrivix ultimately met his end at the hands of inquisitors, but not before taking several of them down with him."
 tagFocusD013=Invoker's Blaze
 tagFocusD014=Iskandra's Texts
+tagFocusD015=Orb of the Black Flame
+tagFocusD016=Codex of Agrivix
 
 tagFocusF001=Harvest's Tome
 tagFocusF002=Harvest's Ledger
@@ -996,6 +1002,13 @@ tagHeadD022=Eldritch Gaze
 tagHeadD022Desc="The helm whispers to you in voices you cannot comprehend."
 tagHeadD023=Covenant of the Three
 tagHeadD023Desc="Empowered with the essence of the three Witch Gods in a covenant binding them and their followers against mutual destruction."
+tagHeadD024=Cowl of the Venomblade
+tagHeadD025=Visage of the Black Flame
+tagHeadD026=Light Defender's Helm
+tagHeadD027=Infernal Knight's Faceguard
+tagHeadD028=Warborn Visor
+tagHeadD029=Bloodrager's Cowl
+
 
 tagHeadF001=Outcast's Hood
 tagHeadF001Desc="You can't help but feel as if the mask is staring back at you."
@@ -1099,6 +1112,12 @@ tagShoulderD019=Ultos' Spaulders
 tagShoulderD020=Mantle of Mogdrogen
 tagShoulderD020Desc="The mantle worn by the avatar of Mogdrogen himself."
 tagShoulderD021=Trozan's Mantle
+tagShoulderD022=Mantle of the Black Flame
+tagShoulderD023=Light's Defender Epaulets
+tagShoulderD024=Infernal Knight's Pauldrons
+tagShoulderD025=Mantle of Agrivix
+tagShoulderD026=Warborn Pauldrons
+tagShoulderD027=Bloodrager's Shoulderguard
 
 tagShoulderF001=Outcast's Burning Mantle
 tagShoulderF002=Outcast's Chilled Mantle
@@ -1221,6 +1240,12 @@ tagTorsoD018=Ultos' Cuirass
 tagTorsoD019=Frostdread Cuirass
 tagTorsoD020=Trozan's Vestments
 tagTorsoD021=Valdun's Jacket
+tagTorsoD022=Stealth Jacket of the Venomblade
+tagTorsoD023=Light's Defender Plate
+tagTorsoD024=Infernal Knight's Jacket
+tagTorsoD025=Vestments of Agrivix
+tagTorsoD026=Warborn Chestguard
+tagTorsoD027=Bloodrager's Coat
 
 tagTorsoF001=Outcast's Burning Vestments
 tagTorsoF002=Outcast's Chilled Vestments
@@ -1316,6 +1341,7 @@ tagWaistD013Desc="Waistguard worn by the Spellbreaker regiment, a selective grou
 tagWaistD014=Phantom-Thread Girdle
 tagWaistD014Desc="Woven using thread spun from the souls of the damned through unspeakable necromantic techniques."
 tagWaistD015=Wildblood Girdle
+tagWaistD016=Infernal Knight's Girdle
 
 tagWaistF001=Devil's Cord
 tagWaistF002=Devil's Waistguard
@@ -1388,6 +1414,7 @@ tagHandsD008=Aethereach
 tagHandsD009=Colossal Grasp
 tagHandsD010=Handguards of Justice
 tagHandsD011=Harbinger's Grasp
+tagHandsD012=Light's Defender Gauntlets
 
 tagHandsF001=Rhowari Grips
 tagHandsF002=Rhowari Handguards
@@ -1722,6 +1749,8 @@ tagNecklaceD021=Markovian's Distinction
 tagNecklaceD022=Heart of Ulzuin
 tagNecklaceD023=Heart of the Mountain
 tagNecklaceD024=Valdun's Bounty
+tagNecklaceD025=Arcane Shard of Agrivix
+tagNecklaceD026=Bloodrager's Gem
 
 tagNecklaceF001=Rhowari Guardstone
 tagNecklaceF002=Rhowari Rancor
@@ -2043,6 +2072,12 @@ tagBlueprint_ArmorD019=Blueprint: Trozan's Hat
 tagBlueprint_ArmorD020=Blueprint: Valdun's Hat
 tagBlueprint_ArmorD021=Blueprint: Eldritch Gaze
 tagBlueprint_ArmorD022=Blueprint: Covenant of the Three
+tagBlueprint_ArmorD023=Blueprint: Cowl of the Venomblade
+tagBlueprint_ArmorD024=Blueprint: Visage of the Black Flame
+tagBlueprint_ArmorD025=Blueprint: Light's Derender Helm
+tagBlueprint_ArmorD026=Blueprint: Infernal Knight's Faceguard
+tagBlueprint_ArmorD027=Blueprint: Warborn Visor
+tagBlueprint_ArmorD028=Blueprint: Bloodrager's Cowl
 
 
 tagBlueprint_AccessoryC001=Blueprint: Maiven's Lens
@@ -3303,6 +3338,11 @@ tagCompAmmoBoxDesc="The resistance can always use more ammunition to hold off th
 tagCompAScrap=Scrap
 tagCompAScrapDesc="Scrap materials such as bolts, leather cords and low-grade metals that can be used to fasten together items or structures."
 
+#ItemDifficultyUnlock
+tagDifficultyUnlock={^E}Unlock {%s0} difficulty
+tagDifficultyAlreadyUnlocked=You have already unlocked this difficulty
+tagDifficultyUnlockDLC=You do not own the DLC associated with this item
+
 #ItemFactionBoosters
 
 tagFactionBooster={^E}Reputation gain increased by {^H}{%d0}% {^E}with {%s1}
@@ -3578,6 +3618,27 @@ tagItemSetD018Desc="In his seclusion, Trozan studied the stars and learned to ha
 
 tagItemSetD019Name=Valdun's Treachery
 tagItemSetD019Desc="Valdun was one of the finest marksmen in all of Cairn, but he only became truly infamous after turning his sights upon the nobility of Erulan."
+
+tagItemSetD020Name=The Venomblade Pact
+tagItemSetD020Desc="Armor worn by a group of nightblades specializing in the abhorrent use of acid on their weapons."
+
+tagItemSetD021Name=Black Flame Covenant
+tagItemSetD021Desc="Vestments of the Pale One, master of the black flame of Solael."
+
+tagItemSetD022Name=Light's Defender
+tagItemSetD022Desc="Guardian of the faith. Defender of the Light of Empyrion."
+
+tagItemSetD023Name=The Infernal Knight
+tagItemSetD023Desc="Armor of Gallros Val, better known as the Infernal Knight of the Black Legion."
+
+tagItemSetD024Name=Wrath of Agrivix
+tagItemSetD024Desc="Agrivix was a renowned master of the arcane, but his thirst for power ultimately proved his undoing."
+
+tagItemSetD025Name=Warborn Armor
+tagItemSetD025Desc="Forged by battle, this armor had seen more conflict than any other relics surviving to this day."
+
+tagItemSetD026Name=Bloodrager's Frenzy
+tagItemSetD026Desc="Armor of the Bloodragers, a savage clan from the frozen wastelands of the north."
 
 #Prefixes
 
@@ -3906,7 +3967,7 @@ tagSuffixB029_Ar_A=of Vicious Barbs
 tagSuffixB030_Ar_A=of Butchery
 tagSuffixB031_Ar_A=of Incantations
 tagSuffixB032_Ar_A=of Insight
-tagSuffixB033_Ar_A=of Desolation
+tagSuffixB033_Ar_A=of Scorched Ends
 tagSuffixB034_Ar_A=of Survival
 tagSuffixB035_Ar_A=of Kings
 tagSuffixB036_Ar_A=of Destruction

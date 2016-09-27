@@ -193,7 +193,7 @@ tagClass02SkillDescription03D=Pyromancy with a hint of the occult imbues Fire St
 tagClass02SkillName03E=Searing Strike
 tagClass02SkillDescription03E=Focusing the destructive power of Fire Strike allows it to hit with greater intensity while requiring less energy, but this technique can only be achieved with the proper handling of one-handed melee weapons. ^oRequires a one-handed melee weapon.
 tagClass02SkillName03F=Searing Might
-tagClass02SkillDescription03F=When channeled through a mighty two-handed melee or ranged weapon, Flame Strike inflicts devastating harm. ^oRequires a two-handed melee or ranged weapon.
+tagClass02SkillDescription03F=When channeled through a mighty two-handed melee or ranged weapon, Fire Strike inflicts devastating harm. ^oRequires a two-handed melee or two-handed ranged weapon.
 
 tagClass02SkillName04A=Canister Bomb
 tagClass02SkillDescription04A=An explosive packed with more explosives, this devilish contraption is capable of laying waste to an entire field of enemies. 
@@ -501,7 +501,7 @@ tagClass05SkillDescription02B=The incantation becomes overloaded with arcane for
 tagClass05SkillName02C=Elemental Balance
 tagClass05SkillDescription02C=Strike a finely-tuned balance within your incantation, harmonizing the opposing forces of fire and ice with wild electricity.
 tagClass05SkillName02D=Manifestation
-tagClass05SkillDescription02D=Arcane energies manifest in many forms. Arcanists who delve into the art of summoning often transfer some of their power to their loyal minions so that they can better serve the will of their masters. ^oThis effect is extended to your allies.
+tagClass05SkillDescription02D=Arcane energies manifest in many forms. Arcanists who delve into the art of summoning often transfer their mastery of the arcane to their loyal minions so that they can better serve the will of their masters. ^oThis effect is extended to your allies.
 
 tagClass05SkillName03A=Trozan's Sky Shard
 tagClass05SkillDescription03A=The mythical Trozan was said to be a natural; wild and unwilling to conform to the doctrines of the Imperial Arcanists. When the Imperials finally surrounded his mountaintop refuge, Trozan humbled them using an unknown technique to bring down the very sky upon them. ^oDrops 3 shards upon the target area.
@@ -2052,14 +2052,16 @@ tagItemSkillD239Desc=A patch of Eldritch flames erupts underneath your foes.
 tagItemSkillD240Name=Mad Queen's Bite
 tagItemSkillD240Desc=Lash out desperately at nearby foes, driving your blade deep.
 
-tagItemSkillD241Name=Venomspine
-tagItemSkillD241Desc=Unleash a cascade of venomous spines.
+tagItemSkillD241Name=Earthquake
+tagItemSkillD241Desc=Tear a fissure through the area underneath your foes, slowing and stunning any enemies caught within it.
 
 tagItemSkillD242Name=Venomwrath
 tagItemSkillD242Desc=A vile poison that infuses the flesh and exposes hidden weaknesses.
 
 tagItemSkillD243Name=Ritual Circle
 tagItemSkillD243Desc=Conjure a ritual circle that empowers your spellwork and protects you from physical harm so long as you stand within it.
+tagItemSkillD243NamePetSkill=Empowered Rituals
+tagItemSkillD243DescPetSkill=Standing within the Ritual Circle empowers your spells and protects you from physical harm.
 
 tagItemSkillD244Name=Storm Shard
 tagItemSkillD244Desc=Conjure a storm-infused crystal at the target location to shock nearby enemies. ^oStorm Shards scale with player damage bonuses.
@@ -2069,6 +2071,7 @@ tagItemSkillD245Desc=Infernal flames burst out from the earth beneath your foes.
 
 tagItemSkillD246Name=Agrivix's Pact
 tagItemSkillD246Desc=Conjure a wisp of arcane energy to assault your foes. ^oArcane Wisps scale with player damage bonuses.
+tagItemSkillD246NamePetSkill=Arcane Shock
 
 tagItemSkillD247Name=Warborn
 tagItemSkillD247Desc=You were born for combat and thrive in the thick of it.
@@ -2081,6 +2084,10 @@ tagItemSkillD249Desc=Tear a small rift in reality through which falls an arcane 
 
 tagItemSkillD250Name=Spill the Blood
 tagItemSkillD250Desc=Rip through nearby foes in a bloody display.
+
+tagItemSkillD251Name=Black Mark
+tagItemSkillD251Desc=The mark of the Pale One fills your foes with excruciating pain.
+
 
 tagItemSkillFailName=Failchantment
 tagItemSkillFailDesc=Fail a little harder.

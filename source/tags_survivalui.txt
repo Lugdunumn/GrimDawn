@@ -5,10 +5,6 @@ tagSurvivalMode_Desc="Enter the Crucible, the proving grounds where might and va
 tagSurvivalDeath=You are dead, but your allies can still see this wave through. If they succeed, you will be resurrected at the end of the encounter.
 tagSurvivalLastDeath=Your party has fallen.
 
-tagGameSDifficultySetting01=Aspirant Difficulty
-tagGameSDifficultySetting02=Challenger Difficulty
-tagGameSDifficultySetting03=Gladiator Difficulty
-
 #Achievements
 achGroupSurvival=The Crucible
 

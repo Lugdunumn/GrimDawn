@@ -994,6 +994,7 @@ tagReanimatorBossH02=Zanbrandt, the Ascended
 tagReanimatorBossH03=Chilldread
 tagReanimatorBossH04=Nazagrad, the Fallen
 
+
 #Pets
 
 tagPetRavenA01=Great Raven
@@ -1010,6 +1011,9 @@ tagPetGazeOfDreeg=Gaze of Dreeg
 tagPetEyeOfGuardian=Eye of the Guardian
 tagPetHeraldOfDoom=Banner of Doom
 tagPetSpirit=Bound Spirit
+tagPetRitualCircle=Ritual Circle
+tagPetStormShard=Storm Shard
+tagPetArcaneWisp=Arcane Wisp
 
 
 tagDevotionPet_Skeleton=Skeleton
@@ -1072,6 +1076,14 @@ tagBossLoghorrean01=Loghorrean, the Voice of Ch'thon
 tagBossLoghorreanTentacle01=Loghorrean's Tentacle
 tagBossLoghorreanTentacle02=Loghorrean's Tentacle
 tagBossLoghorreanTentacleCluster=Tentacle Cluster
+
+tagAetherialRoguelikeBoss01=Jarren the Plaguewarped
+tagAetherialRoguelikeBoss02=Overlord Van Aldritch
+tagAetherialRoguelikeBoss03=Councilman Hallos
+tagAetherialRoguelikeBoss04=Councilman Garl
+tagAetherialRoguelikeBoss05=Watcher Ygraad
+tagAetherialRoguelikeBoss06=Watcher Ordas
+tagAetherialRoguelikeBoss07=Watcher Brandis
 
 tagMiscTargetDummy=Training Dummy
 
@@ -1263,6 +1275,7 @@ tagRace012=Beast
 tagRace013=Magical
 tagRace014=Celestial
 tagRace015=Arachnid
+tagRace016=Plant
 tagRace001P=Undead
 tagRace002P=Beastkin
 tagRace003P=Aetherials
@@ -1278,4 +1291,6 @@ tagRace012P=Beasts
 tagRace013P=Magical
 tagRace014P=Celestial
 tagRace015P=Arachnids
+tagRace016P=Plants
+
 

@@ -68,12 +68,6 @@ tagItem_ChestN01=Celestial Trove
 
 tagItem_ChestStart=Fallen Combatant
 
-#Arenas
-tagSurvivalArena_01=Crucible of the Dead
-tagSurvivalArena_02=Crucible of the Deeps
-tagSurvivalArena_03=Crucible of the Sands
-tagSurvivalArena_04=Crucible of the Grove
-
 #NPCs
 tagNPC_Event_01=Lokarr, Master of the Crucible
 tagNPC_DefenseSite_01=Defense Site
@@ -108,8 +102,8 @@ tagNotification_Failure=You have failed, your Compensation awaits in the Treasur
 tagNotification_Reward=Your Reward awaits in the Treasure Chamber
 tagNotification_Reset=(Optional) Speak to the Master of the Crucible to Reset the Crucible for another attempt
 
-tagNotification_Checkpoint05=You can now resume on Wave 50 in this Crucible.
-tagNotification_Checkpoint10=You can now resume on Wave 100 in this Crucible.
+tagNotification_Checkpoint05=You can now resume the Crucible on Wave 50.
+tagNotification_Checkpoint10=You can now resume the Crucible on Wave 100.
 
 
 #Mutators
