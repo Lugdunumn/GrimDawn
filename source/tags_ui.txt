@@ -1939,6 +1939,7 @@ DefenseAetherModifier={^E}Increases Current Aether Resistance by {^H}{%.0f0}%
 DefenseStunModifier={^E}Increases Current Stun Resistance by {^H}{%.0f0}%
 DefenseBlockModifier={%+.0f0}% {^E}Shield Block Chance
 DefenseBlockAmountModifier={%+.0f0}% {^E}Shield Damage Blocked
+DefenseReflectModifier={%+.0f0}% {^E}Damage Reflected
 DefenseLifeLeachModifier={^E}Increases Current Life Leech Resistance by {^H}{%.0f0}%
 DefenseManaLeachModifier={^E}Increases Current Energy Leech Resistance by {^H}{%.0f0}%
 DefensePercentLifeModifier={^E}Increases Percent Life Resistance by {^H}{%.0f0}%

@@ -171,6 +171,7 @@ tagWeaponAxeB003=Pit Master's Axe
 tagWeaponAxeB004=Bonecleaver
 tagWeaponAxeB005=Bonescythe
 tagWeaponAxeB006=Olman's Axe
+tagWeaponAxeB007=Aetherwarped Cleaver
 
 tagWeaponAxeC001=Cruel Edge
 tagWeaponAxeC002=Reaper's Touch
@@ -508,6 +509,7 @@ tagWeaponCaster1hC019=Stormtrap
 tagWeaponCaster1hC020=Hellrune Carver
 tagWeaponCaster1hC021=Glacierborn Spellblade
 tagWeaponCaster1hC022=Bloodied Dagger of the Covenant
+tagWeaponCaster1hC023=Scepter of Aldritch
 
 tagWeaponCaster1hD001=Touch of Purity
 tagWeaponCaster1hD001Desc="Ancient folklore spoke of a cloaked figure that traveled the world cleansing disease and mending wounds, never once asking for payment or any other sign of gratitude."
@@ -532,6 +534,8 @@ tagWeaponCaster1hD015=Clairvoyant's Wand
 tagWeaponCaster1hD016=Runed Dagger of Dreeg
 tagWeaponCaster1hD017=Trozan's Starkeeper
 tagWeaponCaster1hD018=Blade of the Black Flame
+tagWeaponCaster1hD019=Decree of Aldritch
+tagWeaponCaster1hD019Desc="With his final decree, Von Aldritch condemned an entire city to the Grim Dawn.
 
 tagWeaponCaster1hF001=Legion Firestarter
 tagWeaponCaster1hF002=Legion Aetherspark
@@ -1293,6 +1297,9 @@ tagWaistB003=Warmonger's Belt
 tagWaistB004=Flamesilk Sash
 tagWaistB005=Frostguard Girdle
 tagWaistB006=Wraithbone Sash
+tagWaistB007=Chains of Ygraad
+tagWaistB008=Chains of Ordas
+tagWaistB009=Chains of Brandis
 
 tagWaistC001=Oldenar's Stabilizer
 tagWaistC002=Frizzick's Utility Pack

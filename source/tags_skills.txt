@@ -185,7 +185,7 @@ tagClass02SkillDescription02B=After-images burnt into enemy's retina reduce thei
 tagClass02SkillName03A=Fire Strike
 tagClass02SkillDescription03A=A deadly alchemical technique causes martial attacks to combust the air around the enemy. ^oWhen used as your default weapon attack, Fire Strike inflicts additional damage.
 tagClass02SkillName03B=Explosive Strike
-tagClass02SkillDescription03B=Increases the potency of Fire Strike with a chance to inflict increased fire damage.  ^oWith ranged attacks, it also explodes, causing damage to nearby enemies.
+tagClass02SkillDescription03B=Increases the potency of Fire Strike with a chance to inflict increased fire damage. ^oWith ranged attacks, it also explodes, causing damage to nearby enemies.
 tagClass02SkillName03C=Static Strike
 tagClass02SkillDescription03C=Further alchemical alterations cause Fire Strike to electrocute the target with a chance of knocking them off their feet.
 tagClass02SkillName03D=Brimstone
@@ -459,7 +459,7 @@ tagClass04SkillName13D=Merciless Repertoire
 tagClass04SkillDescription13D=Efficient use of poisons and anti-clotting agents can sometimes be the deadliest weapon of all.
 
 tagClass04SkillName14A=Amarasta's Blade Burst
-tagClass04SkillDescription14A=Master of assassins Amarasta, legendary among the Nightblades for her alacrity, developed a technique by which she would unleash a burst of deadly phantasmal blades which spread out from the point of attack to impale all adjacent foes. ^oRequires a melee weapon or two-handed ranged weapon.
+tagClass04SkillDescription14A=Master of assassins Amarasta, legendary among the Nightblades for her alacrity, developed a technique by which she would unleash a burst of deadly phantasmal blades which spread out from the point of attack to impale all adjacent foes.
 tagClass04SkillName14B=Lethal Assault
 tagClass04SkillDescription14B=Committed to the offensive, Amarasta would continue her relentless assault following a blade burst to quickly and decisively finish off any surviving adversaries with her imbued weapons. ^oLethal Assault affects all attacks while active.
 
