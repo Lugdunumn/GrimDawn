@@ -83,6 +83,7 @@ tagCodexJournalSubHeadingSurvivorBlackLegion=Survivors - Black Legion
 tagCodexJournalSubHeadingSurvivorBurrwitch=Survivors - Burrwitch
 tagCodexJournalSubHeadingSurvivorsHomestead=Survivors - Homestead
 tagCodexJournalSubHeadingSurvivorsDarkvale=Survivors - Darkvale
+tagCodexJournalSubHeadingSurvivorsValbury=Survivors - Port Valbury
 tagCodexJournalSubHeadingHistoryGods=History - Gods of Cairn
 tagCodexJournalSubHeadingDefault=Miscellaneous
 tagDevotionJournalTitle={%d0}/{%d1} Devotion Shrines
@@ -216,7 +217,7 @@ tagFactionUser4Rewards3=Minions of the Outcast
 tagFactionUser4Rewards4=Empty
 tagFactionUser4Rewards5=New Quest
 tagFactionUser4Rewards6=New Quest {^n}Access to Bounty Table
-tagFactionUser4Rewards7=Access to Faction Vendor
+tagFactionUser4Rewards7=New Quest {^n}Access to Faction Vendor
 tagFactionUser4Rewards8=Rare Augments {^n}Faction Mandates {^n}Elite Faction Weapons {^n}Elite Faction Armor
 tagFactionUser5=Order of Death's Vigil
 tagFactionUser5Info=Headquarters: Sorrow's Bastion {^n}{^n} The Order of Death's Vigil represents the last connection to the nearly lost art of necromancy, precious knowledge passed down to its members from their grandmaster, Uroboruuk. {^n}{^n} Members of the Order do not fear death. Instead they embrace all of its harsh lessons, believing that through mastery of death they can become more in tune with the world itself. {^n}{^n} Having faced persecution at the hands of the empire for centuries, the Order is no stranger to prejudice and controversy, but they had never met a foe as relentless as the Kymon's Chosen. The Chosen, concerned only with cleansing Cairn of corruption, view the Order as a travesty that must be purged.
@@ -403,7 +404,8 @@ tagHUDXP_Current=Experience
 tagHUDXP_Next=Next Level
 tagMaxLevel=Maximum Level Reached
 tagSkillRefreshTime=-{%.1f0} {%z1} to All Currently Active Skill Cooldowns
-tagSkillRefreshTimeInfinate=100% Reduced Recharge Time
+tagSkillRefreshTimeInfinate=100% {^E}Reduced Recharge Time
+tagSkillRefreshBaseSkillTime=-{%.1f0} {%z1} to the Base Skill Cooldown
 
 tagSkillUnusableLowMana=Energy Too Low
 tagSkillUnusableCooldown=Skill Recharging
@@ -620,6 +622,7 @@ tagCharHeaderMisc=Misc
 
 tagCharStatsDPSTitle=Damage Per Second
 tagCharStatsDPS=Damage Per Second {^b}(?)
+tagCharStatsDPSWeapon=Weapon Attack
 tagCharStatsDPSDescription=Average damage per second for your Left-Mouse Button and Right-Mouse Button Abilities against a single target, modified by cooldown and all bonuses from equipment and skills. Does not factor in enemy defenses.
 tagCharStatsDPSRightDescription=Damage breakdown for your Right-Mouse Button Ability against a single target, modified by all bonuses from equipment and skills. Does not factor in enemy defenses.
 tagCharStatsDPSLeftDescription=Damage breakdown for your Left-Mouse Button Ability against a single target, modified by all bonuses from equipment and skills. Does not factor in enemy defenses.
@@ -725,7 +728,7 @@ tagCharStatsCastSpeed=Cast Speed
 tagCharStatsCastSpeedInfo=The speed at which your character casts spells relative to the baseline (includes Total Speed).
 
 tagCharStatsCooldownReduction=Cooldown Reduction
-tagCharStatsCooldownReductionInfo=The percent by which your skill cooldowns are reduced.
+tagCharStatsCooldownReductionInfo=The percent by which your skill cooldowns are reduced. Skills granted by items do not benefit from Cooldown Reduction bonuses and effects.
 
 tagCharStatsManaCostReduction=Skill Energy Cost
 tagCharStatsManaCostReductionInfo=The percent by which the energy cost of your skills is reduced.

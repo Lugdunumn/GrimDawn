@@ -1,0 +1,7 @@
+Detonation Site
+Looks like this path leads towards a heavy Aetherial presence, but it is blocked off by a massive formation of aether crystals.{^n}{^n}You can clear it out with some heavy explosives. The old abandoned mines around Old Arkovia are likely the best place to find those.{^n}{^n}It will take 3 Dynamite to clear a path.
+Not enough Dynamite.
+Clear the Crystals.
+Leave it.
+You have cleared the crystals.
+Ok.

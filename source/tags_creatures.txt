@@ -52,6 +52,7 @@ tagAetherObeliskB01=Aetherial Terraformer
 
 tagBossAetherObelisk01=Herald of the Flame
 tagBossAetherObelisk02=Herald of Destruction
+tagBossAetherObelisk03=Herald of the Stars
 
 tagEnemyAetherialA01=Aetherial Watcher
 tagEnemyAetherialB01=Aetherial Wraith
@@ -852,6 +853,7 @@ tagBossTrollB03=Balegor, the Swamp King
 tagEnemyTrollCorruptedA01=Fleshwarped Troll
 tagEnemyTrollCorruptedB01=Fleshwarped Vanguard
 tagEnemyTrollCorruptedB02=Fleshwarped Deadeye
+tagEnemyTrollCorruptedB03=Fleshwarped Flameeye
 tagEnemyTrollCorruptedC01=Fleshwarped Commander
 
 tagTrollCorruptedD01=Hoarfrost Dreadguard

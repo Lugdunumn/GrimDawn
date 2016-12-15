@@ -1,0 +1,98 @@
+NPC NAME
+All Quests Done
+I have some questions.
+Go on then.
+Question 1
+Answer 1
+I have another question.
+
+Question 2
+Answer 2
+I have another question.
+
+Question 3
+Answer 3
+I have another question.
+
+Forget it.
+
+Quests Blocked
+
+Turn in Quest 3
+
+turn in thanks quest 3
+
+Quest 3 Progress
+
+
+
+
+Offer Quest 3
+
+
+
+
+I've already done this.
+
+
+Turn in Quest 2
+
+
+
+
+
+Quest 2 Progress
+
+
+
+
+Offer Quest 2
+
+
+
+
+I've already done this.
+
+
+
+
+
+Turn In Quest 1
+
+
+
+
+
+Quest 1 Progress
+
+
+
+
+Offer Quest 1
+
+
+
+
+I've already done this.
+
+
+
+
+
+Catch All
+I have some questions.
+What is it?
+Queston 1
+Answer 1
+I have another question.
+Thank you.
+Queston 2
+Answer 2
+I have another question.
+Thank you.
+Queston 3
+Answer 3
+I have another question.
+Thank you.
+Nevermind.
+Goodbye.
