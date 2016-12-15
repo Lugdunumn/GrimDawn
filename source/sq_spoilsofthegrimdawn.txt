@@ -1,0 +1,17 @@
+Homestead
+Spoils of the Grim Dawn
+Raid the ruins
+You have earned the respect of the people at the Corrigan Mine. To reward you, you were given a key which opens the way to a subterranean ruin the miners were afraid to excavate. Rumor is that the place is filled with forgotten treasures. Open the sealed tunnel in the Corrigan Mine and explore the Forgotten Depths.
+Explore the Forgotten Depths
+
+
+Return to Samantha
+You have slain many monstrosities and gathered vast riches from the Forgotten Depths. Speak to Samantha at the Corrigan Mine of your experiences.
+Speak to Samantha in Corrigan Mine
+
+
+Return to Stanley
+You have slain many monstrosities and gathered vast riches from the Forgotten Depths. Let Stanley at the Corrigan Mine know how your journey went.
+Speak to Stanley in Corrigan Mine
+
+

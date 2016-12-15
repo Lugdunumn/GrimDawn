@@ -1,9 +1,9 @@
 Inquisitor Creed
-Take your leave and rest. Celebrate a bit, if you can. You've certainly earned it.
+I'm not ready to perform the ritual just yet.{^n}{^n}Take some time to finalize your affairs. We will set out as soon as I am able.
 I have some questions.
 Yes?
-What about Ulgrim?
-There are arcane ways to track down almost anyone. I'll think of something. Trust me.
+How do you intend on locating Ulgrim?
+There are arcane ways to track down anyone, so long as you have something that was once theirs.{^n}{^n}Once I've gathered the materials for the ritual, we will need to acquire an object that was important to Ulgrim.
 I have another question.
 I see.
 What about the Aetherials?
@@ -24,9 +24,17 @@ Even here, in our last stronghold, the enemy has found a way to wreak havoc.{^n}
 We'll deal with it, one challenge at a time.
 You've returned. Is it finished then?
 The beast has been banished, but Ulgrim was pulled into the Void along with it.
-And so our great moment of triumph is soured with tragedy.{^n}{^n}The cult's defeat at the Necropolis marks humanity's first major victory in this conflict, proving that we are not going to simply lie down and let ourselves be wiped out by fiends and spirits. Word of this victory will spread and give people hope that someday this nightmare will truly be over.{^n}{^n}Yet we cannot forget those who sacrificed their lives to bring us here. Brave men and women of the Black Legion who took up arms in the defense of Erulan, a nation that scorned them as criminals, outcasts and even traitors. In death, they were none of those things. They died as heroes.{^n}{^n}But I refuse to count Ulgrim among the dead just yet. I owe him that much.{^n}{^n}Take your leave and rest. Celebrate a bit, if you can. You've certainly earned it.
-We can't give up on Ulgrim.
-At last...a reprieve.
+And so our great moment of triumph is soured with tragedy.{^n}{^n}The cult's defeat at the Necropolis marks humanity's first major victory in this conflict, proving that we are not going to simply lie down and let ourselves be wiped out by fiends and spirits. Word of this victory will spread and give people hope that someday this nightmare will truly be over.{^n}{^n}Yet we cannot forget those who sacrificed their lives to bring us here. Brave men and women of the Black Legion who took up arms in the defense of Erulan, a nation that scorned them as criminals, outcasts and even traitors. In death, they were none of those things. They died as heroes.{^n}{^n}But I refuse to count Ulgrim among the dead just yet. I owe him that much.{^n}{^n}I could use your help. Are you with me?
+What can we do?
+Entering the Void is simple enough, what with the many rifts now open across Cairn, but you could spend an eternity wandering the ashen wastes in search of Ulgrim and come up dry.{^n}{^n}No, we will need some way to locate him; and I have just the ritual in mind.{^n}{^n}Take your leave and rest. Celebrate a bit, if you can. You've certainly earned it.{^n}{^n}I need time to gather the necessary materials.
+You can count on me.
+Don't take too long.
+You're just going to end up killed.
+Sounds like a fool's errand.
+Entering the Void is simple enough, what with the many rifts now open across Cairn, but you could spend an eternity wandering the ashen wastes in search of Ulgrim and come up dry.{^n}{^n}No, we will need some way to locate him; and I have just the ritual in mind.{^n}{^n}Take your leave and rest. Celebrate a bit, if you can. You've certainly earned it.{^n}{^n}I need time to gather the necessary materials.
+You can count on me.
+Don't take too long.
+You're just going to end up killed.
 I've heard about what you've done to Anasteria.{^n}{^n}You brash actions have cost us a valuable resource.
 She was an Aetherial witch!
 Be that as it may, she was helping us.{^n}{^n}Her information has helped us evade deadly attacks from the Aetherials. It took the enemy months to figure out that there was a leak.{^n}{^n}Anasteria saved countless lives, perhaps even the resistance itself. And we repaid her with murder.
@@ -130,9 +138,9 @@ Where is the armory?
 The armory is on the north side of Fort Ikon. Do not tarry!
 I will head there now.
 Not yet.
-Betrayal, sabotage, call it what you will. We've been attacked from within.{^n}{^n}The Aetherials have gotten a hold of the commander.
+Betrayal, sabotage, call it what you will. We've been attacked from within.{^n}{^n}The Aetherials, it seems, have gotten a hold of the commander.
 He's been possessed?
-Precisely. Based on the reports, Commander Lucius has been sending out our men on futile missions, thinning out the fort's defenses. Then, once the watch was sufficiently weak, he opened the gates allowing the Aetherials to pour in.{^n}{^n}He was not counting on human ingenuity however. Weapons Master Edric collapsed the front gates with some explosives, cutting off the enemy's forces. When we arrived with reinforcements from the south, the coward Lucius fled into the armory.Until those gates are cleared, we are stuck here. I need you to enter the armory and recover what's left of the Heavy Explosives; use them to clear the rubble. But beware of Lucius. He has shed his human disguise in favor of a monstrous form which I cannot even begin to describe. You will likely have to deal with him to get to the explosives.
+Precisely. Based on the reports, Commander Lucius has been sending our men out on futile missions, thinning out the fort's defenses. Then, once the watch was sufficiently weak, he opened the gates allowing the Aetherials to pour in.{^n}{^n}He was not counting on human ingenuity however. Weapons Master Edric collapsed the front gates with some explosives, cutting off the enemy's forces. When we arrived with reinforcements from the south, the coward Lucius fled into the armory.Until those gates are cleared, we are stuck here. I need you to enter the armory and recover what's left of the Heavy Explosives; use them to clear the rubble. But beware of Lucius. He has shed his human disguise in favor of a monstrous form which I cannot even begin to describe. You will likely have to deal with him to get to the explosives.
 It will be done.
 It will have to wait.
 I've already dealt with Lucius and cleared the gates.
