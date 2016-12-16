@@ -1735,7 +1735,7 @@ tagNecklaceD003=Avatar of Mercy
 tagNecklaceD003Desc="First of the seven sacred virtues of humanity."
 tagNecklaceD004=Sovereign Ruby of Domination
 tagNecklaceD005=The Peerless Eye of Beronath
-tagNecklaceD005Desc="The embalmbed eye of the great beast, Beronath."
+tagNecklaceD005Desc="The embalmed eye of the great beast, Beronath."
 tagNecklaceD006=Starfury Emerald
 tagNecklaceD007=Essence of the Grim Dawn
 tagNecklaceD007Desc="A physical manifestation of the suffering and death witnessed at the beginning of the Grim Dawn."
@@ -2456,6 +2456,10 @@ tagDLCA05=Kickstarter Veteran's Medal
 tagDLCA05Desc="A veteran's insignia from the great Kickstarter Wars of 2012."
 tagDLCA06=Kickstarter Officer's Medal
 tagDLCA06Desc="An officer's insignia from the great Kickstarter Wars of 2012."
+tagDLCA07=Illusion: Admiral's Hat
+tagDLCA07Desc="Leading the charge, on land and sea."
+tagDLCA08=Illusion: Helm of the Southern General
+tagDLCA08Desc="The helm inspires unwavering loyalty."
 tagDLCConsumableA01=Will'O'Wisp in a Jar
 tagDLCConsumableA01Desc="A harmless spirit, trapped in a jar."
 tagDLCConsumableA01PetSkill01=Wisp Aura
@@ -3470,6 +3474,8 @@ tagBonusAttribPoint={%+d0} Attribute Points
 tagDevotionReset={^E}Use to Reset your Devotion Points
 tagDevotionNoPointsUsed={^r}[No Devotion Points to Reset]
 tagDevotionResetConfirmation=Reset all your Devotion Points?
+
+
 
 #ItemSets
 
