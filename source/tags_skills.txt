@@ -87,7 +87,7 @@ tagClass01SkillName00A=Soldier
 tagClass01SkillDescription00A=Intense physical conditioning necessary to brave the harsh reality of Cairn.
 
 tagClass01SkillName01A=Cadence
-tagClass01SkillDescription01A=The use of weapon forms in combat gives your attacks a natural cadence with peaks and ebbs that, while predictable, are none the less effective and difficult to counter.  ^oWhen used as your default weapon attack, Cadence will magnify the power of every 3rd strike.
+tagClass01SkillDescription01A=The use of weapon forms in combat gives your attacks a natural cadence with peaks and ebbs that, while predictable, are none the less effective and difficult to counter.  ^oWhen used as your default weapon attack, Cadence will magnify the power of every 3rd single weapon strike.
 tagClass01SkillName01B=Fighting Form
 tagClass01SkillDescription01B=The fury of Cadence resonates with the target, causing heavy bleeding and striking additional nearby targets. ^oWith ranged weapons, Cadence has a chance to pierce through enemies.
 tagClass01SkillName01C=Deadly Momentum
@@ -176,6 +176,8 @@ tagClass02SkillName01B=High Impact
 tagClass02SkillDescription01B=An improved design on the standard Grenado causes it to explode with intense heat and dangerously sharp shrapnel.
 tagClass02SkillName01C=Skyfire Grenado
 tagClass02SkillDescription01C=When just exploding an enemy is not enough, this alchemical alteration to Grenado's chemistry unleashes a maelstrom of electricity upon detonation.
+tagClass02SkillName01D=Shattering Blast
+tagClass02SkillDescription01D=The intense blastwave created by the Grenado explosion ripples through your foes, inflicting grievous internal harm.
 
 tagClass02SkillName02A=Flashbang
 tagClass02SkillDescription02A=A blinding light temporarily confuses enemies and disrupts their ability to defend themselves.
@@ -185,7 +187,7 @@ tagClass02SkillDescription02B=After-images burnt into enemy's retina reduce thei
 tagClass02SkillName03A=Fire Strike
 tagClass02SkillDescription03A=A deadly alchemical technique causes martial attacks to combust the air around the enemy. ^oWhen used as your default weapon attack, Fire Strike inflicts additional damage.
 tagClass02SkillName03B=Explosive Strike
-tagClass02SkillDescription03B=Increases the potency of Fire Strike with a chance to inflict increased fire damage. ^oWith ranged attacks, it also explodes, causing damage to nearby enemies.
+tagClass02SkillDescription03B=Increases the potency of Fire Strike with an explosive charge that inflicts additional harm upon nearby foes.
 tagClass02SkillName03C=Static Strike
 tagClass02SkillDescription03C=Further alchemical alterations cause Fire Strike to electrocute the target with a chance of knocking them off their feet.
 tagClass02SkillName03D=Brimstone
@@ -1322,7 +1324,7 @@ tagItemSkillC130Name=Unholy Covenant
 tagItemSkillC130Desc=Forge an unholy covenant with your minions, empowering your connections to the dark forces of the void. ^oThis ability must be toggled to maintain its effect.
 
 tagItemSkillC131Name=Lightning Spike
-tagItemSkillC131Desc=An spike of electric energy erupts towards your assailant.
+tagItemSkillC131Desc=A spike of electric energy erupts towards your assailant.
 
 tagItemSkillC132Name=Fire Spread
 tagItemSkillC132Desc=Fires an exploding round that shatters on impact in a large burst of flame. ^oActivates off of default weapon attacks.
@@ -1345,6 +1347,8 @@ tagItemSkillC137Desc=Unleash a force of fire and ice magic that spirals outward 
 tagItemSkillC138Name=Oathbreaker
 tagItemSkillC138Desc=The Oathbreaker fires an explosive round teeming with dark powers. ^oActivates off of default weapon attacks.
 
+tagItemSkillC139Name=Corrupting Touch of Aldritch
+tagItemSkillC139Desc=The corrupting energies of the Aldritch's scepter lash out at your foes.
 
 tagItemSkillM005Name=Berserk
 tagItemSkillM005Desc=Enter a berserker state of mind, lashing out with increased ferocity at the cost of survivability.
@@ -1783,7 +1787,7 @@ tagItemSkillD150Name=Plague of Corruption
 tagItemSkillD150Desc=Unleash one of the seven plagues of Dreeg, a powerful contagion that causes bewilderment and spreads rapidly.
 
 tagItemSkillD151Name=Plague of Dreeg
-tagItemSkillD151Desc=Unleash the crowning achievement of the witch god, a virulent disease that will leave your foes in shambles.
+tagItemSkillD151Desc=Unleash the crowning achievement of the witch god, the 9th plague, a virulent disease that will leave your foes in shambles.
 
 tagItemSkillD152Name=Plague of Fatigue
 tagItemSkillD152Desc=Unleash one of the seven plagues of Dreeg, a powerful contagion that causes fatigue and spreads rapidly.
@@ -2468,6 +2472,8 @@ tagQuestSkill_A01=Kymon's Blessing
 tagQuestSkill_A01Desc=Your weapons are blessed with the sacred flame of Empyrion.
 tagQuestSkill_A02=Death's Vigil Enchantment
 tagQuestSkill_A02Desc=Your weapons are enchanted by the Order.
+tagQuestSkill_A03=Anasteria's Mark
+tagQuestSkill_A03Desc=You are marked by the Outcast.
 
 
 #SkillsGeneral
@@ -2859,6 +2865,9 @@ tagEnemySkillA11_Desc=The Obsidian Defiler has trapped you within a cage of obsi
 tagEnemySkillA12=Obsidian Trap
 tagEnemySkillA12_Desc=Benn'Jahr has trapped you within a cage of obsidian, crushing you with the power of chaos.
 
+tagEnemySkillA13=Mark of Aetherfire
+tagEnemySkillA13_Desc=Aetherfire singes your soul, exposing you to the elements and the Aether itself.
+
 tagEnemySkillD01=Entropic Void
 tagEnemySkillD01_Desc=The void pulls you apart slowly with chaotic energy.
 
@@ -2870,5 +2879,8 @@ tagEnemySkillD03_Desc=A vile spirit haunts you and saps your vitality and regene
 
 tagEnemySkillD04=Eldritch Aura
 tagEnemySkillD04_Desc=Raw eldritch energies surround this crystal, empowering eldritch beings and harming natural life.
+
+tagEnemySkillD05=Scepter of Aldritch
+tagEnemySkillD05_Desc=The Scepter of Aldritch emits arcs of energy that shock nearby foes.
 
 
