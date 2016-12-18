@@ -214,15 +214,3 @@ ach067Desc=Complete the Game.
 
 ach068Title=Champion of Cairn
 ach068Desc=Complete the Game on Elite Difficulty.
-
-ach069Title=The Flames of Valbury
-ach069Desc=Survive the Flames of Valbury.
-
-ach070Title=The Overlord Vanquished
-ach070Desc=Slay Overlord Van Aldritch in Port Valbury.
-
-ach071Title=Port Valbury Avenged
-ach071Desc=Slay Overlord Van Aldritch in Port Valbury on Ultimate Difficulty.
-
-ach072Title=Immortal Vanquisher of Valbury
-ach072Desc=Slay Overlord Van Aldritch in Port Valbury in Hardcore Mode.

@@ -62,16 +62,10 @@ tagLeaderboardHeader01=Character
 tagLeaderboardHeader02=Score
 
 tagRDifficultyTitle01=Normal
-tagRDifficultyTitle01Desc=The standard level of difficulty.
 tagRDifficultyTitle02=Elite
-tagRDifficultyTitle02Desc=Elite provides a higher level of challenge for characters that have completed Normal / Veteran.
 tagRDifficultyTitle03=Ultimate
-tagRDifficultyTitle03Desc=Ultimate is the greatest test of your abilities and character build; available after completing Elite.
 tagChallengeDifficulty=Veteran
-tagChallengeDifficultyDesc=Veteran increases the challenge of Normal Difficulty for experienced ARPG players.
-tagChallengeDifficultyDescNA=Veteran Difficulty is not available for this game mode.
 tagHardcore=Hardcore
-tagHardcoreDesc=Death is permanent!
 tagRDifficultyDesc01=Complete this difficulty mode to unlock harder difficulty modes.
 tagRDifficultyDesc02=The game must be completed in Normal difficulty to play Veteran difficulty.
 tagRDifficultyDesc03=The game must be completed in Veteran difficulty to play Elite difficulty.
