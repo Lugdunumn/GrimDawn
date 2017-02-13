@@ -567,6 +567,8 @@ tagCharStatsDAHit=Chance to be Hit:
 tagCharStatsDACrit=Chance to be Crit:
 tagCharStatsDADescription=A higher Defensive Ability (DA) allows you to avoid enemy hits more often, decreases the chance of suffering a critical hit and reduces the damage taken when you are critically hit. Defensive Ability is affected by skills, items, and Physique.
 
+tagOverCapResist={%s0} {^b}{%.0f1}% {^s}(+{%.0f2}% Over Maximum) 
+
 tagRollFormat01={%s0} {^b}{%d1}
 tagRollFormat02={%s0} {^s}{%d1} {^b}+ {%d2}
 tagRollFormat03={%s0}     {%+.0f1}%
@@ -586,6 +588,7 @@ tagRollFormat16={%s0} {^s}{%.2f1} {^b}- {%.2f2}
 tagRollFormat17={%s0} {^b}{%.1f1}% + {%.2f2}
 tagRollFormat18={^b}{%.0f0} - {%.0f1}
 tagRollFormat19={^b}{%.0f0}
+tagRollFormat20={%s0} {^b}{%d1}%
 tagFormatPercent={%.0f}%
 tagFormatPlusPercent=+ {%.0f}%
 tagFormatMinusPercent=- {%.0f}%
@@ -658,7 +661,11 @@ tagItemInsufficientStatus={^r}Insufficient Faction Status
 
 #Char Stats Tab 2
 
+tagCharStatsMaximumSpeed=Maximum Speed
+
 #Character
+tagCharStatsAttacksPerSecond=Attacks per Second
+tagCharStatsAttacksPerSecondInfoo=The attacks per second with your weapon, including bonuses.
 tagCharStatsRunSpeed=Run Speed
 tagCharStatsRunSpeedInfo=The speed at which your character can run relative to the baseline (Includes Total Speed).
 tagCharStatsCritDmg=Critical Damage
@@ -692,7 +699,7 @@ tagCharStatsShamanSkillsBonusInfo=Bonus to all learned skills in the Shaman Mast
 
 #Physical
 tagCharStatsAttackSpeed=Attack Speed
-tagCharStatsAttackSpeedDescription=Your weapon attack speed relative to the baseline (Includes Total Speed).
+tagCharStatsAttackSpeedDescription=Your weapon attack speed relative to the baseline (Includes Total Speed). Slower weapons gain less from % Attack Speed bonuses.
 tagCharStatsAvgDmg=Weapon Damage
 tagCharStatsAvgDmgDescription=The damage done per hit with your weapon attacks, including bonuses.
 
@@ -1423,6 +1430,9 @@ tagAttackSpeedAverage=Speed:  Average
 tagAttackSpeedFast=Speed:  Fast
 tagAttackSpeedVeryFast=Speed:  Very Fast
 
+tagAttackSpeed={^W}{%.2f0} {^S}Attacks per Second
+tagAttackSpeedR={^W}{%.2f0} - {%.2f1} {^S}Attacks per Second
+
 tagCharOffensiveAbility={%+.0f0} {^E}Offensive Ability
 tagCharDefensiveAbility={%+.0f0} {^E}Defensive Ability
 tagCharOffensiveAbilityModifier={%+.0f0}% {^E}Offensive Ability
@@ -1552,6 +1562,7 @@ SkillChanceWeight={%d0}% {^E}Chance to be Used
 SkillActivationChance={^E}Chance of Activating
 SkillDamageAbsorption={%.0f0} {^E}Damage Absorption
 SkillDamageAbsorptionPercent={%.0f0}% {^E}Damage Absorption
+SkillPetBurstSpawn={^E}Summons {^H}{%d0}
 SkillPetLimit={%d0} {^E}Summon Limit
 SkillPetLimitMod=+{%d0} {^E}Summon Limit
 SkillLifeBonus={%+.1f0} {^E}Health Restored

@@ -19,6 +19,7 @@ tagLoadingTip17={^g}Tip: {^w}Components used on weapons grant an activated skill
 tagLoadingTip18={^g}Tip: {^w}Relics are special items that can only be created by a skilled Blacksmith.
 tagLoadingTip19={^g}Tip: {^w}Many Components can only be crafted. Learn new Blueprints by gaining favor with Cairn's Factions.
 tagLoadingTip20={^g}Tip: {^w}You have better chance of finding great loot on higher difficulties, but the challenge is also greater.
+tagLoadingTip21={^g}Tip: {^w}You can rotate the camera at any time by holding down the middle mouse button. Or you can set keyboard bindings.
 
 #Tutorial Pages
 

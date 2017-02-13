@@ -153,6 +153,8 @@ tagClass01SkillDescription14A=Call out to the war deity, Oleron. Oleron is an an
 
 tagClass01SkillName15A=Overguard
 tagClass01SkillDescription15A=Assume a defensive stance that greatly boosts your combat awareness. You can only maintain this focus for a short duration. ^oRequires a shield.
+tagClass01SkillName15B=Markovian's Defense
+tagClass01SkillDescription15B=Markovian became a legend on the battlefield for his tactical knowledge, but it was his mastery of the shield is what allowed him to endure countless conflicts and emerge the victor. With enough focus and training, Markovian was capable of maintaining a defensive stance nearly indefinitely at the cost of his offensive, opting to wear out his opponents before striking the killing blow.
 
 tagClass01SkillName16=Scars of Battle
 tagClass01SkillDescription16=Through countless violent encounters, you have seen the worst that battle has to offer. The horrors of war no longer hinder your actions, and neither does a little spilled blood.
@@ -161,7 +163,7 @@ tagClass01SkillName17=Counter Strike
 tagClass01SkillDescription17=Enter a state of intense readiness in order to unleash lightning-fast counter strikes against your attackers. ^oThis ability must be toggled to maintain its effect.
 
 tagClass01SkillName18=Shield Training
-tagClass01SkillDescription18=Extensive study of shield combat techniques provides improved handling and expert maneuverability; ensuring that your shield is never a hindrance, even when on the offensive. ^oRequires a shield.
+tagClass01SkillDescription18=Extensive study of shield combat techniques provides improved handling and expert maneuverability; ensuring that your shield is never a hindrance. ^oRequires a shield.
 
 
 
@@ -923,6 +925,12 @@ tagItemSkillB043Desc=A soothing calm washes over you, amplifying your body's abi
 
 tagItemSkillB044Name=Poison Bolt
 tagItemSkillB044Desc=Launches a bolt of toxins at your enemies.
+
+tagItemSkillB045Name=Fireball Nova
+tagItemSkillB045Desc=A burst of flaming orbs erupts from you.
+
+tagItemSkillB046Name=Acid Spine Nova
+tagItemSkillB046Desc=A burst of acidic spines erupts from you.
 
 tagItemSkillC002Name=Lightning Orb
 tagItemSkillC002Desc=Retaliates with an orb of lightning launched in the attacker's direction, damaging and stunning all in its path.
@@ -1699,7 +1707,7 @@ tagItemSkillD120Desc=Iskandra's preferred to master all forms of magic. This mas
 tagItemSkillD121Name=Iskandra's Prism
 tagItemSkillD121Desc=Upon entering combat, Iskandra would turn her weapon into a conduit. ^oRequires a melee weapon.
 
-tagItemSkillD122Name=Lifedrinker
+tagItemSkillD122Name=Lifetaker
 tagItemSkillD122Desc=Drink in the life essence of nearby foes in a deadly display of martial combat. ^oRequires a melee weapon.
 
 tagItemSkillD123Name=Wave of Souls
@@ -2092,6 +2100,17 @@ tagItemSkillD250Desc=Rip through nearby foes in a bloody display.
 tagItemSkillD251Name=Black Mark
 tagItemSkillD251Desc=The mark of the Pale One fills your foes with excruciating pain.
 
+tagItemSkillD252Name=Dread Strike
+tagItemSkillD252Desc=Disappear into the veil of the dead and re-emerge next to your intended target in an instant.
+
+tagItemSkillD253Name=Dreadfire
+tagItemSkillD253Desc=A ring of spectral flame expands around you, crippling your foes.
+
+tagItemSkillD254Name=Shar'Zul's Wrath
+tagItemSkillD254Desc=Flames erupt from the earth all around you, leaving nothing but ashes and misery.
+
+tagItemSkillD255Name=Dread Ice
+tagItemSkillD255Desc=Release a burst of frozen razor sharp spines.
 
 tagItemSkillFailName=Failchantment
 tagItemSkillFailDesc=Fail a little harder.
@@ -2108,13 +2127,13 @@ tagCompSkillA002Desc=Unleash a blast of pure aether energy at your target.
 tagCompSkillA003Name=Banish
 tagCompSkillA003Desc=Strike with your weapon, devastating to Aetherial beings.
 
-tagCompSkillA004Name=Piercing Aura
-tagCompSkillA004Desc=Empower your attacks and those of your nearby allies to pierce through armor. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA004Name=Impaling Weapons
+tagCompSkillA004Desc=Empower your attacks to pierce through armor. ^oThis ability must be toggled to maintain its effect.
 
 tagCompSkillA005Name=Blade Ward
 tagCompSkillA005Desc=Empower your armor against piercing attacks, retaliating against your attackers in kind.
 
-tagCompSkillA006Name=Blade Barrier
+tagCompSkillA006Name=Blade Barricade
 tagCompSkillA006Desc=Imbue your armor against piercing attacks, retaliating against your attackers in kind.
 
 tagCompSkillA007Name=Blooddrinker
@@ -2126,8 +2145,8 @@ tagCompSkillA008Desc=Empower your attacks with vampiric energy.
 tagCompSkillA009Name=Chaos Bolt
 tagCompSkillA009Desc=Unleash a bolt of chaotic energies at the target.
 
-tagCompSkillA010Name=Chill Aura
-tagCompSkillA010Desc=Empower your attacks and those of your nearby allies with a deathly chill. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA010Name=Chilling Weapons
+tagCompSkillA010Desc=Empower your attacks with a deathly chill. ^oThis ability must be toggled to maintain its effect.
 
 tagCompSkillA011Name=Behead
 tagCompSkillA011Desc=Attempt to behead your foe with a deadly blow capable of causing intense bleeding.
@@ -2135,8 +2154,8 @@ tagCompSkillA011Desc=Attempt to behead your foe with a deadly blow capable of ca
 tagCompSkillA012Name=Decapitate
 tagCompSkillA012Desc=Attempt to decapitate your foe with a deadly blow capable of causing intense bleeding.
 
-tagCompSkillA013Name=Fire Aura
-tagCompSkillA013Desc=Empower your attacks and those of your nearby allies with a blazing flame. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA013Name=Burning Weapons
+tagCompSkillA013Desc=Empower your attacks with a blazing flame. ^oThis ability must be toggled to maintain its effect.
 
 tagCompSkillA014Name=Fireblast
 tagCompSkillA014Desc=Launch a ball of incinerating flame at your target.
@@ -2150,8 +2169,8 @@ tagCompSkillA016Desc=Launch a spike of rock solid ice to impale your enemies.
 tagCompSkillA017Name=Greater Ice Spike
 tagCompSkillA017Desc=Launch a spike of rock solid ice to impale your enemies.
 
-tagCompSkillA018Name=Lightning Aura
-tagCompSkillA018Desc=Empower your attacks and those of your nearby allies with the power of lightning. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA018Name=Electrifying Weapons
+tagCompSkillA018Desc=Empower your attacks with the power of lightning. ^oThis ability must be toggled to maintain its effect.
 
 tagCompSkillA019Name=Lightning Strike
 tagCompSkillA019Desc=Strike at your enemies with the force of a lightning bolt.
@@ -2159,8 +2178,8 @@ tagCompSkillA019Desc=Strike at your enemies with the force of a lightning bolt.
 tagCompSkillA020Name=Empowered Lightning Strike
 tagCompSkillA020Desc=Strike at your enemies with the force of a lightning bolt.
 
-tagCompSkillA021Name=Poison Aura
-tagCompSkillA021Desc=Empower your attacks and those of your nearby allies with a foul poison. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA021Name=Envenomed Weapons
+tagCompSkillA021Desc=Empower your attacks with a foul poison. ^oThis ability must be toggled to maintain its effect.
 
 tagCompSkillA022Name=Poison Bomb
 tagCompSkillA022Desc=Launch a foul bomb which explodes at the target point, coating your enemies with toxins.
@@ -2189,11 +2208,11 @@ tagCompSkillA029Desc=Slam your enemy with an overpowering blow.
 tagCompSkillA030Name=Brutal Slam
 tagCompSkillA030Desc=Slam your enemy with an overpowering blow.
 
-tagCompSkillA031Name=Empowered Piercing Aura
-tagCompSkillA031Desc=Empower your attacks and those of your nearby allies to pierce through armor. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA031Name=Empowered Impaling Weapons
+tagCompSkillA031Desc=Empower your attacks to pierce through armor. ^oThis ability must be toggled to maintain its effect.
 
-tagCompSkillA032Name=Aether Aura
-tagCompSkillA032Desc=Empower your attacks and those of your nearby allies with the aether itself. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA032Name=Aether Weapons
+tagCompSkillA032Desc=Empower your attacks with the aether itself. ^oThis ability must be toggled to maintain its effect.
 
 tagCompSkillA033Name=Chaos Strike
 tagCompSkillA033Desc=Leap through the void to strike at your enemies with the destructive power of the chaos. ^oRequires a melee weapon.
@@ -2201,11 +2220,11 @@ tagCompSkillA033Desc=Leap through the void to strike at your enemies with the de
 tagCompSkillA034Name=Brutal Shield Slam
 tagCompSkillA034Desc=Slam your enemy with your spiked shield, disabling lesser foes completely. ^oRequires a melee weapon.
 
-tagCompSkillA035Name=Aether-Ward Aura
-tagCompSkillA035Desc=Shield yourself and your allies from the corrupting power of the Aether. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA035Name=Aether-Ward
+tagCompSkillA035Desc=Shield yourself from the corrupting power of the Aether. ^oThis ability must be toggled to maintain its effect.
 
-tagCompSkillA036Name=Void-Ward Aura
-tagCompSkillA036Desc=Shield yourself and your allies from the chaotic Void. ^oThis ability must be toggled to maintain its effect.
+tagCompSkillA036Name=Void-Ward
+tagCompSkillA036Desc=Shield yourself from the chaotic Void. ^oThis ability must be toggled to maintain its effect.
 
 tagCompSkillA037Name=Lightning Nova
 tagCompSkillA037Desc=Unleashes a blast of lightning energy, damaging all nearby enemies.
@@ -2334,7 +2353,7 @@ tagRelicSkillD003Name=Summon Nemesis
 tagRelicSkillD003Desc=Call forth Nemesis, demigod of the shadows and lord of the night hunt. ^oYou can only summon one manifestation of Nemesis at any one time. Nemesis scales with player damage bonuses.
 
 tagRelicSkillD004Name=Citadel
-tagRelicSkillD004Desc=Empower your defenses and those of your allies to become a moving fortress. This ability must be toggled to maintain its effect.
+tagRelicSkillD004Desc=Empower your defenses and those of your allies to become a moving fortress. ^oThis ability must be toggled to maintain its effect.
 
 tagRelicSkillD005Name=Stormcaller Aura
 tagRelicSkillD005Desc=Empower yourself and your allies with the power of a lightning storm. ^oThis ability must be toggled to maintain its effect.
@@ -2733,7 +2752,7 @@ tagDevotionEffectB09Desc=Mark the ground with an arcane sigil that erupts upon c
 tagDevotionEffectB09_Pet01=Arcane Mark
 tagDevotionEffectB09_Pet01Desc=Marked by an Arcane Bomb.
 tagDevotionEffectB10=Raise the Dead
-tagDevotionEffectB10Desc=Raise the dead to serve you. The necrotic energies required for this ritual are very unstable however, and the undead minions will only exist for a limited time. ^oThe dead scale with Pet Bonuses.
+tagDevotionEffectB10Desc=Raise the dead to serve you. The necrotic energies required for this ritual are very unstable however, and the undead minions will only exist for a limited time. ^oThe dead scale with player damage bonuses.
 tagDevotionEffectB10_Pet01=Melee Attack
 tagDevotionEffectB11=Eldritch Fire
 tagDevotionEffectB11Desc=Eldritch flames erupt from your blows and spread wildly among your foes.

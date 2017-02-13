@@ -443,6 +443,10 @@ tagWeaponMelee2hD008=Temporal Arcblade
 tagWeaponMelee2hD009=Wildblood Crusher
 tagWeaponMelee2hD010=Ultos' Stormseeker
 tagWeaponMelee2hD011=Leviathan
+tagWeaponMelee2hD012=Soulrend
+tagWeaponMelee2hD012_Desc="The right hand of Alkamos, the devourer of souls and tormentor of the wicked."
+tagWeaponMelee2hD013=Shar'Zul's Worldeater
+tagWeaponMelee2hD013_Desc="The weapon has spilled oceans of blood for Ch'thon, and it yearns for more."
 
 tagWeaponMelee2hF001=Legion Warblade
 tagWeaponMelee2hF002=Solar Sledge
@@ -893,15 +897,17 @@ tagDestroySoulbound=Destroy soulbound item?
 tagUntradeable=Untradeable
 tagDestroyUntradeable=Destroy untradeable item?
 
-tagTransmuted=Transmogrified
+tagTransmuted=Illusion: 
 tagTransmuteCapture=[Right-Click to Infuse]
 tagTransmuteApply=[Right-Click to Apply]
+tagTransmuteApplyRemove=[Right-Click to Remove Illusion]
 tagTransmuteUnusable=[Cannot Use - Requirements Not Met]
-tagTransmuteConfirmation=Are you sure you want to apply this Transmogrification?
-tagTransmuteOverwrite=Are you sure you want to replace the existing Transmogrification?
-tagTransmuteSoulboundConfirmation=Are you sure you want to apply this Transmogrification? Doing so will make the item soulbound.
-tagTransmuteSoulboundOverwrite=Are you sure you want to replace the existing Transmogrification? Doing so will make the item soulbound.
-tagTransmuteDestroy=Are you sure you want to infuse this Transmogrification? Doing so will destroy the item.
+tagTransmuteConfirmation=Are you sure you want to apply this Illusion?
+tagTransmuteOverwrite=Are you sure you want to replace the existing Illusion?
+tagTransmuteSoulboundConfirmation=Are you sure you want to apply this Illusion? Doing so will make the item soulbound.
+tagTransmuteSoulboundOverwrite=Are you sure you want to replace the existing Illusion? Doing so will make the item soulbound.
+tagTransmuteDestroy=Are you sure you want to infuse this Illusion? Doing so will destroy the item.
+tagTransmuteRemove=Are you sure you want to remove this Illusion?
 
 #ArmorHead
 
@@ -1637,6 +1643,9 @@ tagRingD011=Open Hand of Mercy
 tagRingD012=Closed Fist of Vengeance
 tagRingD013=Invoker's Burning Hand
 tagRingD014=Invoker's Shocking Touch
+tagRingD015=Alkamos' Touch of Dread
+tagRingD016=Alkamos' Touch of Anguish
+
 
 tagRingF001=Devil's War Seal
 tagRingF002=Devil's Wrath Seal
@@ -2444,6 +2453,8 @@ tagConsumable_DevotionReset=Tonic of Clarity
 tagConsumable_DevotionReset_Desc="Clears the mind and primes it for a new spiritual journey."
 
 #DLC
+tagDLCIllusionRemoval=Illusion-Be-Gone
+tagDLCIllusionRemovalDesc="Filled with 100% authentic Illusion Purging powder."
 tagDLCA01=Illusion: Powdered Wig
 tagDLCA01Desc="The definition of sophistication and style."
 tagDLCA02=Illusion: Swashbuckler's Coat
@@ -3540,6 +3551,7 @@ tagItemSetC017Name=Dawnguard
 tagItemSetC017Desc="Armor worn only by the most zealous defenders of the holy faith of Menhir."
 
 tagItemSetC018Name=Wrath of Alkamos
+tagItemSetC018NameB=Rage of Alkamos
 tagItemSetC018Desc="Sigils of Alkamos, Lord Executioner of Arkovia."
 
 tagItemSetC019Name=Miasma
@@ -3655,6 +3667,9 @@ tagItemSetD025Desc="Forged by battle, this armor had seen more conflict than any
 
 tagItemSetD026Name=Bloodrager's Frenzy
 tagItemSetD026Desc="Armor of the Bloodragers, a savage clan from the frozen wastelands of the north."
+
+tagItemSetD027Name=Sigils of the Executioner
+tagItemSetD027Desc="The Arkovian executioner Alkamos inspired dread with his mere presence, a portent of anguish soon to come."
 
 #Prefixes
 
