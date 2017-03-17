@@ -1299,6 +1299,7 @@ tagGameOver=You are dead!
 SimpleStringFormat={%s0}
 SimpleStringsFormat={%s0}{%s1}
 TripleStringFormat={%s0}{%s1}{%s2}
+TripleStringFormat2={%s0} {%s1}{%s2}
 QuadStringFormat={%s0}{%s1}{%s2}{%s3}
 SkillBaseNamesFormat={    %s0}
 CostFormat=Cost: {%d0}
@@ -2032,7 +2033,7 @@ tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}Chance of affecting up to {^H}{%d
 tagSparkMaxNumberChance={^H}{%.0f0}% {^E}Chance of affecting up to {^H}{%d1} {^E}targets
 tagSparkMaxNumberSingle={^E}Affects up to {^H}{%d0} {^E}target
 tagSparkMaxNumber={^E}Affects up to {^H}{%d0} {^E}targets
-tagSparkMaxNumberMod=Affects up to {^H}{%d0} {^E}targets
+tagSparkMaxNumberMod={^E}Affects up to {^H}+{%d0} {^E}targets
 
 tagItemGrantSkill=Grants Skill:
 tagItemSkill= (Granted by Item)

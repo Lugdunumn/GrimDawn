@@ -3327,7 +3327,7 @@ tagCompB013Name=^kHaunted Steel
 tagCompB013Desc="It fills your mind with the maddening whispers of trapped spirits."^w^n(Used in all weapons, shields and caster off-hands)
 
 tagCompB014Name=^kShard of Beronath
-tagCompB014Desc="But a piece of the legendary spear that felled Beronath, yet still retains great power."^w^n(Used in melee weapons)
+tagCompB014Desc="But a piece of the legendary spear that felled Beronath, yet still retains great power."^w^n(Used in all weapons, shields and caster off-hands)
 
 tagCompB015Name=^kBloody Whetstone
 tagCompB015Desc="Soaked in the blood of the fallen, this accursed whetstone gives blades a hunger for blood."^w^n(Used in axes and swords)

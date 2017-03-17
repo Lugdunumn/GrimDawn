@@ -1999,7 +1999,7 @@ tagItemSkillD218Name=Volcanic Wyrm's Breath
 tagItemSkillD218Desc=Release the breath of the great volcanic wyrm upon your foes.
 
 tagItemSkillD219Name=Wyrmscale
-tagItemSkillD219Desc=The wyrmscale shields you from fire and electrocution when struck by those forces.
+tagItemSkillD219Desc=The wyrmscale shields you from harm.
 
 tagItemSkillD220Name=Zolhan's Revenge
 tagItemSkillD220Desc=Zolhan was an expert in keeping his enemies off balance. Just when they would think they had the advantage, he would strike back with a devastating blow from his shield.
@@ -2768,7 +2768,7 @@ tagDevotionEffectB15=Blizzard
 tagDevotionEffectB15Desc=Shards of razor-sharp ice rain down from the sky upon your foes.
 tagDevotionEffectB16=Fetid Pool
 tagDevotionEffectB16Desc=A festering pool erupts beneath your enemies, corrupting the ground.
-tagDevotionEffectB17=Elemental Barrier
+tagDevotionEffectB17=Arcane Barrier
 tagDevotionEffectB17Desc=A barrier to the forces of magic forms around you.
 tagDevotionEffectB18=Acid Spray
 tagDevotionEffectB18Desc=The manticore's sting pierces through your target, creating a spray of caustic acid behind them.
@@ -2812,7 +2812,7 @@ tagDevotionEffectC12_Pet02=Detonate
 tagDevotionEffectC13=Whirlpool
 tagDevotionEffectC13Desc=The stirring depths are unleashed as a hungering whirlpool appears to devastate your foes.
 tagDevotionEffectC14=Living Shadow
-tagDevotionEffectC14Desc=A manifestation of a nameless hero rises to fight alongside you. ^oLiving Shadows scale with player damage bonuses.
+tagDevotionEffectC14Desc=A manifestation of a nameless hero rises to fight alongside you and restore your vitality with every blow. ^oLiving Shadows scale with player damage bonuses.
 tagDevotionEffectC14_Pet01=Shadow Strike
 tagDevotionEffectC14_Pet02=Shadow Blades
 
@@ -2858,7 +2858,7 @@ tagEnemySkillA03=Spectral Miasma
 tagEnemySkillA03_Desc=The Chthonic curse saps all of your defenses.
 
 tagEnemySkillA04=Mark of Pain
-tagEnemySkillA04_Desc=The Fiend's mark saps your strength.
+tagEnemySkillA04_Desc=The Fiend's mark saps your strength, reducing Damage, Speed and severely dampening Health Regeneration.
 
 tagEnemySkillA05=Nature's Fury
 tagEnemySkillA05_Desc=The Troll curse slows your mind and body, and exposes you to the elements.
@@ -2867,7 +2867,7 @@ tagEnemySkillA06=Blood Siphon
 tagEnemySkillA06_Desc=The Trog curse drains your vitality and transfers it to the caster.
 
 tagEnemySkillA07=Blood Plague
-tagEnemySkillA07_Desc=The Ghoul curse boils your blood and damage your Defensive Ability.
+tagEnemySkillA07_Desc=The Ghoul curse boils your blood and damages your Defensive Ability.
 
 tagEnemySkillA08=Torment
 tagEnemySkillA08_Desc=The undead curse cause intense pain in your bones, slowing you and weakening physical attacks.
