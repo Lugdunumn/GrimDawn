@@ -76,7 +76,7 @@ Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-The Legion requests assistance with a Dermapteran threat.{^n}{^n}A Vizier in the Dermapteran hive within the Rotting Cropland has become tainted with the Aether. If the Aetherials take this to their advantage, they could soon have an entire hive at their command. This tainted vizier must be exterminated at once.{^n}{^n}Any assistance will be compensated with iron bits.
+The Legion requests assistance with a Dermapteran threat.{^n}{^n}A Vizier in the Dermapteran hive within the Rotting Croplands has become tainted with the Aether. If the Aetherials take this to their advantage, they could soon have an entire hive at their command. This tainted vizier must be exterminated at once.{^n}{^n}Any assistance will be compensated with iron bits.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
@@ -96,7 +96,7 @@ Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-The Legion requests assistance with a monster hunt.{^n}{^n}A cavern crawler known as Sicrix has evaded the Legion hunters, but they have tracked it down into the highly dangerous Mountain Deeps. Additional reinforcements are requested to taken down the critter.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
+The Legion requests assistance with a monster hunt.{^n}{^n}A cavern crawler known as Sicrix has evaded the Legion hunters, but they have tracked it down into the highly dangerous Mountain Deeps. Additional reinforcements are requested to take down the critter.{^n}{^n}Any assistance will be compensated with materials from the Legion stores.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
@@ -116,7 +116,7 @@ Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Aetherials draw power from their various crystal formations. The Legion requires a specimen of such a formation if we are to counter this enemy resources.{^n}{^n}Delivery of an Aether Shard will be compensated with materials from the Legion stores.
+The Legion requests assistance with gathering enemy intelligence.{^n}{^n}The Aetherials draw power from their various crystal formations. The Legion requires a specimen of such a formation if we are to counter this enemy resource.{^n}{^n}Delivery of an Aether Shard will be compensated with materials from the Legion stores.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.

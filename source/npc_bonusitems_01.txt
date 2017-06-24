@@ -20,16 +20,6 @@ Oh this?{^n}{^n}*Kory holds up a jar filled with a swirling blue light*{^n}{^n}T
 (Receive Item: Will'O'Wisp in a Jar)
 Oh this?{^n}{^n}*Kory holds up a jar filled with a swirling blue light*{^n}{^n}That, my friend, is a Will'O'Wisp. But you have your own already.
 True, I already have the wisp.
-Say, what is that fine hat?
-Why, it's just the perfect hat for you!
-(Receive Illusion: Admiral's Hat)
-Why, it's just the perfect hat for you!
-True, I already have one for good reason.
-That helm looks expensive.
-It was once worn by a great general.{^n}{^n}But I'm sure you'd take good care of it.
-(Receive Illusion: Helm of the Southern General)
-It was once worn by a great general.{^n}{^n}But I'm sure you take good care of it.
-True, I already have this helm.
 Got any War Medals?
 I dare say I am quite the war veteran.{^n}{^n}Which one interests you?
 How about that golden one?
@@ -52,6 +42,28 @@ Ah, an officer from the great Kickstarter Wars of 2012?{^n}{^n}Here, you've earn
 (Receive Item: Kickstarter Officer's Medal)
 Ah, an officer from the great Kickstarter Wars of 2012?{^n}{^n}*Kory Salutes*{^n}{^n}You've certainly earned that medal.
 (Salute back)
+What fine headwear!
+Yes, friend, I have quite a selection.{^n}{^n}Which one do you like the most?
+Say, what is that fine hat?
+Why, it's just the perfect hat for you!
+(Receive Illusion: Admiral's Hat)
+Why, it's just the perfect hat for you!
+True, I already have one for good reason.
+That helm looks expensive.
+It was once worn by a great general.{^n}{^n}But I'm sure you'd take good care of it.
+(Receive Illusion: Helm of the Southern General)
+It was once worn by a great general.{^n}{^n}But I'm sure you take good care of it.
+True, I already have this helm.
+That one looks ferocious.
+Ah, yes. It belonged to my grandmother.{^n}{^n}Gods rest her soul.{^n}{^n}Take good care of it.
+(Receive Illusion: Pillager's Dread Helm.)
+Ah, yes. It belonged to my grandmother.{^n}{^n}Gods rest her soul.{^n}{^n}I presume you took good care of it.
+True, I already have this helm.
+That helm looks inspiring.
+Don't see many like this one around these parts. It belonged to a very skilled warrior.{^n}{^n}I hope you'll earn the right to wear it.
+(Receive Illusion: Helm of the Venerable Warrior)
+Don't see many like this one around these parts. It belonged to a very skilled warrior.{^n}{^n}I hope you've earned the right to wear it.
+True, I already have this helm.
 I'm tired of these Illusions.
 Say no more. I have just the product for you.
 (Receive Item: Illusion-Be-Gone)

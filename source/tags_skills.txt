@@ -98,7 +98,7 @@ tagClass01SkillDescription01D=The discord of a wrathful soul flows into the Sold
 tagClass01SkillName02A=Forcewave
 tagClass01SkillDescription02A=Such force is channeled into the attack that it compresses the very air, projecting out a wave of energy that stuns and damages foes. ^oThis attack requires a shield or two-handed melee weapon.
 tagClass01SkillName02B=Rending Force
-tagClass01SkillDescription02B=Forcewave shatters enemy armor, making them more susceptible to physical attacks.
+tagClass01SkillDescription02B=Forcewave shatters through enemy defenses, inflicting grievous harm upon exposed weakpoints.
 tagClass01SkillName02C=Internal Trauma
 tagClass01SkillDescription02C=Forcewave shatters bones and ruptures organs, causing profuse internal and external bleeding.
 tagClass01SkillName02D=Tremor
@@ -154,7 +154,7 @@ tagClass01SkillDescription14A=Call out to the war deity, Oleron. Oleron is an an
 tagClass01SkillName15A=Overguard
 tagClass01SkillDescription15A=Assume a defensive stance that greatly boosts your combat awareness. You can only maintain this focus for a short duration. ^oRequires a shield.
 tagClass01SkillName15B=Markovian's Defense
-tagClass01SkillDescription15B=Markovian became a legend on the battlefield for his tactical knowledge, but it was his mastery of the shield is what allowed him to endure countless conflicts and emerge the victor. With enough focus and training, Markovian was capable of maintaining a defensive stance nearly indefinitely at the cost of his offensive, opting to wear out his opponents before striking the killing blow.
+tagClass01SkillDescription15B=Markovian became a legend on the battlefield for his tactical knowledge, but it was his mastery of the shield that allowed him to endure countless conflicts and emerge the victor. With enough focus and training, Markovian was capable of maintaining a defensive stance nearly indefinitely at the cost of his offensive, opting to wear out his opponents before striking the killing blow.
 
 tagClass01SkillName16=Scars of Battle
 tagClass01SkillDescription16=Through countless violent encounters, you have seen the worst that battle has to offer. The horrors of war no longer hinder your actions, and neither does a little spilled blood.
@@ -209,7 +209,7 @@ tagClass02SkillDescription04C=Packed for a higher impact blast, the Concussive B
 tagClass02SkillName05A=Mortar Trap
 tagClass02SkillDescription05A=Places a mortar that will continuously lob explosives into the air until depleted. ^oThe trap scales with player damage bonuses.
 tagClass02SkillName05B=Heavy Ordnance
-tagClass02SkillDescription05B=Potent sorcery increases the damage output of mortar shells and infuses them with electrical damage.
+tagClass02SkillDescription05B=Potent sorcery increases the damage output of mortar shells and infuses them with electrical damage. ^oAffects both the base Mortar and "The Big One".
 tagClass02SkillName05C="The Big One"
 tagClass02SkillDescription05C=Loads the Mortar Trap with a devastating bomb known only as "The Big One", which will fire towards the beginning of the trap's barrage. The resulting colossal explosion will leave your enemies shellshocked, if they survive at all.
 tagClass02SkillName05D=Fire Mortar
@@ -233,7 +233,7 @@ tagClass02SkillDescription07B=Those who have sacrificed much in the pursuit of p
 tagClass02SkillName08A=Blackwater Cocktail
 tagClass02SkillDescription08A=Blackwater Cocktails were concocted when more conventional explosives ran low. These improvised fire bombs leave a self-fueled blaze upon impact and are particularly effective against tightly packed enemies.
 tagClass02SkillName08B=Demon Fire
-tagClass02SkillDescription08B=Sorcerous enchantment imbues the flames with chaotic power that melts enemy flesh and deteriorates armor.
+tagClass02SkillDescription08B=Sorcerous enchantment imbues the flames with chaotic power that melts enemy flesh.
 tagClass02SkillName08C=Agonizing Flames
 tagClass02SkillDescription08C=Intensifies the fire and hellflame to degrees that will render your enemies to ashes.
 tagClass02SkillName08D=High Potency
@@ -297,7 +297,7 @@ tagClass03SkillName02F=Blazing Death
 tagClass03SkillDescription02F=The Hellhound's flesh erupts as it returns to its natural realm, incinerating nearby enemies.
 
 tagClass03SkillName03A=Bonds of Bysmiel
-tagClass03SkillDescription03A=Strengthens the bonds of control with your minions causing them to fight with greater vigor and determination.
+tagClass03SkillDescription03A=Strengthens the bonds of control with your minions causing them to fight with greater vigor and determination. ^oThis ability must be toggled to maintain its effect.
 tagClass03SkillName03B=Manipulation
 tagClass03SkillDescription03B=Subtle manipulation of the bonds of control beguiles minions into feeling overwhelming devotion towards you, causing them to fight with fanatical strength and speed.
 
@@ -1282,7 +1282,7 @@ tagItemSkillC114Name=Aether Smash
 tagItemSkillC114Desc=A wave of aether energies erupts from you.
 
 tagItemSkillC115Name=Malice
-tagItemSkillC115Desc=A malicious force erupts from you that shakes the earth and shatters armor.
+tagItemSkillC115Desc=A malicious force erupts from you that shakes the earth.
 
 tagItemSkillC116Name=Bleedout
 tagItemSkillC116Desc=Clips a major artery, causing intense bleeding.
@@ -1534,7 +1534,7 @@ tagItemSkillD063Name=Dawnbreaker
 tagItemSkillD063Desc=Blind your foes with your righteous presence.
 
 tagItemSkillD064Name=Deathbound Might
-tagItemSkillD064Desc=Become empowered by the lives you claim.
+tagItemSkillD064Desc=Become empowered by the souls you seek to claim.
 
 tagItemSkillD065Name=Cleaving Axe
 tagItemSkillD065Desc=Strike with the jagged axe, cleaving through armor and flesh alike.
@@ -1717,7 +1717,7 @@ tagItemSkillD124Name=Lightning Bolt
 tagItemSkillD124Desc=A touch of Ultos' wrath rips through the sky to shock your foes.
 
 tagItemSkillD125Name=Chain Lightning
-tagItemSkillD125Desc=Immense electric force emenates from you, cascading to additional enemies.
+tagItemSkillD125Desc=Immense electric force emanates from you, cascading to additional enemies.
 
 tagItemSkillD126Name=Lightning Nova
 tagItemSkillD126Desc=Lightning energy surges within you before erupting in deadly force.
@@ -1759,10 +1759,10 @@ tagItemSkillD138Name=Meteor
 tagItemSkillD138Desc=Rip through the fragile barrier between the nether and the mortal realm as you conjure a massive burning rock to drop upon your enemies.
 
 tagItemSkillD139Name=Might of Beronath
-tagItemSkillD139Desc=Channel the might of the great beast Beronath.
+tagItemSkillD139Desc=Channel the might of the great beast Beronath, shifting even your arcane might into deadly physical blows.
 
 tagItemSkillD140Name=Mindwarp
-tagItemSkillD140Desc=Warp reality on a whim, converting all of your physical strength into an arcane force of destruction.
+tagItemSkillD140Desc=Warp reality on a whim, converting some of your physical strength into an arcane force of destruction.
 
 tagItemSkillD141Name=Moment of Clarity
 tagItemSkillD141Desc=You enter a trance-like state of clarity during which your mind opens to the infinite possibilities of the arcane.
@@ -1969,7 +1969,7 @@ tagItemSkillD208Name=Wildblood
 tagItemSkillD208Desc=Your wild heritage throws you into a frenzy.
 
 tagItemSkillD209Name=Wildvines
-tagItemSkillD209Desc=Vines grow wildly around your foes, entangling them and infecting them with toxins.
+tagItemSkillD209Desc=Vines grow wildly around your foes, entangling them and inflicting grievous wounds.
 
 tagItemSkillD210Name=Will of the Living
 tagItemSkillD210Desc=Your will to survive makes you all the harder to kill when your life dwindles on the edge of death.
@@ -2044,7 +2044,7 @@ tagItemSkillD233Name=Valdun's Clip
 tagItemSkillD233Desc=Fire a custom round that splinters on contact. ^oActivates off of default weapon attacks.
 
 tagItemSkillD234Name=Valdun's Treachery
-tagItemSkillD234Desc=Valdun was not know for fighting fairly. He once ended an honorable duel by loading an explosive round into his clip. ^oRequires a two-handed ranged weapon and activates off of default weapon attacks.
+tagItemSkillD234Desc=Valdun was not known for fighting fairly. He once ended an honorable duel by loading an explosive round into his clip. ^oRequires a two-handed ranged weapon and activates off of default weapon attacks.
 
 tagItemSkillD235Name=Anasteria's Devastation
 tagItemSkillD235Desc=This technique tears a rift in reality through which fall embers of raw arcane energy. ^oRequires a Caster Off-Hand. Embers continue to fall over the duration of the spell.
@@ -2607,7 +2607,7 @@ tagDevotion_A35Desc=The lizard was one of the first spawn of the celestial Tree 
 tagDevotion_A36=Scholar's Light
 tagDevotion_A36Desc=The scholar's light glows brightly when sleep-deprived scholars are still working under the dim glow of their candles.
 tagDevotion_A37=Lion
-tagDevotion_A37Desc=The lion represent bravery, valor, the birth of kings.
+tagDevotion_A37Desc=The lion represents bravery, valor, the birth of kings.
 tagDevotion_A38=Jackal
 tagDevotion_A38Desc=The jackal skulks through the sky, searching for easy pickings.
 
@@ -2648,7 +2648,7 @@ tagDevotion_B17Desc=The crab marks the beginning of the most prosperous fishing 
 tagDevotion_B18=Manticore
 tagDevotion_B18Desc=The manticore is a vicious predator that roams the night sky in search of its next meal. Its bite and tail are filled with venom.
 tagDevotion_B19=Solemn Watcher
-tagDevotion_B19Desc=Symon, the watcher, stood guard at Symon's Ward til his dying day, protecting the empire from supernatural threats. Symon's eternal vigil continues in the celestial sky, watching over Cairn as he did in life.
+tagDevotion_B19Desc=Symon, the watcher, stood guard at Symon's Ward 'til his dying day, protecting the empire from supernatural threats. Symon's eternal vigil continues in the celestial sky, watching over Cairn as he did in life.
 tagDevotion_B20=Messenger of War
 tagDevotion_B20Desc=The messenger of war is a symbol of fear and tyranny. The messenger rides across the starry void, heralding in a new age of conflict and strife.
 tagDevotion_B21=Kraken

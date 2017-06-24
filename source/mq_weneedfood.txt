@@ -13,13 +13,12 @@ You have traveled through Smuggler's Pass and emerged in Deadman's Gulch. If Bar
 Follow the Prospector's Trail to Homestead
 
 Clear Rift
-
+You have arrived at Homestead, but the entrance is overrun with Aetherials. You will need to clear them out and secure the riftgate before the gates are opened and you can enter.
 Clear out the Aetherials outside Homestead
 
 Speak to Douglass
-You have found a group of refugees out in Deadman's Gulch, stuck in a raging battle between the trolls and Aetherials. The man in charge appears to be Ulgrim. You should speak to him.
+Homestead has been opened to you, but the situation here seems just as dire as in Devil's Crossing.{^n}{^n}Speak to Douglass Oldbarrow in Homestead in hopes that you can acquire the food you need.
 Speak to Douglass in Homestead
-
 
 
 

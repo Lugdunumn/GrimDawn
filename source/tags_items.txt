@@ -1421,7 +1421,7 @@ tagHandsD001Desc="Gloves blessed with the ferocity of Oleron himself."
 tagHandsD002=Touch of the Everliving Grove
 tagHandsD003=Voidsteel Gauntlets
 tagHandsD003Desc="Forged over the smoldering corpse of a Chthonian harbinger."
-tagHandsD004=Necromancer's Deathgrips
+tagHandsD004=Bonescavenger's Deathgrips
 tagHandsD004Desc="Channeling necromancer's gloves that still retain some of the mage's grisly power."
 tagHandsD005=Wyrmbone Handguards
 tagHandsD006=Iceskorn Talons
@@ -1536,7 +1536,7 @@ tagFeetD007=Windshear Greaves
 tagFeetD008=Stormtitan Treads
 tagFeetD009=Footpads of the Grey Magi
 tagFeetD010=Earthshatter Treads
-tagFeetD010Desc=The very earth boils and cracks beneath these boots."
+tagFeetD010Desc="The very earth boils and cracks beneath these boots."
 
 tagFeetF001=Rhowari Footpads
 tagFeetF002=Rhowari Greaves
@@ -1828,7 +1828,7 @@ tagMedalC024=Volcanum
 tagMedalC025=Mark of Fierce Resolve
 tagMedalC026=Myrmidon Revered Star
 
-tagMedalD001=Mark of the Apostate
+tagMedalD001=Mark of the Forbidden
 tagMedalD001Desc="Symbol once forced upon heretics, later worn with pride by worshippers of the witch gods."
 tagMedalD002=Badge of Mastery
 tagMedalD003=Pyroclasm Mark
@@ -2243,7 +2243,7 @@ tagRelicD019Desc="Blood... agony... death. Will you deny the drums of war?"
 tagRelicD020=Menhir's Bastion
 tagRelicD020Desc="The earth will suffer neither foul spirit nor vile blood of heathens. Rise up to her defense and Cairn will rise with you."
 tagRelicD021=Iskandra's Balance
-tagRelicD021Desc="The first lesson every aspiring must learn is to find a balance in the raw forces of magic that surround us all."
+tagRelicD021Desc="The first lesson every aspirant must learn is to find a balance in the raw forces of magic that surround us all."
 tagRelicD022=Blademaster's Talisman
 tagRelicD022Desc="A symbol of mastery in the art of wielding two melee weapons at the same time."
 tagRelicD023=Plunderer's Talisman
@@ -2471,6 +2471,10 @@ tagDLCA07=Illusion: Admiral's Hat
 tagDLCA07Desc="Leading the charge, on land and sea."
 tagDLCA08=Illusion: Helm of the Southern General
 tagDLCA08Desc="The helm inspires unwavering loyalty."
+tagDLCA09=Illusion: Pillager's Dread Helm
+tagDLCA09Desc="This helm has seen countless bloody conflicts."
+tagDLCA10=Illusion: Helm of the Venerable Warrior
+tagDLCA10Desc="Honor in all things."
 tagDLCConsumableA01=Will'O'Wisp in a Jar
 tagDLCConsumableA01Desc="A harmless spirit, trapped in a jar."
 tagDLCConsumableA01PetSkill01=Wisp Aura
@@ -2807,7 +2811,7 @@ tagEnchantB015Desc="The essence of winter's chill, a terrible force of change an
 tagEnchantB016A=Rhowan's Resolve
 tagEnchantB016B=Rhowan's Resolve II
 tagEnchantB016BC=Rhowan's Resolve III
-tagEnchantB016Desc="Rhowan, the last king of Arkovia and founder of the Rhowari, was said to have abandoned all his kingly possessions when he sat out upon the road. His conviction and resolve through difficult times represent everything that all Rovers strive towards."^w^n(Applied to rings and amulets)
+tagEnchantB016Desc="Rhowan, the last king of Arkovia and founder of the Rhowari, was said to have abandoned all his kingly possessions when he set out upon the road. His conviction and resolve through difficult times represent everything that all Rovers strive towards."^w^n(Applied to rings and amulets)
 
 tagEnchantB017A=Survivor's Ingenuity
 tagEnchantB017B=Survivor's Ingenuity II
@@ -3055,7 +3059,7 @@ tagEnchantC004A=Nightshade Powder
 tagEnchantC004Desc="Powder derived from the blue petals of the Asterkarn Nightshade, a flower that only blossoms in the light of the moon."^w^n(Applied to all armor)
 
 tagEnchantC005A=Bladeward Powder
-tagEnchantC005Desc="Given their vow to reject violence, the Rovers had to improvise alternative ways to survive the dangers of the world."^w^n(Applied to all armor)
+tagEnchantC005Desc="Sorcerous powder devised by Sahdina to protect the defenders of Devil's Crossing from physical altercations."^w^n(Applied to all armor)
 tagEnchantC006A=Mogdrogen's Touch
 tagEnchantC006Desc="A blessing from the beast god to protect his followers from the ravages of nature."^w^n(Applied to all armor)
 
@@ -3107,7 +3111,7 @@ tagCompA002Name=Ballistic Plating
 tagCompA002Desc="Fragments of old armor designed to withstand arrows, bolts, and bullets."^w^n(Used in chest armor)
 
 tagCompA003Name=Sanctified Bone
-tagCompA003Desc="The purified bones of a paladin slain in righteous combat"^w^n(Used in chest and head armor)
+tagCompA003Desc="The purified bones of a paladin slain in righteous combat."^w^n(Used in chest and head armor)
 
 tagCompA004Name=Leathery Hide
 tagCompA004Desc="A thick hide with a rough surface, perfect for absorbing sudden shocks."^w^n(Used in head armor)
@@ -3179,7 +3183,7 @@ tagCompA026Name=Coldstone
 tagCompA026Desc="In folklore, these mysterious stones that radiate cold are said to be the hearts of banished revenants."^w^n(Used in melee weapons, shields and caster off-hands)
 
 tagCompA027Name=Amber
-tagCompA027Desc="It is said that sometimes storm spirits become entrapped in the crystalized sap of lightning struck trees."^w^n(Used in melee weapons, shields and caster off-hands)
+tagCompA027Desc="It is said that sometimes storm spirits become entrapped in the crystalized sap of lightning-struck trees."^w^n(Used in melee weapons, shields and caster off-hands)
 
 tagCompA028Name=Vitriolic Gallstone
 tagCompA028Desc="Vitriolic stones formed in the bile of foul beasts."^w^n(Used in melee weapons, shields and caster off-hands)
@@ -3203,7 +3207,7 @@ tagCompA034Name=Mark of the Traveler
 tagCompA034Desc="Travelers used these marks when passing through wild country, so as not to be mistaken as hunters by Mogdrogen, the beast god."^w^n(Used in boots)
 
 tagCompA035Name=Consecrated Wrappings
-tagCompA035Desc="Blood stained wrappings worn by Chthonic cultists."^w^n(Used in hand armor)
+tagCompA035Desc="Blood-stained wrappings worn by Chthonic cultists."^w^n(Used in hand armor)
 
 tagCompA036Name=Restless Remains
 tagCompA036Desc="The remains of a tortured being denied its rightful peace."^w^n(Used in hand armor)
@@ -3379,7 +3383,7 @@ tagFactionAlreadyNegativeBoosted={^r}[This faction has already had a Faction War
 tagFactionMandateConfirmation=Are you sure you want to apply this Faction Mandate? This will overwrite the current Faction Warrant.
 tagFactionWarrantConfirmation=Are you sure you want to apply this Faction Warrant? This will overwrite the current Faction Mandate.
 
-tagBoosterADesc=Faction documents recognizing you as a paragon of their people.
+tagBoosterADesc=Faction documents recognizing you as a paragon of their people. ^oDoes not stack with Mandates. A Mandate will overwrite this bonus.
 tagBoosterBDesc=Faction documents entrusting another entity as a representative. ^oCan be placed in the Transfer Stash to use on other characters. Does not stack with Writs.
 tagBoosterCDesc=A wanted poster condemning you as a sworn enemy.
 tagBoosterBL_A01=Writ of the Black Legion
@@ -3747,7 +3751,7 @@ tagPrefixAO013=Void-Touched
 
 tagPrefixB001_WpnMelee1h_A=Tyrant's
 tagPrefixB002_WpnMelee1h_A=Relentless
-tagPrefixB003_WpnMelee1h_A=Inquisitor's
+tagPrefixB003_WpnMelee1h_A=Runecaster's
 tagPrefixB004_WpnMelee1h_A=Plaguebearer's
 tagPrefixB005_WpnMelee1h_A=Barbaric
 tagPrefixB006_WpnMelee1h_A=Bloodthirsty
@@ -3947,7 +3951,7 @@ tagSuffixB017_Wpn_A=of Wildfire
 tagSuffixB018_Wpn_A=of Torrents
 tagSuffixB019_Wpn_A=of Shattering
 tagSuffixB020_Wpn_A=of Blight
-tagSuffixB021_Wpn_A=of the Defiler
+tagSuffixB021_Wpn_A=of the Venomclaw
 tagSuffixB022_Wpn_A=of the Abomination
 tagSuffixB023_Wpn_A=of Annihilation
 tagSuffixB024_Wpn_A=of the Elements

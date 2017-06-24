@@ -5,7 +5,7 @@ And so here we are, a mortal and an Aetherial. Unlikely allies, yes?
 I have some questions.
 I am certain that you do.
 Why would you betray your own kind?
-Before I turned upon my masters, I was tasked with conquering the north lands, starting with Homestead. But inhabiting a human has opened my eyes to an existence I had thought futile and temporary. Human lives, despite being so brief and ultimately pointless, are so rich and full of wonder.{^n}{^n}I have come to develop feelings for your species, a concept most Aetherials cannot even fathom. Ultimately, I see our domination of humanity as cruel. I could no longer contribute to your assimilation.
+Before I turned upon my masters, I was tasked with conquering the northlands, starting with Homestead. But inhabiting a human has opened my eyes to an existence I had thought futile and temporary. Human lives, despite being so brief and ultimately pointless, are so rich and full of wonder.{^n}{^n}I have come to develop feelings for your species, a concept most Aetherials cannot even fathom. Ultimately, I see our domination of humanity as cruel. I could no longer contribute to your assimilation.
 I have another question.
 How...thoughtful.
 Why are you helping us?
@@ -17,7 +17,7 @@ Unfortunately no, but take solace in knowing that a major player in the Aetheria
 I have another question.
 That is unfortunate.
 What is an Aetherial really?
-We were the servants of the primordial gods, but when our makers grew jealous of one another, we became soldiers in a cataclysmic war.{^n}{^n}Countless creations were eradicated by the ensuing conflict, countless millennia of our work erased in a flicker of godly anger. But none of that compared to the day one side chose to harness the darkness of the void in a desperate bid for victory.{^n}{^n}The results were catastrophic and our masters were cut down or scattered to the far reaches of creation. And we, the most loyal servants, were banished to the Aether for the simple crime of serving without question.{^n}{^n}There, stripped of our physical forms, we were forced to wander the emptiness of the stars for all eternity, the scars inflicted upon us by the void's minions still burning deep.{^n}{^n}That is until the we encountered humans...
+We were the servants of the primordial gods, but when our makers grew jealous of one another, we became soldiers in a cataclysmic war.{^n}{^n}Countless creations were eradicated by the ensuing conflict, countless millennia of our work erased in a flicker of godly anger. But none of that compared to the day one side chose to harness the darkness of the void in a desperate bid for victory.{^n}{^n}The results were catastrophic and our masters were cut down or scattered to the far reaches of creation. And we, the most loyal servants, were banished to the Aether for the simple crime of serving without question.{^n}{^n}There, stripped of our physical forms, we were forced to wander the emptiness of the stars for all eternity, the scars inflicted upon us by the void's minions still burning deep.{^n}{^n}That is until we encountered humans...
 There are other worlds?
 A human mind cannot even begin to comprehend the countless worlds and realities that exist beyond your own.{^n}{^n}Though how many still remain after the wanton destruction inflicted upon creation during the war of the gods, that is difficult to say.
 
@@ -152,9 +152,11 @@ Is this the tome you seek?
 
 
 Not right now.
-quest 2 done, not enough rep
-
-
+Ah, my only friend in this accursed fort has returned.{^n}{^n}Always a pleasure.
+Is there anything you need?
+I'm not sure you're quite ready for what's next.{^n}{^n}Come back to me once you're more experienced in dealing with our enemies.
+Very well.
+Farewell.
 Have you slain the spawn of Beronath?
 Yes, here is its fang.
 The creature you felled must have been quite formidable to be armed with such a fang.{^n}{^n}I thank you for this, but perhaps you would be willing to help this old crone once more?

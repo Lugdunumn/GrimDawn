@@ -473,6 +473,7 @@ tagHUDButtonRollOptions=Save, exit and configure game options.
 
 tagSkillUndoClass=Undo Class Selection
 tagSkillUndoPoints=Undo Points
+tagSkillUndoGeneric=Undo
 tagSkillClassSelect=Select Class
 tagCurrentLevel=Current Level : {%d0}
 tagNextLevel=Next Level : {%d0}
@@ -706,24 +707,24 @@ tagCharStatsAvgDmgDescription=The damage done per hit with your weapon attacks, 
 tagCharStatsPhysicalAbsDmg=Physical Damage
 tagCharStatsPhysicalAbsDmgInfo=The Physical Damage done per hit with your weapon attacks, including bonuses.
 tagCharStatsPhysicalPercentDmg=Physical Modifier
-tagCharStatsPhysicalPercentDmgInfo=The percent bonus to all Physical Damage dealt by attacks and spells, not including the bonus from Cunning.
+tagCharStatsPhysicalPercentDmgInfo=The percent bonus to all Physical Damage dealt by attacks and spells, not including the bonus from Cunning. % All Damage is included.
 
 tagCharStatsPierceAbsDmg=Pierce Damage
 tagCharStatsPierceAbsDmgInfo=The Pierce Damage done per hit with your weapon attacks, including bonuses.
 tagCharStatsPiercePercentDmg=Pierce Modifier
-tagCharStatsPiercePercentDmgInfo=The percent bonus to all Pierce Damage dealt by attacks and spells, not including the bonus from Cunning.
+tagCharStatsPiercePercentDmgInfo=The percent bonus to all Pierce Damage dealt by attacks and spells, not including the bonus from Cunning. % All Damage is included.
 
 tagCharStatsBleedAbsDmg=Bleed Damage
 tagCharStatsBleedAbsDmgInfo=The Bleed Damage done per second over 3 seconds applied per hit with your weapon attacks, including bonuses.
 tagCharStatsBleedPercentDmg=Bleed Modifier
-tagCharStatsBleedPercentDmgInfo=The percent bonus to all Bleed Damage dealt by attacks and spells, not including the bonus from Cunning.
+tagCharStatsBleedPercentDmgInfo=The percent bonus to all Bleed Damage dealt by attacks and spells, not including the bonus from Cunning. % All Damage is included.
 tagCharStatsBleedDuration=Bleed Duration
 tagCharStatsBleedDurationInfo=The percent bonus to the duration of your Bleed Damage attacks. The damage per second is not increased.
 
 tagCharStatsInternalTraumaAbsDmg=Trauma Damage
 tagCharStatsInternalTraumaAbsDmgInfo=The Internal Trauma Damage done per second over 5 seconds applied per hit with your weapon attacks, including bonuses.
 tagCharStatsInternalTraumaPercentDmg=Trauma Modifier
-tagCharStatsInternalTraumaPercentDmgInfo=The percent bonus to all Internal Trauma Damage dealt by attacks and spells, not including the bonus from Cunning.
+tagCharStatsInternalTraumaPercentDmgInfo=The percent bonus to all Internal Trauma Damage dealt by attacks and spells, not including the bonus from Cunning. % All Damage is included.
 tagCharStatsInternalTraumaDuration=Trauma Duration
 tagCharStatsInternalTraumaDurationInfo=The percent bonus to the duration of your Internal Trauma Damage attacks. The damage per second is not increased.
 
@@ -746,70 +747,70 @@ tagCharStatsPercentHealthDamageInfo=The percent of the target's Current Health d
 tagCharStatsFireAbsDmg=Fire Damage
 tagCharStatsFireAbsDmgInfo=The Fire Damage done per hit with your weapon attacks, including bonuses.
 tagCharStatsFirePercentDmg=Fire Modifier
-tagCharStatsFirePercentDmgInfo=The percent bonus to all Fire Damage dealt by attacks and spells, not including the bonus from Spirit.
+tagCharStatsFirePercentDmgInfo=The percent bonus to all Fire Damage dealt by attacks and spells, not including the bonus from Spirit. % All Damage is included.
 
 tagCharStatsColdAbsDmg=Cold Damage
 tagCharStatsColdAbsDmgInfo=The Cold Damage done per hit with your weapon attacks, including bonuses.
 tagCharStatsColdPercentDmg=Cold Modifier
-tagCharStatsColdPercentDmgInfo=The percent bonus to all Cold Damage dealt by attacks and spells, not including the bonus from Spirit.
+tagCharStatsColdPercentDmgInfo=The percent bonus to all Cold Damage dealt by attacks and spells, not including the bonus from Spirit. % All Damage is included.
 
 tagCharStatsLightningAbsDmg=Lightning Damage
 tagCharStatsLightningAbsDmgInfo=The Lightning Damage done per hit with your weapon attacks, including bonuses.
 tagCharStatsLightningPercentDmg=Lightning Modifier
-tagCharStatsLightningPercentDmgInfo=The percent bonus to all Lightning Damage dealt by attacks and spells, not including the bonus from Spirit.
+tagCharStatsLightningPercentDmgInfo=The percent bonus to all Lightning Damage dealt by attacks and spells, not including the bonus from Spirit. % All Damage is included.
 
 tagCharStatsAcidAbsDmg=Acid Damage
 tagCharStatsAcidAbsDmgInfo=The Acid Damage done per hit with your weapon attacks, including bonuses.
 tagCharStatsAcidPercentDmg=Acid Modifier
-tagCharStatsAcidPercentDmgInfo=The percent bonus to all Acid Damage dealt by attacks and spells, not including the bonus from Spirit.
+tagCharStatsAcidPercentDmgInfo=The percent bonus to all Acid Damage dealt by attacks and spells, not including the bonus from Spirit. % All Damage is included.
 
 tagCharStatsVitalityAbsDmg=Vitality Damage
 tagCharStatsVitalityAbsDmgInfo=The Vitality Damage done per hit with your weapon attacks, including bonuses.
 tagCharStatsVitalityPercentDmg=Vitality Modifier
-tagCharStatsVitalityPercentDmgInfo=The percent bonus to all Vitality Damage dealt by attacks and spells, not including the bonus from Spirit.
+tagCharStatsVitalityPercentDmgInfo=The percent bonus to all Vitality Damage dealt by attacks and spells, not including the bonus from Spirit. % All Damage is included.
 
 tagCharStatsAetherAbsDmg=Aether Damage
 tagCharStatsAetherAbsDmgInfo=The Aether Damage done per hit with your weapon attacks, including bonuses.
 tagCharStatsAetherPercentDmg=Aether Modifier
-tagCharStatsAetherPercentDmgInfo=The percent bonus to all Aether Damage dealt by attacks and spells, not including the bonus from Spirit.
+tagCharStatsAetherPercentDmgInfo=The percent bonus to all Aether Damage dealt by attacks and spells, not including the bonus from Spirit. % All Damage is included.
 
 tagCharStatsChaosAbsDmg=Chaos Damage
 tagCharStatsChaosAbsDmgInfo=The Chaos Damage done per hit with your weapon attacks, including bonuses.
 tagCharStatsChaosPercentDmg=Chaos Modifier
-tagCharStatsChaosPercentDmgInfo=The percent bonus to all Chaos Damage dealt by attacks and spells, not including the bonus from Spirit.
+tagCharStatsChaosPercentDmgInfo=The percent bonus to all Chaos Damage dealt by attacks and spells, not including the bonus from Spirit. % All Damage is included.
 
 tagCharStatsBurnAbsDmg=Burn Damage
 tagCharStatsBurnAbsDmgInfo=The Burn Damage done per second over 3 seconds applied per hit with your weapon attacks, including bonuses.
 tagCharStatsBurnPercentDmg=Burn Modifier
-tagCharStatsBurnPercentDmgInfo=The percent bonus to all Burn Damage dealt by attacks and spells, not including the bonus from Spirit.
+tagCharStatsBurnPercentDmgInfo=The percent bonus to all Burn Damage dealt by attacks and spells, not including the bonus from Spirit. % All Damage is included.
 tagCharStatsBurnDuration=Burn Duration
 tagCharStatsBurnDurationInfo=The percent bonus to the duration of your Burn Damage attacks. The damage per second is not increased.
 
 tagCharStatsColdburnAbsDmg=Frostburn Damage
 tagCharStatsColdburnAbsDmgInfo=The Frostburn Damage done per second over 3 seconds applied per hit with your weapon attacks, including bonuses.
 tagCharStatsColdburnPercentDmg=Frostburn Modifier
-tagCharStatsColdburnPercentDmgInfo=The percent bonus to all Frostburn Damage dealt by attacks and spells, not including the bonus from Spirit.
+tagCharStatsColdburnPercentDmgInfo=The percent bonus to all Frostburn Damage dealt by attacks and spells, not including the bonus from Spirit. % All Damage is included.
 tagCharStatsColdburnDuration=Frostburn Duration
 tagCharStatsColdburnDurationInfo=The percent bonus to the duration of your Frostburn Damage attacks. The damage per second is not increased.
 
 tagCharStatsElectrocuteAbsDmg=Electrocute Damage
 tagCharStatsElectrocuteAbsDmgInfo=The Electrocute Damage done per second over 3 seconds applied per hit with your weapon attacks, including bonuses.
 tagCharStatsElectrocutePercentDmg=Electrocute Modifier
-tagCharStatsElectrocutePercentDmgInfo=The percent bonus to all Electrocute Damage dealt by attacks and spells, not including the bonus from Spirit.
+tagCharStatsElectrocutePercentDmgInfo=The percent bonus to all Electrocute Damage dealt by attacks and spells, not including the bonus from Spirit. % All Damage is included.
 tagCharStatsElectrocuteDuration=Electrocute Duration
 tagCharStatsElectrocuteDurationInfo=The percent bonus to the duration of your Electrocute Damage attacks. The damage per second is not increased.
 
 tagCharStatsPoisonAbsDmg=Poison Damage
 tagCharStatsPoisonAbsDmgInfo=The Poison Damage done per second over 5 seconds applied per hit with your weapon attacks, including bonuses.
 tagCharStatsPoisonPercentDmg=Poison Modifier
-tagCharStatsPoisonPercentDmgInfo=The percent bonus to all Poison Damage dealt by attacks and spells, not including the bonus from Spirit.
+tagCharStatsPoisonPercentDmgInfo=The percent bonus to all Poison Damage dealt by attacks and spells, not including the bonus from Spirit. % All Damage is included.
 tagCharStatsPoisonDuration=Poison Duration
 tagCharStatsPoisonDurationInfo=The percent bonus to the duration of your Poison Damage attacks. The damage per second is not increased.
 
 tagCharStatsVitalityDecayAbsDmg=Vitality Decay Damage
 tagCharStatsVitalityDecayAbsDmgInfo=The Vitality Decay Damage done per second over 3 seconds applied per hit with your weapon attacks, including bonuses.
 tagCharStatsVitalityDecayPercentDmg=Vitality Decay Modifier
-tagCharStatsVitalityDecayPercentDmgInfo=The percent bonus to all Vitality Decay Damage dealt by attacks and spells, not including the bonus from Spirit.
+tagCharStatsVitalityDecayPercentDmgInfo=The percent bonus to all Vitality Decay Damage dealt by attacks and spells, not including the bonus from Spirit. % All Damage is included.
 tagCharStatsVitalityDecayDuration=Vitality Decay Duration
 tagCharStatsVitalityDecayDurationInfo=The percent bonus to the duration of your Vitality Decay Damage attacks. The damage per second is not increased.
 
@@ -839,7 +840,7 @@ tagCharStatsPetHealth=Life
 tagCharStatsPetHealthInfo=The percent bonus to the Health of your pets and summoned minions.
 
 tagCharStatsPetDamage=Damage
-tagCharStatsPetDamageInfo=The percent bonus to the Damage of your pets and summoned minions.
+tagCharStatsPetDamageInfo=The percent bonus to the Damage of your pets and summoned minions. Does not affect Pet Retaliation Damage.
 
 tagCharStatsPetAttackSpeed=Attack Speed
 tagCharStatsPetAttackSpeedInfo=The percent bonus to the Attack Speed of your pets and summoned minions.
@@ -938,82 +939,82 @@ tagCharStatsCurrentLifeReflectInfo=The percent of an attacker's Current Health d
 tagCharStatsPhysicalRet=Physical
 tagCharStatsPhysicalRetInfo=The Physical Damage dealt to an attacker whenever you are hit.
 tagCharStatsPhysicalPercentRet=Physical Modifier
-tagCharStatsPhysicalPercentRetInfo=The percent bonus to all Physical Damage Retaliation effects.
+tagCharStatsPhysicalPercentRetInfo=The percent bonus to all Physical Damage Retaliation effects. % All Damage does not affect Retaliation damage.
 
 tagCharStatsPierceRet=Pierce
 tagCharStatsPierceRetInfo=The Pierce Damage dealt to an attacker whenever you are hit.
 tagCharStatsPiercePercentRet=Pierce Modifier
-tagCharStatsPiercePercentRetInfo=The percent bonus to all Pierce Damage Retaliation effects.
+tagCharStatsPiercePercentRetInfo=The percent bonus to all Pierce Damage Retaliation effects. % All Damage does not affect Retaliation damage.
 
 tagCharStatsBleedRet=Bleed
 tagCharStatsBleedRetInfo=The Bleed Damage done per second over 3 seconds applied on an attacker whenever you are hit.
 tagCharStatsBleedPercentRet=Bleed Modifier
-tagCharStatsBleedPercentRetInfo=The percent bonus to all Bleed Damage Retaliation effects.
+tagCharStatsBleedPercentRetInfo=The percent bonus to all Bleed Damage Retaliation effects. % All Damage does not affect Retaliation damage.
 
 tagCharStatsInternalTraumaRet=Trauma
 tagCharStatsInternalTraumaRetInfo=The Internal Trauma Damage done per second over 5 seconds applied on an attacker whenever you are hit.
 tagCharStatsInternalTraumaPercentRet=Trauma Modifier
-tagCharStatsInternalTraumaPercentRetInfo=The percent bonus to all Internal Trauma Damage Retaliation effects.
+tagCharStatsInternalTraumaPercentRetInfo=The percent bonus to all Internal Trauma Damage Retaliation effects. % All Damage does not affect Retaliation damage.
 
 tagCharStatsFireRet=Fire
 tagCharStatsFireRetInfo=The Fire Damage dealt to an attacker whenever you are hit.
 tagCharStatsFirePercentRet=Fire Modifier
-tagCharStatsFirePercentRetInfo=The percent bonus to all Fire Damage Retaliation effects.
+tagCharStatsFirePercentRetInfo=The percent bonus to all Fire Damage Retaliation effects. % All Damage does not affect Retaliation damage.
 
 tagCharStatsColdRet=Cold
 tagCharStatsColdRetInfo=The Cold Damage dealt to an attacker whenever you are hit.
 tagCharStatsColdPercentRet=Cold Modifier
-tagCharStatsColdPercentRetInfo=The percent bonus to all Cold Damage Retaliation effects.
+tagCharStatsColdPercentRetInfo=The percent bonus to all Cold Damage Retaliation effects. % All Damage does not affect Retaliation damage.
 
 tagCharStatsLightningRet=Lightning
 tagCharStatsLightningRetInfo=The Lightning Damage dealt to an attacker whenever you are hit.
 tagCharStatsLightningPercentRet=Lightning Modifier
-tagCharStatsLightningPercentRetInfo=The percent bonus to all Lightning Damage Retaliation effects.
+tagCharStatsLightningPercentRetInfo=The percent bonus to all Lightning Damage Retaliation effects. % All Damage does not affect Retaliation damage.
 
 tagCharStatsAcidRet=Acid
 tagCharStatsAcidRetInfo=The Acid Damage dealt to an attacker whenever you are hit.
 tagCharStatsAcidPercentRet=Acid Modifier
-tagCharStatsAcidPercentRetInfo=The percent bonus to all Acid Damage Retaliation effects.
+tagCharStatsAcidPercentRetInfo=The percent bonus to all Acid Damage Retaliation effects. % All Damage does not affect Retaliation damage.
 
 tagCharStatsVitalityRet=Vitality
 tagCharStatsVitalityRetInfo=The Vitality Damage dealt to an attacker whenever you are hit.
 tagCharStatsVitalityPercentRet=Vitality Modifier
-tagCharStatsVitalityPercentRetInfo=The percent bonus to all Vitality Damage Retaliation effects.
+tagCharStatsVitalityPercentRetInfo=The percent bonus to all Vitality Damage Retaliation effects. % All Damage does not affect Retaliation damage.
 
 tagCharStatsAetherRet=Aether
 tagCharStatsAetherRetInfo=The Aether Damage dealt to an attacker whenever you are hit.
 tagCharStatsAetherPercentRet=Aether Modifier
-tagCharStatsAetherPercentRetInfo=The percent bonus to all Aether Damage Retaliation effects.
+tagCharStatsAetherPercentRetInfo=The percent bonus to all Aether Damage Retaliation effects. % All Damage does not affect Retaliation damage.
 
 tagCharStatsChaosRet=Chaos
 tagCharStatsChaosRetInfo=The Chaos Damage dealt to an attacker whenever you are hit.
 tagCharStatsChaosPercentRet=Chaos Modifier
-tagCharStatsChaosPercentRetInfo=The percent bonus to all Chaos Damage Retaliation effects.
+tagCharStatsChaosPercentRetInfo=The percent bonus to all Chaos Damage Retaliation effects. % All Damage does not affect Retaliation damage.
 
 tagCharStatsBurnRet=Burn
 tagCharStatsBurnRetInfo=The Burn Damage done per second over 3 seconds applied on an attacker whenever you are hit.
 tagCharStatsBurnPercentRet=Burn Modifier
-tagCharStatsBurnPercentRetInfo=The percent bonus to all Burn Damage Retaliation effects.
+tagCharStatsBurnPercentRetInfo=The percent bonus to all Burn Damage Retaliation effects. % All Damage does not affect Retaliation damage.
 
 tagCharStatsColdburnRet=Frostburn
 tagCharStatsColdburnRetInfo=The Frostburn Damage done per second over 3 seconds applied on an attacker whenever you are hit.
 tagCharStatsColdburnPercentRet=Frostburn Modifier
-tagCharStatsColdburnPercentRetInfo=The percent bonus to all Frostburn Damage Retaliation effects.
+tagCharStatsColdburnPercentRetInfo=The percent bonus to all Frostburn Damage Retaliation effects. % All Damage does not affect Retaliation damage.
 
 tagCharStatsElectrocuteRet=Electrocute
 tagCharStatsElectrocuteRetInfo=The Electrocute Damage done per second over 3 seconds applied on an attacker whenever you are hit.
 tagCharStatsElectrocutePercentRet=Electrocute Modifier
-tagCharStatsElectrocutePercentRetInfo=The percent bonus to all Electrocute Damage Retaliation effects.
+tagCharStatsElectrocutePercentRetInfo=The percent bonus to all Electrocute Damage Retaliation effects. % All Damage does not affect Retaliation damage.
 
 tagCharStatsPoisonRet=Poison
 tagCharStatsPoisonRetInfo=The Poison Damage done per second over 5 seconds applied on an attacker whenever you are hit.
 tagCharStatsPoisonPercentRet=Poison Modifier
-tagCharStatsPoisonPercentRetInfo=The percent bonus to all Poison Damage Retaliation effects.
+tagCharStatsPoisonPercentRetInfo=The percent bonus to all Poison Damage Retaliation effects. % All Damage does not affect Retaliation damage.
 
 tagCharStatsVitalityDecayRet=Vitality Decay
 tagCharStatsVitalityDecayRetInfo=The Vitality Decay Damage done per second over 3 seconds applied on an attacker whenever you are hit.
 tagCharStatsVitalityDecayPercentRet=Vitality Decay Modifier
-tagCharStatsVitalityDecayPercentRetInfo=The percent bonus to all Vitality Decay Damage Retaliation effects.
+tagCharStatsVitalityDecayPercentRetInfo=The percent bonus to all Vitality Decay Damage Retaliation effects. % All Damage does not affect Retaliation damage.
 
 #Stats
 tagCharStatsItemLevel=Average Item Level
@@ -1329,7 +1330,8 @@ tagCharConstitutionModifier={%+.0f0}% {^E}Constitution
 tagCharLifeRegenModifier={^E}Increases Health Regeneration by {^H}{%.0f0}%
 tagCharManaRegenModifier={^E}Increases Energy Regeneration by {^H}{%.0f0}%
 
-tagCharManaLimitReserve={%+.0f0} {^E}Energy Reserved
+tagCharManaLimitReserve={%.0f0} {^E}Energy Reserved
+tagCharManaLimitReserveMod={%+.0f0} {^E}Energy Reserved
 tagCharManaLimitReserveReduction=-{%.0f0} {^E}Reserved Energy Cost
 tagCharManaLimitReserveModifier={+%.0f0}% {^E}Energy Reserve
 tagCharManaLimitReserveReductionModifier=-{%.0f0}% {^E}Energy Reserve
@@ -1541,8 +1543,11 @@ SkillFloatFormat={%.0f0 %s1}
 SkillFloat1Format={%.1f0 %s1}
 SkillFloat2Format={%.2f0 %s1}
 SkillSecondFormat={%.1f0 {^E}Second %s1}
+SkillSecondFormatMod=+{%.1f0 {^E}Second %s1}
 SkillDistanceFormat={%.1f0 {^E}Meter %s1}
+SkillDistanceFormatMod=+{%.1f0 {^E}Meter %s1}
 SkillCostFormat={%.1f0 %s1}
+SkillCostFormatMod=+{%.1f0 %s1}
 SkillPercentFormat={%.0f0% %s1}
 SkillNumProjectilesFormat=Launches {%d0} Projectile(s)
 SkillWeaponDamageFormat={%.0f0%} {^E}Weapon Damage
@@ -1564,6 +1569,8 @@ SkillActivationChance={^E}Chance of Activating
 SkillDamageAbsorption={%.0f0} {^E}Damage Absorption
 SkillDamageAbsorptionPercent={%.0f0}% {^E}Damage Absorption
 SkillPetBurstSpawn={^E}Summons {^H}{%d0}
+SkillPetBurstSpawnMod=+{%d0} {^E}Summon
+SkillPetBurstSpawnsMod=+{%d0} {^E}Summons
 SkillPetLimit={%d0} {^E}Summon Limit
 SkillPetLimitMod=+{%d0} {^E}Summon Limit
 SkillLifeBonus={%+.1f0} {^E}Health Restored
@@ -1615,7 +1622,9 @@ ActiveDuration=Duration
 Interval=Interval
 TargetRadius=Target Area
 TargetAngle={%.0f0} {^E}Degree Attack Arc
+TargetAngleMod=+{%.0f0} {^E}Degree Attack Arc
 TargetNumber={%d0} {^E}Target Maximum
+TargetNumberMod=+{%d0} {^E}Target Maximum
 CooldownTime={^E}Skill Recharge
 ExplosionRadius=Radius
 TargetRange=Range
@@ -1625,6 +1634,7 @@ ProjectileLaunchNumberMod=+{%d0} {^E}Projectile(s)
 ProjectileFragmentsLaunchNumberMinMax={%d0 - %d1} {^E}Fragments
 ProjectileFragmentsLaunchNumber={%d0} {^E}Fragments
 ProjectilePiercingChance={%.1f0}% {^E}Chance to pass through Enemies
+ProjectilePiercingChanceMod=+{%.1f0}% {^E}Chance to pass through Enemies
 
 
 tagTooltipPetsHeader=Pets
@@ -1674,7 +1684,12 @@ DamageFixedRangeFormatTime= {^E}for {^H}{%.1f0} - {%.1f1} {^E}Seconds
 RetaliationFixedSingleFormatSecond={^H}{%.1f0} {^E}Second
 RetaliationFixedSingleFormatTime={^H}{%.1f0} {^E}Seconds
 RetaliationFixedRangeFormatTime={^H}{%.1f0} - {%.1f1} {^E}Seconds
-tagDurationDamageOverTime={%d0} {^E}Damage Over {^H}{%.1f1} {^E}Seconds
+tagDurationDamageOverTime={%d0} {^E}Damage Every Second
+tagDotReductionAbsolute={%d0} {^E}Reduction
+tagDotReductionPercent={%d0}% {^E}Reduction
+tagDotTimeRemaining={^H}{%.0f0} {^E}Seconds Remaining
+tagDotTimeRemainingPrecise={^H}{%.1f0} {^E}Seconds Remaining
+tagDurationFumble={%d0}% {^E}Chance to Miss
 tagDotBleeding=Bleeding
 tagDotCold=Chilled
 tagDotFire=Burning
@@ -1683,7 +1698,26 @@ tagDotLightning=Electrocuted
 tagDotChaos=Chaos
 tagDotAether=Aether
 tagDotLifeLeech=Life Leech
+tagDotManaLeech=Energy Leech 
 tagDotPhysical=Internal Trauma
+tagDotAttackSpeed=Attack Speed
+tagDotCastSpeed=Cast Speed
+tagDotRunSpeed=Run Speed
+tagDotOffensiveAbility=Offensive Ability
+tagDotDefensiveAbility=Defensive Ability
+tagDotFumble=Melee Fumble
+tagDotRangedFumble=Impaired Aim
+tagDotTotalDamageReduction=Total Damage
+tagDotPhysicalDamageReduction=Physical Damage
+tagDotElementalDamageReduction=Elemental Damage
+tagDotTotalResistReduction=Total Resist
+tagDotPhysicalResistReduction=Physical Resist
+tagDotElementalResistReduction=Elemental Resist
+tagDotStun=Stunned
+tagDotSleep=Asleep
+tagDotTrap=Trapped
+tagDotFreeze=Frozen
+tagDotPetrify=Petrified
 
 tagSetItems=({%d0}) Set
 tagSecond={^E}Second
@@ -2030,8 +2064,11 @@ tagRetaliationModifierTotalDamage={%+.0f0}% {^E}to All Retaliation Damage
 tagTotalSpeedResistance={%.0f0}% {^E}Slow Resistance
 tagMindcontrolledMonster=Mind-controlled
 tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}Chance of affecting up to {^H}{%d1} {^E}target
+tagSparkMaxNumberChanceSingleMod={^H}+{%.0f0}% {^E}Chance of affecting up to {^H}{%d1} {^E}target
 tagSparkMaxNumberChance={^H}{%.0f0}% {^E}Chance of affecting up to {^H}{%d1} {^E}targets
+tagSparkMaxNumberChanceMod={^H}+{%.0f0}% {^E}Chance of affecting up to {^H}{%d1} {^E}targets
 tagSparkMaxNumberSingle={^E}Affects up to {^H}{%d0} {^E}target
+tagSparkMaxNumberSingleMod={^E}Affects up to {^H}+{%d0} {^E}target
 tagSparkMaxNumber={^E}Affects up to {^H}{%d0} {^E}targets
 tagSparkMaxNumberMod={^E}Affects up to {^H}+{%d0} {^E}targets
 
