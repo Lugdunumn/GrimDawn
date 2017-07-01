@@ -1783,6 +1783,7 @@ DamageDurationTotalSpeed=% {^E}Slow target
 DamageDurationRunSpeed=% {^E}Slower target Movement
 DamageDurationSpellCastSpeed=% {^E}Slower target Casting
 DamageDurationBleeding= {^E}Bleeding Damage
+DamageDurationElemental= {^E}Elemental Blaze
 
 DamageTotalDamageReductionPercent=% {^E}Reduced target's Damage
 DamageTotalDamageReductionAbsolute= {^E}Reduced target's Damage
