@@ -1,0 +1,25 @@
+Bounties
+Bounty: Poisoned Garden
+Bounty
+The ravenous living plants of Ugdenbog are growing out of control.{^n}{^n}Help the Coven restore balance by destroying their Poisonous Blooms.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for this task.
+
+Destroy Poisonous Blooms
+
+Turn In
+You have completed the task for the Coven of Ugdenbog and should return to the Bounty Table for your reward.
+Return to the Coven of Ugdenbog Bounty Table
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

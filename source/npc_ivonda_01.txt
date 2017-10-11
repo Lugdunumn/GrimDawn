@@ -1,0 +1,69 @@
+Ivonda
+Oh, it's you again.{^n}{^n}Remember uh... please don't touch, don't touch me.{^n}{^n}Please just... I left you some things over there.{^n}{^n}I'm not sure I remember why, but I think I owe you a favor.{^n}{^n}So I suppose that's why I left you a chest full of things.
+I helped you find your note.
+Yes, of course.{^n}{^n}What note?
+Don't worry about it.
+Thanks for the stuff.
+I remember, I remember I should thank you.{^n}{^n}Thank you for what you did.
+I'm glad I could help.
+I won't forget that you helped me.
+I think you probably will.
+Get away.{^n}{^n}Don't touch, don't touch... stay away!
+Alright lady, relax.
+There was nothing there. I don't understand.{^n}{^n}I don't remember what it was, but the note says it was there and now it's gone.{^n}{^n}Now I don't know what I lost because it wasn't there.
+I'm sorry to hear that.
+I'm sure you'll forget about it.
+Leave me alone.{^n}{^n}I don't know you... do I?{^n}{^n}Should I remember you?
+No, apparently not.
+The note... {^n}{^n}have you found my note to remember?{^n}{^n}What did I write, what should I remember?
+It was directions to something.
+Directions?{^n}{^n}Directions to what I forgot... of course!{^n}{^n}You... you didn't go there did you?{^n}{^n}Was it there, what I lost did you find it?{^n}{^n}Did you take it?
+(Lie) I don't know. I didn't go there.
+Oh, thank you.{^n}{^n}I'll folllow it. I'll follow the note.{^n}{^n}Then I'll remember. I'll remember what I lost.
+Ok, good luck out there.
+(Tell the truth) Yes, I went there.
+What I forgot, you took it didn't you?
+I did, I'm sorry.
+I did, but I'm sure you won't remember.
+You again.{^n}{^n}I remember...I remember?{^n}{^n}Yes, I do. I remember you were supposed to find what I forgot was lost.{^n}{^n}Did you? Have you found what I lost?
+Yes, it's right here. (Return Ivonda's note)
+Oh the note. Yes, it's directions.{^n}{^n}Directions to what I lost.
+What did you lose?
+I don't know, but I can find it now.{^n}{^n}I can find where it is.{^n}{^n}The note will tell me.
+Ok, good luck.
+Be careful out there.
+Glad I could help.
+No, I'm sorry (Keep Ivonda's Note)
+You again?{^n}{^n}I know I was supposed to remember, but what was it?{^n}{^n}Do you remember?
+I'm supposed to find your note.
+Yes, of course.{^n}{^n}The note I forgot... the note to remember.{^n}{^n}Did you find it?
+I'm still looking.
+Farewell.
+Hey!{^n}{^n}Don't touch me. Don't touch, don't touch...
+Ok, relax. I won't touch you.
+Just stay back.{^n}{^n}Over there, over there. Stay, stay, stay over there.{^n}{^n}Are you a memory?{^n}{^n}Do you know? Do... do, would you know?{^n}{^n}I don't remember, but I'm sure I knew. I knew... I knew where it was and now I don't know. I don't remember but I know I knew where it was.{^n}{^n}I know I remember putting it there but what it is I don't remember and where is there is what I forgot.
+Are you looking for something?
+I think.{^n}{^n}I don't remember what, but I'm sure it's lost.{^n}{^n}A note, a note to remember! That's what I forgot, but a note is what I lost and now I don't remember.
+You lost a note, about what?
+A note, a note to remember, to remember where it's hidden.{^n}{^n}That is what I forgot.{^n}{^n}I forgot to remember a note, a note to remember it's hidden!{^n}{^n}Thank you.
+You're welcome, I think. But where is it?
+I don't remember.{^n}{^n}Do you?{^n}{^n}Maybe you remember, maybe you can find the note to remember and tell me what I forgot.
+I'll find your note for you.
+I don't have time right now.
+I've already found your note.
+The note?{^n}{^n}You found my note to remember?{^n}{^n}What did I write, what should I remember?
+It was directions to something.
+Of course... now I remember what I forgot.{^n}{^n}What I forgot that I lost was the note. The note to remember. The note to remember where I put my things that were lost.{^n}{^n}You... you didn't go there did you? Where my things are?{^n}{^n}Were they lost?{^n}{^n}Are they there?
+
+
+It looks like a riddle of some kind.
+Does it say where I lost it?{^n}{^n}Where I lost what I can't remember?
+Look for yourself (Return Ivonda's Note).
+Yes, of course.{^n}{^n}I remember, the note to remind me when I forgot.{^n}{^n}When I forgot where it's hidden.{^n}{^n}But what it is, I still can't remember.
+Good luck with that.
+Nope, I don't have time for crazy.
+Whatever you say lady.
+Sorry, I'm leaving.
+I can't talk. I can't, can't talk. Don't talk, don't touch, don't touch until I find it.
+Whatever you say lady.
+Ah ok... I'll be leaving then.

@@ -13,6 +13,9 @@ Fine...
 I...nevermind.
 You're right. Farewell.
 Farewell.
+I hear we were successful against the wretched Order of Death's Vigil.{^n}{^n}You have proven yourself a worthy servant to Empyrions will. Even I must learn to look past your training and instead judge you by your actions.
+
+Farewell.
 I hear we were successful against the wretched Order of Death's Vigil, [[ms]brother[fs]sister].{^n}{^n}You serve Empyrion well.
 
 Farewell.
@@ -36,6 +39,9 @@ Where should I be looking?
 Master Ravok is in Fort Haron, in the northern Blood Grove.{^n}{^n}Do not fail us.
 I will go there now.
 I've barely started.
+Father Kymon is impressed with your recent actions against the Cult of Ch'thon and is willing to overlook your past trasngressions.{^n}{^n}He wishes to test your committment to our cause. This next mission will determine whether you truly are one of us or if you are lying even to yourself.{^n}{^n}Do not fail the Father's trust.
+
+I cannot right now.
 Father Kymon is impressed with your recent actions against the Cult of Ch'thon.{^n}{^n}I am to entrust you with a critical mission. Do not fail the Father's trust.
 What is the mission?
 In the northern Blood Grove, there is a stronghold known as Fort Haron. It is an old arms storage facility that could prove useful. Unsurprisingly, it has become infested with the Order's vermin.{^n}{^n}Travel to the fort and eliminate all who would oppose you. Find their leader, a Master Ravok, and make an example of her.{^n}{^n}Go forth with the confidence that Empyrion is with you, as I shall bestow a blessing upon you to guide your hand in battle.
@@ -49,6 +55,9 @@ Bolvar lies dead.
 Father Kymon will be pleased to learn of his demise.{^n}{^n}You are ever eager to act out his will. That's good. You will need it for what lies ahead.
 What must be done?
 
+Not interested.
+Father Kymon will be pleased to learn of his demise.{^n}{^n}You are ever eager to act out his will. That's good, because what lies ahead will determine whether you truly are one of us or if you are lying even to yourself.
+What must be done?
 Not interested.
 Have you dealt with the heretics?
 Where should I be looking?
@@ -89,8 +98,15 @@ I will gather the Seals.
 Find someone else.
 
 I will return later to discuss this.
+You are the one the Legion sent?{^n}{^n}This must be some sort of joke.
+I assure you, I am the one.
+Truly this must be a test of faith from Empyrion himself.{^n}{^n}I pray for strength in this trying hour.
+Shall we speak or not then?
 You are the one the Legion sent?{^n}{^n}You are later than I've expected.
 You wanted to speak with me?
 
+A tainted soul has entered our ranks.{^n}{^n}We all pray for guidance, you should pray for forgiveness.
+Whatever you say.
+Goodbye.
 May the Light of Empyrion guide your path.
 Goodbye.

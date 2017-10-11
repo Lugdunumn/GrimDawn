@@ -174,13 +174,13 @@ ach054Title=The Death Room
 ach054Desc=Survive the Chamber of Souls.
 
 ach055Title=Let Me Gather My Notes
-ach055Desc=Collect 5 Lore Notes
+ach055Desc=Collect 5 Lore Notes.
 
 ach056Title=Note Collector
-ach056Desc=Collect 20 Lore Notes
+ach056Desc=Collect 20 Lore Notes.
 
 ach057Title=Lorekeeper
-ach057Desc=Collect 50 Lore Notes
+ach057Desc=Collect 50 Lore Notes.
 
 ach058Title=The Fields of Despair
 ach058Desc=Survive the Fields of Despair.

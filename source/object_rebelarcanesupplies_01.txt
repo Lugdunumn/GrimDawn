@@ -1,0 +1,9 @@
+Arcane Supplies
+A collection of arcane enchantments, ointments and supplies.{^n}{^n}The resistance may be looking for these.
+
+This collection of arcane enchantments, ointments and supplies might be just what Captain Wilfor was hoping to find out here.{^n}{^n}They should serve the resistance well.
+Send the supplies to the Resistance Hideout.
+Step away from the supplies.
+A collection of arcane enchantments, ointments and supplies.{^n}{^n}These should serve the resistance well.
+Send the supplies to the Resistance Hideout.
+Step away from the supplies.

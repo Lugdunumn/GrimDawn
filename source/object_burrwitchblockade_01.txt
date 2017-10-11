@@ -1,0 +1,9 @@
+Aetherial Barrier
+The Aetherials have barred the way north from Burrwitch, likely to stop anyone attempting to flee the carnage.{^n}{^n}With Inquisitor Creed's pendant, you should be able to dissipate it.
+Purge the barrier.
+Leave it.
+Requires a powerful arcane object.
+The Aetherials have barred the way north from Burrwitch, likely to stop anyone attempting to flee the carnage.{^n}{^n}It would take some kind of powerful arcane ritual to dispel it.
+Ok.
+The Aetherial Barrier has been purged.
+Ok.

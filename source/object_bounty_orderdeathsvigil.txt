@@ -86,7 +86,7 @@ Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-A Reanimator walks the halls of the Warden's Laboratory with an uncanny connection to the Aether.{^n}{^n}While most Reanimators can merely conjure burst of Aetherfire, this one can tear gaps in reality itself, calling down manifestations of the Aether unlike that of the most powerful arcanists.{^n}{^n}The Order wishes to study this anomaly. Travel to Burrwitch and slay this Barrostrandt, the Ascended so that we may investigate its remains.{^n}{^n}Your efforts will be compensated with materials from our stores.
+A Reanimator walks the halls of the Warden's Laboratory with an uncanny connection to the Aether.{^n}{^n}While most Reanimators can merely conjure bursts of Aetherfire, this one can tear gaps in reality itself, calling down manifestations of the Aether unlike that of the most powerful arcanists.{^n}{^n}The Order wishes to study this anomaly. Travel to Burrwitch and slay this Barrostrandt, the Ascended so that we may investigate its remains.{^n}{^n}Your efforts will be compensated with materials from our stores.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.

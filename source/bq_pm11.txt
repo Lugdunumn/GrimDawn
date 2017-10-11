@@ -1,0 +1,23 @@
+Bounties
+Bounty: Keeper of the Gates
+Bounty
+The Malmouth resistance requires aid.{^n}{^n}A massive Aetherial is hindering the transport of supplies in and out of the city through the Candle District.{^n}{^n}Go to there and destroy Bollag, Keeper of the Gates.{^n}{^n}The resistance has scavenged materials as compensation for bringing down this brute.
+
+Slay Bollag
+
+Turn In
+You have completed the task for the Malmouth Resistance and should return to the Bounty Table for your reward.
+Return to the Malmouth Bounty Table
+
+
+
+
+
+
+
+
+
+
+
+
+

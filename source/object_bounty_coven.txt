@@ -1,0 +1,106 @@
+Coven of Ugdenbog Bounties
+You return with the materials in hand, a Bounty fulfilled.
+Report in.
+
+Step away from the Bounty Table.
+You return triumphantly, a Bounty fulfilled.
+Report in.
+
+Step away from the Bounty Table.
+You are already on a Bounty for the Coven of Ugdenbog.
+Step away from the Bounty Table.
+The Coven of Ugdenbog sees you as an ally.{^n}{^n}If you wish to remain on good terms, then there is always more that could be done.
+Take a look at the bounty.
+You have fulfilled all of the posted Bounties for this session.
+Step away from the Bounty Table.
+Take a look at the bounty.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step away from the Bounty Table.
+The Wendigo cult has plagued the Coven for far too long.{^n}{^n}Eliminating Wendigo Ancients in Ugdenbog may slow their attacks for a time.{^n}{^n}Your efforts will be rewarded with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The Coven needs assistance maintaining balance in the Ugdenbog.{^n}{^n}The population of Basilisks has grown out of control. The most dangerous among them must be removed. It's time for a hunt.{^n}{^n}Eliminate Venomgaze Basilisks in Ugdenbog.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for this task.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The ravenous living plants of Ugdenbog are growing out of control.{^n}{^n}Help the Coven restore balance by destroying their Poisonous Blooms.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for this task.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Matron Malostria has had visions of a horrific Aetherial creation rampaging through the outskirts of Malmouth.{^n}{^n}The creature has already killed several new recruits trying to leave the city.{^n}{^n}Destroy the beast called Vanoxxis Bile in the Malmouth Outskirts, for the future of the Coven.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for this task.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The Aetherial called Crognoth is hindering the Coven's recruitment efforts in Malmouth.{^n}{^n}Find Crognoth in the Malmouth Candle District and destroy it.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for this task.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The imbalance has spread far beyond the reaches of Ugdenbog.{^n}{^n}There have been reports of a massive creature attacking members of the coven in Gloomwald.{^n}{^n}Eliminate it for the good of the coven.{^n}{^n}The death of this fiend will be rewarded with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The Coven needs assistance maintaining balance in the Ugdenbog.{^n}{^n}Despite our efforts the Basilisk threat continues to grow.{^n}{^n}Perhaps it's time we dealt a more precise blow.{^n}{^n}Find the beast called Silancar, at the heart of Ugdenbog, and destroy it.{^n}{^n}The death of this fiend will be rewarded with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Chillpincer has been growing a brood within Barrowholm Mine to the North. {^n}{^n}If left unchecked, this could have grave consequences for the ecosystem, and our safety. Chillpincer must be slain...{^n}{^n}The death of this fiend will be rewarded with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The Wendigo are as a blight upon Ugdenbog.{^n}{^n}To defend the land we must continue to fight this plague. {^n}{^n}Find the Wendigo called Vagarroth, in the cult camps around Ugdenbog, and destroy it.{^n}{^n}The death of this fiend will be rewarded with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The Coven seeks an unusual relic to aid them in their rituals.{^n}{^n}The Mistborn trolls of the Broken Hills have learned the art of crafting what is known as a Mistborn Talisman, which their shamans use to crudely wield magic.{^n}{^n}The Coven wishes to study its magic for their own purposes. As compensation, the Coven will relinquish some Blood of Ch'thon they've gathered.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The beast Carraxus Foul has long plagued the Coven of Ugdenbog. {^n}{^n}Find the creatures lair in the Northeast of Gloomwald and slay Carraxus Foul for the safety of the Coven.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for slaying this beast.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The witch Janaxia has betrayed the Coven and turned to the ways of the Wendigo.{^n}{^n}She must not be permitted to continue down this foul path.{^n}{^n}Find her hut in the Southern end of Ugdenbog and kill Janaxia, the Betrayer.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for eliminating this traitor.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The ancient plant Sylvarria has grown too wide and too deep. Her roots and tendrils now infest all of Ugdenbog.{^n}{^n}Find Sylvarria, in the Undergrowth, and remove her so others may grow in her place.{^n}{^n}Your efforts will be rewarded with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+It seems nothing is safe from the Chthonic corruption.{^n}{^n}An ancient Ugdenbog Crab called Connivius Earthshell is its most recent victim and a great threat to the balance in Ugdenbog.{^n}{^n}Find the the creature within the Ancient Grove and return it to the land.{^n}{^n}The Coven has set aside some of their most valuable ritual supplies as compensation for dealing with this threat to nature.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The Coven of Ugdenbog sees you as an ally.{^n}{^n}If you wish to remain on good terms, then there is always more that could be done.
+
+Step away from the Bounty Table.
+The Coven of Ugdenbog does not yet trust you to handle their most secretive tasks.{^n}{^n}A Respected reputation is required to access the Bounty Table.
+Step away from the Bounty Table.

@@ -1,0 +1,7 @@
+Detonation Site
+These rocks look like someone placed them here deliberately. This might be Nane's secret stash. You can clear it out with some heavy explosives.{^n}{^n}It will take 1 Dynamite to clear it out.
+Requires 1 Dynamite
+Destroy the Barricade.
+Leave it.
+You have already cleared this barricade.
+Ok.

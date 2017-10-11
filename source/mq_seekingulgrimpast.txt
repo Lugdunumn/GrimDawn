@@ -1,0 +1,22 @@
+The March to Malmouth
+A Witch's Bargain
+Find The Bog Village
+Garradia of the Coven of Ugdenbog has accepted your offering and agreed to help you in finding a way through the Aetherfire. In a way, finding Ulgrim may be just the key to reaching Malmouth...through the Chthonic void.{^n}{^n}But before she helps you, there is one more thing you must do for her: retrieve the Ugdenbog Fetish from the denizens of a nearby village called Barrowholm. Head out east from the Coven's Refuge and make your way through the bog, headed north, until you've see buildings.
+Find Barrowholm
+
+Speak to Scorv
+You have found the village that Garradia has instructed you to seek out.{^n}{^n}The man named Scorv Egdenor seems to be in charge. Speak to him in Barrowholm about the Ugdenbog Fetish.
+Speak to Scorv Egdenor in Barrowholm
+
+Return to Garradia
+You spoke with Scorv Egdenor in Barrowholm. Now you must acquire the Ugdenbog Fetish and return it to Garradia's at the Coven's Refuge.
+Acquire the Ugdenbog Fetish from Scorv Egdenor
+Bring the Ugdenbog Fetish to Garradia at the Coven's Refuge
+
+
+
+
+
+
+
+

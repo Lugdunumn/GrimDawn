@@ -1,0 +1,8 @@
+Humming Crystal Formation
+The crystal's power seems to have waned.
+Step away from the crystal.
+This strange crystal hums with unusual energies.{^n}{^n}You recall seeing a similar phenomenon described in Hargate's Formula.{^n}{^n}Perhaps if you compare the notes to what you see before you, you may be able to make sense of some of the late Hargate's work.
+Use Hargate's Formula.
+Step away from the Crystal.
+The crystal hums with strange energies, but you can't make any sense of it.
+Step away from the crystal.

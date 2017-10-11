@@ -1,6 +1,14 @@
 Barnabas
-I don' know what you did, but it sure worked. We've already received a shipment of food from Homestead and more seems to be on the way.{^n}{^n}You've singlehandedly secured the future of this settlement. I don' know how to thank ya. Have a glass of water, it's on me.
+I don' know what you did, but it sure worked. We've already received a shipment of food from Homestead and more seems to be on the way.{^n}{^n}You've single-handedly secured the future of this settlement. I don' know how to thank ya. Have a glass of water, it's on me.
 I'm just glad we'll all survive.
+*Barnabas raises a glass of water*{^n}{^n}Well, here's to all the lives sacrificed to bring us this small respite in a sea of misery. May they find peace at last.
+Hear, hear.
+So you found yer way to Malmouth then?{^n}{^n}I hope you can put a stop to whatever's creating these horrors.
+I will try.
+It is one thing to wage war, for man to kill another man for the sake of food, land or wealth. All deplorable acts that make us less than human.{^n}{^n}But this...this thing, this Aetherial abomination made of human parts designed to butcher us all. That is war brought to entirely new repulsive lows.
+We must persevere.
+It is one thing to wage war, for man to kill another man for the sake of food, land or wealth. All deplorable acts that make us less than human.{^n}{^n}But this...this thing, this Aetherial abomination made of human parts designed to butcher us all. That is war brought to entirely new repulsive lows.
+We must persevere.
 Word of your deeds travels fast, friend.{^n}{^n}*Barnabas raises a glass of water*{^n}{^n}To you, and to the fallen.
 There is still a future for Cairn, so long as we fight for it.
 Thank you.
@@ -37,7 +45,7 @@ I will.
 I've already found Homestead.
 Oh? Yer quite the ambicious feller. What did you see out there?
 
-Thanks for all your help! At last we can get a decent drink... even if that drink ain't a finger of whiskey.
+Thanks for all your help! At least we can get a decent drink... even if that drink ain't a finger of whiskey.
 My pleasure.
 Any luck clearing out those Slith? People are starting to beg me for water. {^n}{^n}I don' know how many more times I can say 'it'll melt yer guts' before they just rush me and take it.
 I've taken care of it.
@@ -50,7 +58,7 @@ Not yet, where is it again?
 Open the cellar in the shack behind me. It connects to the bowels of the prison, which should lead you to the cave. {^n}{^n}Find the Slith Matriarch that's likely polluting our water supply and the poison should clear out on its own.
 I'll take care of it.
 Well, the good news is I got the water pumping again. The only problem is it smells like a sewer, only about a ten-fold worse.  {^n}{^n}Why, I haven' smelled something this rotten since...
-Since what?
+Since when?
 Since I've cleared out a den of Slith, ages ago. They're loathsome reptiles - make their homes in swamps and dank caves. {^n}{^n}They secrete a nasty poison into the water that makes it drinkable for them, but nearly always fatal to us. I'd bet good iron there is a nest in the cave that fuels our pump. {^n}{^n}I'm too old for all this spelunking so I need you to go down there and kill it.
 How do I get to the cave?
 This key will open the cellar in the shack behind me, right by that accursed riftgate. It connects to the bowels of the prison, which should lead you to the cave. {^n}{^n}Find the Slith Matriarch that's likely polluting our water supply and the poison should clear out on its own. {^n}{^n}You do this, and all of Devil's Crossing will be honoring your name with every glass.

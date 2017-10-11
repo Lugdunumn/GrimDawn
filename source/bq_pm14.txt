@@ -1,0 +1,24 @@
+Bounties
+Bounty: Fleshwarped Guardians
+Bounty
+The resitance requires aid in a particularly dire opperation.{^n}{^n}The bowels of the city must be cleansed. {^n}{^n}Deep in the the Aetherial factory two massive Aetherials guard its core. {^n}{^n}Eliminate Agalvar, the Bone Monger and Rodalgar, the Flesh Collector so resistance operations can continue.{^n}{^n}Anyone brave enough to take on these abominations will be given their share of the most rare scavenged materials.
+
+Slay Hagalvar
+Slay Rodalgar
+
+Turn In
+You have completed the task for the Malmouth Resistance and should return to the Bounty Table for your reward.
+Return to the Malmouth Bounty Table
+
+
+
+
+
+
+
+
+
+
+
+
+

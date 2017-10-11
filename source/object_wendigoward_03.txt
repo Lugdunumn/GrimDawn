@@ -1,0 +1,8 @@
+Ward Totem
+This ward has already been activated.
+Step away.
+This appears to be one of the wards originally created by the denizens of Ugdenbog, but it has since faded.{^n}{^n}Restoring it should not be too difficult.
+Reactivate the ward.
+Leave it.
+This strange totem seems to be inactive
+Step away.

@@ -1,0 +1,9 @@
+Detonation Site
+The gates to Crown Hill are heavily fortified. It would take some immensely powerful explosives to blast them open.
+Requires the Resistance Explosives.
+Requires Creed's Additive.
+Requires the Resistance Explosives with Creed's Additive.
+Destroy the Gates.
+Leave it.
+You have destroyed the Crown Hill Gates.
+Ok.

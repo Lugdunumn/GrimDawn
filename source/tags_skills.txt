@@ -625,13 +625,13 @@ tagClass06SkillName06B=Stonebark
 tagClass06SkillDescription06B=The flesh of the Briarthorn hardens and its spines grow thicker, turning it into an intimidating presence on the battlefield that cannot be ignored.
 tagClass06SkillName06C=Ground Slam
 tagClass06SkillDescription06C=The Briarthorn slams its thorned claws into the ground, releasing a cascade of spines to impale nearby foes.
-tagClass06SkillName06D=Emboldening Roar
-tagClass06SkillDescription06D=The Briarthorn calls out to its allies, emboldening them when fighting is at its thickest.
+tagClass06SkillName06D=Emboldening Presence
+tagClass06SkillDescription06D=The Briarthorn is an imposing presence on the battlefield which emboldens its allies to fight with greater ferocity.
 tagClass06SkillName06E=Thorned Claws
 tagClass06SkillDescription06E=Innate Attack.
 
 tagClass06SkillName07A=Feral Hunger
-tagClass06SkillDescription07A=Embrace your primal side, shredding your enemies and feasting voraciously on the spilled blood. ^oRequires a two-handed melee weapon. Activates off of default weapon attacks.
+tagClass06SkillDescription07A=Embrace your primal side, shredding your enemies and feasting voraciously on the spilled blood. ^oRequires a two-handed melee or ranged weapon. When used with a melee weapon, the attack strikes multiple nearby targets. Activates off of default weapon attacks.
 
 tagClass06SkillName08A=Stormcaller's Pact
 tagClass06SkillDescription08A=Become one with Ultos, god of the sky, turning your mortal form into a conduit for the destructive power of lightning storms. ^oThis ability must be toggled to maintain its effect.
@@ -644,7 +644,7 @@ tagClass06SkillName009C=Claw and Fang Attacks
 tagClass06SkillDescription09C=Innate Attack.
 
 tagClass06SkillName10A=Brute Force
-tagClass06SkillDescription10A=To many Shamans, a brutal two-handed weapon serves as the conduit for their storm powers. These practitioners favor a closer connection to the wilds through animalistic rage and close-quarters combat rather than through fragile wands and tomes which they consider to be the toys of those who would prefer to spend their time reading books over practicing their craft. ^oRequires a two-handed melee weapon.
+tagClass06SkillDescription10A=To many Shamans, a brutal two-handed weapon serves as the conduit for their storm powers. These practitioners favor a closer connection to the wilds through animalistic rage rather than through fragile wands and tomes which they consider to be the toys of those who would prefer to spend their time reading books over practicing their craft. ^oRequires a two-handed melee or ranged weapon.
 tagClass06SkillName11A=Shamanism
 tagClass06SkillDescription11A=Rigorous training within the untamed wilds has honed your mind and body into a savage weapon.
 tagClass06SkillName12A=Nature's Wrath
@@ -653,7 +653,7 @@ tagClass06SkillName13A=Primal Bond
 tagClass06SkillDescription13A=Embrace your savage side as you seal your bond with Mogdrogen. Creatures from the beast god's domain readily answer your call. ^oThis ability must be toggled to maintain its effect.
 
 tagClass06SkillName14A=Upheaval
-tagClass06SkillDescription14A=Strike with the strength of the earth. Whenever you land a critical strike with your basic weapon attacks, the ground shakes with the force of the blow, reverberating around the point of impact in a shockwave. ^oRequires a two-handed melee weapon and activates off of default weapon attacks.
+tagClass06SkillDescription14A=Strike with the strength of the earth. Whenever you land a critical strike with your basic weapon attacks, the ground shakes with the force of the blow, reverberating around the point of impact in a shockwave. ^oRequires a two-handed melee or ranged weapon and activates off of default weapon attacks.
 
 tagClass06SkillName15A=Devouring Swarm
 tagClass06SkillDescription15A=Out in the wild, one must do whatever it takes to survive. Some Shaman Conjurers take this lesson to heart by conjuring a voracious swarm which hungrily tears apart anything it comes in contact with, inflicting grievous wounds and exposing vulnerabilities.
@@ -1127,7 +1127,7 @@ tagItemSkillC062Name=Knockout
 tagItemSkillC062Desc=Take your opponent out of the fight with a swift and precise strike. ^oActivates off of default melee weapon attacks.
 
 tagItemSkillC063Name=Prismatic Shield
-tagItemSkillC063Desc=Triggers the runes engraved upon these bracers, creating a protective shield around you.
+tagItemSkillC063Desc=Triggers the runes engraved upon this armor, creating a protective shield around you.
 
 tagItemSkillC064Name=Gaze Weakness
 tagItemSkillC064Desc=Gaze through your new eye and detect the slightest flaws in your enemies that you can then relay to your allies. ^oThis ability must be toggled to maintain its effect.
@@ -1702,7 +1702,7 @@ tagItemSkillD119Name=Iskandra's Defense
 tagItemSkillD119Desc=Iskandra was a master of conversion, turning martial weapons into conduits for the arcane. Her unusual attunement to martial combat required that proper defenses be raised.
 
 tagItemSkillD120Name=Iskandra's Unity
-tagItemSkillD120Desc=Iskandra's preferred to master all forms of magic. This mastery is extended to nearby allies. ^oThis ability must be toggled to maintain its effect.
+tagItemSkillD120Desc=Iskandra preferred to master all forms of magic. This mastery is extended to nearby allies. ^oThis ability must be toggled to maintain its effect.
 
 tagItemSkillD121Name=Iskandra's Prism
 tagItemSkillD121Desc=Upon entering combat, Iskandra would turn her weapon into a conduit. ^oRequires a melee weapon.
@@ -1774,7 +1774,7 @@ tagItemSkillD143Name=Thread of Mortality
 tagItemSkillD143Desc=Harvest the mortal threads of your foes, turning their vitality into your own.
 
 tagItemSkillD144Name=Nidalla's Revenge
-tagItemSkillD144Desc=Foes who dare strike you may find themselves with a nasty surprise as Nidalla's signature toxins seeps into their veins.
+tagItemSkillD144Desc=Foes who dare strike you may find themselves with a nasty surprise as Nidalla's signature toxin seeps into their veins.
 
 tagItemSkillD145Name=Nightshade Venom
 tagItemSkillD145Desc=Release a vile toxin trapped within the blade that turns flesh into stone.
@@ -1825,7 +1825,7 @@ tagItemSkillD160Name=Rebuke
 tagItemSkillD160Desc=Crush your foe with a devastating blow worthy of a giant.
 
 tagItemSkillD161Name=Replication
-tagItemSkillD161Desc=Panetti's talent for replicating arcane spells becomes all the more impressive when he did so under great pressure. ^oRequires a Caster Off-Hand.
+tagItemSkillD161Desc=Panetti's talent for replicating arcane spells became all the more impressive when he did so under great pressure. ^oRequires a Caster Off-Hand.
 
 tagItemSkillD162Name=Retribution
 tagItemSkillD162Desc=Provoke nearby foes with a shockwave emanating from your shield. ^oRequires a shield.
@@ -1960,7 +1960,7 @@ tagItemSkillD205Name=Ward of Gul'Amash
 tagItemSkillD205Desc=The Ward of Gul'Amash shields you from physical harm when struck by physical blows.
 
 tagItemSkillD206Name=Ward of Illusion
-tagItemSkillD206Desc=Create shimmering field around yourself and your allies that distract your foes. ^oThis ability must be toggled to maintain its effect.
+tagItemSkillD206Desc=Create a shimmering field around yourself and your allies that distracts your foes. ^oThis ability must be toggled to maintain its effect.
 
 tagItemSkillD207Name=Warpfire
 tagItemSkillD207Desc=Ignite your foe with aetherfire, weakening them against further arcane assault.
@@ -2902,4 +2902,6 @@ tagEnemySkillD04_Desc=Raw eldritch energies surround this crystal, empowering el
 tagEnemySkillD05=Scepter of Aldritch
 tagEnemySkillD05_Desc=The Scepter of Aldritch emits arcs of energy that shock nearby foes.
 
+tagEnemySkillD06=Bloodsworn Curse
+tagEnemySkillD06_Desc=The curse of the Bloodsworn saps your willingness to fight off the corrupting powers of the void, reducing resistances, regeneration and Offensive Ability.
 

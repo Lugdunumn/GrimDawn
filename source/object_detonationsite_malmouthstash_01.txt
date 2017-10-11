@@ -1,0 +1,7 @@
+Detonation Site
+An improvised barricade is blocking this entrance. This must be Rictor's stash, you can clear it out with some heavy explosives.{^n}{^n}It will take 1 Dynamite to clear a path.
+Requires 1 Dynamite
+Destroy the Barricade.
+Leave it.
+You have already cleared this barricade.
+Ok.

@@ -1,0 +1,7 @@
+Detonation Site
+An improvised barricade is blocking this road. You can clear it out with some heavy explosives.{^n}{^n}It will take 3 Dynamite to clear a path.
+Requires 3 Dynamite
+Destroy the Barricade.
+Leave it.
+You have already cleared this barricade.
+Ok.

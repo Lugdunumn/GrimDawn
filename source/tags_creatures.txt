@@ -125,7 +125,7 @@ tagChthonianMinionHeroH03=Fos'Daroth
 tagChthonianMinionHeroH04=Ordran'Daroth
 tagChthonianMinionHeroH05=Pulv'Daroth
 tagChthonianMinionHeroH06=Maga'Lugal ~ Defender
-tagChthonianMinionHeroH07=Sharanatu ~ Shielded
+tagChthonianMinionHeroH07=Shar'Luthol ~ Shielded
 
 tagEnemyChthonianDreadguardA01=Chthonian Vanguard
 tagEnemyChthonianDreadguardB01=Chthonian Dreadguard

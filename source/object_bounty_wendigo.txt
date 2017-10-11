@@ -1,0 +1,108 @@
+Barrowholm Bounties
+The people of Barrowholm want nothing to do with you.
+Step away from the Bounty Table.
+You return with the materials in hand, a Bounty fulfilled.
+Report in.
+
+Step away from the Bounty Table.
+You return triumphantly, a Bounty fulfilled.
+Report in.
+
+Step away from the Bounty Table.
+You are already on a Bounty for Barrowholm
+Step away from the Bounty Table.
+You have earned the cult's trust and as such can gaze upon their more secretive works.
+Take a look at the bounty.
+You have fulfilled all of the posted Bounties for this session.
+Step away from the Bounty Table.
+Take a look at the bounty.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step away from the Bounty Table.
+Ravager demands death in his name.{^n}{^n}Strike deep within the Void's Edge and the Fringes of Sanity, seek out and slay the beasts called Oppressors. {^n}{^n}Anyone that accomplishes this goal will be compensated with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Ravager demands death in his name.{^n}{^n}Scour the Void's Edge and Fringest of Sanity, cleans it of those called Bloodkeepers.{^n}{^n}Anyone that accomplishes this goal will be compensated with materials from our stores.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Ravager's hunger must be sated.{^n}{^n}Cleanse Ugdenbog of the beasts call Mossflingers.{^n}{^n}Anyone that accomplishes this goal will be compensated with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Ravager calls for death in his name.{^n}{^n}Scour the Void's Edge, the Chthonian called Dar'Vagol must be destroyed.{^n}{^n}Anyone that destroys this foe will be compensated with materials from our stores.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Ravager's hunger must be sated.{^n}{^n}Slay Rhidal'Gulvor in the Cinder Wastes.{^n}{^n}Anyone that destroys this foe will be compensated with materials from our stores.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Cleanse The Undergrowth.{^n}{^n}Find the one called Swillius, in The Undergrowth, and claim his life in honor of the Ravager.{^n}{^n}Anyone that destroys this foe will be compensated with materials from our stores.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Ravager calls for death in his name.{^n}{^n}Search Gloomwald for the one called Polterrios and end his life.{^n}{^n}Anyone that destroys this foe will be compensated with materials from our stores.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+His hunger must be sated.{^n}{^n}Find Vladris, in the camps East of Barrowholm, and end his life in honor of Ravager.{^n}{^n}Anyone that destroys this foe will be compensated with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Ravager's hunger must be sated{^n}{^n}Seek out the one called Yoknar, in the bogs south of Barrowholm, and take his life in honor of Ravager.{^n}{^n}Anyone that destroys this foe will be compensated with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Ravager demands a powerful relic to feast upon. Only one tainted enough will do.{^n}{^n}The relic known as Corruption should appease our master, if but for a fleeting moment.{^n}{^n}Anyone that brings a Corruption Relic as an offering to the Great One will be rewarded with a Manticore Eye.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Packla, the once human chosen who has begun her transition, has grown violent in her hunger, lashing out even against her greater wendigos.{^n}{^n}This displeases Ravager. Packla must be brought down immediately. Seek her out in the cannibal camps scattered across Ugdenbog.{^n}{^n}Anyone that swiftly delivers Ravager's will shall be rewarded with materials from our stores.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Find Bargoll, the Mouldering Mound, in Ugdenbog and destory it in the name of the Ravager.{^n}{^n}Anyone that destroys this threat to our hideout will be compensated with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Ravager demands death in his name. {^n}{^n}Pay respect to the dead god and slay the one called Lunal'Valgoth in the Fringes of Sanity.{^n}{^n}Anyone that disposes of this challenger to Ravager's domain will be rewarded with materials from our stores.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Ravager will not be challenged.{^n}{^n}Enter the Void's Edge and slay the one called Ekket'Zul. {^n}{^n}Anyone that disposes of this usurper to Ravager's domain will be rewarded with rare materials from our stores.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+You have earned the cult's trust and as such can gaze upon their more secretive works.
+
+Step away from the Bounty Table.
+Barrowholm does not yet count you among its allies.{^n}{^n}A Respected reputation is required to access the Bounty Table.
+Step away from the Bounty Table.

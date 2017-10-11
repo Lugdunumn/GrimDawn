@@ -1,0 +1,110 @@
+Malmouth Bounties
+You return with the materials in hand, a Bounty fulfilled.
+Report in.
+
+Step away from the Bounty Table.
+You return with the materials in hand, a Bounty fulfilled.
+Report in.
+
+Step away from the Bounty Table.
+You return triumphantly, a Bounty fulfilled.
+Report in.
+
+Step away from the Bounty Table.
+You are already on a Bounty for the Malmouth Resistance.
+Step away from the Bounty Table.
+The resistance in Malmouth appreciates all assistance.{^n}{^n}But only tireless effort will see humanity through to victory.
+Take a look at the bounty.
+You have fulfilled all of the posted Bounties for this session.
+Step away from the Bounty Table.
+Take a look at the bounty.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step away from the Bounty Table.
+The Atherial's most foul creation can not be permitted to roam the streets of our city. {^n}{^n}The taken children must be laid to rest. {^n}{^n}Find Aetherial Imps roaming Malmouth sand eliminate them.{^n}{^n}Success on this mission will be suitably rewarded with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+We must seek vengeance for the atrocities committed in Malmouth.{^n}{^n}Find and eliminate the monstrosities called Architects of Flesh.{^n}{^n}The resistance has scavenged materials as reward for the successful completion of this task.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+We must continue our efforts to reclaim the city and its infrastructure.{^n}{^n}Scour the city streets and the sewers beneath, seek out and eliminate Aetherial Regurgitators. {^n}{^n}Success on this mission will be suitably rewarded with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The gilded streets of Crown Hill are overrun by Aetherial monstrosities.{^n}{^n}Seek out those called Spellbreakers and eliminate them in the name of the fallen.{^n}{^n}The resistance has scavenged materials as reward for the successful completion of this task.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Strike a precision blow against the enemies of the resistance.{^n}{^n}Eliminate the Aetherial named Bluggraag Blazebarf in the city sewers.{^n}{^n}The resistance has scavenged materials as reward for slaying this abomination.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The Malmouth resistance requires aid. {^n}{^n}A massive Aetherial called Stormtitan is wreaking havoc in the Steelcap District. {^n}{^n}Find the creature and eliminate it.{^n}{^n}The resistance has scavenged materials as reward for slaying this abomination.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The resistance is occupied in its efforts to retake the city but the threat surrounding Malmouth must not be forgotten.{^n}{^n}In the Malmouth Outskirts, find and destroy the one called Blazragarus.{^n}{^n}The resistance has scavenged materials as reward for slaying this abomination.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The liberation of Crown Hill will not be easy.{^n}{^n}An Aetherial ascendant by the name Torraxsteria has been spotted atop the ruins of the Crown Hill row houses, rallying the enemy into battle.{^n}{^n}She must be eliminated.{^n}{^n}The resistance has scavenged materials as reward for slaying this abomination.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The resistance is seeking the creation of a forgotten relic known as Sanctuary.{^n}{^n}While its protective properties are limited, having this object in their possession will be good for morale.{^n}{^n}Anyone who delivers this relic to the resistance will be compensated with Tainted Brain Matter.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The resistance requires more Aetherial Missives in order to study the language of the enemy.{^n}{^n}If their messages can be cracked, then the resistance can better plan its movements around Aetherial activity hot spots.{^n}{^n}Anyone that delivers an Aetherial Missive will be rewarded with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The Malmouth resistance requires aid.{^n}{^n}A massive Aetherial is hindering the transport of supplies in and out of the city through the Candle District.{^n}{^n}Go to there and destroy Bollag, Keeper of the Gates.{^n}{^n}The resistance has scavenged materials as compensation for bringing down this brute.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The portlight must be lit for the Legion's ships to use the Blackiron Docks.{^n}{^n}The resistance requests aid in the removal of an Aetherial called Hinissius in the city's lighthouse.{^n}{^n}Successfully destroying this monstrosity will be compensated with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The Malmouth resistance requires aid. {^n}{^n}A powerful Aetherial fleshshaper known as Haraxis is roaming the Steelcap District in search of new victims for its gruesome task.{^n}{^n}Find it and destroy it.{^n}{^n}Successfully destroying this monstrosity will be compensated with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The resitance requires aid in a particularly dire opperation.{^n}{^n}The bowels of the city must be cleansed. {^n}{^n}Deep in the the Aetherial factory two massive Aetherials guard its core. {^n}{^n}Eliminate Agalvar, the Bone Monger and Rodalgar, the Flesh Collector so resistance operations can continue.{^n}{^n}Anyone brave enough to take on these abominations will be given their share of the most rare scavenged materials.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The resistance in Malmouth appreciates all assistance.{^n}{^n}But only tireless effort will see humanity through to victory.
+
+Step away from the Bounty Table.
+The resistance in Malmouth is not yet sure if they can trust you with their most critical missions.{^n}{^n}A Respected reputation is required to access the Bounty Table.
+Step away from the Bounty Table.

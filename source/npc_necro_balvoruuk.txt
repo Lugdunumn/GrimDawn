@@ -16,6 +16,9 @@ I see.
 Farewell.
 
 You're welcome.
+An inquisitor here?{^n}{^n}What a strange sight.
+
+Farewell.
 Greetings.
 What can you tell me about the Order?
 We seek to bring a balance to the world and to follow the teachings of our master, Uroboruuk.
