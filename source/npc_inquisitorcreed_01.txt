@@ -1,52 +1,62 @@
 Inquisitor Creed
-So there are still survivors left in Malmouth, that's good news. Their intel will be invaluable in the battles ahead.{^n}{^n}If you open a path for us into the city, I will bring the Legion through the rift and together we shall retake Malmouth for humanity.
-I'm on it.
-All this carnage...
-The Aetherials will pay.
-I'm very glad to see you've returned from the void unscathed and were able to fight your way through to Malmouth outskirts.{^n}{^n}Now you must find a way inside the city and open a path for us. I will bring the Legion through the rift and together we shall take back the city.
-I'm on it.
-You found Ulgrim? You actually found him?{^n}{^n}Incredible. I suppose the coven really came through.
-Yes they did.
-So the way to Malmouth is cut off from us? Damn.{^n}{^n}It's very selfless of you to brave the void, just don't end up like Ulgrim.
-It's the only way.
-So you found the Coven then?{^n}{^n}I hope we're not making a mistake in trusting them.
-We seem to be on the same side.
-I suppose that's all that matters right now.
-At least for now, yes.
-We can't be turning on each other.
-I need to get back there.
-We're counting on you to find a way to Malmouth.{^n}{^n}I know you won't let us down.
-I...misplaced Ulgrim's Keepsake.
-You cannot be serious. How many of these do you think Ulgrim kept around? Don't answer that...{^n}{^n}Please be more careful with this one.
-Thank you. I'll be more careful.
-I...misplaced your pendant.
-I'm not sure I heard you correctly when you said you lost a precious Luminari relic that only a handful of inquisitors ever even had access to.{^n}{^n}Be more careful.
-Thank you. I'll be more careful.
-Where is the Coven again?
-You will need to head north from the Burrwitch Estates. An Aetherial barrier will block the road, but my pendant should help you get past it.{^n}{^n}Once you're in Gloomwald, head north along the road and search for a waterside lair housing the creature Carraxus Foul. Slay it and claim its heart so that you can offer it as tribute to the witches.{^n}{^n}I suspect the Coven's Refuge is somewhere on the edge of Ugdenbog, but I cannot be sure.
-I have other questions.
-I'll head out at once.
+If you have something to say, make it quick.
+
+Goodbye.
+I'm pleased that you will join us. It may take everything we have to stop the Cult of Ch'thon and their ritual.
+Where are we headed again?
+The Black Legion has a stronghold to the north. It lies just beyond the Asterkarn Mountains, through the Darkvale Gates.{^n}{^n}We are leaving soon with a small contingent of troops. Meet us there as soon as you are able.
+I'm on my way.
+We will stop them.
+Pressing matters to the north require our attention. We could use your help.{^n}{^n}Will you join us?
+Where do you need me?
+With the cultist ranks scattered, we can once again reconnect with the main Legion force to the north, and just in time too. Based on the information you've brought back from Karroz, we need to immediately send all available forces to the Necropolis and stop that ritual.{^n}{^n}Ulgrim and I will be leaving shortly with a small contingent of troops. Will you meet us at Fort Ikon? It lies just beyond the Asterkarn Mountains, through the Darkvale Gates.
+I will see you there.
+I'm afraid I can't.
+I have some matters I must attend to first.
+You're here. Good.{^n}{^n}We have much to discuss.
+I found these notes on Karroz.
+Hm, I have heard of this ritual. It has been performed only once before, if my memory serves me, and the results were...shall we say, not good.{^n}{^n}The Cult must not be allowed to see this through. We must make haste to Fort Ikon at once. Will you join us?
+Where do you need me?
+
+A timely rescue. The fate awaiting those prisoners was indeed a horrible one.
+
+
+Farewell.
+You have done well in destroying that abomination. I dread to think what it could have done should it have been let loose.
+
+What do you know about the Order and the Chosen?
+There was once a time when I would have been tasked with tracking down members of the Order of Death's Vigil, but I think we are a little past the privilege of such prejudice.{^n}{^n}Kymon's Chosen are fanatical heretics, but faith can be a powerful weapon.
+
+Thank you.
+Farewell.
+I hear you are headed to the Gruesome Harvest. Be mindful of the possessed trolls. They are even stronger than their living counterparts and highly resistant to the Aether. The Vanguards can even unleash the Aether in a burst of energy around them.{^n}{^n}The Reanimators will resurrect additional allies if not dealt with quickly, but if you manage to destroy them, their minions will fall along with them.
+How do you know so much about the Aetherials?
+I've dedicated all my resources to tracking down the Aetherial threat, but I was too late to stop the events that led to the Grim Dawn.{^n}{^n}Now I study the enemy, learn their tactics so that we make no further mistakes. Trust me, I fully intend to use every resource at our disposal.
+Well, thank you.
+
+Thanks for the tips.
+So much death...and no end in sight.
 I have some questions.
-Go ahead.
-What can I expect out there?
-The road north from Burrwitch has never been pleasant, passing through the treacherous Gloomwald and Ugdenbog.{^n}{^n}Between the toxic plant life and murky waters housing some of Cairn's most dangerous beasts, beyond the established road it's an inhospitable hell, but that is precisely why the Coven chose to hide out there. No one would willingly venture into those untamed lands, so the Coven was isolated and left in peace.{^n}
+If you have something to say, make it quick.
+How do you know Ulgrim?
+I've long known of Ulgrim by his previous title, the First Blade, although I was fortunate not to have met him in his working capacity back then. It was not until the days prior to the Grim Dawn that I met him in person. It was our mutual awareness of the Aetherial conspiracy and individual inability to counter it that brought us together. In the end, we realized the Aetherials already controlled too much of the government and could not be stopped. So we instead set out to gather resources and allies to weather the invasion and launch a resistance.
+The First Blade of the Emperor?
+Yes, the emperor's spymaster and assassin. His name was stricken from all the records. His very identity erased so he could exist outside the boundaries of the law.{^n}{^n}This gave the emperor great freedom in handling matters some would deem objectionable to the throne. All knew it, none would dare bring it to light lest they have a meeting with the First Blade. He was truly unparalleled in his art; feared even by the nightblades of the noble houses, many of whom silently met their end at his hands. One might question the morality of his job but not the ruthless effectiveness of his performance. {^n}{^n}I will say though, he did deliver a form of justice to many corrupt and vile men. He silenced many conflicts before they could grow into larger and bloodier ordeals.
 I have another question.
-I need to get moving.
-What happened in Malmouth?
-Amala can give you a more up to date explanation, but Malmouth was one of the first cities to fall to the Aetherials when the Grim Dawn started.{^n}{^n}Ulgrim passed through there on the way south when we split up at the capital and his reports were as depressing as you would expect. We had believed Malmouth to be a lost cause, completely overrun by the enemy and devoid of survivors, but Amelia here is a testament to humanity's resilience and evidence that the fight for Malmouth is not yet over.
+The capital sounded like a treacherous place.
 I have another question.
-I need to get moving.
-Is there no other way to Malmouth?
-Used to be you could travel across the lake, but with the waters full of eldritch monstrosities and intact ships in short supply, we do not have the capabilities to send that many soldiers up to Malmouth via the water. Better to encounter foes on land that we have a chance against than to find ourselves at the mercy of whatever lurks beneath the depths of the lake. It's not a risk I'd want to take.{^n}{^n}We will have to follow the roads from Burrwitch, or perhaps travel via riftgate if you manage to secure one. I'm counting on you.
+I see.
+How did you escape from Warden Krieg's lab?
+As an inquisitor, I had access to many occult artifacts and relics that had come into the safekeeping of the Luminari. Some that were deemed more benign were occasionally lent out to veteran inquisitors and I have used them to great advantage.{^n}{^n}Krieg underestimated that.
+Could I have access to some of these?
+These aren't toys we just hand out to everybody. They are powerful artifacts that have to be handled carefully. Besides that, they are now irreplaceable as the vault of the Luminari has fallen into the hands of our enemies. I can only hope that the Aetherials never discern the power of some of the more potent objects within the vaults or are at least wise enough not to use them.{^n}{^n}In any case, I'm afraid the answer is no.
 I have another question.
-I need to get moving.
-Why is finding Ulgrim so damn important?
-There's a lot to Ulgrim that you don't know about, that none of us know about.{^n}{^n}He seems more than human and I suspect has been walking this world for a lot longer than you and I combined. He could become a devastating weapon of the Ch'thonians if we allow them to corrupt his mind.{^n}{^n}Maybe there is some degree of comradery influencing my thinking but I do feel that he could become a threat if we leave him to be consumed by the madness of the void.
+Very well.
 I have another question.
-I need to get moving.
-Nevermind.
-I need to get moving.
-Go over what happened in Fort Ikon again. (Play Intro)
-All this carnage...
-The Aetherials will pay.
-Go over what happened in Fort Ikon again. (Play Intro)
+Farewell.
+What does an inquisitor do?
+The inquisitors of the Luminari were responsible for investigating and eliminating any supernatural threats within the empire. That could mean anything from breaking up an occult coven to securing a dangerous artifact or even hunting down otherworldly creatures that occasionally cross the veil between realities.{^n}{^n}The Cult of Ch'thon was one of the greatest challenges because the root of it, the dying god, is beyond our reach or power to destroy. It has been with us since ancient times. Given their recent rise to power, it also seems to be one of our greatest failures.
+I have another question.
+Farewell.
+Actually, nevermind.
+Goodbye.
