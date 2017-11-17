@@ -13,9 +13,9 @@ Destroy the Aetherial Barrier leading north out of the Burrwitch Estates
 
 A Worthy Tribute
 With the barrier destroyed, you can now enter Gloomwald and seek out the Coven of Ugdenbog. But the witches are not likely to simply welcome you with open arms, much less help you in your predicament. In order to appease them, Inquisitor Creed recommended hunting down Carraxus Foul, the scourge of Ugdenbog, and bringing its heart to Garradia, one of the witches in the coven.{^n}{^n}Carraxus Foul has been a menace in those parts for years, and its heart is sure to serve some questionable purpose in a witch's ritual. But desperate times demand that such acts be overlooked. Follow the road through Gloomwald and look for a cave near the waterfront. Carraxus Foul had likely turned it into a den.{^n}{^n}Once you have the heart, bring it to the Coven's Refuge, somewhere on the border between Gloomwald and Ugdenbog. Present it to the witches along with Ulgrim's Keepsake.
-Slay Carraxus Foul and take its heart.
+Slay Carraxus Foul and take its heart
 Acquire Ulgrim's Keepsake from Inquisitor Creed
-Bring the Heart and Ulgrim's Keepsake to Garradia in the Coven of Ugdenbog.
+Bring the Heart and Ulgrim's Keepsake to Garradia in the Coven of Ugdenbog
 
 
 

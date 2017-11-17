@@ -103,10 +103,20 @@ Underneath Fort Ikon to the north, there is a crypt dedicated to an ancient fait
 I will gather them now.
 Not yet.
 Master Varuuk speaks highly of your contributions. The Order values a mind such as yours and the Black Legion's acceptance of our ways, through your representation.{^n}{^n}But by now I am sure you are eager to see the culmination of your efforts. However, one last thing remains before we can return Malkadarr to us.
+What is it?
+Underneath Fort Ikon to the north, there is a crypt dedicated to an ancient faith. Therein lies the Tomb of Archon Barthollem, a once powerful priest. The Archon was cremated upon death, his ashes stored within a sacred urn. In order to bring back Malkadarr, we must gather these ashes. They will serve as the core of his revenant body.{^n}{^n}Unfortunately, Kymon's Chosen have already moved in on the crypt, declaring its contents sacred to their misguided faith. We will have to take the ashes from them by force.{^n}{^n}The Order is already advancing on the crypt as we speak. I need you to spearhead the attack. Wipe them out and claim the ashes for the Order!
+I will gather the ashes.
+I will not take part in this slaughter.
+
 
 
 We will have to talk later.
 Master Varuuk speaks highly of your contributions, in spite of your history as an inquisitor.{^n}{^n}I must say, it comes as a surprise to me, but I am willing to look past somebody's past if their actions show a willingness to change.{^n}{^n}I am sure you are eager to see the culmination of your efforts. However, one last thing remains before we can return Malkadarr to us.
+What is it?
+Underneath Fort Ikon to the north, there is a crypt dedicated to an ancient faith. Therein lies the Tomb of Archon Barthollem, a once powerful priest. The Archon was cremated upon death, his ashes stored within a sacred urn. In order to bring back Malkadarr, we must gather these ashes. They will serve as the core of his revenant body.{^n}{^n}Unfortunately, Kymon's Chosen have already moved in on the crypt, declaring its contents sacred to their misguided faith. We will have to take the ashes from them by force.{^n}{^n}The Order is already advancing on the crypt as we speak. I need you to spearhead the attack. Wipe them out and claim the ashes for the Order!
+I will gather the ashes.
+I will not take part in this slaughter.
+
 
 
 We will have to talk later.

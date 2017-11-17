@@ -1,4 +1,13 @@
 Tyvald Hallows
+So, has the mine been secured? Have you butchered the pests threatening our supplies?
+Yes, the infestation has been dealt with.
+That's good news. A pity I could not spill their blood myself.{^n}{^n}Here, these materials should prove useful to you. You should feel fortunate, it's not exactly easy to scrounge up that much scrap in a bog.
+Thank you.
+Farewell.
+I see that the warding aura surrounding Barrowholm appears to have been restored.{^n}{^n}That's your doing, I take it?
+Correct.
+Seems we won't be spilling your blood today.{^n}{^n}Well done.
+Farewell.
 It pleases me that Ravager has returned, but I cannot help feel as if my own destiny was not realized.{^n}{^n}I wish to spill blood in his honor and feast upon the flesh of our fallen foes!
 What will you do now?
 Honestly, I do not know.{^n}{^n}I've been preparing for this moment for months and now that it's here, I feel so...empty...{^n}{^n}Not even the taste of flesh quells my unrest.

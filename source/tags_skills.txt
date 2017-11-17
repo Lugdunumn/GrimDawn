@@ -129,7 +129,7 @@ tagClass01SkillName06B=Zolhan's Technique
 tagClass01SkillDescription06B=Named for the famed fighting master, this attack uses a low center of mass and powerful swing to imbalance your opponents. ^oCan activate with all default weapon attacks. When used with a melee weapon, the attack strikes multiple nearby targets.
 
 tagClass01SkillName07A=Fighting Spirit
-tagClass01SkillDescription07A=Far from beating you into submission, the sting of enemy blows rouses your anger instead, adding extra force to your attacks.
+tagClass01SkillDescription07A=Far from beating you into submission, the sting of enemy blows rouses your anger instead, adding extra force to your attacks. ^oActivates when taking damage.
 tagClass01SkillName08A=Menhir's Will
 tagClass01SkillDescription08A=As you draw close to death, the unyielding will of Menhir fills you with renewed strength. ^oRequires a shield or two-handed melee weapon.
 
@@ -1606,7 +1606,7 @@ tagItemSkillD087Name=Feast of Souls
 tagItemSkillD087Desc=Feast upon the souls of nearby foes, reinvigorating your own.
 
 tagItemSkillD088Name=Fiend's Flesh
-tagItemSkillD088Desc=The flesh of the fiend protects you and your minions from harm.
+tagItemSkillD088Desc=The flesh of the fiend protects you from harm.
 
 tagItemSkillD089Name=Fiendmaster
 tagItemSkillD089Desc=Enact your will upon all your minions, and those of your allies. ^oThis ability must be toggled to maintain its effect.
@@ -1663,10 +1663,10 @@ tagItemSkillD106Name=Harbinger's Mark
 tagItemSkillD106Desc=Tag your foe with the Mark of the Harbinger, a devious spell that will spread to nearby enemies.
 
 tagItemSkillD107Name=Harbinger's Aim
-tagItemSkillD107Desc=The Harbinger was an expert in ranged combat, preferring the use of a rifle to take out his foes at range. ^oThis is a ranged two-handed weapon passive bonus.
+tagItemSkillD107Desc=The Harbinger was an expert in ranged combat, preferring the use of a crossbow to take out his foes at range. ^oThis is a ranged two-handed weapon passive bonus.
 
 tagItemSkillD108Name=Harbinger's Grasp
-tagItemSkillD108Desc=The Harbinger earned his reputation by combining the lethal power of guns with occult magic. ^oThis is a ranged two-handed weapon passive bonus.
+tagItemSkillD108Desc=The Harbinger earned his reputation by combining the lethal power of ranged weaponry with occult magic. ^oThis is a ranged two-handed weapon passive bonus.
 
 tagItemSkillD109Name=Havoc
 tagItemSkillD109Desc=Unleash havoc upon your foes with a wild spray of shots.
@@ -1684,7 +1684,7 @@ tagItemSkillD113Name=Hungering Swarm
 tagItemSkillD113Desc=Release a swarm of hungering insects to tear apart your foes.
 
 tagItemSkillD114Name=Ice Nova
-tagItemSkillD114Desc=Unleash a surge of chilling energies that will freeze foes solid.
+tagItemSkillD114Desc=Unleash a surge of chilling energies at nearby foes.
 
 tagItemSkillD115Name=Icechill
 tagItemSkillD115Desc=With great concentration, you sap all the heat from the air around you, chilling and freezing foes.

@@ -80,34 +80,6 @@ tagMapSymbolTransmuteNpcDesc=Illusionist illusions.
 #Skills
 tagItemSkillModified= {^E}to {^Z}{%s0}
 
-#Skill Wheel
-tagSkillConfig01=Config 1
-tagSkillConfig02=Config 2
-
-#Gamepad HUD
-tagGamePadSelect=Select
-tagGamePadBack=Back
-tagGamePadEquip=Equip Item
-tagGamePadDrop=Drop Item
-tagGamePadUseItem=Use Item
-tagGamePadSellItem=Sell Item
-tagGamePadMoveItem=Move Item
-tagGamePadScroll=Scroll
-tagGamePadAssignSkills=Assign Skills
-tagGamePadSwapConfig=Swap Configuration
-tagGamePadMove=Move
-tagGamePadZoomIn=Zoom In
-tagGamePadZoomOut=Zoom Out
-tagGamePadExit=Exit
-tagGamePadRevert=Revert
-tagGamePadSplitStack=Split Stack
-
-tagGamePadCharacter=Character
-tagGamePadSkills=Skills
-tagGamePadMap=Map
-tagGamePadFactions=Factions
-tagGamePadAchieve=Achievements
-
 #Char Stats Tab 2
 tagCharStatsInquisitorSkillsBonus=Inquisitor Skills
 tagCharStatsInquisitorSkillsBonusInfo=Bonus to all learned skills in the Inquisitor Mastery.

@@ -9,7 +9,7 @@ You return triumphantly, a Bounty fulfilled.
 Report in.
 
 Step away from the Bounty Table.
-You are already on a Bounty for Barrowholm
+You are already on a Bounty for Barrowholm.
 Step away from the Bounty Table.
 You have earned the cult's trust and as such can gaze upon their more secretive works.
 Take a look at the bounty.
@@ -36,7 +36,7 @@ Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-Ravager demands death in his name.{^n}{^n}Scour the Void's Edge and Fringest of Sanity, cleans it of those called Bloodkeepers.{^n}{^n}Anyone that accomplishes this goal will be compensated with materials from our stores.
+Ravager demands death in his name.{^n}{^n}Scour the Void's Edge and Fringes of Sanity, cleans it of those called Bloodkeepers.{^n}{^n}Anyone that accomplishes this goal will be compensated with materials from our stores.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
@@ -81,12 +81,12 @@ Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-Packla, the once human chosen who has begun her transition, has grown violent in her hunger, lashing out even against her greater wendigos.{^n}{^n}This displeases Ravager. Packla must be brought down immediately. Seek her out in the cannibal camps scattered across Ugdenbog.{^n}{^n}Anyone that swiftly delivers Ravager's will shall be rewarded with materials from our stores.
+Packla, the once human chosen who has begun her transition, has grown violent in her hunger, lashing out even against her greater wendigos.{^n}{^n}This displeases Ravager. Packla must be brought down immediately. Seek her out in the cannibal camps scattered across Gloomwald.{^n}{^n}Anyone that swiftly delivers Ravager's will shall be rewarded with materials from our stores.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-Find Bargoll, the Mouldering Mound, in Ugdenbog and destory it in the name of the Ravager.{^n}{^n}Anyone that destroys this threat to our hideout will be compensated with iron bits.
+Find Bargoll, the Mouldering Mound, in Ugdenbog and destroy it in the name of the Ravager.{^n}{^n}Anyone that destroys this threat to our hideout will be compensated with iron bits.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.

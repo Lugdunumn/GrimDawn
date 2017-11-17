@@ -2288,7 +2288,7 @@ tagCraftComponentRareDesc=An extraordinary crafting technique thought lost to th
 tagCraftShardBeronathDesc=Transmute steel into a shard of the sacred Beronath.
 tagCraftRelicDesc=Ancient forging technique thought lost to the Grim Dawn.
 tagCraftTransmuteDesc=Through the heat of the forge and a bit of alchemy, rare materials can be transmuted to other equally rare creations.
-tagCraftRandomLegendaryDesc=The blacksmith combines the raw arcane power within these objects to create an object of Legendary potential, up to level 75. Characters below level 50 will craft an Epic item instead.
+tagCraftRandomLegendaryDesc=The blacksmith combines the raw arcane power within these objects to create an object of Legendary potential, up to level 75. Characters below level 58 may craft an Epic item instead.
 tagCraftRandomLegendaryAccessoryDesc=The blacksmith combines the raw arcane power within these objects to create an object of Legendary potential, up to level 75. Characters below level 58 will craft an Epic item instead.
 
 tagCraftRandomAxe=Enchanted Axe
@@ -4267,6 +4267,7 @@ tagLocked_BlackLegion= {^R} ~ Sealed by the Black Legion
 tagLocked_Cult= {^R} ~ Sealed by the Cult of Ch'thon
 tagUGDoorDermapteranQueen=Entrance to Queen's Lair
 tagUGDoorDermapteranQueenLocked= {^R} ~ Sealed by the Grand Viziers
+tagUGDoorDermapteranQueenShortcut=Shortcut to Hive Entrance
 tagDoorRampart=Barricaded Doors
 tagDoorWarden=Iron Doors
 tagDoorFarmland=Wooden Gate

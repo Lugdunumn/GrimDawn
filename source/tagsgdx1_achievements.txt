@@ -97,11 +97,11 @@ achGDX1030Desc=Complete the Ashes of Malmouth on Elite Difficulty.
 achGDX1031Title=Savior of Malmouth
 achGDX1031Desc=Complete the Ashes of Malmouth on Ultimate Difficulty.
 
-achGDX1032Title=Unequaled Slayer
-achGDX1032Desc=Eradicate 2000 Heroic Monsters (marked by a Star).
+achGDX1032Title=Mass Extermination
+achGDX1032Desc=Rid Cairn of 750000 Monsters.
 
-achGDX1033Title=Mass Extermination
-achGDX1033Desc=Rid Cairn of 750000 Monsters.
+achGDX1033Title=Unequaled Slayer
+achGDX1033Desc=Eradicate 2000 Heroic Monsters (marked by a Star).
 
 achGDX1034Title=A Mad Stash
 achGDX1034Desc=Raid Ivonda's Hidden Stash.

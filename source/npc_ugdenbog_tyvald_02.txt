@@ -1,4 +1,13 @@
 Tyvald Hallows
+So, has the mine been secured? Have you butchered the pests threatening our supplies?
+Yes, the infestation has been dealt with.
+That's good news. A pity I could not spill their blood myself.{^n}{^n}Here, these materials should prove useful to you. You should feel fortunate, it's not exactly easy to scrounge up that much scrap in a bog.
+Thank you.
+Farewell.
+I see that the warding aura surrounding Barrowholm appears to have been restored.{^n}{^n}That's your doing, I take it?
+Correct.
+Seems we won't be spilling your blood today.{^n}{^n}Well done.
+Farewell.
 None will stand in our way now.
 Goodbye.
 Not even your efforts were enough to thwart us.{^n}{^n}Begone from this place before I end you.

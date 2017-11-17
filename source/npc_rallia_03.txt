@@ -5,7 +5,7 @@ I hear the wards have been restored.{^n}{^n}Well done.
 Farewell.
 Welcome back.
 How did you make it here all the way from Blood Grove?
-It wasn't simple, I can tell you that. After Malostria's calls become more frequent, I set out east towards the lake.{^n}{^n}I traveled part of the way by boat, but that dingy thing did not last long in the turbulent waters. I found myself off the coast of Wightmire, nearly drowned.{^n}{^n}Thankfully, a couple of Rovers found me before the slith did. With their help, I recovered quickly and made my way up here.
+It wasn't simple, I can tell you that. After Malostria's calls became more frequent, I set out east towards the lake.{^n}{^n}I traveled part of the way by boat, but that dingy thing did not last long in the turbulent waters. I found myself off the coast of Wightmire, nearly drowned.{^n}{^n}Thankfully, a couple of Rovers found me before the slith did. With their help, I recovered quickly and made my way up here.
 This Malostria called to you?
 Yes, she is a powerful psychic and nearly burnt at the stake herself for her ability to tap into the Aether.{^n}{^n}Magnified by the powers of the other witches, Malostria called out to anyone with the gift who might hear. The lucky few who interpreted her summons and survived the journey are here.
 
@@ -22,7 +22,7 @@ We meet again, friend.{^n}{^n}I must admit, I had some reservations regarding yo
 I appreciate that.
 We meet again, friend.{^n}{^n}I must say, your past had me concerned for my safety, but you have proven to be unlike other Luminari-trained. More understanding...compassionate.{^n}{^n}My sisters will breathe easier knowing that you are not just another inquisitor and I will make sure they hear of it.{^n}{^n}Do not worry, I will not speak of your...origins to the others. Even though they endured prejudice in the empire, they are not entirely free of it themselves. That's humanity for you, I suppose.
 How did you make it here all the way from Blood Grove?
-It wasn't simple, I can tell you that. After Malostria's calls become more frequent, I set out east towards the lake.{^n}{^n}I traveled part of the way by boat, but that dingy thing did not last long in the turbulent waters. I found myself off the coast of Wightmire, nearly drowned.{^n}{^n}Thankfully, a couple of Rovers found me before the slith did. With their help, I recovered quickly and made my way up here.
+It wasn't simple, I can tell you that. After Malostria's calls became more frequent, I set out east towards the lake.{^n}{^n}I traveled part of the way by boat, but that dingy thing did not last long in the turbulent waters. I found myself off the coast of Wightmire, nearly drowned.{^n}{^n}Thankfully, a couple of Rovers found me before the slith did. With their help, I recovered quickly and made my way up here.
 This Malostria called to you?
 Yes, she is a powerful psychic and nearly burnt at the stake herself for her ability to tap into the Aether.{^n}{^n}Magnified by the powers of the other witches, Malostria called out to anyone with the gift who might hear. The lucky few who interpreted her summons and survived the journey are here.
 Fascinating.

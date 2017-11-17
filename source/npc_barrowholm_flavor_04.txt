@@ -5,7 +5,7 @@ I said, get away from me.{^n}{^n}I know what you've done. We don't want any more
 Ok, I'm leaving.
 Watch your back.
 I'm just passing through.
-Ah, now you know, now you have seen with your own eyes. Is he not magnificient?
+Ah, now you know, now you have seen with your own eyes. Is he not magnificent?
 Ravager?
 Yes of course, Ravager.{^n}{^n}Who else might I be speaking of. {^n}{^n}You were there, I saw you. Scorv chose you to finalize the ritual. {^n}{^n}You spoke with the spirit. It must have been life changing.
 
@@ -15,7 +15,7 @@ I uh... well  yes.{^n}{^n}You caught me, you caught me red handed.{^n}{^n}How co
 
 Hey may yet take it. 
 Meh, I wasn't impressed.
-What? How dare you?{^n}{^n}I should hope he isn't listening right now. {^n}{^n}Great spirit... Ravager, I'm sure [[ms]he[fs]she] didn't mean it. I ask as your humble servant, please fogive this poor imbecile. 
+What? How dare you?{^n}{^n}I should hope he isn't listening right now. {^n}{^n}Great spirit... Ravager, I'm sure [[ms]he[fs]she] didn't mean it. I ask as your humble servant, please forgive this poor imbecile. 
 You just might be crazy.
 Still not impressed.
 I don't have time, sorry old man.

@@ -263,6 +263,33 @@ tagGDX1YetiSwampHeroH02=Bonegnash
 tagGDX1YetiSwampHeroH03=Rotblood ~ Vampiric
 tagGDX1YetiSwampHeroH04=Aethermane ~ Corrupted
 
+#CreatureBeastRoguelike
+tagGDX1EnemyBasiliskAetherA01=Aethertongue Basilisk
+tagGDX1EnemyBasiliskAetherB01=Aethergaze Basilisk
+tagGDX1EnemyBasiliskAetherC01=Aetherblood Basilisk
+
+tagGDX1EnemyBasiliskChthonicA01=Voidtongue Basilisk
+tagGDX1EnemyBasiliskChthonicB01=Voidgaze Basilisk
+tagGDX1EnemyBasiliskChthonicC01=Voidblood Basilisk
+
+tagGDX1EnemyBoarChthonicB01=Voidtusk
+tagGDX1EnemyBoarChthonicC01=Gargantuan Voidtusk
+
+tagGDX1EnemyManticoreChthonicA01=Void-Tainted Manticore
+tagGDX1EnemyManticoreChthonicB01=Void-Tainted Wastestalker
+tagGDX1EnemyManticoreChthonicC01=Void-Tainted Alpha
+
+tagGDX1EnemySwampCrabAetherA01=Fleshwarped Crab
+tagGDX1EnemySwampCrabAetherB01=Fleshwarped SpikeShell
+tagGDX1EnemySwampCrabAetherC01=Fleshwarped Stoneshell
+
+tagGDX1EnemyThornedHorrorAetherA01=Aetherthorn Horror
+tagGDX1EnemyThornedHorrorAetherB01=Aetherthorn Terror
+tagGDX1EnemyThornedHorrorAetherC01=Aetherthorn Monstrosity
+
+tagGDX1EnemyYetiChthonicB01=Voidmane Rager
+tagGDX1EnemyYetiChthonicB02=Voidmane Bloodbreather
+tagGDX1EnemyYetiChthonicC01=Voidmane Alpha
 
 
 #CreatureTraps

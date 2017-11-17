@@ -17,7 +17,7 @@ I'll be going now.
 No, I think you're mistaken.
 I'm glad I could help.
 I'm sorry, I need to go.
-Welcome back. I've just finished making a fesh batch of stew.{^n}{^n}Are you sure I can't interest you in trying some?
+Welcome back. I've just finished making a fresh batch of stew.{^n}{^n}Are you sure I can't interest you in trying some?
 No I'm all set.
 Suit your self.{^n}{^n}This batch is made with fresh meat, thanks to you.
 Fesh meat?

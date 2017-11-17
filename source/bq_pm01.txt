@@ -1,7 +1,7 @@
 Bounties
 Bounty: Imps
 Bounty
-The Atherial's most foul creation can not be permitted to roam the streets of our city. {^n}{^n}The taken children must be laid to rest. {^n}{^n}Find Aetherial Imps roaming Malmouth sand eliminate them.{^n}{^n}Success on this mission will be suitably rewarded with iron bits.
+The most foul Aetherial creation can not be permitted to roam the streets of our city. {^n}{^n}The taken children must be laid to rest.{^n}{^n}Find Aetherial Imps roaming Malmouth and eliminate them.{^n}{^n}Success on this mission will be suitably rewarded with iron bits.
 
 Slay Aetherial Imps
 

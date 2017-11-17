@@ -40,7 +40,7 @@ tagGDX1Class07SkillDescription01C=With a single word, elemental energies rupture
 tagGDX1Class07SkillName02A=Storm Box of Elgoloth
 tagGDX1Class07SkillDescription02A=Open the runed Storm Box of Elgoloth, surrounding the target foe with a psychic energy that electrifies the very air around them, shocking the target and all unfortunate enough to stand too close.
 tagGDX1Class07SkillName02B=Lightning Tether
-tagGDX1Class07SkillDescription02B=The target becomes tethered to you through an electrified connection that shocks all enemies unfortunate enough to pass through it. The power within the tether is limited however and will snap should the distance between you and the target become too great. ^oUp to 3 enemies can remain tethered at any given time.
+tagGDX1Class07SkillDescription02B=The target becomes tethered to you through an electrified connection that rapidly shocks the target and all enemies unfortunate enough to pass through it. The power within the tether is limited however and will snap should the distance between you and the target become too great. ^oUp to 3 enemies can remain tethered at any given time.
 tagGDX1Class07SkillName02C=Allagast's Arcane Net
 tagGDX1Class07SkillDescription02C=Although the Luminari were known to police the activities of the Gildam Arcanum, sanctioned collaboration was not unheard of between the two orders. With carefully calculated adjustments to the Storm Box, the field becomes infused with arcane energies that swell with the Aether. ^oThe tether remains electrified.
 
@@ -106,7 +106,7 @@ tagGDX1Class07SkillName14A=Storm Spread
 tagGDX1Class07SkillDescription14A=A reckless technique for when enemy numbers prove overwhelming, a spread across a room can quickly even the odds. ^oThis is a ranged technique that activates off of default weapon attacks.
 
 tagGDX1Class07SkillName15A=Deadly Aim
-tagGDX1Class07SkillDescription15A=For an Inquisitor facing off against some of humanity's greatest foes, sometimes a single shot or well-placed critical blow is all the opportunity they have, and the only one they need.
+tagGDX1Class07SkillDescription15A=For an Inquisitor facing off against some of humanity's greatest foes, sometimes a single shot or well-placed ^ocritical blow^w is all the opportunity they have, and the only one they need.
 
 tagGDX1Class07SkillName16A=Artifact Handling
 tagGDX1Class07SkillDescription16A=Careful handling of the dangerous relics and artifacts replicated from the Vault of the Luminari storage is central to all Inquisitor training. In inexperienced hands, even the best of intentions could spell doom for the wielder, and those around them. ^o[Affects Rune of Hagarrad and Rune of Kalastor and requires one to unlock]
@@ -341,7 +341,7 @@ tagGDX1ItemSkillD127Name=Executioner's Edge
 tagGDX1ItemSkillD127Desc=Unleash a deadly spinning blade to decapitate your foes.
 
 tagGDX1ItemSkillD128Name=Gladiator's Persistence
-tagGDX1ItemSkillD128Desc=Persistence through glorious battle. ^oThis is a meele and ranged two-handed weapon passive bonus.
+tagGDX1ItemSkillD128Desc=Persistence through glorious battle. ^oThis is a melee and ranged two-handed weapon passive bonus.
 
 tagGDX1ItemSkillD129Name=Treacherous Means
 tagGDX1ItemSkillD129Desc=Victory through any means. ^oThis is a ranged weapon passive bonus.
@@ -437,7 +437,7 @@ tagGDX1ItemSkillD159Name=Briar Wave
 tagGDX1ItemSkillD159Desc=A wave of briars erupts from the ground to pierce your foes.
 
 tagGDX1ItemSkillD160Name=Avenger's Might
-tagGDX1ItemSkillD160Desc=Unparalleled physical resilience and strength. ^oThis is a meele and ranged two-handed weapon passive bonus.
+tagGDX1ItemSkillD160Desc=Unparalleled physical resilience and strength. ^oThis is a melee and ranged two-handed weapon passive bonus.
 
 tagGDX1ItemSkillD161Name=Nature's Avenger
 tagGDX1ItemSkillD161Desc=The avenger's spirit swells within you.
@@ -484,14 +484,14 @@ tagGDX1ItemSkillD174Desc=Mark your foe with a runic trap that cripples their mov
 tagGDX1ItemSkillD175Name=Dark One's Gift
 tagGDX1ItemSkillD175Desc=The vestments, anointed with the dead god's blood, offer a gift to the bearer in time of need.
 
-tagGDX1ItemSkillD176Name=Galgabor's Corruption
-tagGDX1ItemSkillD176Desc=The corrupted core of Galgabor singes your foes once, then returns to renew the suffering.
+tagGDX1ItemSkillD176Name=Gargabol's Corruption
+tagGDX1ItemSkillD176Desc=The corrupted core of Gargabol singes your foes once, then returns to renew the suffering.
 
 tagGDX1ItemSkillD177Name=Aetherblaze
 tagGDX1ItemSkillD177Desc=A blaze of pure arcane fire erupts beneath your foes.
 
-tagGDX1ItemSkillD178Name=
-tagGDX1ItemSkillD178Desc=
+tagGDX1ItemSkillD178Name=Void Rounds
+tagGDX1ItemSkillD178Desc=A barrage infused with void energies passes through your foes and unmakes them from within. ^oThis is a ranged technique that activates off of default weapon attacks. Also enables the ability to dual wield ranged weapons.
 
 tagGDX1ItemSkillD179Name=
 tagGDX1ItemSkillD179Desc=
@@ -517,7 +517,7 @@ tagGDX1CompSkillA105Name=Aether Corruption
 tagGDX1CompSkillA105Desc=Corrupting Aether energy rips through your foes, rapidly spreading corruption among your enemies.
 
 tagGDX1CompSkillA106Name=Burning Void
-tagGDX1CompSkillA106Desc=Unleash an attack infused with the destructive forces of the Void upon nearby foes. When used with a ranged weapon, the projectile will explode upon contact.
+tagGDX1CompSkillA106Desc=By enveloping your weapon within the destructive forces of the Void, you can unleash its power upon unsuspecting foes with a calculated blow. When used with a ranged weapon, the projectile will explode upon contact. ^oCan activate with all default weapon attacks.
 
 tagGDX1CompSkillA107Name=Chillspikes
 tagGDX1CompSkillA107Desc=Hurl conjured spikes of pure ice to pierce your foes.
@@ -580,7 +580,7 @@ tagGDX1RelicSkillD104Name=Elemental Bane
 tagGDX1RelicSkillD104Desc=Unleash a bolt of pure elemental energies to knock back any advancing foes.
 
 tagGDX1RelicSkillD105Name=Doomforce
-tagGDX1RelicSkillD105Desc=Unleash a physical shockwave so powerful that it knocks down and draws in nearby foes.
+tagGDX1RelicSkillD105Desc=Unleash a physical shockwave so powerful that it shatters the defenses of your foes.
 
 tagGDX1RelicSkillD106Name=Blazing Charge
 tagGDX1RelicSkillD106Desc=Charge forth into battle in the name of Empyrion and incinerate foes with the divine flame. ^oRequires a melee weapon. When used with a shield, the shield's damage is added.
@@ -594,8 +594,8 @@ tagGDX1RelicSkillD108Desc=A favorite technique of the Nightblade master Nidalla,
 tagGDX1RelicSkillD109Name=Time Loop
 tagGDX1RelicSkillD109Desc=Your actions ripple through time. ^oRequires a Caster Off-Hand.
 
-tagGDX1RelicSkillD110Name=Blood Orb
-tagGDX1RelicSkillD110Desc=Launch an orb of volatile blood at your foes.
+tagGDX1RelicSkillD110Name=Blood Spine
+tagGDX1RelicSkillD110Desc=Unleash a blood-coated spine of bone at your foes.
 
 tagGDX1RelicSkillD111Name=Reaping Arc
 tagGDX1RelicSkillD111Desc=Swing with your weapon in an arc, cleaving through foes and reaping their souls. ^oRequires a melee weapon.

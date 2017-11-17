@@ -39,7 +39,7 @@ Where should I be looking?
 Master Ravok is in Fort Haron, in the northern Blood Grove.{^n}{^n}Do not fail us.
 I will go there now.
 I've barely started.
-Father Kymon is impressed with your recent actions against the Cult of Ch'thon and is willing to overlook your past trasngressions.{^n}{^n}He wishes to test your committment to our cause. This next mission will determine whether you truly are one of us or if you are lying even to yourself.{^n}{^n}Do not fail the Father's trust.
+Father Kymon is impressed with your recent actions against the Cult of Ch'thon and is willing to overlook your past transgressions.{^n}{^n}He wishes to test your commitment to our cause. This next mission will determine whether you truly are one of us or if you are lying even to yourself.{^n}{^n}Do not fail the Father's trust.
 
 I cannot right now.
 Father Kymon is impressed with your recent actions against the Cult of Ch'thon.{^n}{^n}I am to entrust you with a critical mission. Do not fail the Father's trust.

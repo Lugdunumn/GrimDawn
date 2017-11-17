@@ -1,4 +1,10 @@
 Garett Torven
+I heard news that the fiend that destroyed my home has been vanquished at last.{^n}{^n}I never thought I'd see the day, and I certainly dispelled any illusions that I'd see Malmouth ever again.{^n}{^n}Thank you.
+You're welcome.
+Farewell.
+So you waded through that nightmare and made it to Malmouth.{^n}{^n}I don't know where you get the strength.
+I do what must be done.
+Farewell.
 This place is like a dream I can't quite shake off.{^n}{^n}It is a shame that our nightmares in Malmouth have reached even here.
 Why did you ask your daughter to go ahead alone?
 We were attacked by those...things. I froze up, Amala...saved me, but not before one of the wretches tore up my leg.{^n}{^n}I told her to keep going, to find safety on her own. I could have probably hobbled along but, truth is, I've had enough of these horrors. I just wanted to curl up and die.{^n}{^n}In my cowardice, I left my daughter at the mercy of nature.
@@ -9,7 +15,7 @@ I'm sorry.
 We cannot afford to lose people like that. Every life counts.
 Take care.
 Anything you can tell me about Malmouth?
-Malmouth was once a prosperous city, a true gem in the east. I made a modest living working in the docks, but I was just days away from making a big trade that would have made me rich. I would have bought a home in Crown Hill and brought Amelia and her mother with me.{^n}{^n}Of course, that's all gone now. Destroyed or infested with Aetherial monstrosities. That thing that attacked Devil's Crossing...that's just their latest aberration, a melding of flesh and steel.{^n}Malmouth has become a factory of nightmares.
+Malmouth was once a prosperous city, a true gem in the east. I made a modest living working in the docks, but I was just days away from making a big trade that would have made me rich. I would have bought a home in Crown Hill and brought Amala and her mother with me.{^n}{^n}Of course, that's all gone now. Destroyed or infested with Aetherial monstrosities. That thing that attacked Devil's Crossing...that's just their latest aberration, a melding of flesh and steel.{^n}Malmouth has become a factory of nightmares.
 
 Good to know.
 Take care.

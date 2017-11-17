@@ -1,7 +1,7 @@
 Bounties
 Bounty: Bargoll
 Bounty
-Find Bargoll, the Mouldering Mound, in Ugdenbog and destory it in the name of the Ravager.{^n}{^n}Anyone that destroys this threat to our hideout will be compensated with iron bits.
+Find Bargoll, the Mouldering Mound, in Ugdenbog and destroy it in the name of the Ravager.{^n}{^n}Anyone that destroys this threat to our hideout will be compensated with iron bits.
 
 Slay Bargoll
 

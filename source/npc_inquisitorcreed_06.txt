@@ -42,7 +42,7 @@ Good work.{^n}{^n}Return to Crown Hill and assess the situation with Ulgrim.
 I'm on it.
 
 What can we expect in Crown Hill?
-We know that it is the stronghold of Aetherial operations in the region. Within its walls is the center of the fleshy growth known as the Fleshworks, within which hides Theodin Marcell, the Master of Flesh.{^n}{^n}He is the mastermind behind the tragedies that befell Malmouth, Port Valbury and who knows where else. His destruction will surely disrupt Aetherial activities in the region and put a stop to whatever horrors he is preparing for humanity next.{^n}{^n}We cannot afford to fail to here.
+We know that it is the stronghold of Aetherial operations in the region. Within its walls is the center of the fleshy growth known as the Fleshworks, within which hides Theodin Marcell, the Master of Flesh.{^n}{^n}He is the mastermind behind the tragedies that befell Malmouth, Port Valbury and who knows where else. His destruction will surely disrupt Aetherial activities in the region and put a stop to whatever horrors he is preparing for humanity next.{^n}{^n}We cannot afford to fail here.
 What was the plan again?
 I need some time to prepare.
 We'll speak of this soon.

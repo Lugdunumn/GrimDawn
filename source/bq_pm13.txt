@@ -1,7 +1,7 @@
 Bounties
 Bounty: Fleshweaver Haraxis
 Bounty
-The Malmouth resistance requires aid. {^n}{^n}A powerful Aetherial fleshshaper known as Haraxis is roaming the Steelcap District in search of new victims for its gruesome task.{^n}{^n}Find it and destroy it.{^n}{^n}Successfully destroying this monstrosity will be compensated with iron bits.
+The Malmouth resistance requires aid. {^n}{^n}A powerful Aetherial fleshshaper known as Haraxis is roaming the Malmouth Harbor in search of new victims for its gruesome task.{^n}{^n}Find it and destroy it.{^n}{^n}Successfully destroying this monstrosity will be compensated with scavenged materials.
 
 Slay Fleshweaver Haraxis
 

@@ -1636,9 +1636,39 @@ ProjectileFragmentsLaunchNumber={%d0} {^E}Fragments
 ProjectilePiercingChance={%.1f0}% {^E}Chance to pass through Enemies
 ProjectilePiercingChanceMod=+{%.1f0}% {^E}Chance to pass through Enemies
 
-
 tagTooltipPetsHeader=Pets
 tagTooltipSkillsHeader=Granted Skills
+
+#Skill Wheel
+tagSkillConfig01=Config 1
+tagSkillConfig02=Config 2
+
+#Gamepad HUD
+tagGamePadSelect=Select
+tagGamePadBack=Back
+tagGamePadEquip=Equip Item
+tagGamePadDrop=Drop Item
+tagGamePadUseItem=Use Item
+tagGamePadSellItem=Sell Item
+tagGamePadMoveItem=Move Item
+tagGamePadScroll=Scroll
+tagGamePadAssignSkills=Assign Skills
+tagGamePadSwapConfig=Swap Configuration
+tagGamePadMove=Move
+tagGamePadZoomIn=Zoom In
+tagGamePadZoomOut=Zoom Out
+tagGamePadExit=Exit
+tagGamePadRevert=Revert
+tagGamePadSplitStack=Split Stack
+tagGamePadNone=N/A
+
+tagGamePadCharacter=Character
+tagGamePadSkills=Skills
+tagGamePadMap=Map
+tagGamePadFactions=Factions
+tagGamePadAchieve=Achievements
+
+tagControllerUIWarning=Your current Screen Resolution does not support the Controller User Interface.
 
 tagShieldBlockInfo={%.0f0}% Chance to block {^W}{%.0f1} damage
 
@@ -1724,8 +1754,8 @@ tagSecond={^E}Second
 tagSeconds={^E}Seconds
 DamagePerSecond={%.0f0} {^S}Damage Per Second (If Equipped)
 DamagePerSecondOffHand={%.0f0} {^S}Damage Per Second (Off-Hand)
-DamagePhysicalChance= {^E}Physical Damage
-DamageBasePhysical= {^S}Physical Damage
+DamagePhysicalChance={%t0} {^E}Physical Damage
+DamageBasePhysical={%t0} {^S}Physical Damage
 DamageBasePierceRatio={%.0f0}% {^S}Armor Piercing
 DamageBasePierceRatioR={%.0f0}-{%.0f1}% {^S}Armor Piercing
 DamageBonusPhysical={%t0} {^E}Physical Damage

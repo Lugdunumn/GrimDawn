@@ -35,7 +35,7 @@ How does the warding spell work exactly?
 The exact properties of it were known only to its creator, former Matron Agallia, may her soul find rest.{^n}{^n}While it does not keep out physical threats, it does distress beasts and forces most of them to flee. It also acts as a barrier against malevolent spirits, a much too common threat in this region.{^n}{^n}What its effects would be on an Aetherial, that I do not know. I suppose we will find out should they ever find their way here.
 I have another question.
 I see.
-Nevermind
+Nevermind.
 Farewell.
 Persistent, aren't you?{^n}{^n}Very well, you may remain here for the time-being.{^n}{^n}Perhaps we will find use for you yet.
 Goodbye.
@@ -99,7 +99,7 @@ Not yet.
 Garradia speaks of your accomplishments as if they are meant to impress me.{^n}{^n}Tell me, young one, are you prepared to do what must be done?
 Let's find out.
 At least you are determined. Very well.{^n}{^n}One of our own has become tainted by the false promises of the wendigo spirit, Ravager. She has lost her way and now weaves dark rituals within Ugdenbog.{^n}{^n}A witch as powerful as Janaxia cannot be allowed to fall to the manipulations of the wendigo. All attempts at reasoning with her have failed. Only one option remains...{^n}{^n}Seek out Janaxia's hut hidden underneath one of the great trees of Ugdenbog and eliminate her.
-I will deal with Janaxia
+I will deal with Janaxia.
 Find someone else to be your murderer.
 I have already dealt with this traitor.
 It appears Garradia was right about you.{^n}{^n}Here, a little gift in return.

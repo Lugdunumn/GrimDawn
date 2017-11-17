@@ -1,5 +1,5 @@
 Andros
-Sister Garradia has instructed me to aid you in return for your efforts. {^n}{^n}I have used the heart of Caraxxus to prepare a restorative salve.
+Sister Garradia has instructed me to aid you in return for your efforts. {^n}{^n}I have used the heart of Carraxus to prepare a restorative salve.
 Sounds good to me.
 This alone should be sufficient payment, but I've been instructed to offer my help if you should need it in the future. {^n}{^n}However, the salve takes some time to prepare. Now leave me, I must return to my work.
 Thank you.
@@ -29,7 +29,7 @@ How were they damaged?
 When the Ugdenbog Fetish was stolen, the circle was broken along with the spell that protects this place.{^n}{^n}We must perform the ritual to restore the circle.
 
 Good luck finding it.
-Is there anything I can do to help.
+Is there anything I can do to help?
 You'll need to speak with Matron Malostria.{^n}{^n}Now I must return to my work.
 
 I'll speak with her.
@@ -58,7 +58,7 @@ Felt I could help out.
 What do you need now? 
 How about another restorative salve?
 Here you are, now please leave me to my work.
-Thanks
+Thanks.
 I've explained to you, the salve takes time to prepare.{^n}{^n}Now, if you would kindly leave me to my work.
 Very well. 
 What are you working on?

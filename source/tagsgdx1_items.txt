@@ -89,6 +89,7 @@ tagGDX1WeaponGun1hD107=Cindercore
 tagGDX1WeaponGun1hD108=Aegis Revolver
 tagGDX1WeaponGun1hD109=Darkblaze Incinerator
 tagGDX1WeaponGun1hD110=Dagallon's Destroyer
+tagGDX1WeaponGun1hD110_Desc="The barrels are runed on the inside to propel the bullets with supernatural force."
 tagGDX1WeaponGun1hD111=Dagallon's Annihilator
 tagGDX1WeaponGun1hD112=Hagarradian Enforcer
 tagGDX1WeaponGun1hD112_Desc="The cylinder is loaded with a fragment of the original Rune of Hagarrad, infusing every shot with a bonechilling cold."
@@ -192,7 +193,7 @@ tagGDX1WeaponCaster1hD102_Desc="The blade slips between realities with strange e
 tagGDX1WeaponCaster1hD103=Dreadweaver
 tagGDX1WeaponCaster1hD104=Chillflame Evoker
 tagGDX1WeaponCaster1hD105=Rune of Elgoloth
-tagGDX1WeaponCaster1hD105_Desc=A weapon inspired by the original Storm Box of Elgoloth, the runes of which now emblazon this scepter."
+tagGDX1WeaponCaster1hD105_Desc="A weapon inspired by the original Storm Box of Elgoloth, the runes of which now emblazon this scepter."
 tagGDX1WeaponCaster1hD106=Spelldrinker
 tagGDX1WeaponCaster1hD106_Desc="It hungers for spells to feed upon, but will just as readily feast upon its wielder."
 tagGDX1WeaponCaster1hD113=Pandemic
@@ -601,7 +602,7 @@ tagGDX1WaistB107=Stoneplate Waistguard
 
 tagGDX1WaistC101=Spitewraith Girdle
 tagGDX1WaistC102=Soulweave Girdle
-tagGDX1WaistC102_Desc="Bound spirits were woven into the threads of this belt.
+tagGDX1WaistC102_Desc="Bound spirits were woven into the threads of this belt."
 tagGDX1WaistC103=Shadowfiend's Cord
 tagGDX1WaistC104=Star Seer's Cord
 tagGDX1WaistC105=Chains of the Hungering Void
@@ -721,7 +722,7 @@ tagGDX1NecklaceD102=Flames of Wrath
 tagGDX1NecklaceD103=Vigar's Hunger
 tagGDX1NecklaceD103_Desc="The phial is filled with blood from the wendigo Ravager itself."
 tagGDX1NecklaceD104=Tainted Ruby of Gar'dal
-tagGDX1NecklaceD105=Exeuctioner's Judgement
+tagGDX1NecklaceD105=Executioner's Judgement
 tagGDX1NecklaceD106=Stormseer Sapphire
 tagGDX1NecklaceD113A=Conduit of Warring Whispers
 tagGDX1NecklaceD113B=Conduit of Destructive Whispers
@@ -889,7 +890,7 @@ tagGDX1Blueprint_WeaponB108=Blueprint: Rime-Rotten Wand
 tagGDX1Blueprint_WeaponB109=Blueprint: Deathborne Scepter
 
 tagGDX1Blueprint_WeaponC101=Blueprint: The Dissenter
-tagGDX1Blueprint_WeaponC102=Blueprint: Empowered Aldur's Inquisition
+tagGDX1Blueprint_WeaponC102=Blueprint: Mythical Aldur's Inquisition
 tagGDX1Blueprint_WeaponC103=Blueprint: Cosmic Torrent
 tagGDX1Blueprint_WeaponC104=Blueprint: Rageflame Spellblade
 tagGDX1Blueprint_WeaponC105=Blueprint: Mythical Burrwitch Peacekeeper
@@ -957,6 +958,7 @@ tagGDX1Blueprint_ArmorC117=Blueprint: Mythical Flame Keeper's Jacket
 tagGDX1Blueprint_ArmorC118=Blueprint: Mythical Callidor's Vestments
 tagGDX1Blueprint_ArmorC119=Blueprint: Mythical Myrmidon Visor
 tagGDX1Blueprint_ArmorC120=Blueprint: Mythical Cowl of Mogdrogen
+tagGDX1Blueprint_ArmorC121=Blueprint: Mythical Cowl of the Paragon
 
 tagGDX1Blueprint_ArmorD101=Blueprint: Necrolord's Gaze
 tagGDX1Blueprint_ArmorD102=Blueprint: Venomancer's Guile
@@ -1131,7 +1133,7 @@ tagGDX1RelicD113Desc="The lonely wolf dies, the pack survives."
 
 
 #Crafting
-tagGDX1CraftRandomLegendaryDesc2=The blacksmith combines the raw arcane power within these objects to create an object of Legendary potential, up to level 94. Characters below level 50 will craft an Epic item instead.
+tagGDX1CraftRandomLegendaryDesc2=The blacksmith combines the raw arcane power within these objects to create an object of Legendary potential, up to level 94. Characters below level 58 may craft an Epic item instead.
 tagGDX1CraftRandomLegendaryAccessoryDesc2=The blacksmith combines the raw arcane power within these objects to create an object of Legendary potential, up to level 94. Characters below level 58 will craft an Epic item instead.
 tagGDX1CraftRandomLegendaryItemDesc2=The blacksmith crafts an enchanted item appropriate to your level of Legendary quality, up to level 94.
 
@@ -1190,7 +1192,7 @@ tagGDX1ConsumableF105Desc="An oil that infuses your weapons with the hunger of a
 tagGDX1ConsumableF106=Vile Tincture
 tagGDX1ConsumableF106Desc="Shatter the vial, releasing a vile spirit to haunt your foes."
 tagGDX1ConsumableF107=Potion of Clarity
-tagGDX1ConsumableF107Desc="A viscous fluid teeming with potential.^oCan be placed in the Transfer Stash to use on other characters.
+tagGDX1ConsumableF107Desc="A viscous fluid teeming with potential."^oCan be placed in the Transfer Stash to use on other characters.
 
 tagGDX1Consumable_AttributeReset=Tonic of Reshaping
 tagGDX1Consumable_AttributeReset_Desc="Fills you with an uncomfortable warmth as your entire body seemingly reshapes itself."
@@ -1368,7 +1370,7 @@ tagGDX1EnchantB118A=Malmouth's Will
 tagGDX1EnchantB118Desc="A potent enchantment created by Malmouth's smiths to strengthen their swing, but it serves equally well in battle."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
 tagGDX1EnchantB119A=Potent Malmouth's Will
-tagGDX1EnchantB119Desc="A potent enchantment created by Malmouth's smiths to strengthen their swing, but it serves equally well in battle.."^w^n(Applied to all two-handed weapons)
+tagGDX1EnchantB119Desc="A potent enchantment created by Malmouth's smiths to strengthen their swing, but it serves equally well in battle."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantB120A=Malmouth's Soul
 tagGDX1EnchantB120Desc="An empowering powder instilled with the iron will of the people."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
@@ -1380,7 +1382,7 @@ tagGDX1EnchantB122A=Malmouth's Heart
 tagGDX1EnchantB122Desc="A surprisingly potent powder created out of desperation during the initial assault on Malmouth. Though it borrows from the Aether and may ultimately prove to be mankind's undoing, for now it serves a valuable purpose."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
 tagGDX1EnchantB123A=Potent Malmouth's Heart
-tagGDX1EnchantB123Desc="A surprisingly potent powder created out of desperation during the initial assault on Malmouth. Though it borrows from the Aether and may ultimately prove to be mankind's undoing, for now it serves a valuable purpose.."^w^n(Applied to all two-handed weapons)
+tagGDX1EnchantB123Desc="A surprisingly potent powder created out of desperation during the initial assault on Malmouth. Though it borrows from the Aether and may ultimately prove to be mankind's undoing, for now it serves a valuable purpose."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantB124A=Arcane Heart Powder
 tagGDX1EnchantB124Desc="An unstable sorcerous powder that burns so hot it can even damage armor, but its potency makes the risks worth it for many arcane practitioners."^w^n(Applied to rings and amulets)
@@ -1419,7 +1421,7 @@ tagGDX1EnchantB135A=Ravager's Rage
 tagGDX1EnchantB135Desc="A gift bestowed by the Ravager upon his cursed worshippers. It evokes uncontrollable rage."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
 tagGDX1EnchantB136A=Potent Ravager's Rage
-tagGDX1EnchantB136Desc="A gift bestowed by the Ravager upon his cursed worshippers. It evokes uncontrollable rage.."^w^n(Applied to all two-handed weapons)
+tagGDX1EnchantB136Desc="A gift bestowed by the Ravager upon his cursed worshippers. It evokes uncontrollable rage."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantB137A=Ravager's Breath
 tagGDX1EnchantB137Desc="A gift bestowed by the Ravager upon his cursed worshippers. Its touch inflicts grievous wounds and blisters upon flesh."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
@@ -1578,7 +1580,9 @@ tagGDX1ItemSetC106Desc="Special issue Luminari equipment, gifted upon high ranki
 tagItemSetC009BName=The Unseeing Gaze
 tagItemSetC010BName=Sharpshooter's Duty
 tagItemSetC011BName=Desecrator Covenant
+tagItemSetC016BName=The Paragon of Panetti
 tagItemSetC017BName=Dawnshield
+tagItemSetC021BName=The Eastern Oath
 tagItemSetC024BName=Keeper of the Blaze
 tagItemSetC025BName=Callidor's Defense
 tagItemSetC026BName=Myrmidon Bastion
@@ -1785,6 +1789,8 @@ tagGDX1Chest_MadRamblingsLoot=Ivonda's Stash
 tagGDX1Chest_MadRamblingsNote=Ivonda's Chest
 
 tagGDX1Chest_KatrineCorpse=Katrine's Remains
+tagGDX1Chest_RenochCorpse=Renoch's Remains
+tagGDX1Chest_UnknownCorpse=Rotting Corpse
 
 #Interactive Objects
 

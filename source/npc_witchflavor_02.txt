@@ -13,7 +13,7 @@ I see. Farewell.
 I'll be on my way.
 Hey there, can I help you?
 What are you doing up here?
-I'm Garradia's bogyguard. I go where she goes.{^n}{^n}You're not looking to cause any trouble are you?
+I'm Garradia's bodyguard. I go where she goes.{^n}{^n}You're not looking to cause any trouble are you?
 Certainly not.
 Good, because I'd hate to sully that pretty face of yours.
 And if I am looking for trouble? 

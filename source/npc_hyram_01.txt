@@ -11,5 +11,15 @@ I'll find them, but for now you need to get out of here.
 Alright, alright.{^n}{^n}Whatever you need to do, just get us out of here.
 Off you go. (Open Riftgate)
 I'll be back for you.
+Oh, thank the gods you're here.{^n}{^n}You have to get us out. We're in big trouble.
+Calm down, I can get you to safety.
+I...thank you. We just wanted to help. {^n}{^n}The resistance needed supplies. I led a group to go scrounging for them. {^n}{^n}I thought I could do it. I thought I could keep them safe, but when we got attacked I panicked and told everyone to run. {^n}{^n}Some of us hid in here but we were split up. I don't know where the other group is.
+They're safe. Now you need to get out of here.
+Oh, thank the gods.{^n}{^n}I'm ready. Whatever you need to do, just get us out of here.
+Off you go. (Open Riftgate)
+I'll find them, but for now you need to get out of here.
+Alright, alright.{^n}{^n}Whatever you need to do, just get us out of here.
+Off you go. (Open Riftgate)
+I'll be back for you.
 Help us please.{^n}{^n}We're stranded out here, we need help.
 I'll send someone for you.
