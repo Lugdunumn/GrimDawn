@@ -580,7 +580,7 @@ tagGDX1RelicSkillD104Name=Elemental Bane
 tagGDX1RelicSkillD104Desc=Unleash a bolt of pure elemental energies to knock back any advancing foes.
 
 tagGDX1RelicSkillD105Name=Doomforce
-tagGDX1RelicSkillD105Desc=Unleash a physical shockwave so powerful that it shatters the defenses of your foes.
+tagGDX1RelicSkillD105Desc=Unleash a physical shockwave so powerful that it knocks down and draws in nearby foes.
 
 tagGDX1RelicSkillD106Name=Blazing Charge
 tagGDX1RelicSkillD106Desc=Charge forth into battle in the name of Empyrion and incinerate foes with the divine flame. ^oRequires a melee weapon. When used with a shield, the shield's damage is added.
@@ -595,7 +595,7 @@ tagGDX1RelicSkillD109Name=Time Loop
 tagGDX1RelicSkillD109Desc=Your actions ripple through time. ^oRequires a Caster Off-Hand.
 
 tagGDX1RelicSkillD110Name=Blood Spine
-tagGDX1RelicSkillD110Desc=Unleash a blood-coated spine of bone at your foes.
+tagGDX1RelicSkillD110Desc=Unleash a fan blood-coated spines of bone at your foes.
 
 tagGDX1RelicSkillD111Name=Reaping Arc
 tagGDX1RelicSkillD111Desc=Swing with your weapon in an arc, cleaving through foes and reaping their souls. ^oRequires a melee weapon.

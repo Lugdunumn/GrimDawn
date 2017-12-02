@@ -415,6 +415,7 @@ tagSurvivalArena_02=Crucible of the Deeps
 tagSurvivalArena_03=Crucible of the Sands
 tagSurvivalArena_04=Crucible of the Grove
 tagSurvivalArena_05=Crucible of the Void
+tagSurvivalArena_06=Crucible of the Legion
 tagSurvivalDifficultyUnlock01=Challenger's Merit
 tagSurvivalDifficultyUnlock01_Desc=Proof of conquering the Crucible and achieving the status of Challenger. ^oCan be placed in the Transfer Stash to use on other characters.
 tagSurvivalDifficultyUnlock02=Gladiator's Merit

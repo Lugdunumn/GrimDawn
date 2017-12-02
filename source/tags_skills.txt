@@ -584,7 +584,7 @@ tagClass06SkillDescription01B=Embrace the aspect of the boar, becoming a ferocio
 tagClass06SkillName01C=Storm Touched
 tagClass06SkillDescription01C=Calling out to the heavens, you infuse your attacks with the fury of a thunderstorm.
 tagClass06SkillName01D=Might of the Bear
-tagClass06SkillDescription01D=Shamans dedicated to the spirit of the bear embrace the use of brutal two-handed weapons when entering their savage battle stance. Their unbridled fury is unmatched among the northern tribes. ^oThis technique requires a two-handed weapon, melee or ranged.
+tagClass06SkillDescription01D=Shamans dedicated to the spirit of the bear embrace the use of brutal two-handed weapons when entering their savage battle stance. Their unbridled fury is unmatched among the northern tribes. ^oThis technique requires a two-handed melee or two-handed ranged weapon.
 
 tagClass06SkillName02A=Primal Strike
 tagClass06SkillDescription02A=The first rite undertaken by novice Shamans is to imbue their favored weapon with the raw force of a thunderstorm. Those that survive this critical step become scions to Mogdrogen's will and guardians of their people. ^oRequires a two-handed melee or two-handed ranged weapon.
@@ -631,7 +631,7 @@ tagClass06SkillName06E=Thorned Claws
 tagClass06SkillDescription06E=Innate Attack.
 
 tagClass06SkillName07A=Feral Hunger
-tagClass06SkillDescription07A=Embrace your primal side, shredding your enemies and feasting voraciously on the spilled blood. ^oRequires a two-handed melee or ranged weapon. When used with a melee weapon, the attack strikes multiple nearby targets. Activates off of default weapon attacks.
+tagClass06SkillDescription07A=Embrace your primal side, shredding your enemies and feasting voraciously on the spilled blood. ^oRequires a two-handed melee or two-handed ranged weapon. When used with a melee weapon, the attack strikes multiple nearby targets. Activates off of default weapon attacks.
 
 tagClass06SkillName08A=Stormcaller's Pact
 tagClass06SkillDescription08A=Become one with Ultos, god of the sky, turning your mortal form into a conduit for the destructive power of lightning storms. ^oThis ability must be toggled to maintain its effect.
@@ -644,7 +644,7 @@ tagClass06SkillName009C=Claw and Fang Attacks
 tagClass06SkillDescription09C=Innate Attack.
 
 tagClass06SkillName10A=Brute Force
-tagClass06SkillDescription10A=To many Shamans, a brutal two-handed weapon serves as the conduit for their storm powers. These practitioners favor a closer connection to the wilds through animalistic rage rather than through fragile wands and tomes which they consider to be the toys of those who would prefer to spend their time reading books over practicing their craft. ^oRequires a two-handed melee or ranged weapon.
+tagClass06SkillDescription10A=To many Shamans, a brutal two-handed weapon serves as the conduit for their storm powers. These practitioners favor a closer connection to the wilds through animalistic rage rather than through fragile wands and tomes which they consider to be the toys of those who would prefer to spend their time reading books over practicing their craft. ^oRequires a two-handed melee or two-handed ranged weapon.
 tagClass06SkillName11A=Shamanism
 tagClass06SkillDescription11A=Rigorous training within the untamed wilds has honed your mind and body into a savage weapon.
 tagClass06SkillName12A=Nature's Wrath
@@ -653,7 +653,7 @@ tagClass06SkillName13A=Primal Bond
 tagClass06SkillDescription13A=Embrace your savage side as you seal your bond with Mogdrogen. Creatures from the beast god's domain readily answer your call. ^oThis ability must be toggled to maintain its effect.
 
 tagClass06SkillName14A=Upheaval
-tagClass06SkillDescription14A=Strike with the strength of the earth. Whenever you land a critical strike with your basic weapon attacks, the ground shakes with the force of the blow, reverberating around the point of impact in a shockwave. ^oRequires a two-handed melee or ranged weapon and activates off of default weapon attacks.
+tagClass06SkillDescription14A=Strike with the strength of the earth. Whenever you land a critical strike with your basic weapon attacks, the ground shakes with the force of the blow, reverberating around the point of impact in a shockwave. ^oRequires a two-handed melee or two-handed ranged weapon and activates off of default weapon attacks.
 
 tagClass06SkillName15A=Devouring Swarm
 tagClass06SkillDescription15A=Out in the wild, one must do whatever it takes to survive. Some Shaman Conjurers take this lesson to heart by conjuring a voracious swarm which hungrily tears apart anything it comes in contact with, inflicting grievous wounds and exposing vulnerabilities.
@@ -2298,7 +2298,7 @@ tagRelicSkillB013Name=Volley
 tagRelicSkillB013Desc=Unleash a calculated volley of bullets at your target. ^oThis is a ranged dual-wielding or two-handed technique that activates off of default weapon attacks. Also enables the ability to dual wield ranged weapons.
 
 tagRelicSkillC001Name=Gavel of Justice
-tagRelicSkillC001Desc=Pass righteous judgement upon the wicked. ^oRequires a two-handed melee or ranged weapon.
+tagRelicSkillC001Desc=Pass righteous judgement upon the wicked. ^oRequires a two-handed melee or two-handed ranged weapon.
 
 tagRelicSkillC002Name=Living Fortress
 tagRelicSkillC002Desc=Skin like stone, you become nearly untouchable by blade and magic alike. ^oRequires a shield.
@@ -2790,7 +2790,7 @@ tagDevotionEffectC03Desc=The chaotic powers of the Void flow through you, turnin
 tagDevotionEffectC04=Light of Empyrion
 tagDevotionEffectC04Desc=The divine light of Empyrion banishes the darkness and sears your foes.
 tagDevotionEffectC05=Blind Fury
-tagDevotionEffectC05Desc=Exhilarated by the blood and gore you spill, you violently assault all nearby foes in a flurry of vicious blows. ^oRequires a melee weapon.
+tagDevotionEffectC05Desc=Exhilarated by the blood and gore you spill, you violently assault all nearby foes in a flurry of vicious blows.
 tagDevotionEffectC06=Stone Form
 tagDevotionEffectC06Desc=Your flesh becomes as stone, nearly impervious to all but the toughest blows.
 tagDevotionEffectC07=Spear of the Heavens
