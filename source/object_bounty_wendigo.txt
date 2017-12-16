@@ -36,12 +36,12 @@ Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-Ravager demands death in his name.{^n}{^n}Scour the Void's Edge and Fringes of Sanity, cleans it of those called Bloodkeepers.{^n}{^n}Anyone that accomplishes this goal will be compensated with materials from our stores.
+Ravager demands death in his name.{^n}{^n}Scour the Void's Edge and Fringes of Sanity and cleanse it of those called Bloodkeepers.{^n}{^n}Anyone that accomplishes this goal will be compensated with materials from our stores.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-Ravager's hunger must be sated.{^n}{^n}Cleanse Ugdenbog of the beasts call Mossflingers.{^n}{^n}Anyone that accomplishes this goal will be compensated with iron bits.
+Ravager's hunger must be sated.{^n}{^n}Cleanse Ugdenbog of the creatures called Mossflingers.{^n}{^n}Anyone that accomplishes this goal will be compensated with iron bits.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.

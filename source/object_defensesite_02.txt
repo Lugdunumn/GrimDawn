@@ -24,38 +24,38 @@ Insufficient Materials.
 
 Step away
 Create Inferno Beacon
-Inferno Beacons frequently release bursts of flame at nearby enemies in a large area, but their range is limited.{^n}{^n}(Requires 5 Crucible Tributes and 2500 Iron Bits)
+Inferno Beacons frequently release bursts of flame at nearby enemies in a large area that reduce armor, but their range is limited.{^n}{^n}(Requires 5 Crucible Tributes and 2500 Iron Bits)
 Create this defense (spend 5 Tributes + 2500 Iron Bits)
 Insufficient Materials.
 
 
 Step away
-Inferno Beacons frequently release bursts of flame at nearby enemies in a large area, but their range is limited.{^n}{^n}(Requires 5 Crucible Tributes and 7000 Iron Bits)
+Inferno Beacons frequently release bursts of flame at nearby enemies in a large area that reduce armor, but their range is limited.{^n}{^n}(Requires 5 Crucible Tributes and 7000 Iron Bits)
 Create this defense (spend 5 Tributes + 7000 Iron Bits)
 Insufficient Materials.
 
 
 Step away
-Inferno Beacons frequently release bursts of flame at nearby enemies in a large area, but their range is limited.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
+Inferno Beacons frequently release bursts of flame at nearby enemies in a large area that reduce armor, but their range is limited.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
 Create this defense (spend 5 Tributes + 10000 Iron Bits)
 Insufficient Materials.
 
 
 Step away
 Create Stormcaller Beacon
-Stormcaller Beacons occasionally release a bolt of chain lightning at distant enemies, with a chance to reduce resistances, but they hit a limited number of targets and attack slowly.{^n}{^n}(Requires 5 Crucible Tributes and 2500 Iron Bits)
+Stormcaller Beacons occasionally release a bolt of chain lightning at distant enemies that reduce resistances, but they hit a limited number of targets and attack slowly.{^n}{^n}(Requires 5 Crucible Tributes and 2500 Iron Bits)
 Create this defense (spend 5 Tributes + 2500 Iron Bits)
 Insufficient Materials.
 
 
 Step away
-Stormcaller Beacons occasionally release a bolt of chain lightning at distant enemies, with a chance to reduce resistances, but they hit a limited number of targets and attack slowly.{^n}{^n}(Requires 5 Crucible Tributes and 7000 Iron Bits)
+Stormcaller Beacons occasionally release a bolt of chain lightning at distant enemies that reduce resistances, but they hit a limited number of targets and attack slowly.{^n}{^n}(Requires 5 Crucible Tributes and 7000 Iron Bits)
 Create this defense (spend 5 Tributes + 7000 Iron Bits)
 Insufficient Materials.
 
 
 Step away
-Stormcaller Beacons occasionally release a bolt of chain lightning at distant enemies, with a chance to reduce resistances, but they hit a limited number of targets and attack slowly.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
+Stormcaller Beacons occasionally release a bolt of chain lightning at distant enemies that reduce resistances, but they hit a limited number of targets and attack slowly.{^n}{^n}(Requires 5 Crucible Tributes and 10000 Iron Bits)
 Create this defense (spend 5 Tributes + 10000 Iron Bits)
 Insufficient Materials.
 

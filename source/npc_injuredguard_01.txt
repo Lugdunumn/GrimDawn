@@ -9,7 +9,7 @@ Oh, you killed them all?{^n}{^n}Forgive me, I thought I was done for.{^n}{^n}Did
 What are you doing down here?
 I was sent by Captain Wilfor, well he sent a group of us. I'm the only one left.{^n}{^n}We were supposed to be searching for stragglers. Fought our way all the way here to this drainage hub, but we were ambushed. Bunch of them crawled right out of the ground all around us. There wasn't much we could do.{^n}{^n}Conor and Nane were brave people, the resistance will certainly miss them.
 The resistance?
-Wait, you're not from around here, are you? That's a first in months.{^n}{^n}Yes, what's left of the city guard and some civilians. Those that weren't corrupted or killed in the first attack anyway. Though we're not much of a resistance these days. Not many of us left. We spend most of our time hiding and scavening for supplies.{^n}{^n}The Aetherials forced us to retreat down here some time ago. What remains of us is holed up in an old pumping station just north of here.{^n}{^n}If you manage to fight your way there, you should speak to Captain Wilfor.
+Wait, you're not from around here, are you? That's a first in months.{^n}{^n}Yes, what's left of the city guard and some civilians. Those that weren't corrupted or killed in the first attack anyway. Though we're not much of a resistance these days. Not many of us left. We spend most of our time hiding and scavenging for supplies.{^n}{^n}The Aetherials forced us to retreat down here some time ago. What remains of us is holed up in an old pumping station just north of here.{^n}{^n}If you manage to fight your way there, you should speak to Captain Wilfor.
 Will you be alright?
 I'll make it.{^n}{^n}You just make sure to slay some more of those bastards for me.
 Alright, be safe.

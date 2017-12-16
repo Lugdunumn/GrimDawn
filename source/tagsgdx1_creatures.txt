@@ -392,7 +392,7 @@ tagGDX1MiniBoss_Wendigo03=Yuvolloth
 tagGDX1MiniBoss_Wendigo04=Packla, the Turning
 
 tagGDX1Boss_Roguelike01=Slathsarr Aethergaze
-tagGDX1Boss_Roguelike02=Connivius Earthshell
+tagGDX1Boss_Roguelike02=Ragarroth the Tormented
 tagGDX1Boss_Roguelike03=Gargabol, Heart of the Wild
 tagGDX1Boss_Roguelike04=Gulgazor
 tagGDX1Boss_Roguelike05=Vilgazor

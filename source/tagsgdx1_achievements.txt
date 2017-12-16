@@ -98,7 +98,7 @@ achGDX1031Title=Savior of Malmouth
 achGDX1031Desc=Complete the Ashes of Malmouth on Ultimate Difficulty.
 
 achGDX1032Title=Mass Extermination
-achGDX1032Desc=Rid Cairn of 750000 Monsters.
+achGDX1032Desc=Rid Cairn of 200000 Monsters.
 
 achGDX1033Title=Unequaled Slayer
 achGDX1033Desc=Eradicate 2000 Heroic Monsters (marked by a Star).

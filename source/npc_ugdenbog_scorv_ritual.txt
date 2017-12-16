@@ -118,7 +118,7 @@ Mmm, yes. We would not want to waste a perfectly good corpse, now would we? You 
 Er, great!
 Rather disgusting.
 Not yet.
-Ravager is pleased by your service to the cause, outsider.{^n}{^n}He wishes to reward you with a special hunt.
+The Ravager is pleased by your service to the cause, outsider.{^n}{^n}He wishes to reward you with a special hunt.
 Is that so?
 The eve of Ravager's return will soon be upon us and the wendigo's hunger shall be unquenchable. We cannot truly fulfill his ravenous needs, but we can at least appease them for a time.{^n}{^n}But not just any meal will do. We must have the hearts of three Wendigo Ancients known as Handarroth, Ollivioth and Yuvolloth. These creatures have long ago outlived their purpose and must now perform one final duty for Ravager.{^n}{^n}The Great Wendigo Spirit has called to them and drawn them out of hiding amidst Ugdenbog and Gloomwald so that you can perform the necessary rites. Bring me their hearts. Appease the Great Spirit!
 I will gather the hearts.

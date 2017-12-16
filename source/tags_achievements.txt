@@ -30,10 +30,10 @@ ach006Title=Cleansing the World
 ach006Desc=Rid Cairn of 25000 Monsters.
 
 ach007Title=A Wake of Carnage
-ach007Desc=Rid Cairn of 100000 Monsters.
+ach007Desc=Rid Cairn of 50000 Monsters.
 
 ach008Title=An Ocean of Blood
-ach008Desc=Rid Cairn of 500000 Monsters.
+ach008Desc=Rid Cairn of 100000 Monsters.
 
 ach009Title=Friends in the Apocalypse
 ach009Desc=Become Revered with a Faction.

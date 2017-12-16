@@ -591,7 +591,7 @@ tagClass06SkillDescription02A=The first rite undertaken by novice Shamans is to 
 tagClass06SkillName02B=Storm Surge
 tagClass06SkillDescription02B=Primal Strike's raw power surges through the target, bursting blood vessels.
 tagClass06SkillName02C=Torrent
-tagClass06SkillDescription02C=Torrential force cascades from your weapon, shocking a nearby target and leaping to further foes.
+tagClass06SkillDescription02C=Torrential force cascades from your weapon, shocking your target and leaping to further foes.
 tagClass06SkillName02D=Thunderous Strike
 tagClass06SkillDescription02D=Stormcallers, members of a sect of shamanism devoted to the heavens, are known to call out to Ultos, the god of the sky, when delivering nature's wrath upon their adversaries, allowing them to call down lightning with greater frequency. ^oThunderous Strike is not a default weapon attack enhancer and cannot trigger effects such as Feral Hunger.
 

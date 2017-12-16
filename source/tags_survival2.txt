@@ -1,4 +1,0 @@
-#Survival Mode Tags
-
-#NPCs
-tagGDX1NPC_IllusionistS01=Edwor

@@ -190,7 +190,7 @@ tagGDX1Class08SkillName08A=Ill Omen
 tagGDX1Class08SkillDescription08A=The mere presence of a Necromancer is often enough to inspire terror within their enemies. You unleash a ghostly wail upon your target that shatters the confidence of lesser foes and rapidly spreads confusion and fear amongst your enemies.
 
 tagGDX1Class08SkillName09A=Reap Spirit
-tagGDX1Class08SkillDescription09A=One of the most powerful techniques bestowed upon his followers by Uroboruuk. By ripping apart the very being of your foe, one can not only inflict grievous harm, but also conjure forth a fragment of their soul to serve you. The resulting spirit is unstable and highly aggressive, which makes it all the more useful in battle. ^oThe Wraith scales with Pet Bonuses.
+tagGDX1Class08SkillDescription09A=One of the most powerful techniques bestowed upon his followers by Uroboruuk. By ripping apart the very being of a foe, one can not only inflict grievous harm, but also conjure forth a fragment of their soul to serve you. The resulting spirit is unstable and highly aggressive, which makes it all the more useful in battle. ^oThe Wraiths scale with Pet Bonuses.
 tagGDX1Class08SkillName09A_PetSkill=Wraith's Touch
 tagGDX1Class08SkillName09A_PetSkill02=Vitality Nova
 
@@ -217,6 +217,9 @@ tagGDX1RelicSkillTracker01A=Current Number of Swarmlins Summoned
 
 tagGDX1ItemSkillB101Name=Blastwave
 tagGDX1ItemSkillB101Desc=A wave of fire erupts from your attack.
+
+tagGDX1ItemSkillB102Name=Fleshwarped Strikes
+tagGDX1ItemSkillB102Desc=The corrupting touch of the Master of Flesh scars your foes with every blow. ^oWhen used as your default weapon attack, Fleshwarped Strikes empowers your blows.
 
 
 tagGDX1ItemSkillC101Name=Soulsplit
@@ -341,7 +344,7 @@ tagGDX1ItemSkillD127Name=Executioner's Edge
 tagGDX1ItemSkillD127Desc=Unleash a deadly spinning blade to decapitate your foes.
 
 tagGDX1ItemSkillD128Name=Gladiator's Persistence
-tagGDX1ItemSkillD128Desc=Persistence through glorious battle. ^oThis is a melee and ranged two-handed weapon passive bonus.
+tagGDX1ItemSkillD128Desc=Persistence through glorious battle. ^oThis is a two-handed melee and two-handed ranged weapon passive bonus.
 
 tagGDX1ItemSkillD129Name=Treacherous Means
 tagGDX1ItemSkillD129Desc=Victory through any means. ^oThis is a ranged weapon passive bonus.
@@ -353,7 +356,7 @@ tagGDX1ItemSkillD131Name=Fleshcarver
 tagGDX1ItemSkillD131Desc=Carve a path of destruction through your foes, leaving the survivors bleeding out, their fate already sealed.
 
 tagGDX1ItemSkillD132Name=Dreadblade
-tagGDX1ItemSkillD132Desc=Cleave through your foes with a tainted edge that petrifies flesh. ^oRequires a melee weapon.
+tagGDX1ItemSkillD132Desc=Strike your foes with a tainted strike that petrifies flesh.
 
 tagGDX1ItemSkillD133Name=Debilitating Rot
 tagGDX1ItemSkillD133Desc=Infect your foes with a disease that rots the flesh away until nothing remains.
@@ -437,7 +440,7 @@ tagGDX1ItemSkillD159Name=Briar Wave
 tagGDX1ItemSkillD159Desc=A wave of briars erupts from the ground to pierce your foes.
 
 tagGDX1ItemSkillD160Name=Avenger's Might
-tagGDX1ItemSkillD160Desc=Unparalleled physical resilience and strength. ^oThis is a melee and ranged two-handed weapon passive bonus.
+tagGDX1ItemSkillD160Desc=Unparalleled physical resilience and strength. ^oThis is a two-handed melee and two-handed ranged weapon passive bonus.
 
 tagGDX1ItemSkillD161Name=Nature's Avenger
 tagGDX1ItemSkillD161Desc=The avenger's spirit swells within you.
@@ -799,4 +802,11 @@ tagGDX1EnemySkillD13_Desc=Darkness emanates from Grava'Thul, sometimes coalescin
 
 tagGDX1EnemySkillD14=Celestial Presence
 tagGDX1EnemySkillD14_Desc=A divine presence threatens to unravel your very existence.
+
+tagGDX1EnemySkillD15=Aether Essence
+tagGDX1EnemySkillD15_Desc=The Aether is potent in this area, harming you and sapping your resistances.
+
+tagGDX1EnemySkillD16=Terrifying Presence
+tagGDX1EnemySkillD16_Desc=A great beast roams nearby, filling you with dread and emboldening nearby creatures.
+
 

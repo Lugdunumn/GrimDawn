@@ -1,7 +1,7 @@
 Bounties
 Bounty: Mossflingers
 Bounty
-Ravager's hunger must be sated.{^n}{^n}Cleanse Ugdenbog of the beasts call Mossflingers.{^n}{^n}Anyone that accomplishes this goal will be compensated with iron bits.
+Ravager's hunger must be sated.{^n}{^n}Cleanse Ugdenbog of the creatures called Mossflingers.{^n}{^n}Anyone that accomplishes this goal will be compensated with iron bits.
 
 Slay Ugdenbog Mossflingers
 
