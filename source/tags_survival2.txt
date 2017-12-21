@@ -1,0 +1,6 @@
+#Survival Mode Tags
+
+#NPCs
+tagGDX1NPC_IllusionistS01=Edwor
+
+tagNotification_Checkpoint15=You can now resume the Crucible on Wave 150.

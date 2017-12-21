@@ -16,6 +16,9 @@ Wave 50 not Unlocked
 Start on Wave 100 (15 Tributes)
 Insufficient Tributes to Start on Wave 100 (Need 15 Tributes)
 Wave 100 not Unlocked
+Start on Wave 150 (25 Tributes)
+Insufficient Tributes to Start on Wave 150 (Need 25 Tributes)
+Wave 150 not Unlocked
 Sure, but I bet you can also do better.
 There are many ways to quell such an ego. What makes you think you can handle my worst?{^n}{^n}But so be it. I will unseal another portal. Should you survive, another cache of treasures awaits.{^n}{^n}Are you certain of this?
 Forget it. Let's begin. (Standard Crucible)
@@ -26,6 +29,9 @@ Wave 50 not Unlocked
 Start on Wave 100 (15 Tributes + Extra Spawn)
 Insufficient Tributes to Start on Wave 100 (Need 15 Tributes)
 Wave 100 not Unlocked
+Start on Wave 150 (25 Tributes + Extra Spawn)
+Insufficient Tributes to Start on Wave 150 (Need 25 Tributes)
+Wave 150 not Unlocked
 Nevermind, just raise the stakes.
 
 I need some time to prepare.
@@ -44,6 +50,9 @@ Wave 50 not Unlocked
 Start on Wave 100 (15 Tributes + Extra Spawn)
 Insufficient Tributes to Start on Wave 100 (Need 15 Tributes)
 Wave 100 not Unlocked
+Start on Wave 150 (25 Tributes + Extra Spawn)
+Insufficient Tributes to Start on Wave 150 (Need 25 Tributes)
+Wave 150 not Unlocked
 
 I need some time to prepare.
 I need some time to prepare.
