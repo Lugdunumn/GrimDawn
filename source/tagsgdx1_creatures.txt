@@ -151,6 +151,7 @@ tagGDX1HeroAscended_H04=Ullana Everfreeze ~ Frozen
 #CreatureLivingPlant
 tagGDX1EnemyLivingPlant_A00=Venomous Vines
 tagGDX1EnemyLivingPlant_A01=Carnivorous Plant
+tagGDX1EnemyLivingPlant_A02=Singed Plant
 tagGDX1EnemyLivingPlant_B00=Poisonous Bloom
 tagGDX1EnemyLivingPlant_B01=Voracious Growth
 
@@ -279,8 +280,10 @@ tagGDX1EnemyManticoreChthonicA01=Void-Tainted Manticore
 tagGDX1EnemyManticoreChthonicB01=Void-Tainted Wastestalker
 tagGDX1EnemyManticoreChthonicC01=Void-Tainted Alpha
 
+tagGDX1EnemyManticoreD01=Manticore Deathstalker
+
 tagGDX1EnemySwampCrabAetherA01=Fleshwarped Crab
-tagGDX1EnemySwampCrabAetherB01=Fleshwarped SpikeShell
+tagGDX1EnemySwampCrabAetherB01=Fleshwarped Spikeshell
 tagGDX1EnemySwampCrabAetherC01=Fleshwarped Stoneshell
 
 tagGDX1EnemyThornedHorrorAetherA01=Aetherthorn Horror
@@ -303,6 +306,7 @@ tagGDX1EnemyTrapA02=Ugdenbog Mushroom
 tagGDX1PetArcaneSeal=Arcane Seal
 tagGDX1PetConcussiveRune=Concussive Rune
 tagGDX1PetIceRune=Chillsurge Rune
+tagGDX1PetManticore02=Deathstalker
 
 tagGDX1PetBlightBeast=Blight Beast
 tagGDX1PetBlightBeastB=Unstable Anomaly
@@ -328,6 +332,7 @@ tagGDX1ItemPetFireDevil_Skill=Living Blaze
 
 tagGDX1EnemySummon_ObsidianBeacon=Obsidian Pylon
 tagGDX1EnemySummon_AetherialSpirit=Aetherial Spirit
+tagGDX1EnemySummon_BurningBlood=Burning Blood
 
 
 #Boss&Quest

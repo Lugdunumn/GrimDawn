@@ -124,8 +124,8 @@ achGDX1039Desc=Collect 70 Lore Notes.
 achGDX1040Title=Immortal Savior of Malmouth
 achGDX1040Desc=Complete the Ashes of Malmouth on Ultimate Difficulty, Hardcore Mode.
 
-achGDX1041Title=The Blood Trials
-achGDX1041Desc=Survive the Blood Trials in the Ancient Grove.
+achGDX1041Title=Trial of Corruption
+achGDX1041Desc=Endure the Trial of Corruption in the Ancient Grove.
 
 achGDX1042Title=The Wild Tamed
 achGDX1042Desc=Slay Gargabol, Heart of the Wild in the Ancient Grove.

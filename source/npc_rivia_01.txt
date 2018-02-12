@@ -10,9 +10,9 @@ Where are they?{^n}{^n}What happened to them? Are they ok?
 The Aetherials are using them. (Truth) 
 What?{^n}{^n}What do you mean?{^n}{^n}You mean they're alive and those things are using them?
 Yes, to birth their foul creations.
-Oh, god's have mercy on us.{^n}{^n}What are we to do? How can we fight an enemy that uses our own bodies against us?{^n}{^n}I can't go on knowing they're out there suffering, it's more than I can bear.
+Oh, gods have mercy on us.{^n}{^n}What are we to do? How can we fight an enemy that uses our own bodies against us?{^n}{^n}I can't go on knowing they're out there suffering, it's more than I can bear.
 I've destroyed the factory.
-So the captives no longer suffer?{^n}{^n}Thank the gods for you.{^n}{^n}You've done so much for us but I fear this it not over.
+So the captives no longer suffer?{^n}{^n}Thank the gods for you.{^n}{^n}You've done so much for us but I fear this is not over.
 You're probably right.
 Hang in there.
 I'll put a stop to this.

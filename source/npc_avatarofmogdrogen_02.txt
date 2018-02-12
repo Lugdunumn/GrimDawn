@@ -28,7 +28,7 @@ Even gods do not last forever.{^n}{^n}I do my part but if the parent always step
 I have another question.
 I...see.
 What are you planning?
-With the loyal service of the Rhowari who follow me, I shall try to give this world a chance to survive through the coming darkness.{^n}{^n}Many will not survive the perilous tasks before them, but such is the cycle of nature, that some must die to secure a future for their offspring.
+With the loyal service of the Rhowari who follow me, I shall try to give this world a chance to endure the coming darkness.{^n}{^n}Many will not survive the perilous tasks before them, but such is the cycle of nature, that some must die to secure a future for their offspring.
 What about the rest of us?
 The suffering of your people has only begun.{^n}{^n}It may not be fair, but such is the way of things. Even we gods are caught within eternal cycles of creation and destruction.{^n}{^n}Whether you accept that or not, it simply is.
 I have another question.
@@ -63,11 +63,11 @@ I give you this task and as an opportunity to demonstrate that your kind can bec
 I will deal with your problem.
 Deal with this yourself.
 I've already done this.
-Splendid, though strange that news of this has not reached my ears.{^n}{^n}You are a friend of nature and for that I thank you.{^n}{^n}Take this weapon of legends, a fitting prize for one such as you, as your reward.
+Splendid, though peculiar that news of this has not reached my ears.{^n}{^n}You are a friend of nature and for that I thank you.{^n}{^n}Take this weapon of legends, a fitting prize for one such as you, as your reward.
 
 Thank you.
 How are you in two places at once?
-This is but a mere manifestation of my presence, an avatar.{^n}{^n}I do not have a single, finite form as you do.
+This is but a mere manifestation of my presence, an avatar.{^n}{^n}I do not have a single finite form as you do.
 
 I must be going.
 Not interested.
@@ -89,9 +89,9 @@ I will not reduce myself to engaging with you, mortal, not this time.{^n}{^n}Mor
 
 Not interested.
 Not interested.
-Greetings, mortal.{^n}{^n}I've been watching your progress and I believe that you may be just the one I need.{^n}{^n}Will you assist me in an urgent matter threatening this region?
+Greetings, mortal.{^n}{^n}I've been watching your progress and I believe that you may be just the one I need.{^n}{^n}Will you raise yourself above your ilk and bring peace to this region?
 What do you ask of me?
-With my attention turned elsewhere, I must turn to another to cleanse a once sacred place. I hope that you are capable of the task.{^n}{^n}The savage wilderness of the Ancient Grove is dear to me, but with the recent calamity it has become corrupted by the very forces you battle against. Aetherial and Chthonic taint now threatens to overwhelm the fragile ecosystem within and spill forth into the surrounding environment.{^n}{^n}Deep within the grove, in the Heart of the Forest, a once proud guardian has fallen to the infestation. Should it escape the confines of the grove, it could wreak unimaginable destruction upon your people.{^n}{^n}Though it pains me to say it, it falls to you to enter the grove and dispatch this once magnificent creature. Will you deal with this threat?
+With my attention turned elsewhere, I must turn to another to cleanse a once sacred place. I hope that you are capable of the task.{^n}{^n}The savage wilderness of the Ancient Grove is dear to me, but with the recent calamity it has become corrupted by the very forces you battle against. Aetherial and Chthonic taint now threatens to overwhelm the fragile ecosystem within and spill forth into the surrounding environment.Deep within the grove, in the Heart of the Forest, a once proud guardian has fallen to the infestation. Should it escape the confines of the grove, it could wreak unimaginable destruction upon your people.{^n}{^n}Though it pains me to say it, it falls to you to enter the grove and dispatch this once magnificent creature. Will you deal with this threat?
 I will deal with your problem.
 Deal with this yourself.
 I've already done this.
@@ -105,3 +105,6 @@ Even gods do not last forever.{^n}{^n}I do my part but if the parent always step
 Alright then, I'll be going.
 I...see.
 Not interested.
+Have you come to pay your respects, mortal?
+
+Farewell.

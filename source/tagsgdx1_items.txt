@@ -2,9 +2,9 @@
 #Weapons
 
 
-tagGDX1WeaponSwordB101=*Wendigo Claw*
+tagGDX1WeaponSwordB101=Wendigo Claw
 tagGDX1WeaponSwordB101Desc="The claw reeks of decay."
-tagGDX1WeaponSwordB102=*Wendigo Barb*
+tagGDX1WeaponSwordB102=Wendigo Barb
 tagGDX1WeaponSwordB102Desc="The claw drips with filth."
 
 tagGDX1WeaponSwordC101=Cleansed Blade of Elgoloth
@@ -25,9 +25,9 @@ tagGDX1WeaponSwordF103=Wendigo Claw
 tagGDX1WeaponSwordF104=Redeemer of Malmouth
 
 
-tagGDX1WeaponBluntB101=*Bargoll's Heart*
+tagGDX1WeaponBluntB101=Bargoll's Heart
 tagGDX1WeaponBluntB101Desc="The stone heart of Bargoll emanates a deadly chill."
-tagGDX1WeaponBluntB102=*Bargoll's Core*
+tagGDX1WeaponBluntB102=Bargoll's Core
 tagGDX1WeaponBluntB102Desc="The once living core of Bargoll thirsts for life essence so that the creature can be reborn once more."
 
 tagGDX1WeaponBluntC101=Deadbeater
@@ -43,8 +43,8 @@ tagGDX1WeaponBluntF102=Malmouth Mace
 tagGDX1WeaponBluntF103=Wendigo Mace
 tagGDX1WeaponBluntF104=Howl of the Wendigo
 
-tagGDX1WeaponAxeB101=*Servitor's Slicer*
-tagGDX1WeaponAxeB102=*Servitor's Corruptor*
+tagGDX1WeaponAxeB101=Servitor's Slicer
+tagGDX1WeaponAxeB102=Servitor's Corruptor
 tagGDX1WeaponAxeB103=Bloodspill Cleaver
 
 tagGDX1WeaponAxeC101=Halvor's Skinner
@@ -63,9 +63,9 @@ tagGDX1WeaponAxeF103=Wendigo Cleaver
 tagGDX1WeaponAxeF104=Witch Moon
 
 
-tagGDX1WeaponGun1hB101=*Ugdenbog Howler*
+tagGDX1WeaponGun1hB101=Ugdenbog Howler
 tagGDX1WeaponGun1hB101Desc="Infused with the spirit of the Wendigo."
-tagGDX1WeaponGun1hB102=*Ugdenbog Venom Launcher*
+tagGDX1WeaponGun1hB102=Ugdenbog Venom Launcher
 tagGDX1WeaponGun1hB102Desc="Each bullet is dipped into a unique concoction crafted from the various beasts inhabiting Ugdenbog."
 tagGDX1WeaponGun1hB103=Stormsurge Pistol
 
@@ -73,9 +73,9 @@ tagWeaponGun1hC013B=Mediator
 tagGDX1WeaponGun1hC101=The Dissenter
 tagGDX1WeaponGun1hC101B=Dissenter
 tagGDX1WeaponGun1hC102=Aldur's Inquisition
-tagGDX1WeaponGun1hC102_Desc=Sidearm of Inquisitor Aldur, reknown hunter of heretics and slayer of Galbar'Thuul."
+tagGDX1WeaponGun1hC102_Desc=Sidearm of Inquisitor Aldur, renowned hunter of heretics and slayer of Galbar'Thuul."
 tagGDX1WeaponGun1hC103=Core of Gargabol
-tagGDX1WeaponGun1hC103_Desc="The tainted core of Gargabol burns hotter than any flame."
+tagGDX1WeaponGun1hC103_Desc="A flicker of the once mighty guardian's flame still glows within its core."
 tagGDX1WeaponGun1hC108=Stormlauncher of Ultos
 tagGDX1WeaponGun1hC110=Luminari Sidearm
 
@@ -104,11 +104,11 @@ tagGDX1WeaponGun1hF103=Wendigo Repeater
 tagGDX1WeaponGun1hF104=Hex Launcher
 
 
-tagGDX1WeaponGun2hB101=*Ugdenbog Sparkthrower*
+tagGDX1WeaponGun2hB101=Ugdenbog Sparkthrower
 tagGDX1WeaponGun2hB101Desc="The stone core of a swamp golem has proven to be surprisingly malleable when exposed to arcane energies, allowing it to be forged into armor, tools or even guns."
-tagGDX1WeaponGun2hB102=*Ugdenbog Bilelauncher*
-tagGDX1WeaponGun2hB103=*Ugdenbog Boltthrower*
-tagGDX1WeaponGun2hB104=*Ugdenbog Arcaneweaver*
+tagGDX1WeaponGun2hB102=Ugdenbog Bilelauncher
+tagGDX1WeaponGun2hB103=Ugdenbog Boltthrower
+tagGDX1WeaponGun2hB104=Ugdenbog Arcaneweaver
 tagGDX1WeaponGun2hB105=Flamewarder Rifle
 
 tagGDX1WeaponGun2hC101=The Interrogator
@@ -136,8 +136,8 @@ tagGDX1WeaponGun2hF103=Wendigo Stakethrower
 tagGDX1WeaponGun2hF104=The Desolator
 
 
-tagGDX1WeaponMelee2hB101=*Fleshwarped Core*
-tagGDX1WeaponMelee2hB102=*Fleshwarped Shard*
+tagGDX1WeaponMelee2hB101=Fleshwarped Core
+tagGDX1WeaponMelee2hB102=Fleshwarped Shard
 tagGDX1WeaponMelee2hB103=Gutcrush Warmaul
 
 tagGDX1WeaponMelee2hC101=Soulsplitter
@@ -166,14 +166,14 @@ tagGDX1WeaponCaster1hA102=Redeemer Scepter
 tagGDX1WeaponCaster1hA103=Preserver Dagger
 tagGDX1WeaponCaster1hA104=Redeemer Dagger
 
-tagGDX1WeaponCaster1hB101=*Ugdenbog Flamestrife*
-tagGDX1WeaponCaster1hB102=*Ugdenbog Chillstrife*
-tagGDX1WeaponCaster1hB103=*Ugdenbog Stormstrife*
-tagGDX1WeaponCaster1hB104=*Ascendant Conduit*
-tagGDX1WeaponCaster1hB105=*Ascendant Source*
+tagGDX1WeaponCaster1hB101=Ugdenbog Flamestrife
+tagGDX1WeaponCaster1hB102=Ugdenbog Chillstrife
+tagGDX1WeaponCaster1hB103=Ugdenbog Stormstrife
+tagGDX1WeaponCaster1hB104=Ascendant Conduit
+tagGDX1WeaponCaster1hB105=Ascendant Source
 tagGDX1WeaponCaster1hB106=Rime-Rotten Wand
 tagGDX1WeaponCaster1hB107=Deathborne Scepter
-tagGDX1WeaponCaster1hB108=*Heart of Theodin Marcell*
+tagGDX1WeaponCaster1hB108=Heart of Theodin Marcell
 tagGDX1WeaponCaster1hB108_Desc="A fragment of its master's power still beats within."
 
 tagGDX1WeaponCaster1hC101=Ravager's Barb
@@ -190,7 +190,7 @@ tagGDX1WeaponCaster1hC116=Scepter of Malmouth
 tagGDX1WeaponCaster1hC116_Desc="Visions of the fallen city of Port Valbury flood your mind."
 
 tagGDX1WeaponCaster1hD101=Dreadfire
-tagGDX1WeaponCaster1hD102=Valepiercer
+tagGDX1WeaponCaster1hD102=Veilpiercer
 tagGDX1WeaponCaster1hD102_Desc="The blade slips between realities with strange ease, as if a key fitting into its lock."
 tagGDX1WeaponCaster1hD103=Dreadweaver
 tagGDX1WeaponCaster1hD104=Chillflame Evoker
@@ -221,9 +221,9 @@ tagGDX1WeaponCaster1hF111=Claw of Hagaraz
 
 
 #Shields
-tagGDX1ShieldB101=*Colossal Fortress*
+tagGDX1ShieldB101=Colossal Fortress
 tagGDX1ShieldB101Desc="The shield's proportions require equally colossal strength."
-tagGDX1ShieldB102=*Colossal Bulwark*
+tagGDX1ShieldB102=Colossal Bulwark
 tagGDX1ShieldB103=Stonewall Defender
 
 tagGDX1ShieldC101=Dreadguard
@@ -257,20 +257,20 @@ tagGDX1FocusA102=Exalted Effigy
 tagGDX1FocusA103=Preserver Archive
 tagGDX1FocusA104=Preserver Sphere
 
-tagGDX1FocusB101=*Terrnox's Aether Tome*
+tagGDX1FocusB101=Terrnox's Aether Tome
 tagGDX1FocusB101Desc="Filled with knowledge of the Aether, much of which cannot be deciphered."
-tagGDX1FocusB102=*Terrnox's Arcane Tome*
+tagGDX1FocusB102=Terrnox's Arcane Tome
 tagGDX1FocusB102Desc="Filled with arcane knowledge known only to Terrnox."
-tagGDX1FocusB103=*Bound Wraith*
-tagGDX1FocusB104=*Enslaved Wraith*
-tagGDX1FocusB105=*Fleshwarped Tome*
+tagGDX1FocusB103=Bound Wraith
+tagGDX1FocusB104=Enslaved Wraith
+tagGDX1FocusB105=Fleshwarped Tome
 tagGDX1FocusB105Desc="The tome writhes in your hands."
-tagGDX1FocusB106=*Fleshwarped Codex*
-tagGDX1FocusB107=*Fleshwarped Archive*
+tagGDX1FocusB106=Fleshwarped Codex
+tagGDX1FocusB107=Fleshwarped Archive
 tagGDX1FocusB108=Spellshock Tome
 tagGDX1FocusB109=Smoldering Effigy
-tagGDX1FocusB110=*Leafmane Horn*
-tagGDX1FocusB111=*Leafmane Trophy*
+tagGDX1FocusB110=Leafmane Horn
+tagGDX1FocusB111=Leafmane Trophy
 
 tagGDX1FocusC101=Padala's Will
 tagGDX1FocusC102=Virulent Maw
@@ -320,11 +320,11 @@ tagGDX1WeaponQuality001=Exalted
 tagGDX1WeaponQuality002=Preserver
 
 #ArmorHead
-tagGDX1HeadB101=*Ascendant Hood*
-tagGDX1HeadB102=*Ascendant Cowl*
-tagGDX1HeadB103=*Packla's Skins*
+tagGDX1HeadB101=Ascendant Hood
+tagGDX1HeadB102=Ascendant Cowl
+tagGDX1HeadB103=Packla's Skins
 tagGDX1HeadB103_Desc="You have no idea how many victims this mask consists of."
-tagGDX1HeadB104=*Packla's Visage*
+tagGDX1HeadB104=Packla's Visage
 tagGDX1HeadB104_Desc="The stench coming off this mask is unbearable."
 
 
@@ -395,11 +395,11 @@ tagGDX1HeadF118=Wendigo Tempered Headguard
 
 
 #ArmorShoulders
-tagGDX1ShoulderB101=*Ascendant Pauldrons*
-tagGDX1ShoulderB102=*Ascendant Shoulderguards*
-tagGDX1ShoulderB103=*Kra'vall Shoulderguards*
+tagGDX1ShoulderB101=Ascendant Pauldrons
+tagGDX1ShoulderB102=Ascendant Shoulderguards
+tagGDX1ShoulderB103=Kra'vall Shoulderguards
 tagGDX1ShoulderB103_Desc="The tough skin of an Ugdenbog kraken may be difficult to work with, but it is prized among craftsmen for good reason."
-tagGDX1ShoulderB104=*Kra'vall Shoulderpads*
+tagGDX1ShoulderB104=Kra'vall Shoulderpads
 
 tagGDX1ShoulderC101=Wraithcaller's Mantle
 tagGDX1ShoulderC102=Wraith Knight's Pauldrons
@@ -455,11 +455,11 @@ tagGDX1ShoulderF118=Wendigo Guardian Pauldrons
 
 
 #ArmorTorso
-tagGDX1TorsoB101=*Galakros Singed Plating*
-tagGDX1TorsoB102=*Galakros Dread Plating*
-tagGDX1TorsoB103=*Valaxteria's Arcane Robes*
+tagGDX1TorsoB101=Galakros Singed Plating
+tagGDX1TorsoB102=Galakros Dread Plating
+tagGDX1TorsoB103=Valaxteria's Arcane Robes
 tagGDX1TorsoB103_Desc="The robes shimmer with finely woven arcane runes."
-tagGDX1TorsoB104=*Valaxteria's Skytorn Robes*
+tagGDX1TorsoB104=Valaxteria's Skytorn Robes
 
 tagGDX1TorsoC101=Deathbringer Raiment
 tagGDX1TorsoC102=Darkflame Chestguard
@@ -539,14 +539,14 @@ tagGDX1HandsD114=Dark One's Grasp
 
 
 #ArmorLegs
-tagGDX1LegsB101=*Aleksander's Legguards*
-tagGDX1LegsB102=*Aleksander's Chausses*
-tagGDX1LegsB103=*Grava'Thul's Leggings*
-tagGDX1LegsB104=*Grava'Thul's Legguards*
-tagGDX1LegsB105=*Kubacabra's Legguards*
-tagGDX1LegsB106=*Kubacabra's Chausses*
-tagGDX1LegsB107=*Reaper's Leggings*
-tagGDX1LegsB108=*Reaper's Legguards*
+tagGDX1LegsB101=Aleksander's Legguards
+tagGDX1LegsB102=Aleksander's Chausses
+tagGDX1LegsB103=Grava'Thul's Leggings
+tagGDX1LegsB104=Grava'Thul's Legguards
+tagGDX1LegsB105=Kubacabra's Legguards
+tagGDX1LegsB106=Kubacabra's Chausses
+tagGDX1LegsB107=Reaper's Leggings
+tagGDX1LegsB108=Reaper's Legguards
 
 tagGDX1LegsC101=Scorchrune Legwraps
 tagGDX1LegsC102=Dreadrune Legguards
@@ -594,10 +594,10 @@ tagGDX1FeetD111=Krieg's Boots
 tagGDX1WaistA101=Preserver Belt
 tagGDX1WaistA102=Redeemer Waistguard
 
-tagGDX1WaistB101=*Ugdenbog Girdle*
-tagGDX1WaistB102=*Ugdenbog Waistguard*
-tagGDX1WaistB103=*Lunal'Valgoth's Girdle*
-tagGDX1WaistB104=*Lunal'Valgoth's Waistguard*
+tagGDX1WaistB101=Ugdenbog Girdle
+tagGDX1WaistB102=Ugdenbog Waistguard
+tagGDX1WaistB103=Lunal'Valgoth's Girdle
+tagGDX1WaistB104=Lunal'Valgoth's Waistguard
 tagGDX1WaistB105=Trollheart Waistguard
 tagGDX1WaistB106=Puppetmaster Links
 tagGDX1WaistB107=Stoneplate Waistguard
@@ -651,10 +651,10 @@ tagGDX1RingA102=Exalted Band
 tagGDX1RingA103=Preserver Ring
 tagGDX1RingA104=Preserver Band
 
-tagGDX1RingB101=*Living Ring*
+tagGDX1RingB101=Living Ring
 tagGDX1RingB101_Desc="The thorns along the band draw blood, but that seems to revitalize the vines."
-tagGDX1RingB102=*Vine Ring*
-tagGDX1RingB103=*Gargabol's Ring*
+tagGDX1RingB102=Vine Ring
+tagGDX1RingB103=Gargabol's Ring
 tagGDX1RingB103_Desc="The burning band is painful to the touch, but yet does not inflict physical harm."
 
 tagGDX1RingC101=Cursebearer
@@ -704,8 +704,8 @@ tagGDX1NecklaceA104=Preserver Pendant
 
 tagGDX1NecklaceB100=Sahdina's Memento
 tagGDX1NecklaceB100_Desc="A simple pendant, warded against evil. An inscription on it reads: The Web we weave carries with it the portents of Evil imagery. - Jay Peggins"
-tagGDX1NecklaceB101=*Gulgazor's Heart*
-tagGDX1NecklaceB102=*Vilgazor's Heart*
+tagGDX1NecklaceB101=Gulgazor's Heart
+tagGDX1NecklaceB102=Vilgazor's Heart
 
 tagGDX1NecklaceC101=Whispers of the Dead
 tagGDX1NecklaceC102=Dismember Stone
@@ -765,20 +765,22 @@ tagGDX1NecklaceF111=Reaver's Hunger
 tagGDX1MedalA101=Exalted Star
 tagGDX1MedalA102=Preserver Crest
 
-tagGDX1MedalB101=*Basilisk Crest*
+tagGDX1MedalB101=Basilisk Crest
 tagGDX1MedalB101_Desc="The fangs still drip with petrifying venom."
-tagGDX1MedalB102=*Basilisk Mark*
+tagGDX1MedalB102=Basilisk Mark
 tagGDX1MedalB102_Desc="The fangs still drip with hemorrhaging venom."
-tagGDX1MedalB103=*Rylok Crest*
+tagGDX1MedalB103=Rylok Crest
 tagGDX1MedalB103_Desc="The Chthonian scale thirsts for blood."
-tagGDX1MedalB104=*Rylok Mark*
+tagGDX1MedalB104=Rylok Mark
 tagGDX1MedalB104_Desc="The Chthonian scale is teeming with the darkness of the void."
-tagGDX1MedalB105=*Wendigo Eye*
+tagGDX1MedalB105=Wendigo Eye
 tagGDX1MedalB105_Desc="The bloodshot eye still moves when blood is nearby."
-tagGDX1MedalB106=*Wendigo Gaze*
+tagGDX1MedalB106=Wendigo Gaze
 tagGDX1MedalB106_Desc="The bloodshot eye bewilders any lesser creature that gazes upon it."
 tagGDX1MedalB107=Nimble Crest
 tagGDX1MedalB108=Watcher Crest
+tagGDX1MedalB109=Slathsarr's Crest
+tagGDX1MedalB109_Desc="The fangs drip with aetherwarped venom."
 
 tagGDX1MedalC101=Solemn Mark
 tagGDX1MedalC102=Mark of Impurity
@@ -840,6 +842,7 @@ tagGDX1Blueprint_RelicD110=Blueprint: Relic - Massacre
 tagGDX1Blueprint_RelicD111=Blueprint: Relic - Uroboruuk's Reaping
 tagGDX1Blueprint_RelicD112=Blueprint: Relic - Ignaffar's Combustion
 tagGDX1Blueprint_RelicD113=Blueprint: Relic - Mogdrogen's Ardor
+tagGDX1Blueprint_RelicD114=Blueprint: Relic - Deathstalker
 
 
 tagGDX1Blueprint_ComponentA101=Blueprint: Seal of Might
@@ -1058,9 +1061,9 @@ tagGDX1Blueprint_AccessoryC115=Blueprint: Mythical Sapphire of Elemental Balance
 tagGDX1Blueprint_AccessoryD101=Blueprint: Mythical Stormseer Sapphire
 tagGDX1Blueprint_AccessoryD102=Blueprint: Mythical Pack of Treacherous Means
 tagGDX1Blueprint_AccessoryD103=Blueprint: Cinderplate Girdle
-tagGDX1Blueprint_AccessoryD104=Blueprint: Mark of Kalastor
+tagGDX1Blueprint_AccessoryD104=Blueprint: Mythical Mark of Kalastor
 tagGDX1Blueprint_AccessoryD105=Blueprint: Mark of Consumption
-tagGDX1Blueprint_AccessoryD106=Blueprint: Reign of Ice and Fire
+tagGDX1Blueprint_AccessoryD106=Blueprint: Mythical Reign of Ice and Fire
 tagGDX1Blueprint_AccessoryD107=Blueprint: Stoneguard Girdle
 tagGDX1Blueprint_AccessoryD108=Blueprint: Aegis Waistguard
 tagGDX1Blueprint_AccessoryD109=Blueprint: Mythical Avatar of Mercy
@@ -1134,6 +1137,8 @@ tagGDX1RelicD112=Ignaffar's Combustion
 tagGDX1RelicD112Desc="The Stone of Ignaffar was not the only artifact recovered by the Luminari from an ancient burial and later purified."
 tagGDX1RelicD113=Mogdrogen's Ardor
 tagGDX1RelicD113Desc="The lonely wolf dies, the pack survives."
+tagGDX1RelicD114=Deathstalker
+tagGDX1RelicD114Desc="A vicious spirit yearns to be free"
 
 
 #Crafting

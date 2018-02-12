@@ -529,7 +529,7 @@ tagGDX1CompSkillA108Name=Stormfire
 tagGDX1CompSkillA108Desc=Unleash a blast of electrified flame that shatters upon contact to wreak havoc upon the battlefield.
 
 tagGDX1CompSkillA109Name=Biting Blades
-tagGDX1CompSkillA109Desc=Hurl a blade coated in caustic acid that spirals outward away from your position, piercing through all enemies along the way.
+tagGDX1CompSkillA109Desc=Hurl a blade coated in caustic acid that spins outward away from your position, piercing through all enemies along the way before returning to you.
 
 tagGDX1CompSkillA110Name=Arcane Resonance
 tagGDX1CompSkillA110Desc=Your mastery over the arcane shields you from debilitating effects. ^oThis ability must be toggled to maintain its effect.
@@ -609,6 +609,10 @@ tagGDX1RelicSkillD112Desc=The ancient relic erupts with destructive flame that i
 tagGDX1RelicSkillD113Name=Mogdrogen's Ardor
 tagGDX1RelicSkillD113Desc=The beast god's blessing surrounds you and your minions, shielding you from harm. ^oThis ability must be toggled to maintain its effect.
 
+tagGDX1RelicSkillD114Name=Summon Deathstalker
+tagGDX1RelicSkillD114Desc=Call forth Deathstalker, a fearsome embodiment of Mogdrogen's fury that shreds the Physical, Poison and Bleed Resistance of nearby enemies. ^oYou can only summon one manifestation of Deathstalker at any one time. Deathstalker scales with player damage bonuses.
+tagGDX1RelicSkillD114_Skill=Aura of Darkness
+tagGDX1RelicSkillD114_Desc=A creature of darkness stalks your foes, shredding their Physical, Poison and Bleed Resistances.
 
 #ConsumableSkills
 tagGDX1ConsumableSkill_B101=Ugdenjuice
@@ -754,6 +758,9 @@ tagGDX1EnemySkillA10_Desc=The Bloater's miasma threatens to choke the life out o
 tagGDX1EnemySkillA11=Aura of Oppression
 tagGDX1EnemySkillA11_Desc=A Void Oppressor's presence overwhelms you with darkness, reducing Max Health and slowing your actions.
 
+tagGDX1EnemySkillA12=Aura of Darkness
+tagGDX1EnemySkillA12_Desc=A creature of darkness is hunting you, shredding your resistances.
+
 
 tagGDX1EnemySkillB01=Time Stop Aura
 tagGDX1EnemySkillB01_Desc=You are within the presence of a timewarped entity, slowing your actions.
@@ -809,4 +816,6 @@ tagGDX1EnemySkillD15_Desc=The Aether is potent in this area, harming you and sap
 tagGDX1EnemySkillD16=Terrifying Presence
 tagGDX1EnemySkillD16_Desc=A great beast roams nearby, filling you with dread and emboldening nearby creatures.
 
+tagGDX1EnemySkillD17=Burning Blood
+tagGDX1EnemySkillD17_Desc=Gargabol's Burning Blood singes your resistances.
 

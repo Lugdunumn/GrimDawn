@@ -88,7 +88,7 @@ tagGDX1UGAncientGrove01=Ancient Grove
 tagGDX1UGAncientGrove01A=Feral Thicket
 tagGDX1UGAncientGrove01B=Tainted Wood
 tagGDX1UGAncientGrove01C=Heart of the Forest
-tagGDX1UGAncientGrove01D=Blood Trials
+tagGDX1UGAncientGrove01D=Trial of Corruption
 
 tagGDX1UGSecret01=Sanctum of the Chosen
 tagGDX1UGSecret02=Crucible of the Dead
@@ -148,8 +148,6 @@ tagGDX1POI_BeastRoguelike02A=Feral Thicket Entrance
 tagGDX1POI_BeastRoguelike02B=Feral Thicket Exit
 tagGDX1POI_BeastRoguelike03A=Tainted Wood Entrance
 tagGDX1POI_BeastRoguelike03B=Tainted Wood Exit
-tagGDX1POI_BeastRoguelike04A=Heart of the Forest Entrance
-tagGDX1POI_BeastRoguelike04B=Heart of the Forest Exit
 tagGDX1POI_VoidExit=Void Exit
 
 tagGDX1POI_CandleDistrictEntrance=Candle District
@@ -199,7 +197,7 @@ tagNotification_AreaF_DocksEventFinished=The Aetherials in the Blackiron Docks h
 
 tagNotification_WarningAncientGroveGates=The way to the Ancient Grove has been opened. Make haste, as the passage will not remain open for long...
 tagNotification_WarningAncientGroveGatesLocked=The Ancient Grove entrance is sealed and will not reopen again in this session.
-tagNotification_WarningAncientGroveChallenge=The Blood Trials have ended!
+tagNotification_WarningAncientGroveChallenge=The corruption subsides!
 
 tagNotification_WarningAreaFSecret01=A small memento of Sahdina's stands out within the carnage...
 
@@ -335,7 +333,7 @@ tagGDX1QuestItemDravisClue_01=Dravis' Letter
 tagGDX1QuestItemDravisClue_01_Desc=Dear Sister,{^n}again I find myself at a loss of words. Why is it that you defy your very blood? Why do you forsake your brother when I am so close to the truth?{^n}{^n}But no matter, I shall tear it out of our father's dying breath with or without you. If you are reading this, then you are again too late, for I have again ventured where the dead dare not, where the blood of the living is joined with the master. The time to join me has passed, Daila. Turn back, for where I go, you cannot follow...{^n}Dravis
 
 tagGDX1QuestItemDravisClue_02=Dravis' Offering
-tagGDX1QuestItemDravisClue_02_Desc="There's a note attached to the flower: A thorned flower for a thorned woman. -D"
+tagGDX1QuestItemDravisClue_02_Desc="There's a note attached to the flower: A prickly flower for a prickled woman. -D"
 
 tagGDX1QuestItemMadRamblings_01=Ivonda's Memory
 tagGDX1QuestItemMadRamblings_01_Desc="The journal is mostly full of mad ramblings and nonsense, but some bits prove quite intriguing, if you could just make sense of them."
@@ -399,6 +397,11 @@ tagGDX1LoreObj_AreaE_NoteA06Text=We thought ourselves wise, masters of this craf
 
 tagGDX1LoreObj_AreaE_NoteA07Name=Nane's Stash
 tagGDX1LoreObj_AreaE_NoteA07Text=I don't know what he's up to but twice in the last week I've seen Nane driving a loaded wagon up the North road past the old mill. Then twice returning with the wagon empty. He must be hiding something up there and I mean to find out where. If he's made it big, I fully intend to be in on his good fortunes.
+
+#AncientGrove
+tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Name=Mogdrogen's Ruminations
+tagGDX1LoreObj_AreaE_AncientGrove_NoteA01Text=Recent events bring trouble to my heart.{^n}{^n}A mortal, one of the Erulan inquisitors they call Kymon, has stumbled upon something. Something...ancient and forgotten. And like any imprudent mortal, he did not leave what should have remained forgotten alone. A mighty blaze now stirs deep beneath the Korvan Plateau. The beasts of Cairn are restless. They sense it too.{^n}{^n}To compound this mystery, the normally capricious false gods had gone curiously silent. I suspect they've receded to their pocket realm. The timing cannot be fortuitous. The Witch Gods are afraid. Their attention must be drawn to the same power that now consumes the souls of Kymon and his chosen. The mortals' ardent worship feeds it, gives it strength and form.{^n}{^n}Rumblings among the humans speak of the mighty Empyrion's return, but I know that to be the false hopes of helpless wretches. The identity of this forgotten power eludes me, and yet it feels so...familiar.{^n}{^n}What I am certain of however is that cataclysmic change is upon us. I have felt it in the earth. Smelled it upon the wind. Forces I had not sensed in millennia yearn for vengeance and blood.{^n}{^n}I must gather my Rhowari. The time approaches when their conviction will truly be tested.
+
 
 
 #AreaF Notes
@@ -604,6 +607,6 @@ tagGDX1DevotionShrineE02=Ugdenbog
 
 tagGDX1DevotionShrineF01=Malmouth
 tagGDX1DevotionShrineF02=Crown Hill
-tagGDX1DevotionShrineF03=The Undergrowth
+tagGDX1DevotionShrineF03=Ancient Grove
 
 tagGDX1DevotionShrineS03=???
