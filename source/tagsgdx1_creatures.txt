@@ -327,6 +327,11 @@ tagGDX1ItemPetHargate=Aether Crystal
 tagGDX1ItemPetKasparovSkill=Crystallized
 tagGDX1ItemPetFireDevil=Cinderwind
 tagGDX1ItemPetFireDevil_Skill=Living Blaze
+tagGDX1ItemPetBloodWraith=Soul of Lord Nazaran
+tagGDX1ItemPetBloodWraith_Skill=Vampiric Touch
+tagGDX1ItemPetBloodWraith_Skill02=Vampiric Presence
+tagGDX1ItemPetBloodSkeleton=Bloodbathed Servant
+tagGDX1ItemPetBloodSkeleton_Skill=Blood Rite
 
 #EnemySummons
 

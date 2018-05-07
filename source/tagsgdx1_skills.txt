@@ -25,6 +25,18 @@ tagSkillClassDescription08=Though most modern Necromancers hail from the Order o
 
 tagGDX1Class02SkillTracker02A=Current Number of Mortars Placed
 
+
+#Class04
+
+tagGDX1Class04SkillTracker01A=Current Number of Blade Spirits Conjured
+
+
+#Class06
+
+tagGDX1Class06SkillTracker01A=Current Number of Wind Devils Conjured
+tagGDX1Class06SkillTracker02A=Current Number of Storm Totems Placed
+
+
 #Class07
 
 tagGDX1Class07SkillName00A=Inquisitor
@@ -213,7 +225,7 @@ tagGDX1Class08SkillDescription15A=Upon their master's command, your minions can 
 
 #ItemSkills
 
-tagGDX1RelicSkillTracker01A=Current Number of Swarmlins Summoned
+tagGDX1RelicSkillTracker01A=Current Number of Swarmlings Summoned
 
 tagGDX1ItemSkillB101Name=Blastwave
 tagGDX1ItemSkillB101Desc=A wave of fire erupts from your attack.
@@ -496,8 +508,18 @@ tagGDX1ItemSkillD177Desc=A blaze of pure arcane fire erupts beneath your foes.
 tagGDX1ItemSkillD178Name=Void Rounds
 tagGDX1ItemSkillD178Desc=A barrage infused with void energies passes through your foes and unmakes them from within. ^oThis is a ranged technique that activates off of default weapon attacks. Also enables the ability to dual wield ranged weapons.
 
-tagGDX1ItemSkillD179Name=
-tagGDX1ItemSkillD179Desc=
+tagGDX1ItemSkillD179Name=Spelldrinker
+tagGDX1ItemSkillD179Desc=Empower your weapon to resonate with arcane energies, absorbing a portion of hostile spells and reflecting part of them back to the source. ^oThis ability must be toggled to maintain its effect.
+
+tagGDX1ItemSkillD180Name=Call Upon the Bloodbathed
+tagGDX1ItemSkillD180Desc=Call forth a bloodied servant of Nazaran to cast vitality-sapping spells upon your foes before the torment of the grave calls upon it once more. ^oBloodbathed Servants scale with player damage bonuses.
+tagGDX1ItemSkillD180SkillTracker=Current Number of Servants Summoned
+
+tagGDX1ItemSkillD181Name=Soul of Nazaran
+tagGDX1ItemSkillD181Desc=Summon the tormented soul of Lord Nazaran to lash out at your foes and transfer the agony it inflicts as life essence for you. ^oYou can only summon one manifestation of Lord Nazaran at any one time. Lord Nazaran scales with player damage bonuses.
+
+tagGDX1ItemSkillD182Name=Mark of the Rimetongue
+tagGDX1ItemSkillD182Desc=Rimetongue's mark was renowned for sowing discord and confusion among the political elite. When applied to your foes, it fills them with a similar unease and sense of entrapment.
 
 tagGDX1w=GrimDawn/images/evil
 

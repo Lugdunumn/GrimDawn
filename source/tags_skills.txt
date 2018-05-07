@@ -218,7 +218,7 @@ tagClass02SkillName05E=Electrical Mortar
 tagClass02SkillDescription05E=Launches an electrically charged mortar at enemies.
 
 tagClass02SkillName06A=Thermite Mine
-tagClass02SkillDescription06A=Drops a trio of small but deadly pyrotechnic charges that will sear enemies with intense jets of flame. ^oThe mines scale with player damage bonuses.
+tagClass02SkillDescription06A=Drops a trio of small but deadly pyrotechnic charges that will sear enemies with intense jets of flame. ^oThe mines scale with player damage bonuses and last for 12s once triggered by a foe.
 tagClass02SkillName06B=Hellfire Mine
 tagClass02SkillDescription06B=Half pyrotechnics, half alchemy, this lethal improvement to the Thermite Mine causes it to scorch enemies with unearthly flame that sears the very being.
 tagClass02SkillName06C=Flame Jet
@@ -644,7 +644,7 @@ tagClass06SkillName009C=Claw and Fang Attacks
 tagClass06SkillDescription09C=Innate Attack.
 
 tagClass06SkillName10A=Brute Force
-tagClass06SkillDescription10A=To many Shamans, a brutal two-handed weapon serves as the conduit for their storm powers. These practitioners favor a closer connection to the wilds through animalistic rage rather than through fragile wands and tomes which they consider to be the toys of those who would prefer to spend their time reading books over practicing their craft. ^oRequires a two-handed melee or two-handed ranged weapon.
+tagClass06SkillDescription10A=To many Shamans, a brutal two-handed weapon serves as the conduit for their storm powers. These practitioners favor a closer connection to the wilds through animalistic rage rather than through fragile wands and tomes which they consider to be the toys of those who would prefer to spend their time reading books over practicing their craft. ^oThis is a two-handed melee and two-handed ranged weapon bonus.
 tagClass06SkillName11A=Shamanism
 tagClass06SkillDescription11A=Rigorous training within the untamed wilds has honed your mind and body into a savage weapon.
 tagClass06SkillName12A=Nature's Wrath
@@ -653,7 +653,7 @@ tagClass06SkillName13A=Primal Bond
 tagClass06SkillDescription13A=Embrace your savage side as you seal your bond with Mogdrogen. Creatures from the beast god's domain readily answer your call. ^oThis ability must be toggled to maintain its effect.
 
 tagClass06SkillName14A=Upheaval
-tagClass06SkillDescription14A=Strike with the strength of the earth. Whenever you land a critical strike with your basic weapon attacks, the ground shakes with the force of the blow, reverberating around the point of impact in a shockwave. ^oRequires a two-handed melee or two-handed ranged weapon and activates off of default weapon attacks.
+tagClass06SkillDescription14A=Strike with the strength of the earth. Whenever you land a critical strike with your basic weapon attacks, the ground shakes with the force of the blow, reverberating in a shockwave that strikes the initial target and all those around them. ^oRequires a two-handed melee or two-handed ranged weapon and activates off of default weapon attacks.
 
 tagClass06SkillName15A=Devouring Swarm
 tagClass06SkillDescription15A=Out in the wild, one must do whatever it takes to survive. Some Shaman Conjurers take this lesson to heart by conjuring a voracious swarm which hungrily tears apart anything it comes in contact with, inflicting grievous wounds and exposing vulnerabilities.
@@ -1629,7 +1629,7 @@ tagItemSkillD094Desc=A wave of scorching flame emanates from you in a destructiv
 tagItemSkillD095Name=Flame Breath
 tagItemSkillD095Desc=The mask allows you to breathe fire.
 
-tagItemSkillD096Name=Celestial Judgement
+tagItemSkillD096Name=Celestial judgment
 tagItemSkillD096Desc=Lightning rapidly strikes nearby foes, electrocuting them.
 
 tagItemSkillD097Name=Toxic Gas Cloud
@@ -1849,7 +1849,7 @@ tagItemSkillD168Name=Screams of the Aether
 tagItemSkillD168Desc=Cries of the Aether emanate from you, terrifying nearby foes.
 
 tagItemSkillD169Name=Sealed Fate
-tagItemSkillD169Desc=You seal the fate of your foes, confident in the judgement you cast upon them.
+tagItemSkillD169Desc=You seal the fate of your foes, confident in the judgment you cast upon them.
 
 tagItemSkillD170Name=Secrets of the Guardian
 tagItemSkillD170Desc=The secrets of Dreeg are revealed to you, threatening your sanity but also empowering your spellwork.
@@ -2298,7 +2298,7 @@ tagRelicSkillB013Name=Volley
 tagRelicSkillB013Desc=Unleash a calculated volley of bullets at your target. ^oThis is a ranged dual-wielding or two-handed technique that activates off of default weapon attacks. Also enables the ability to dual wield ranged weapons.
 
 tagRelicSkillC001Name=Gavel of Justice
-tagRelicSkillC001Desc=Pass righteous judgement upon the wicked. ^oRequires a two-handed melee or two-handed ranged weapon.
+tagRelicSkillC001Desc=Pass righteous judgment upon the wicked. ^oRequires a two-handed melee or two-handed ranged weapon.
 
 tagRelicSkillC002Name=Living Fortress
 tagRelicSkillC002Desc=Skin like stone, you become nearly untouchable by blade and magic alike. ^oRequires a shield.
@@ -2561,7 +2561,7 @@ tagDevotion_A12Desc=The owl represents wisdom and scholarly pursuits. Spellwork 
 tagDevotion_A13=Viper
 tagDevotion_A13Desc=The viper represents the flow of energy between the living world and the aether, which powers all forms of magic.
 tagDevotion_A14=Gallows
-tagDevotion_A14Desc=The gallows is a solemn sign of passed judgement and deadly portents.
+tagDevotion_A14Desc=The gallows is a solemn sign of passed judgment and deadly portents.
 tagDevotion_A15=Crossroads
 tagDevotion_A15Desc=The crossroads mark the changing of ways, the opening of endless possibilities.
 tagDevotion_A16=Empty Throne
@@ -2577,7 +2577,7 @@ tagDevotion_A20Desc=The fiend hides in the darkness of the void, hungry for wayw
 tagDevotion_A21=Bull
 tagDevotion_A21Desc=The bull charges across the night sky with determination and strength.
 tagDevotion_A22=Wraith
-tagDevotion_A22Desc=The wraith roams the skies for all eternity, its final judgement by Ulcama never passed.
+tagDevotion_A22Desc=The wraith roams the skies for all eternity, its final judgment by Ulcama never passed.
 tagDevotion_A23=Harpy
 tagDevotion_A23Desc=The harpy represents dark omens. To be born under her light is seen as a sign of shame, driving some families to abandon such children altogether.
 tagDevotion_A24=Fox
@@ -2668,14 +2668,14 @@ tagDevotion_B27Desc=The shieldmaiden stands guard over the stars, so that none l
 tagDevotion_B28=Behemoth
 tagDevotion_B28Desc=The behemoth serves the gods, endlessly moving and shifting the countless stars in the sky at their command.
 tagDevotion_B29=Chariot of the Dead
-tagDevotion_B29Desc=The chariot of the dead gathers wayward souls and delivers them to their final judgement across the veil.
+tagDevotion_B29Desc=The chariot of the dead gathers wayward souls and delivers them to their final judgment across the veil.
 tagDevotion_B30=Ulo the Keeper of the Waters
 tagDevotion_B30Desc=Ulo represents the endless cycle and unstoppable flow of water, renewing all the rivers of the world and in turn the lakes and the seas.
 tagDevotion_B31=Harvestman's Scythe
 tagDevotion_B31Desc=The scythe represents bounty and the time of harvests. It shines brightest in the hottest months, before giving way to the Autumn Boar.
 
 tagDevotion_C01=Aeon's Hourglass
-tagDevotion_C01Desc=Aeon is known as the keeper of time, the master of fate's thread. It is by his judgement that mortals are born and die. His symbol is the hourglass.
+tagDevotion_C01Desc=Aeon is known as the keeper of time, the master of fate's thread. It is by his judgment that mortals are born and die. His symbol is the hourglass.
 tagDevotion_C02=Abomination
 tagDevotion_C02Desc=Golgoran, the abomination, represents humanity's basest instincts, fear of death and shadows, the desire to have what you have not. The abomination embodies all that turns man wicked.
 tagDevotion_C03=Light of Empyrion

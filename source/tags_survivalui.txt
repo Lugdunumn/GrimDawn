@@ -74,7 +74,7 @@ tagHUDWaveTier01Info=The Wave of Monsters you are currently fighting.
 
 #Tutorials
 tagTutorialTip62Title=The Crucible Calls...
-tagTutorialTip62TextA=You have entered the Crucible, a devious machination of the mysterious Lokarr. Here, your battle wits wil be tested against some of Grim Dawn's vilest beings.
+tagTutorialTip62TextA=You have entered the Crucible, a devious machination of the mysterious Lokarr. Here, your battle wits will be tested against some of Grim Dawn's vilest beings.
 tagTutorialTip62TextB=When you are ready to begin, speak to Lokarr, the Crucible's Master.
 tagTutorialTip62SubtitleA=Lokarr's Thralls
 tagTutorialTip62TextC=At any time between Crucible monster waves, you can speak to Lokarr's thralls to take advantage of basic services such as a Merchant, Blacksmith and Spirit Guide.

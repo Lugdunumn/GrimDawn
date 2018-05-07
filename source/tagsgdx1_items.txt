@@ -86,7 +86,7 @@ tagGDX1WeaponGun1hD102_Desc="Sidearm specifically devised by Inquisitor Anderos 
 tagGDX1WeaponGun1hD103=Arcanum Electrollis
 tagGDX1WeaponGun1hD103_Desc="Crafted to the exact specifications of Master Agrivix, Grand Arcanist of the Silver Tower."
 tagGDX1WeaponGun1hD107=Cindercore
-tagGDX1WeaponGun1hD108=Aegis Revolver
+tagGDX1WeaponGun1hD108=Stronghold Revolver
 tagGDX1WeaponGun1hD109=Darkblaze Incinerator
 tagGDX1WeaponGun1hD110=Dagallon's Destroyer
 tagGDX1WeaponGun1hD110_Desc="The barrels are runed on the inside to propel the bullets with supernatural force."
@@ -241,7 +241,7 @@ tagGDX1ShieldD103=Turrion's Reprisal
 tagGDX1ShieldD107=The Grey Knight
 tagGDX1ShieldD107_Desc="Bulwark of the faceless defender of Menhir, who stood alone against a gathering of heretics and emerged the victor."
 tagGDX1ShieldD108=Bulwark of Octavius
-tagGDX1ShieldD109=Aegis Defender
+tagGDX1ShieldD109=Stronghold Defender
 tagGDX1ShieldD110=Spellscourge Bulwark
 tagGDX1ShieldD110_Desc="The shield channels through it devastating power."
 
@@ -373,6 +373,9 @@ tagGDX1HeadD123=Deathguard Hood
 tagGDX1HeadD124=Diviner's Mask
 tagGDX1HeadD125=Dark One's Hood
 tagGDX1HeadD126=Belgothian's Mask
+tagGDX1HeadD127=Radaggan's Mask
+tagGDX1HeadD128=Rimetongue Mask
+tagGDX1HeadD129=Blood Knight's Visage
 
 tagGDX1HeadF101=Coven Mindbender Hood
 tagGDX1HeadF102=Coven Tamer's Hood
@@ -432,7 +435,9 @@ tagGDX1ShoulderD120=Diviner's Mantle
 tagGDX1ShoulderD121=Dark One's Mantle
 tagGDX1ShoulderD122=Belgothian's Shoulderguard
 tagGDX1ShoulderD123=Deathguard Mantle
-
+tagGDX1ShoulderD124=Radaggan's Mantle
+tagGDX1ShoulderD125=Rimetongue Shoulderguard
+tagGDX1ShoulderD126=Blood Knight's Scrolls
 
 tagGDX1ShoulderF101=Coven Wrath Mantle
 tagGDX1ShoulderF102=Coven Lifebinder Mantle
@@ -494,6 +499,9 @@ tagGDX1TorsoD120=Deathguard Shroud
 tagGDX1TorsoD121=Diviner's Raiment
 tagGDX1TorsoD122=Dark One's Raiment
 tagGDX1TorsoD123=Belgothian's Armor
+tagGDX1TorsoD124=Radaggan's Shroud
+tagGDX1TorsoD125=Rimetongue Chestguard
+tagGDX1TorsoD126=Blood Knight's Armor
 
 tagGDX1TorsoF101=Coven Wrath Vestments
 tagGDX1TorsoF102=Coven Lifebinder Vestments
@@ -628,7 +636,7 @@ tagGDX1WaistD114=Lacerator Girdle
 tagGDX1WaistD115=Avenger's Girdle
 tagGDX1WaistD116=Cataclysm's Pact
 tagGDX1WaistD117=Stoneguard Girdle
-tagGDX1WaistD118=Aegis Waistguard
+tagGDX1WaistD118=Stronghold Waistguard
 tagGDX1WaistD119=Darkblaze Ammo Belt
 
 tagGDX1WaistF101A=Coven Vile Waistguard
@@ -692,7 +700,7 @@ tagGDX1RingF104=Malmouth Arcane Seal
 tagGDX1RingF105=Malmouth Blade Seal
 tagGDX1RingF106=Malmouth Aetherblaze Seal
 tagGDX1RingF107=Wendigo Warped Seal
-tagGDX1RingF108=Wendigo Oppressor Seal
+tagGDX1RingF108=Wendigo Conjuring Seal
 
 
 
@@ -747,6 +755,9 @@ tagGDX1NecklaceD119=Spellscourge Deflector
 tagGDX1NecklaceD120=Mageslayer's Protector
 tagGDX1NecklaceD121=Runebinder's Gem
 tagGDX1NecklaceD122=Uroboruuk's Eye
+tagGDX1NecklaceD123=Radaggan's Gem
+tagGDX1NecklaceD124=Rimetongue Pendant
+tagGDX1NecklaceD125=Blood Knight's Pendant
 
 tagGDX1NecklaceF101=Coven Darkener Pendant
 tagGDX1NecklaceF102=Coven Manipulator Pendant
@@ -1036,6 +1047,10 @@ tagGDX1Blueprint_ArmorD166=Blueprint: Mythical Divinesteel Hauberk
 
 tagGDX1Blueprint_ArmorD167=Blueprint: Belgothian's Mask
 
+tagGDX1Blueprint_ArmorD168=Blueprint: Radaggan's Mask
+tagGDX1Blueprint_ArmorD169=Blueprint: Rimetongue Mask
+tagGDX1Blueprint_ArmorD170=Blueprint: Blood Knight's Visage
+
 tagGDX1Blueprint_AccessoryB101=Blueprint: Nimble Crest
 tagGDX1Blueprint_AccessoryB102=Blueprint: Watcher Crest
 tagGDX1Blueprint_AccessoryB103=Blueprint: Trollheart Waistguard
@@ -1065,7 +1080,7 @@ tagGDX1Blueprint_AccessoryD104=Blueprint: Mythical Mark of Kalastor
 tagGDX1Blueprint_AccessoryD105=Blueprint: Mark of Consumption
 tagGDX1Blueprint_AccessoryD106=Blueprint: Mythical Reign of Ice and Fire
 tagGDX1Blueprint_AccessoryD107=Blueprint: Stoneguard Girdle
-tagGDX1Blueprint_AccessoryD108=Blueprint: Aegis Waistguard
+tagGDX1Blueprint_AccessoryD108=Blueprint: Stronghold Waistguard
 tagGDX1Blueprint_AccessoryD109=Blueprint: Mythical Avatar of Mercy
 tagGDX1Blueprint_AccessoryD110=Blueprint: Mythical Pestilence of Dreeg
 tagGDX1Blueprint_AccessoryD111=Blueprint: Mythical Avenger of Cairn
@@ -1349,7 +1364,7 @@ tagGDX1EnchantB108A=Potent Coven's Bane
 tagGDX1EnchantB108Desc="A vile toxin derived from various plants in Ugdenbog, combined with Coven magic to maximize its efficacy."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantB109A=Witch's Black Flame
-tagGDX1EnchantB109Desc="Often associated with rituals performed by the cults of the three Witch Gods, the Coven often makes use of thise vile powder when a ritual calls for it."^w^n(Applied to rings and amulets)
+tagGDX1EnchantB109Desc="Often associated with rituals performed by the cults of the three Witch Gods, the Coven often makes use of this vile powder when a ritual calls for it."^w^n(Applied to rings and amulets)
 
 tagGDX1EnchantB110A=Wraith's Scream
 tagGDX1EnchantB110Desc="Through a terrifying binding ritual, a Coven hexxer is capable of trapping and disintegrating an Ugdenbog wraith."^w^n(Applied to rings and amulets)
@@ -1618,7 +1633,7 @@ tagGDX1ItemSetD105Desc="For the safety of all, these artifacts were scattered an
 tagGDX1ItemSetD106Name=Stoneguard
 tagGDX1ItemSetD106Desc="Implements of the Stoneguard, a staunch defender of the Faith of Menhir."
 
-tagGDX1ItemSetD107Name=Aegis of the Legion
+tagGDX1ItemSetD107Name=Stronghold of the Legion
 tagGDX1ItemSetD107Desc="Implements of Palliona Dar, shieldmaiden of the Black Legion."
 
 tagGDX1ItemSetD108Name=Korba's Fury
@@ -1659,6 +1674,16 @@ tagGDX1ItemSetD119Desc="A gift from Ch'thon upon those mortals embracing his ret
 
 tagGDX1ItemSetD120Name=Belgothian's Slaughter
 tagGDX1ItemSetD120Desc="Armor once worn by the infamous master Nightblade, Belgothian, who's reckless carnage and thirst for blood made even his employers uneasy."
+
+tagGDX1ItemSetD121Name=Radaggan's Folly
+tagGDX1ItemSetD121Desc="Armor of Astor Radaggan, heretic and betrayer to the Luminari, turned loyal servant of the Great Guardian."
+
+tagGDX1ItemSetD122Name=Rimetongue
+tagGDX1ItemSetD122Desc="Armor of the Rimetongue, elusive member of the emperor's court, master of infiltration and political sabotage."
+
+tagGDX1ItemSetD123Name=The Blood Knight
+tagGDX1ItemSetD123Desc="The bloodied armor of Lord Nazaran, the King in Crimson, formerly known as the Blood Knight."
+
 
 tagItemSetD001BName=Justicar Guard
 tagItemSetD002BName=The Sacred Harmony
