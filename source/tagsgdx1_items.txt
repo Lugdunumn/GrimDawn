@@ -180,6 +180,7 @@ tagGDX1WeaponCaster1hC101=Ravager's Barb
 tagGDX1WeaponCaster1hC102=Jaravuuk's Bite
 tagGDX1WeaponCaster1hC102_Desc="Master Jaravuuk's ritual blade is said to cleave through the veil itself."
 tagGDX1WeaponCaster1hC103=Ulzaad's Channeler
+tagGDX1WeaponCaster1hC103_Desc="A celestial's breath, trapped eternally within the scepter."
 tagGDX1WeaponCaster1hC104=Arcane Storm Evoker
 tagGDX1WeaponCaster1hC105=Finger of Gar'Dalvur
 tagGDX1WeaponCaster1hC105_Desc="The fallen Gar'Dalvur had only one thing to say to his executioners."
@@ -1384,10 +1385,10 @@ tagGDX1EnchantB114Desc="Legends speak of a mythical entity growing within Ugdenb
 tagGDX1EnchantB115A=Heart of Ugdenbog
 tagGDX1EnchantB115Desc="A potent enchantment crafted from the stone hearts of Ugdenbog's mightiest golems."^w^n(Applied to rings and amulets)
 
-tagGDX1EnchantB116A=Malmouth's Aegis
+tagGDX1EnchantB116A=Malmouth's Redemption
 tagGDX1EnchantB116Desc="A potent enchantment crafted by the survivors of Malmouth to defend themselves from the Aetherials."^w^n(Applied to all one-handed weapons, shields and caster off-hands)
 
-tagGDX1EnchantB117A=Potent Malmouth's Aegis
+tagGDX1EnchantB117A=Potent Malmouth's Redemption
 tagGDX1EnchantB117Desc="A potent enchantment crafted by the survivors of Malmouth to defend themselves from the Aetherials."^w^n(Applied to all two-handed weapons)
 
 tagGDX1EnchantB118A=Malmouth's Will
@@ -1673,7 +1674,7 @@ tagGDX1ItemSetD119Name=Dark One's Gift
 tagGDX1ItemSetD119Desc="A gift from Ch'thon upon those mortals embracing his return."
 
 tagGDX1ItemSetD120Name=Belgothian's Slaughter
-tagGDX1ItemSetD120Desc="Armor once worn by the infamous master Nightblade, Belgothian, who's reckless carnage and thirst for blood made even his employers uneasy."
+tagGDX1ItemSetD120Desc="Armor once worn by the infamous master Nightblade, Belgothian, whose reckless carnage and thirst for blood made even his employers uneasy."
 
 tagGDX1ItemSetD121Name=Radaggan's Folly
 tagGDX1ItemSetD121Desc="Armor of Astor Radaggan, heretic and betrayer to the Luminari, turned loyal servant of the Great Guardian."

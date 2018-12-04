@@ -857,6 +857,9 @@ tagCharStatsPetOAInfo=The percent bonus to the Offensive Ability of your pets an
 tagCharStatsPetDA=Defensive Ability
 tagCharStatsPetDAInfo=The percent bonus to the Defensive Ability of your pets and summoned minions.
 
+tagCharStatsPetPhysicalResist=Physical Resist
+tagCharStatsPetPhysicalResistInfo=The percent bonus to the Physical Resistance of your pets and summoned minions.
+
 tagCharStatsPetFireResist=Fire Resist
 tagCharStatsPetFireResistInfo=The percent bonus to the Fire Resistance of your pets and summoned minions.
 
@@ -1801,7 +1804,7 @@ DamageDurationAttackSpeed=% {^E}Slower Enemy Attack
 DamageDurationCold= {^E}Frostburn Damage
 DamageDurationReduced= {^E}Reduced Defense
 DamageDurationFire= {^E}Burn Damage
-DamageDurationLife= {^E}Vitality Decay
+DamageDurationLife= {^E}Vitality Decay Damage
 DamageDurationLifeLeach= {^E}Life Leech
 DamageDurationLightning= {^E}Electrocute Damage
 DamageDurationManaLeach= {^E}Energy Leech
@@ -2077,7 +2080,7 @@ DefenseSleepMaxResist={%+.0f0}% {^E}Maximum Sleep Resistance
 DefenseSleepMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum Sleep Resistance
 DefenseAllMaxResist={%+.0f0}% {^E}Maximum All Resistances
 DefenseAllMaxResistR={%+.0f0}-{%.0f1}% {^E}Maximum All Resistances
-DefenseReflectResist={%+.0f0}% {^E}Reflected Damage Reduction
+DefenseReflectResist={%.0f0}% {^E}Reflected Damage Reduction
 DefenseReflectResistR={%+.0f0}-{%.0f1}% {^E}Reflected Damage Reduction
 
 RacialBonusPercentDamage={%+.0f0}% {^E}Damage to {%s1}
@@ -2096,6 +2099,7 @@ tagDamageModifierCritDamage={%+.0f0}% {^E}Crit Damage
 tagDamageModifierCritDamageR={%+.0f0}-{%.0f1}% {^E}Crit Damage
 tagDamageModifierDamageMult={^E}Total Damage Modified by {^H}{%.0f0}%
 tagRetaliationModifierTotalDamage={%+.0f0}% {^E}to All Retaliation Damage
+tagRetaliationModifierTotalDamageR={%+.0f0}-{%.0f1}% {^E}to All Retaliation Damage
 tagTotalSpeedResistance={%.0f0}% {^E}Slow Resistance
 tagMindcontrolledMonster=Mind-controlled
 tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}Chance of affecting up to {^H}{%d1} {^E}target

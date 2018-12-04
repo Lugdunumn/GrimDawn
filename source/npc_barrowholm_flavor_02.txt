@@ -5,7 +5,7 @@ I'm leaving.
 Welcome back. Seems you're not such a stranger anymore.{^n}{^n}Perhaps the hunger drives you to keep returning to us?
 Perhaps.
 I don't think so.
-I sense a hunger in you. You must be the shaman I've heard wisper of. {^n}{^n}Welcome to our humble village. I do hope you find it satisfactory.{^n}{^n}Tell me, do the spirits offer solace? Or have they been silent?
+I sense a hunger in you. You must be the shaman I've heard whisper of. {^n}{^n}Welcome to our humble village. I do hope you find it satisfactory.{^n}{^n}Tell me, do the spirits offer solace? Or have they been silent?
 What's going on with this place?
 Whatever do you mean?
 

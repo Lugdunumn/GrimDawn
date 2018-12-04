@@ -93,7 +93,7 @@ tagClass01SkillDescription01B=The fury of Cadence resonates with the target, cau
 tagClass01SkillName01C=Deadly Momentum
 tagClass01SkillDescription01C=You push the advantage following a Cadence strike, briefly causing all of your blows to strike with additional deadly force. ^oDeadly Momentum affects all attacks while active.
 tagClass01SkillName01D=Discord
-tagClass01SkillDescription01D=The discord of a wrathful soul flows into the Soldier's pure fighting cadence and sows it with elemental energy.
+tagClass01SkillDescription01D=The discord of a wrathful soul flows into the Soldier's pure fighting cadence and sows it with a storm's energy.
 
 tagClass01SkillName02A=Forcewave
 tagClass01SkillDescription02A=Such force is channeled into the attack that it compresses the very air, projecting out a wave of energy that stuns and damages foes. ^oThis attack requires a shield or two-handed melee weapon.
@@ -112,7 +112,7 @@ tagClass01SkillDescription03B=The suddenness and ferocity of your attack puts en
 tagClass01SkillName04A=War Cry
 tagClass01SkillDescription04A=A blood-chilling war cry weakens the resolve of your foes and disrupts their focus.
 tagClass01SkillName04C=Terrify
-tagClass01SkillDescription04C=Less resolute foes will flee at the sound of your fearsome challenge.
+tagClass01SkillDescription04C=Less resolute foes will flee at the sound of your fearsome challenge, their weaknesses exposed for all to strike.
 tagClass01SkillName04B=Break Morale
 tagClass01SkillDescription04B=War Cry shatters enemy morale, rendering them powerless against you.
 
@@ -204,7 +204,7 @@ tagClass02SkillDescription04A=An explosive packed with more explosives, this dev
 tagClass02SkillName04B=Improved Casing
 tagClass02SkillDescription04B=An adjustment to the Canister Bomb's casing improves its concussive power, inflicting immense trauma in a larger blast radius.
 tagClass02SkillName04C=Concussive Bomb
-tagClass02SkillDescription04C=Packed for a higher impact blast, the Concussive Bomb does a little less damage but will leave foes shell-shocked.
+tagClass02SkillDescription04C=Packed for a higher impact blast, the Concussive Bomb carries an electrical charge that can leave foes shell-shocked.
 
 tagClass02SkillName05A=Mortar Trap
 tagClass02SkillDescription05A=Places a mortar that will continuously lob explosives into the air until depleted. ^oThe trap scales with player damage bonuses.
@@ -426,7 +426,7 @@ tagClass04SkillName07B=Night's Chill
 tagClass04SkillDescription07B=Causes foes affected by the Veil of Shadow to feel the dark chill of the night fall over them, sapping their life and weakening their defenses.
 
 tagClass04SkillName08A=Blade Spirit
-tagClass04SkillDescription08A=Conjure a swirling cloud of lethal blades that will roam the battlefield, slicing enemies to pieces before finally expiring in a shower of jagged shards. ^oBlade Spirits scale with player damage bonuses.
+tagClass04SkillDescription08A=Conjure a swirling cloud of lethal blades that will roam the battlefield, slicing enemies to pieces with jagged shards. ^oBlade Spirits scale with player damage bonuses.
 tagClass04SkillName08PetA=Whirling Blades
 tagClass04SkillName08PetB=Blade Eruption
 tagClass04SkillDescription08PetB=The Blade Spirit shoots out eviscerating blades in all directions.
@@ -808,7 +808,7 @@ tagItemSkillB005Name=Poison Nova
 tagItemSkillB005Desc=Retaliates with a blast of poisonous fumes, poisoning all nearby enemies.
 
 tagItemSkillB006Name=Hemorrhage
-tagItemSkillB006Desc=Wounds the target, causing bleeding and increased susceptability to bleed damage.
+tagItemSkillB006Desc=Wounds the target, causing bleeding and increased susceptibility to bleed damage.
 
 tagItemSkillB007Name=Shatter
 tagItemSkillB007Desc=Releases a cone of ice shards at the target.
@@ -1200,7 +1200,7 @@ tagItemSkillC085PetSkillName02=Poison Nova
 tagItemSkillC086Name=Pestilence
 tagItemSkillC086Desc=Spread pestilence and disease wherever you step.
 
-tagItemSkillC087Name=Retribution
+tagItemSkillC087Name=Provoke
 tagItemSkillC087Desc=Provoke nearby foes with a shockwave emanating from your shield. ^oRequires a shield.
 
 tagItemSkillC088Name=Arcane Fury
@@ -1827,7 +1827,7 @@ tagItemSkillD160Desc=Crush your foe with a devastating blow worthy of a giant.
 tagItemSkillD161Name=Replication
 tagItemSkillD161Desc=Panetti's talent for replicating arcane spells became all the more impressive when he did so under great pressure. ^oRequires a Caster Off-Hand.
 
-tagItemSkillD162Name=Retribution
+tagItemSkillD162Name=Counterblow
 tagItemSkillD162Desc=Provoke nearby foes with a shockwave emanating from your shield. ^oRequires a shield.
 
 tagItemSkillD163Name=Revel in Death
@@ -1957,7 +1957,7 @@ tagItemSkillD204Name=Voidwalker
 tagItemSkillD204Desc=You are resistant to the corrupting effects of the void, putting up a barrier whenever struck by vile fiends that use such magic.
 
 tagItemSkillD205Name=Ward of Gul'Amash
-tagItemSkillD205Desc=The Ward of Gul'Amash shields you from physical harm when struck by physical blows.
+tagItemSkillD205Desc=The Ward of Gul'Amash shields you from harm when struck by physical blows.
 
 tagItemSkillD206Name=Ward of Illusion
 tagItemSkillD206Desc=Create a shimmering field around yourself and your allies that distracts your foes. ^oThis ability must be toggled to maintain its effect.
@@ -2343,7 +2343,7 @@ tagRelicSkillC014Desc=Surround yourself with a cloud of blight, countless diseas
 tagRelicSkillC015Name=Ancestral Bond
 tagRelicSkillC015Desc=Your ancestral bond with your minions unlocks power within them previously thought impossible. ^oThis ability must be toggled to maintain its effect.
 
-tagRelicSkillD001Name=Aegis
+tagRelicSkillD001Name=Salvation
 tagRelicSkillD001Desc=Imbue yourself with divine light, protecting you from further harm as it absorbs incoming blows.
 
 tagRelicSkillD002Name=Malediction
@@ -2404,7 +2404,7 @@ tagRelicSkillD020Name=Menhir's Bastion
 tagRelicSkillD020Desc=Become empowered with the protective spirit of Menhir, shielding yourself and your allies from harm.
 
 tagRelicSkillD021Name=Elemental Imbalance
-tagRelicSkillD021Desc=Your furious arcane assault sometimes disrupts your careful balance between the elements, unleashing a surge of power that will make your foes regret ever coming near you. ^oRequires a Caster Off-Hand.
+tagRelicSkillD021Desc=Your furious arcane assault sometimes disrupts your careful balance between the elements, unleashing a surge of power that will make your foes regret ever coming near you.
 
 
 
@@ -2887,6 +2887,28 @@ tagEnemySkillA12_Desc=Benn'Jahr has trapped you within a cage of obsidian, crush
 tagEnemySkillA13=Mark of Aetherfire
 tagEnemySkillA13_Desc=Aetherfire singes your soul, exposing you to the elements and the Aether itself.
 
+tagEnemySkillA14=Anti-clotting Injection
+tagEnemySkillA14_Desc=A poison is crippling your ability to halt blood flow. Any bleeding injuries inflicted will be very dangerous.
+
+tagEnemySkillA15=Mark of Misery
+tagEnemySkillA15_Desc=You've been marked by a debilitating curse that exposes you to electric and life sapping attacks and cripples your aim.
+
+tagEnemySkillA16=Eyes of Death
+tagEnemySkillA16_Desc=You've been marked for death by a hunter, exposing your defenses to Physical attacks.
+
+tagEnemySkillA17=Chaos Drain
+tagEnemySkillA17_Desc=A chthonic being's curse is sapping your life essence rapidly.
+
+tagEnemySkillA18=Exposed Soul
+tagEnemySkillA18_Desc=Your soul has been exposed, crippling your resistances.
+
+tagEnemySkillA19=Sapped Strength
+tagEnemySkillA19_Desc=Your strength has been sapped by a curse, crippling damage and speed.
+
+tagEnemySkillA20=Plague
+tagEnemySkillA20_Desc=You've been plagued, suffering poison damage over time and crippling your offense and defense.
+
+
 tagEnemySkillD01=Entropic Void
 tagEnemySkillD01_Desc=The void pulls you apart slowly with chaotic energy.
 
@@ -2904,4 +2926,36 @@ tagEnemySkillD05_Desc=The Scepter of Aldritch emits arcs of energy that shock ne
 
 tagEnemySkillD06=Bloodsworn Curse
 tagEnemySkillD06_Desc=The curse of the Bloodsworn saps your willingness to fight off the corrupting powers of the void, reducing resistances, regeneration and Offensive Ability.
+
+tagEnemySkillD07=Hooked Net
+tagEnemySkillD07_Desc=You've been trapped by a net, reducing your Defensive Ability and inflicting bleeding.
+
+tagEnemySkillD08=Curse of the Void
+tagEnemySkillD08_Desc=You've been cursed by a void creature, hindering your Movement, Regeneration and ability to focus on your attacks.
+
+tagEnemySkillD09=Blinding Bolt
+tagEnemySkillD09_Desc=You've been struck by a blinding spell, hindering your aim and movement.
+
+tagEnemySkillD10=Troll's Roar
+tagEnemySkillD10_Desc=You've been unnerved by a massive troll's roar, crippling speed and ranged aim.
+
+tagEnemySkillD11=Eldritch Curse
+tagEnemySkillD11_Desc=You've been cursed by an eldritch creature, hindering your Movement, Regeneration and ability to focus on your attacks.
+
+tagEnemySkillD12=Life Drain
+tagEnemySkillD12_Desc=You've been marked by a vampiric curse, sapping your life essence and exposing you to physical attacks.
+
+tagEnemySkillD13=Soul Drain
+tagEnemySkillD13_Desc=You've been marked by a vampiric curse, sapping your life essence and exposing you to physical attacks.
+
+tagEnemySkillD14=Venomplague
+tagEnemySkillD10_Desc=You've been plagued by a ghoul, crippling your Ability to focus on the offense and defense.
+
+tagEnemySkillD15=Drain Spirit
+tagEnemySkillD15_Desc=A wraith is sapping your soul, absorbing your life essence.
+
+tagEnemySkillD16=
+tagEnemySkillD16_Desc=
+
+
 

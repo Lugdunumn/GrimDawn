@@ -173,7 +173,7 @@ tagGDX1Class08SkillDescription04A=At your command, disease and rot pour forth th
 tagGDX1Class08SkillName04B=Decay
 tagGDX1Class08SkillDescription04B=The toxic fumes of decay emanate from the earth, weakening the resolve of enemies standing too close.
 tagGDX1Class08SkillName04C=Foul Eruption
-tagGDX1Class08SkillDescription04C=The vile necrotic energies suffuse the flesh, causing slain foes to sometimes erupt violently, spilling disease and ichor onto nearby enemies.
+tagGDX1Class08SkillDescription04C=The vile necrotic energies suffuse the flesh, causing slain foes to erupt violently, spilling disease and ichor onto nearby enemies.
 
 tagGDX1Class08SkillName05A=Summon Blight Fiend
 tagGDX1Class08SkillDescription05A=Unmoved by the noxious fumes of decay, conjure forth an abomination made of corpses and rotting filth to rise up from the earth and subdue your enemies. ^oOnly one blight fiend can be summoned at any one time. The blight fiend scales with Pet Bonuses.
@@ -205,6 +205,7 @@ tagGDX1Class08SkillName09A=Reap Spirit
 tagGDX1Class08SkillDescription09A=One of the most powerful techniques bestowed upon his followers by Uroboruuk. By ripping apart the very being of a foe, one can not only inflict grievous harm, but also conjure forth a fragment of their soul to serve you. The resulting spirit is unstable and highly aggressive, which makes it all the more useful in battle. ^oThe Wraiths scale with Pet Bonuses.
 tagGDX1Class08SkillName09A_PetSkill=Wraith's Touch
 tagGDX1Class08SkillName09A_PetSkill02=Vitality Nova
+tagGDX1Class08SkillTracker09A=Current Number of Wraiths Summoned
 
 tagGDX1Class08SkillName10A=Harbinger of Souls
 tagGDX1Class08SkillDescription10A=Having mastered death, you become a living harbinger of that final fate, the life essence of your enemies but a plaything to manipulate at will. ^oThis ability must be toggled to maintain its effect.
@@ -316,8 +317,8 @@ tagGDX1ItemSkillD113Desc=The light of the sacred truth overwhelms your foes and 
 tagGDX1ItemSkillD114Name=Spines of Hagarrad
 tagGDX1ItemSkillD114Desc=Unleash icy spines conjured from the Luminari Rune of Hagarrad upon your foes.
 
-tagGDX1ItemSkillD115Name=Storm Cage
-tagGDX1ItemSkillD115Desc=Sorcerous lightning binds the feet of your foes, trapping them in place.
+tagGDX1ItemSkillD115Name=Storm Binding
+tagGDX1ItemSkillD115Desc=Sorcerous lightning binds the feet of your foes, slowing them down.
 
 tagGDX1ItemSkillD116Name=Nightclaw
 tagGDX1ItemSkillD116Desc=Shred nearby foes with blades of shadow, tearing open wounds and crippling movement.
@@ -416,7 +417,7 @@ tagGDX1ItemSkillD147Name=Ravager's Deathgaze
 tagGDX1ItemSkillD147Desc=The hellish gaze of ravager falls upon nearby foes, crippling their defenses.
 
 tagGDX1ItemSkillD148Name=Feral Lash
-tagGDX1ItemSkillD148Desc=Primal energies lashes out at your foe.
+tagGDX1ItemSkillD148Desc=Primal energies lash out at your foe.
 
 tagGDX1ItemSkillD149Name=Venom Lash
 tagGDX1ItemSkillD149Desc=A lash of venomous energy strikes your foe.
@@ -509,7 +510,7 @@ tagGDX1ItemSkillD178Name=Void Rounds
 tagGDX1ItemSkillD178Desc=A barrage infused with void energies passes through your foes and unmakes them from within. ^oThis is a ranged technique that activates off of default weapon attacks. Also enables the ability to dual wield ranged weapons.
 
 tagGDX1ItemSkillD179Name=Spelldrinker
-tagGDX1ItemSkillD179Desc=Empower your weapon to resonate with arcane energies, absorbing a portion of hostile spells and reflecting part of them back to the source. ^oThis ability must be toggled to maintain its effect.
+tagGDX1ItemSkillD179Desc=Empower your weapon to resonate with the arcane, absorbing a portion of hostile spells and redirecting the energy to your own spellcraft. ^oThis ability must be toggled to maintain its effect.
 
 tagGDX1ItemSkillD180Name=Call Upon the Bloodbathed
 tagGDX1ItemSkillD180Desc=Call forth a bloodied servant of Nazaran to cast vitality-sapping spells upon your foes before the torment of the grave calls upon it once more. ^oBloodbathed Servants scale with player damage bonuses.
@@ -620,7 +621,7 @@ tagGDX1RelicSkillD109Name=Time Loop
 tagGDX1RelicSkillD109Desc=Your actions ripple through time. ^oRequires a Caster Off-Hand.
 
 tagGDX1RelicSkillD110Name=Blood Spine
-tagGDX1RelicSkillD110Desc=Unleash a fan blood-coated spines of bone at your foes.
+tagGDX1RelicSkillD110Desc=Unleash a fan of blood-coated spines of bone at your foes.
 
 tagGDX1RelicSkillD111Name=Reaping Arc
 tagGDX1RelicSkillD111Desc=Swing with your weapon in an arc, cleaving through foes and reaping their souls. ^oRequires a melee weapon.

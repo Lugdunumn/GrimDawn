@@ -1,4 +1,6 @@
 Altar of Rattosh
+The passage to the void has been opened.
+Step away from the altar.
 The ancient altar awaits the arrival of another.
 Step away from the altar.
 This must be the altar Garradia spoke of. It emanates with dark power. The veil between realities truly is thinned here.{^n}{^n}With Ulgrim's Keepsake, you should be able to use the altar's power to determine his location within the void.
@@ -6,6 +8,4 @@ Use Ulgrim's Heirloom.
 Leave it.
 Requires Ulgrim's Keepsake.
 This ancient altar seems to have been abandoned long ago.{^n}{^n}Whatever purpose it once served, it now seems to be dormant.
-Step away from the altar.
-The passage to the void has been opened.
 Step away from the altar.

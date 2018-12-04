@@ -313,7 +313,7 @@ tagGDX1QuestItemUlgrimHeirloom_Desc="A rather mundane object considering the imp
 tagGDX1QuestItemUlgrimHeirloom02=Ulgrim's Keepsake
 tagGDX1QuestItemUlgrimHeirloom02_Desc="Marked with the Coven's magic, it should, hopefully, open the way to Ulgrim."
 
-tagGDX1QuestItemCellarKey_Name=Barrowholm Cellar Key.
+tagGDX1QuestItemCellarKey_Name=Barrowholm Cellar Key
 tagGDX1QuestItemCellarKey_Desc="A simple forged key. It looks much older and worn out than everything else in Barrowholm."
 
 
