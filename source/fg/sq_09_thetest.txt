@@ -1,0 +1,28 @@
+Korvan Basin
+Worthy of Solael
+Test Subjects
+A group of new recruits have arrived at the Conclave of the Three.{^n}{^n}They wish to pledge their loyalty to Solael, but first they must be tested.{^n}{^n}Keisen has asked you to determine their worth.{^n}{^n}Go to the center of the Solael Cult camp and challenge the new recruits to trial by combat.
+Speak with the Solael recruits
+
+The Test
+You have challenged the Solael recruits at the Conclave of the Three to determine their worth.{^n}{^n}It remains to be seen if they are worthy of the dark god's bargain.
+
+
+Defeat Atrin
+Defeat Rikket
+Defeat Niran
+
+
+Speak to the New Recruits
+The test is complete. Now you must decide whether the new recruits are worthy or not.{^n}{^n}Speak with them at the Conclave of the Three and decide whether to send them away or allow them to stay and serve Solael.
+Decide the fate of the Solael Recruits
+
+Return to Keisen
+You have decided the fate of the new Solael recruits.{^n}{^n}Report to Keisen at the Conclave of the Three and tell him the results of the test.
+Speak to Keisen at the Conclave of the Three
+
+
+
+
+
+

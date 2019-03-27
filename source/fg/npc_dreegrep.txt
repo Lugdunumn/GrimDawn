@@ -1,0 +1,64 @@
+Draellus, Oracle of Dreeg
+Your fate was written upon the noose.{^n}{^n}You merely play the part you must.
+Um, I see.
+An unraveling of fates, a chance meeting beyond our appointed hour.{^n}{^n}We have nothing to say to each other now.
+Um, alright.
+You stand here, so certain, yet uncertainty surrounds you.{^n}{^n}Your fate was written upon the noose. You merely play the part you must.
+I...see.
+Speak to Kira, and do not disturb me.
+I have some questions.
+It was only a matter of time.
+Why aren't we attacking our enemies head on?
+The strands of our journey are clear in this. We must cut off the many limbs before we can hope to reach the head.
+I have another question.
+Alright.
+What can you tell me about this forgotten god?
+Ancient, primordial, its heart is fire and its gaze destruction.{^n}{^n}Ember and ash are a cloak upon its legacy. The followers of flame boldly pray to the dreams of their own demise.{^n}{^n}Dreeg has seen the return of this forgotten one and the cataclysm that follows. We must sever these strands and forge a new fate.
+I have another question.
+I see.
+What is your role here?
+I serve the Great Guardian in interpreting his messages to our lessers.{^n}{^n}Countless others have lost their wit in weaving through the strands that Dreeg offers us. Through my eye, some will be spared this agony.{^n}{^n}Some day my mind shall fade and another shall take my place, but that day will not come for many decades.
+I have another question.
+I see.
+What can you tell me about Dreeg?
+Dreeg is the oldest of the Witch Gods. He sought to know all, to witness the truth in the fabric of our reality.{^n}{^n}He cast aside the ancient warnings, threw caution to the wind, and reached beyond the curtain that seeks to blind us of true sight. Even his knowledge and wisdom did not prepare him for what he witnessed.{^n}{^n}The event changed him irrevocably, and while his mortal eyes were forever blind, so his eldritch eyes had opened. For the first time in his life, Dreeg saw the world for what it truly was, and he saw rot.{^n}{^n}Dreeg does not distract himself with the folly of mortal pursuits. In the end of all things, we must strike balance.
+I have another question.
+I see.
+Dreeg can see the future?
+The strands of fate have been exposed to his infinite gaze.{^n}{^n}His wounds weep for our future just as his reach seeks a path through the calamities that still await.
+I have another question.
+I...see.
+Nevermind.
+Farewell.
+The eye spoke of this moment, and we must not squander it.{^n}{^n}We shall carve a fate not even the primordial one can foresee.
+What must we do?
+I shall open my ears to the will of the Great Guardian and exact his commands.{^n}{^n}A great flame burns within the temple, and we will drown it in tides of blood. The forgotten has become unforgotten, and so it falls to us to remedy that error.{^n}{^n}As for you, you must speak to Kira here at my camp. She has been offered a taste of what's still to come. Her tongue will utter the words and you must heed their call as if they were mine.
+I'll speak to Kira.
+I need to deal with something else first.
+We'll speak later.
+The weeping spines do not lie. You have come to fragment the memories of the forgotten, but who will stand by your side?{^n}{^n}Will you step into the spider's web? Or will you kindle the flame? Or perhaps you will weep for the eye that sees all?
+You serve Dreeg? Why should I help you?
+Much purpose flows within you, allow me to temper that potential. Through the Great Guardian's eyes, we shall divine the true path beyond humanity's struggles.{^n}{^n}Let the others play with their eldritch toys and arcane spectacles. It falls upon us to strike the balance.
+I will work with your cult, Draellus. (Join the Cult of Dreeg)
+The eye spoke of this moment, and we must not squander it.{^n}{^n}We shall carve a fate not even the primordial one can foresee.
+
+I'll be back soon.
+Dreeg can see the future?
+The strands of fate have been exposed to his infinite gaze. His wounds weep for our future just as his reach seeks a path through the calamities that still await.
+
+
+I need to consider my options.
+What can you tell me about Dreeg?
+Dreeg is the oldest of the Witch Gods. He sought to know all, to witness the truth in the fabric of our reality.{^n}{^n}He cast aside the ancient warnings, threw caution to the wind, and reached beyond the curtain that seeks to blind us of true sight. Even his knowledge and wisdom did not prepare him for what he witnessed.{^n}{^n}The event changed him irrevocably, and while his mortal eyes were forever blind, so his eldritch eyes had opened. For the first time in his life, Dreeg saw the world for what it truly was, and he saw rot.{^n}{^n}Dreeg does not distract himself with the folly of mortal pursuits. In the end of all things, we must strike balance.
+
+
+I need to consider my options.
+I need to consider my options.
+Not sure I want in on the crazy.
+Um, I need to go.
+A marvelous performance sewn into the tapestry of fate.
+I...see.
+A challenge awaits and a challenger stands, but which will endure? The eye knows the answer.
+I...see.
+You stand here, so certain, yet uncertainty surrounds you.{^n}{^n}Your fate was written upon the noose. You merely play the part you must.
+I...see.

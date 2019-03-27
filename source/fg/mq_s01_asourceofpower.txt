@@ -1,0 +1,19 @@
+The Eldritch Sun
+The Eye of Ekur
+A Source of Power
+You spoke with Raiken in the Solael camp. He seeks an ancient relic that may be used as a weapon in the fight against the servants of Korvaak.{^n}{^n}Raiken believes this relic, the Eye of Ekur, is housed in a tomb beneath the Temple of Osyr but several attempts to breach the temple and retrieve it have failed. Now you must try.{^n}{^n}Head north through the Korvan Plateau to the Temple of Osyr and recover the relic.
+
+
+Acquire the Eye of Ekur
+Deliver the eye to Raiken at the Conclave of the Three
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+The Eldritch Sun
+The Emissary
+The Emissary Beckons
+You have spoken with a mysterious entity who called himself the Emissary.{^n}{^n}He was scant on details, whispering only of great powers that gather in a far off land. He claims he was sent to Erulan to recruit you specifically, but would offer no further details.{^n}{^n}Follow the Emissary through his portal and speak with him again on the other side.
+
+
+Follow the Emissary through his portal
+
+
+
+
+

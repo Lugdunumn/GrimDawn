@@ -1603,7 +1603,7 @@ tagRingC017=Right Hand of Carnage
 tagRingC018=Left Hand of Carnage
 tagRingC019A=Alkamos' Dread
 tagRingC019B=Alkamos' Agony
-tagRingC019Desc="Death...."
+tagRingC019Desc="Death..."
 tagRingC020A=Alkamos' Anguish
 tagRingC020B=Alkamos' Torment
 tagRingC020Desc="Agony..."
@@ -3386,6 +3386,7 @@ tagCompAScrapDesc="Scrap materials such as bolts, leather cords and low-grade me
 tagDifficultyUnlock={^E}Unlock {%s0} difficulty
 tagDifficultyAlreadyUnlocked=You have already unlocked this difficulty
 tagDifficultyUnlockDLC=You do not own the DLC associated with this item
+tagDifficultyIncorrectMode=You must be in the correct game mode to use this item
 
 #ItemFactionBoosters
 
@@ -4223,8 +4224,8 @@ tagShrineMogdrogenLocked= {^R} ~ Sealed by Chthonic Energies
 
 tagWoodenDoor=Wooden Door
 tagBarnDoor=Barn Door
-tagCageDoor=Cage Gate
-tagTrollDoor=Troll Gate
+tagCageDoor=Gate
+tagTrollDoor=Gate
 
 tagBreakableStoneWall=Crumbling Wall
 tagBreakableNaturalWall=Loose Earth

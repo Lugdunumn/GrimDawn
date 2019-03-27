@@ -1,0 +1,29 @@
+Korvan Basin
+Preemptive Strike
+Preemptive Strike
+Bysmiel's web brings word of a peculiar gathering of Korvaak's zealots in the Valley of the Chosen in the Infernal Wastes to the northwest.{^n}{^n}There are whispers of an eldritch monstrosity that was once imprisoned within the Tomb of Ariath. Vorak speculates that they intend to release this creature and use it as a weapon.{^n}{^n}Within the tomb are three conduits said to bind the creature there. If they are broken, the beast will be unleashed.{^n}{^n}Vorak has a rather perverse strategy to deal with this. Rather than thwarting the zealots, he suggests that you release the creature and slay it before it has a chance to recover from centuries of imprisonment. Then Korvaak's minions will have one less resource to draw upon.{^n}{^n}Find the Tomb of Ariath in the Valley of the Chosen, destroy the conduits, release the beast and slay it before the enemy has a chance to claim it.
+Destroy the Eastern Conduit
+Destroy the Northern Conduit
+Destroy the Western Conduit
+
+
+
+Kill The Beast
+The three conduits are destroyed, enter the heart of the Tomb of Ariath, in the Infernal Wastes, and slay the creature contained within.
+Slay the Duskreaper
+
+Return to Vorak
+The Duskreaper is no more.{^n}{^n}Return to Vorak at the Vanguard of the Three to report on your success.
+Speak with Vorak at the Vanguard of the Three
+
+
+
+
+
+
+
+
+
+
+
+

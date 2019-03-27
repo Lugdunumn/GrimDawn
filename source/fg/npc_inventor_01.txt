@@ -1,0 +1,48 @@
+Kargon
+Thank you for your help.{^n}{^n}It will take me some time to decipher the contents of the Tome of Eanatum.{^n}{^n}But I should be prepared to test the techniques it describes the next time you're back in camp.{^n}{^n}Come and see me and we'll give it a try.
+I'll be back.
+Thank you for your help.{^n}{^n}It will take me some time to decipher the contents of the Tome of Eanatum.{^n}{^n}Come and see me another time.
+I'll be back.
+I'm sorry, we'll have to speak later.{^n}{^n}I'm just too busy right now.
+I'll come back later.
+Have you returned with the Tome of Eanatum?
+Yes, but Canen didn't make it.
+I suppose that's no surprise.{^n}{^n}That poor boy was about as useful as a bundle of sticks, and about as flammable underneath that relentless sun, it seems.{^n}{^n}But I suppose he didn't deserve to die out there all alone.{^n}{^n}I should have sent someone capable along with him.{^n}{^n}His efforts were not in vain though, now we have the Tome of Eanatum.
+What does the tome do?
+Do?{^n}{^n}Well, it doesn't do anything...it's a book.
+Really? No kidding.
+Patience my friend.{^n}{^n}It's not what the book does but what knowledge it contains that matters.{^n}{^n}You see this tome describes the art of transmutation, a technique developed in the Korvan Basin but lost when the nation crumbled underneath a god's boot.{^n}{^n}I have been searching for it my entire career.{^n}{^n}With the knowledge contained in this tome, I can use the magic imbued within objects attuned to the presence of others to alter their very nature. It's no petty illusion either, my friend, but the power to bend reality itself.{^n}{^n}I can test this technique on some of your equipment, if you'd like, but you'll need to give me some time to decipher and study the texts within the tome.
+Fascinating.
+Sounds dangerous, I'm in.
+I want nothing to do with more inventor trickery.
+Have you returned with the Tome of Eanatum?
+Where am I supposed to be looking?
+My incompetent apprentice was last spotted near the Sunbane Oasis, east of the Cairan Docks to the north.{^n}{^n}I strongly suspect the worst...that he made off with my tome.{^n}{^n}Head out there and recover the tome...and I suppose my apprentice if possible.
+I'm on it.
+And Canen of course?
+Yes, yes, of course. If you should return with that useless milksop as well, it would be all the better. {^n}{^n}Assuming he hadn't run off with my precious tome.{^n}{^n}Have you brought me the tome though?
+No, I haven't found them yet.
+Well, what are you standing around here for then?
+
+I'll find them.
+Watch the attitude.
+
+I'm still looking.
+Still working on it.
+Nope.
+Word around the camp is that you'll be traveling out past the gates.{^n}{^n}If so, I have a bit of a situation that you could help me with.
+Sure, what is it?
+It's about my apprentice, Canen, or more specifically the thing I sent Canen to retrieve.
+You lost your apprentice, really?
+Yes, well, good help is remarkably hard to come by and I'm in no condition to be traveling out past the walls.{^n}{^n}In any case. Yes, he is lost.{^n}{^n}I sent him to the Valley of the Chosen in search of a unique text, the Tome of Eanatum. It was a simple enough task that he should have handled readily and quickly.{^n}{^n}That was more than two days ago. I spoke to the sentinels this morning and they say Canen had been spotted heading back through the Sunbane Oasis, east of the Cairan Docks to the north, yesterday.{^n}{^n}If he was returning, it must mean that he found it. I now suspect the worst...that he made off with my tome!{^n}{^n}Apprentices are like flies, but that tome is one of a kind. I need it recovered.{^n}{^n}If you're headed out that way, find the Tome of Eanatum. Take it from Canen's incompetent grasp if you must. His life is secondary to its recovery.{^n}{^n}For a touch of motivation, you should know, the contents of that tome may greatly benefit us both.
+I'll find the tome.
+I don't have time right now.
+I've already got the tome.
+You have? {^n}{^n}Remarkable.
+
+Sorry, not right now.
+Hello there.{^n}{^n}When you've finished with your immediate priorities, I could use a bit of help. {^n}{^n}Come back and speak with me when you're done.
+I will.
+See you soon.
+Greetings, seeker.
+Farewell.

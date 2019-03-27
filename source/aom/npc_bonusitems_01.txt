@@ -1,0 +1,73 @@
+Kory the Keeper
+Well met, friend! Have I seen you before?... Perhaps we've met... on the road somewhere? Kory is my name. I'm a traveler... a trader... a keeper of the strange. There was a time when... well... no matter. I've traveled far, always in the shadows.
+That's an interesting coat you are wearing...
+Ah, indeed...the mark of the swashbuckler is upon it. I was an adventurer like yourself, at one time...
+(Receive Illusion: Swashbuckler's Coat)
+Ah, indeed...the mark of the swashbuckler is upon it. I was an adventurer like yourself, at one time...{^n}{^n}But you already have this wondrous item in your possession.
+True, I already have the coat.
+*Secret Handshake*
+*Kory Whispers*{^n}{^n}Welcome, [[ms]brother[fs]sister]. Eternal vigilance.
+(Receive Illusion: Powdered Wig)
+*Kory Whispers*{^n}{^n}Welcome, [[ms]brother[fs]sister]. Eternal vigilance.{^n}{^n}But you already have this wondrous item in your possession.
+True, I already have the wig.
+Care for a drink?
+*Kory lifts up a bottle of Burrwitch Brew*{^n}{^n}To your health!
+(Receive Item: Burrwitch Brew)
+*Kory lifts up a bottle of Burrwitch Brew*{^n}{^n}To your health!{^n}{^n}Hope you enjoy the one you already have.
+True, I already have the brew.
+What's that glowing in your pocket?
+Oh this?{^n}{^n}*Kory holds up a jar filled with a swirling blue light*{^n}{^n}That, my friend, is a Will'O'Wisp. They are handy in dark places.
+(Receive Item: Will'O'Wisp in a Jar)
+Oh this?{^n}{^n}*Kory holds up a jar filled with a swirling blue light*{^n}{^n}That, my friend, is a Will'O'Wisp. But you have your own already.
+True, I already have the wisp.
+Got any War Medals?
+I dare say I am quite the war veteran.{^n}{^n}Which one interests you?
+How about that golden one?
+Ah, a veteran of the old wars I see.{^n}{^n}Here, your years of dedication earned you this distinction.{^n}{^n}*Kory Salutes*
+(Receive Item: Backer's Distinction)
+Ah, a veteran of the old wars I see.{^n}{^n}*Kory Salutes*{^n}{^n}You've certainly earned the distinction for such valiant service.
+(Salute back)
+How about this orange one?
+Ah, also served in the great Kickstarter Wars of 2012?{^n}{^n}Here, you've earned it.{^n}{^n}*Kory Salutes*
+(Receive Item: Kickstarter Service Medal)
+Ah, also served in the great Kickstarter Wars of 2012?{^n}{^n}*Kory Salutes*{^n}{^n}You've certainly earned that medal.
+(Salute back)
+How about this green one?
+Ah, a veteran from the great Kickstarter Wars of 2012?{^n}{^n}Here, you've earned it.{^n}{^n}*Kory Salutes*
+(Receive Item: Kickstarter Veteran's Medal)
+Ah, a veteran from the great Kickstarter Wars of 2012?{^n}{^n}*Kory Salutes*{^n}{^n}You've certainly earned that medal.
+(Salute back)
+How about this jeweled one?
+Ah, an officer from the great Kickstarter Wars of 2012?{^n}{^n}Here, you've earned it.{^n}{^n}*Kory Salutes*
+(Receive Item: Kickstarter Officer's Medal)
+Ah, an officer from the great Kickstarter Wars of 2012?{^n}{^n}*Kory Salutes*{^n}{^n}You've certainly earned that medal.
+(Salute back)
+What fine headwear!
+Yes, friend, I have quite a selection.{^n}{^n}Which one do you like the most?
+Say, what is that fine hat?
+Why, it's just the perfect hat for you!
+(Receive Illusion: Admiral's Hat)
+Why, it's just the perfect hat for you!
+True, I already have one for good reason.
+That helm looks expensive.
+It was once worn by a great general.{^n}{^n}But I'm sure you'd take good care of it.
+(Receive Illusion: Helm of the Southern General)
+It was once worn by a great general.{^n}{^n}But I'm sure you take good care of it.
+True, I already have this helm.
+That one looks ferocious.
+Ah, yes. It belonged to my grandmother.{^n}{^n}Gods rest her soul.{^n}{^n}Take good care of it.
+(Receive Illusion: Pillager's Dread Helm.)
+Ah, yes. It belonged to my grandmother.{^n}{^n}Gods rest her soul.{^n}{^n}I presume you took good care of it.
+True, I already have this helm.
+That helm looks inspiring.
+Don't see many like this one around these parts. It belonged to a very skilled warrior.{^n}{^n}I hope you'll earn the right to wear it.
+(Receive Illusion: Helm of the Venerable Warrior)
+Don't see many like this one around these parts. It belonged to a very skilled warrior.{^n}{^n}I hope you've earned the right to wear it.
+True, I already have this helm.
+I'm tired of these Illusions.
+Say no more. I have just the product for you.
+(Receive Item: Illusion-Be-Gone)
+Then purge it clean with Illusion-Be-Gone!
+True, I already have that.
+Um, ok. Goodbye.
+I would like to see the events in Fort Ikon again. (Play Intro)

@@ -1,0 +1,23 @@
+The Eldritch Sun
+The Eldritch Trials
+The Test
+The Emissary's portal has taken you to the Conclave of the Three, a gathering of the Witch God cults within the Korvan Basin.{^n}{^n}The air hangs heavy with anticipation of cosmic events waiting to unfold. But before you can be a part of them, you must first prove yourself.{^n}{^n}The Emissary refused to tell you any more about this place or why you are even here until you've passed the Eldritch Trials.{^n}{^n}Go to the center of camp and speak with Kanatha to begin the test.
+
+Speak with Kanatha to begin the Eldritch Trials
+Survive the Eldritch Trials
+
+
+
+Return to the Emissary
+You survived the Eldritch Trials. The Emissary will have to tell you his secrets now.{^n}{^n}Speak to him again at the Conclave of the Three.
+Speak to the Emissary at the Conclave of the Three
+
+
+
+
+
+
+
+
+
+

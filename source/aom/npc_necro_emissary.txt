@@ -1,0 +1,175 @@
+Haruuv
+The path you walk is a wise one.
+Farewell.
+The path you walk is a wise one. We look forward to working alongside you.
+Likewise.
+I cannot fathom why you would turn on your own like this.
+
+I did what I feel is right.
+A fitting alliance for the likes of you.{^n}{^n}I hope your soul finds some comfort in the atrocities you will commit in the name of the Chosen.
+I did what I feel is right.
+If your decision-making is indicative of the Black Legion, then perhaps humanity is doomed after all.
+I do what I must so that we all survive.
+I sincerely hope that you are right then. But I can't help but question your allegiance with fanatics.
+Goodbye.
+I did what I feel is right.
+The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come before you.
+
+Goodbye.
+Please, visit our sanctum. Master Varuuk will wish to speak with you.
+Where is your sanctum?
+Our sanctum is located west of the old fort ruins in the north, known as Sorrow's Bastion.{^n}{^n}To get there, you must take the road north out of Homestead, through the Fallow Fields.
+Thank you.
+I'm on my way.
+I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
+I cannot fathom why you would turn on your own like this.
+You're right, it was a mistake. I wish to join you.
+Are you certain of this? The Order will welcome you as an ally, but everything you have done up to this moment will be forgotten.{^n}{^n}(Warning: selecting the Order will reset your Faction Reputation with the Order of Death's Vigil and Kymon's Chosen)
+The Black Legion will work with you. (Select the Order)
+Splendid. I shall make the arrangements immediately.{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
+Perhaps not.
+They are valuable allies.
+You are a fool to trust Kymon's Chosen.
+You're right, it was a mistake. I wish to join you.
+Are you certain of this? The Order will welcome you as an ally, but everything you have done up to this moment will be forgotten.{^n}{^n}(Warning: selecting the Order will reset your Faction Reputation with the Order of Death's Vigil and Kymon's Chosen)
+The Black Legion will work with you. (Select the Order)
+Splendid. I shall make the arrangements immediately.{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
+Perhaps not.
+They are valuable allies.
+Word of your actions has already reached me. The Order is eager to continue their efforts with you alongside them.
+The Black Legion will work with you. (Select the Order)
+Splendid. I shall make the arrangements immediately.{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
+We'll speak of this later.
+Greetings, I am Haruuv and I represent the Order of Death's Vigil.{^n}{^n}We would be pleased to welcome another necromancer into our fold.
+I think I've made my decision.
+What will it be then? Will the Black Legion fight alongside the Order of Death's Vigil against these invaders to our realm?
+The Black Legion will work with you. (Select the Order)
+Splendid. I shall make the arrangements immediately.{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
+Actually, I'll need more time to think this through.
+
+
+
+Farewell.
+Very well, Inquisitor. We may have to swallow our pride and try and find common ground in these trying times.{^n}{^n}I cannot promise you a warm greeting, but we can try and work together.
+I think I've made my decision.
+What will it be then? Will the Black Legion fight alongside the Order of Death's Vigil against these invaders to our realm?
+The Black Legion will work with you. (Select the Order)
+Splendid. I shall make the arrangements immediately.{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
+Actually, I'll need more time to think this through.
+
+
+
+Farewell.
+An inquisitor? I under the impression that this was to be an amicable gathering.{^n}{^n}I am Haruuv and I represent the Order of Death's Vigil, but I'm not sure there is much for us to discuss.
+Why is that?
+Our people have suffered much under the watchful eye of the empire's Luminari.{^n}{^n}I'm not sure it is wise for me to recommend an alliance with an inquisitor.
+
+Very well.
+I was hoping we could be allies.
+You would hope to undo decades of persecution in one moment?{^n}{^n}I am not sure that is possible.
+True, but we must start somewhere.
+Perhaps, but with Kymon's Chosen at our doorstep and the enemies of humanity all around us, how can we afford to take such a risk?{^n}{^n}Father Kymon himself was an inquisitor once, why should my brothers and sisters trust you?
+
+
+It is a shame we cannot find an agreement.
+Much has changed, humanity must unite against our enemies.
+You do speak truth.{^n}{^n}We may have to swallow our pride and try and find common ground in these trying times.{^n}{^n}Very well. I cannot promise you a warm greeting, but we can try and work together.
+I think I've made my decision.
+What will it be then? Will the Black Legion fight alongside the Order of Death's Vigil against these invaders to our realm?
+The Black Legion will work with you. (Select the Order)
+Splendid. I shall make the arrangements immediately.{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
+Actually, I'll need more time to think this through.
+
+
+
+Farewell.
+I promise I mean you no harm.
+Those are just words, inquisitor. The actions of the Luminari speak louder.{^n}{^n}Your mere presence in our sanctum would raise suspicions, create a sense of dread and invoke painful memories.{^n}{^n}It is not something I am willing to put my people through. I'm sorry.
+Very well.
+It is a shame we cannot find an agreement.
+Farewell.
+Greetings, I am Haruuv and I represent the Order of Death's Vigil.{^n}{^n}We are eager to discuss an agreement, even if it has to be made amongst such questionable company.
+I think I've made my decision.
+What will it be then? Will the Black Legion fight alongside the Order of Death's Vigil against these invaders to our realm?
+The Black Legion will work with you. (Select the Order)
+Splendid. I shall make the arrangements immediately.{^n}{^n}In the meantime, I would ask that you seek out our sanctum to the north. We have claimed a small crypt hidden in the mountains, just west of Sorrow's Bastion.{^n}{^n}To get there, you must take the road north through the Fallow Fields. When you've reached the old fort ruins, then you are close to our home.{^n}{^n}Once inside, see Master Varuuk. He will wish to speak with our new ally.
+I will seek out your sanctum.
+Perhaps another time.
+Actually, I'll need more time to think this through.
+What can you tell me about the Order?
+We are seekers and preservers of knowledge, trained in the ancient art of necromancy by our grandmaster Uroboruuk.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
+
+What do you offer the Black Legion?
+We are experts in the arcane and masters of necromancy.{^n}{^n}Why send living men to die at the hands of the enemy when we could send loyal undead servants to battle in our stead?{^n}{^n}We will combat the enemy, and preserve valuable human lives in the process.
+
+
+
+
+
+I'll need some time to think this through.
+What can you tell me about Uroboruuk?
+Our master is eternal. He was there when the Arkovian Empire was young and he was there when they fell to his curse. The Arkovians, much like the Erulan Empire shattered by the Grim Dawn, had persecuted necromancy and those who would seek forbidden knowledge.{^n}{^n}They tortured our master, eager to learn his secret to immortality. In return, Uroboruuk cursed them to eternal un-life. Since the fall of Arkovia, Uroboruuk founded the Order of Death's Vigil, to ensure that the pursuit of knowledge and life's mysteries would never again be threatened by the ignorant.{^n}{^n}Now that humanity stands at the brink of annihilation, it seems his teachings are more relevant than ever. We will return balance to the world, as our master had decreed.
+
+
+
+
+
+I'll need some time to think this through.
+What is necromancy?
+Necromancy is the study of death and the forces of life that bind us to that final fate.{^n}{^n}To us, death is a mystery that must be studied, not some esoteric topic worthy of fear.
+
+
+
+
+
+I'll need some time to think this through.
+
+
+What can you tell me about Kymon's Chosen?
+They are fanatics, obsessed with an ancient faith worshipping a nonexistent god known as Empyrion.{^n}{^n}Anyone that stands against their tenets is a heretic and worthy only of extermination. In that, they are no better than the empire which had persecuted the Order for generations.
+
+
+
+I'll need some time to think this through.
+What sort of equipment do you offer?
+You should find that our equipment can handle many situations, but the users of Cold, Vitality and minions will find our arsenal to be of great use.
+
+
+
+I'll need some time to think this through.
+Farewell.
+A fellow seeker of knowledge, I feel more comfortable here already.{^n}{^n}The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come before you.
+What is the Order of Death's Vigil?
+We are seekers and preservers of knowledge, trained in the ancient art of necromancy.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
+I see.
+Goodbye.
+An inquisitor? I under the impression that this was to be an amicable gathering.{^n}{^n}The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come.
+What is the Order of Death's Vigil?
+We are seekers and preservers of knowledge, trained in the ancient art of necromancy.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
+
+I see.
+I mean you no harm.
+While that is certainly a relief, you'll have to forgive me for not putting my guard down.{^n}{^n}The Order does not have a comfortable history with the Luminari.
+
+Things change.
+Understandable.
+Goodbye.
+The one you call Ulgrim has asked to speak with the Order of Death's Vigil, so I have come before you.
+What is the Order of Death's Vigil?
+We are seekers and preservers of knowledge, trained in the ancient art of necromancy.{^n}{^n}We do not fear death. We embrace all that it teaches us, and through it become more in tune with the world around us.
+I see.
+Goodbye.

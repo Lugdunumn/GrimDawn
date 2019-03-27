@@ -1,0 +1,40 @@
+The Eldritch Sun
+The Forgotten God
+The Tomb of Korvaak
+With his dying words, Uroboruuk has lifted the veil protecting the Tomb of the Eldritch Sun. You must enter it and deal with the forgotten god.
+
+
+
+
+
+Gain access to the Tomb of the Eldritch Sun
+
+
+The Eldritch Gate
+You have entered the tomb, but your task is far from finished. You must traverse its dangers and find the inner sanctum capable of breaching the veil itself.{^n}{^n}Use the Sigil bestowed upon you by the Witch Gods to open the way to Korvaak's hiding place. Enter the rift and bring an end to the primordial god.
+Obtain the Sigil of the Three
+Use the Sigil of the Three to open the Eldritch Gate
+
+
+
+The Forgotten God
+You found the inner chamber of the Tomb of the Eldritch Sun and opened the way to the Eldritch Realm.{^n}{^n}Only one thing remains to be done: banish Korvaak.
+Enter the Eldritch Realm
+Banish Korvaak, the Eldritch Sun
+
+
+Return to the Emissary
+You have done the impossible. Korvaak, the Eldritch Sun, has been banished from existence, his physical vessel destroyed.{^n}{^n}Return to the Conclave of the Three with news of your success.
+Return to the Conclave of the Three
+
+
+
+
+
+
+
+
+
+
+
+

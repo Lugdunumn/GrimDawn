@@ -1,0 +1,13 @@
+Spirit of Crate
+You know not what you've unleashed.{^n}{^n}Foolish mortal.
+I can handle it.
+A mortal has broken the first of the six sacred seals, such a sight is a rarity to behold.{^n}{^n}I can't help but wonder what [[ms]he[fs]she] hopes to achieve with such blasphemy.
+Where are the other seals?
+Tread carefully, mortal.{^n}{^n}Some secrets of the desert are best left unbroken.
+You won't tell me?
+*The spirit stares blankly at you*{^n}{^n}Tread carefully, mortal.{^n}{^n}Some secrets of the desert are best left unbroken.
+Fine, don't tell me.
+Fine, don't tell me.
+Guess we'll find out.
+Your friends are really thinking inside the box.
+Um, ok.

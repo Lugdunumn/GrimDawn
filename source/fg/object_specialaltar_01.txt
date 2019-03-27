@@ -1,0 +1,10 @@
+Desert Altar
+The altar's power is spent.
+Step away from the altar.
+The altar awaits another.
+Step away from the altar.
+The altar comes to life at the proximity of a chilling possession.
+Activate the altar.
+Step away from the altar.
+The altar is brimming with the power of the Korvan sun. The veil between realities is thin here.{^n}{^n}Perhaps something chilling could temper its heat and unlock its potential. Something...not of this world...
+Step away from the altar.

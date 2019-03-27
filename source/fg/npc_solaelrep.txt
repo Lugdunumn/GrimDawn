@@ -1,0 +1,68 @@
+Sagon, Vicar of Solael
+It is good that you have found your place with the others.{^n}{^n}Solael has no time for distractions.
+Whatever you say.
+Admirable, but your place isn't here with me.{^n}{^n}We will speak another time.
+Farewell.
+Your presence here is only welcome out of necessity.{^n}{^n}If it were up to me...
+Um, goodbye.
+Again with these distractions?{^n}{^n}What do you want?
+I have some questions.
+Of course you do.
+Why aren't we attacking our enemies head on?
+I admire your willingness to bring a swift end to this campaign, but some matters must be handled with precision.{^n}{^n}We will apply pressure where the forgotten one's minions are weakest and watch them break before we land the final blow.
+I have another question.
+Alright.
+What can you tell me about this forgotten god?
+A primordial fiend that was once worshipped in these parts. Their faith was rewarded with fire and ash before it was ultimately contained within a tomb.{^n}{^n}It seems the protective barriers are now failing and this deity threatens to make a cataclysmic return that could disrupt the delicate balance of power on Cairn.{^n}{^n}The Witch Gods are rightfully concerned, and you should be too.
+I have another question.
+I see.
+What is your role here?
+Solael has entrusted me to prune unworthy from among his ranks, to purge weakness from the cult and guide the select few to powers unimaginable.{^n}{^n}I embody the characteristics Solael prizes in my unrelenting pursuit of arcane secrets and so I was made his vicar, his eyes and ears, the bearer of the most terrible and terrifying spells.
+I have another question.
+I see.
+What can you tell me about Solael?
+Solael is the youngest of the Three, but do not mistake that for weakness. His mastery of the eldritch fire is without equal.{^n}{^n}The very essence of the Eldritch Realm is for him to mold as he sees fit, and he shares this knowledge with his loyal servants.{^n}{^n}But such power does not come without sacrifice. Some must die so that others can bask in his glory, the ultimate display of loyalty.
+I have another question.
+I see.
+Solael seems cruel.
+Cruel? The world is cruel.{^n}{^n}Solael expects great sacrifice, yes, but in return he gifts us with unfathomable power.
+I have another question.
+I see.
+Nevermind.
+Forget it.
+We will see if you have what it takes to work alongside Solael's aspirants.
+What is the plan then?
+The forgotten god stirs within his tomb, which now serves as a bastion for his followers. But not for long.{^n}{^n}They've caught Solael's attention. Their deaths are inevitable.{^n}{^n}You've taken up enough of my precious time. I must tend to Solael's wishes.{^n}{^n}Speak to Raiken, here at the camp. He will guide you to our goals.
+I'll speak to Raiken.
+I need to deal with something else first.
+We'll speak later.
+You show promise, perhaps you would be of value to Solael.{^n}{^n}It remains to be seen if the Emissary was right about you.
+You serve Solael? Why should I help you?
+Solael does not need your help, but that does not mean we cannot benefit one another.{^n}{^n}Only those willing to make any sacrifice, to go to any ends necessary, are of use to Solael. The world is ripe with power for the taking, if you have the will to claim it.{^n}{^n}Bysmiel and Dreeg hope to manipulate events, to gleam a favorable future. Solael knows that the mighty carve their own future.
+I will work with your cult, Sagon. (Join the Cult of Solael)
+Hm, I will allow it.{^n}{^n}We will see if you have what it takes to work alongside Solael's aspirants.
+
+I'll be back soon.
+Solael seems cruel.
+Cruel? The world is cruel.{^n}{^n}Solael expects great sacrifice, yes, but in return he gifts us with unfathomable power.{^n}{^n}What god worshiped in the fallen empire can offer the same?
+
+
+I need to consider my options.
+What can you tell me about Solael?
+Solael is the youngest of the Three, but do not mistake that for weakness. His mastery of the eldritch fire is without equal.{^n}{^n}The very essence of the Eldritch Realm is for him to mold as he sees fit, and he shares this knowledge with his loyal servants.{^n}{^n}But such power does not come without sacrifice. Some must die so that others can bask in his glory, the ultimate display of loyalty.
+
+
+I need to consider my options.
+
+I don't need Solael's approval.
+I don't have time for your attitude.
+Hm, perhaps there is value in you.
+This was nothing.
+So you are what the Emissary has brought us? Are you prepared for the trials ahead?{^n}{^n}This should prove entertaining.
+Perhaps you'd prefer to test me yourself?
+Hah, that would be brief.
+So arrogant.
+Good thing that's not the test.
+Just watch.
+Your presence here is only welcome out of necessity.{^n}{^n}If it were up to me...
+Um, goodbye.

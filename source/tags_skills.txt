@@ -93,7 +93,7 @@ tagClass01SkillDescription01B=The fury of Cadence resonates with the target, cau
 tagClass01SkillName01C=Deadly Momentum
 tagClass01SkillDescription01C=You push the advantage following a Cadence strike, briefly causing all of your blows to strike with additional deadly force. ^oDeadly Momentum affects all attacks while active.
 tagClass01SkillName01D=Discord
-tagClass01SkillDescription01D=The discord of a wrathful soul flows into the Soldier's pure fighting cadence and sows it with a storm's energy.
+tagClass01SkillDescription01D=The discord of a wrathful soul flows into the Soldier's pure fighting cadence and sows it with elemental energy.
 
 tagClass01SkillName02A=Forcewave
 tagClass01SkillDescription02A=Such force is channeled into the attack that it compresses the very air, projecting out a wave of energy that stuns and damages foes. ^oThis attack requires a shield or two-handed melee weapon.
@@ -254,7 +254,7 @@ tagClass02SkillDescription12B=Delving deeper into the secrets of pyromancy grant
 tagClass02SkillName13A=Vindictive Flame
 tagClass02SkillDescription13A=Ulzuin's eternal flame once brought life and healing to the world, but betrayal and torment twisted this gift into a weapon of vengeance. Those sworn to Ulzuin receive vigor in battle and fiery retaliation upon their foes. ^oThis ability must be toggled to maintain its effect.
 tagClass02SkillName13B=Ulzuin's Wrath
-tagClass02SkillDescription13B=As the flame of Ulzuin scorches adjacent enemies, bolts of sorcerous flame and electricity will arc out to strike more distant foes.
+tagClass02SkillDescription13B=As the flame of Ulzuin scorches adjacent enemies, bolts of sorcerous flame and electricity will arc out to strike more distant foes and sap them of their strength.
 
 tagClass02SkillName10A=Lightning Charge
 tagClass02SkillDescription10A=Lobs a powerful electrically charged bomb at enemies. Effective against tough single targets.
@@ -349,7 +349,7 @@ tagClass03SkillName13D=Fevered Rage
 tagClass03SkillDescription13D=This transmutation of Pox can be as dangerous to the Occultist as to the foe. The plague will progress rapidly, more than doubling its damage, but as the afflicted burn with fever, they will become crazed, moving with unnatural speed and attacking with berserker fury that makes them both more deadly and more vulnerable.
 
 tagClass03SkillName14A=Doom Bolt
-tagClass03SkillDescription14A=A bolt of entropic power tears through the fabric of reality to inflict massive damage on any foe it strikes.
+tagClass03SkillDescription14A=A bolt of entropic power tears through the fabric of reality to inflict massive damage on any foe it strikes. ^oStriking a target directly with the bolt inflicts double damage.
 
 
 tagClass03SkillName07A=Hex of Nullification
@@ -527,7 +527,7 @@ tagClass05SkillName05B=Conversion
 tagClass05SkillDescription05B=The sphere absorbs harmful debilitating effects and converts them into your energy reserves.
 
 tagClass05SkillName06A=Albrecht's Aether Ray
-tagClass05SkillDescription06A=A powerful arcane technique perfected by Master Albrecht in the years just preceeding the Grim Dawn that channels raw arcane energies into a concentrated beam of destruction. ^oRequires a Caster Off-Hand.
+tagClass05SkillDescription06A=A powerful arcane technique perfected by Master Albrecht in the years just preceeding the Grim Dawn that channels raw arcane energies into a concentrated beam of destruction. ^oRequires a Caster Off-Hand. At 0% Cast Speed, Albrecht's Aether Ray deals damage and drains Energy every 0.3s.
 tagClass05SkillName06B=Disintegration
 tagClass05SkillDescription06B=Pours all of your energy into the Aether Ray, turning it into a catastrophic force that disintegrates all it touches. ^oEnergy Cost increase is per damage interval.
 tagClass05SkillName06C=Tainted Power
@@ -1401,7 +1401,7 @@ tagItemSkillD021Name=Aether Blastwave
 tagItemSkillD021Desc=A blast of Aether energy knocks your attackers back.
 
 tagItemSkillD022Name=Aetherblaze
-tagItemSkillD022Desc=A blaze of pure arcane fire erupts beneath your foes. ^oRequires a Caster Off-Hand.
+tagItemSkillD022Desc=A blaze of pure arcane fire erupts beneath your foes.
 
 tagItemSkillD023Name=Aether Cascade
 tagItemSkillD023Desc=Pure arcane energy erupts from you and cascades among your foes.
@@ -1780,7 +1780,7 @@ tagItemSkillD145Name=Nightshade Venom
 tagItemSkillD145Desc=Release a vile toxin trapped within the blade that turns flesh into stone.
 
 tagItemSkillD146Name=Obliteration
-tagItemSkillD146Desc=Unleash a beam of arcane destruction that obliterates everything it touches, piercing through foes as it erases them from existence.
+tagItemSkillD146Desc=Unleash a beam of arcane destruction that obliterates everything it touches, piercing through foes as it erases them from existence. ^oThis is a channeled skill and must be held down to maintain. At 0% Cast Speed, Obliteration deals damage and drains Energy every 0.3s.
 
 tagItemSkillD147Name=Obsidian Tremor
 tagItemSkillD147Desc=Shatter the barrier between the void and the physical realm as obsidian spines burst through the earth.
@@ -2319,7 +2319,7 @@ tagRelicSkillC007Name=Haunt
 tagRelicSkillC007Desc=Invoke a summoning of tortured spirits that will haunt your enemies and chill their blood.
 
 tagRelicSkillC008Name=Conflagration
-tagRelicSkillC008Desc=Unleash a beam of pure flame so intense that not even the toughest armor can withstand it. ^oThis is a channeled skill and must be held down to maintain.
+tagRelicSkillC008Desc=Unleash a beam of pure flame so intense that not even the toughest armor can withstand it. ^oThis is a channeled skill and must be held down to maintain. At 0% Cast Speed, Conflagration deals damage and drains Energy every 0.3s.
 
 tagRelicSkillC009Name=Summon Stormhound
 tagRelicSkillC009Desc=Call forth a loyal Stormhound, an eldritch beast born of the heavens. ^oOnly one Stormhound can be summoned at any one time. The stormhound scales with Pet Bonuses.
@@ -2949,7 +2949,7 @@ tagEnemySkillD13=Soul Drain
 tagEnemySkillD13_Desc=You've been marked by a vampiric curse, sapping your life essence and exposing you to physical attacks.
 
 tagEnemySkillD14=Venomplague
-tagEnemySkillD10_Desc=You've been plagued by a ghoul, crippling your Ability to focus on the offense and defense.
+tagEnemySkillD14_Desc=You've been plagued by a ghoul, crippling your Ability to focus on the offense and defense.
 
 tagEnemySkillD15=Drain Spirit
 tagEnemySkillD15_Desc=A wraith is sapping your soul, absorbing your life essence.

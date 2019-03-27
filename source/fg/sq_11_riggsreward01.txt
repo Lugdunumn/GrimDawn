@@ -1,0 +1,11 @@
+Korvan Basin
+Now You Owe Me
+A deal is a deal
+You spoke with Riggs, an odd kind of merchant who's stationed himself at the Conclave of the Three.{^n}{^n}He agreed to give you some of his wares, but strangely charged you nothing for them.{^n}{^n}Riggs says you're in his debt now, which he may collect on some day at a time of his choosing.
+
+Make a deal with Riggs
+
+
+
+
+

@@ -1,0 +1,84 @@
+Brother Haggan
+Please, have mercy.{^n}{^n}We've suffered enough.
+We'll see about that.
+Thank you for your mercy.
+Travel safe.
+Go on, before I change my mind.
+We don't want any trouble.
+Then stay out of it.
+Thank you for your mercy.
+I dropped the relic somewhere, don't suppose you...
+Found it?{^n}{^n}Yes, here. If this is the price for our lives, take it.
+Thank you.
+Travel safe.
+Go on, before I change my mind.
+Do not try to stop us, [[ms]brother[fs]sister].{^n}{^n}We have had enough of Kymon's lies and wish to leave in peace. If you have any sense left, you should join us.
+I do not wish to fight you, brother, but you have something I need.
+What could we possibly have that you require in this wasteland?{^n}{^n}We are fleeing the destruction that awaits us all if Kymon succeeds and have only some supplies and the clothes on our backs.
+You have an artifact. Give it to me and you can go.
+*Haggan reluctantly removes something from a pouch on his belt*{^n}{^n}I don't know what you want with this, [[ms]brother[fs]sister], but it is evil.{^n}{^n}Kymon promised us salvation from this hell through Empyrion. Instead, we got something far worse.{^n}{^n}You do not want this burden.
+I'll see that this thing never harms anyone again.
+Aligning ourselves with Kymon and his false promises has brought us nothing but misery.{^n}{^n}*Haggan sighs*{^n}{^n}Take it. Get it away from us. Perhaps then we will know peace.
+I'll be careful with it. (Spare the deserters)
+Forget it. (Attack)
+I'll be right back.
+I don't have time for this. (Attack)
+I'll be right back.
+
+I'm sorry, but you have to die. (Attack)
+I'll be right back.
+Kymon's dead, you're next.
+You felled the Father himself? Remarkable.{^n}{^n}Then we stand no chance.{^n}{^n}Look, we have no quarrel with you. We are leaving this forsaken land before Kymon's foolish plans come to fruition, and you should too.
+What has he done?
+Kymon was a false prophet. He deceived us with promises of Empyrion's return, but in truth he served another vile entity which he worked tirelessly to release into our world.{^n}{^n}That being will prove no different than the Chthonians, both will bring about our end.
+
+And you will die for this. (Attack)
+I'll be right back.
+I do not fight for Kymon.
+Then we have no quarrel.{^n}{^n}We are leaving this forsaken land before Kymon's foolish plans come to fruition, and you should too.
+What has Kymon done?
+He is a false prophet. He deceived us with promises of Empyrion's return, but in truth he served another vile entity which he is working tirelessly to release into our world.{^n}{^n}Just another charlatan seeking to take advantage of the suffering of survivors. We were fools to follow him here.
+
+And you will die for it. (Attack)
+I'll be right back.
+
+You're not going anywhere. (Attack)
+I'll be right back.
+I'm afraid you're not leaving. (Attack)
+I'll be right back.
+Please leave us be.{^n}{^n}We have had enough of this forsaken land and Kymon's lies.{^n}{^n}We wish to leave peacefully. If you have any sense left, you should be leaving too.
+I do not wish to fight you, but you have something I need.
+What could we possibly have that you require in this wasteland?{^n}{^n}We are fleeing the destruction that awaits us all if Kymon succeeds and have only some supplies and the clothes on our backs.
+You have an artifact. Give it to me and you can go.
+*Haggan reluctantly removes something from a pouch on his belt*{^n}{^n}I don't know what you want with this, but it is evil.{^n}{^n}Kymon promised us salvation from this hell through Empyrion. Instead, we got something far worse.{^n}{^n}You do not want this burden.
+I'll see that this thing never harms anyone again.
+Aligning ourselves with Kymon and his false promises has brought us nothing but misery.{^n}{^n}*Haggan sighs*{^n}{^n}Take it. Get it away from us. Perhaps then we will know peace.
+I'll be careful with it. (Spare the deserters)
+Forget it. (Attack)
+I'll be right back.
+I don't have time for this. (Attack)
+I'll be right back.
+
+I don't have time for this. (Attack)
+I'll be right back.
+Kymon's dead, you're next.
+You felled the Father himself? Remarkable.{^n}{^n}Then we stand no chance.{^n}{^n}Look, we have no quarrel with you. We are leaving this forsaken land before Kymon's foolish plans come to fruition, and you should too.
+What has he done?
+Kymon was a false prophet. He deceived us with promises of Empyrion's return, but in truth he served another vile entity which he worked tirelessly to release into our world.{^n}{^n}That being will prove no different than the Chthonians, both will bring about our end.
+
+And you will die for this. (Attack)
+I'll be right back.
+I fight to stop Kymon.
+Then we have no quarrel.{^n}{^n}We are leaving this forsaken land before Kymon's foolish plans come to fruition, and you should too.
+What has Kymon done?
+He is a false prophet. He deceived us with promises of Empyrion's return, but in truth he served another vile entity which he is working tirelessly to release into our world.{^n}{^n}Just another charlatan seeking to take advantage of the suffering of survivors. We were fools to follow him here.
+
+And you will die for it. (Attack)
+I'll be right back.
+
+And you will die for it. (Attack)
+I'll be right back.
+I'm afraid you're not leaving. (Attack)
+I'll be right back.
+We don't want any trouble.
+Then stay out of it.

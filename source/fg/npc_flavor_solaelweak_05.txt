@@ -1,0 +1,91 @@
+Ricard
+What have you done!{^n}{^n}You monster! Merise did not deserve this fate!{^n}{^n}What's worse, I was left to live in a world without her star light!
+Not by my choice.
+She would have never loved you.
+Leave me, I wish only to think about my darling Merise.
+Good luck with that.
+You're a crazy person.
+Still trying to come between me and Merise, I see. {^n}{^n}Well your plan won't work, Merise only has eyes for me.
+Sure she does.
+Merise wishes you were dead.
+What have you done!{^n}{^n}You monster! Merise did not deserve this fate!{^n}{^n}What's worse, you left me to live in a world without her star light!
+Perhaps now you can set your life straight.
+She would have never loved you.
+Um, you're welcome.
+What have you done!{^n}{^n}You monster! Merise did not deserve this fate!{^n}{^n}What's worse, you left me to live in a world without her star light!
+Perhaps now you can set your life straight.
+She would have never loved you.
+Um, you're welcome.
+Thank you for sparing me, stranger.{^n}{^n}After all that's happened, I think I see the error of my ways. {^n}{^n}I was blinded by my hopeless love for Merise. {^n}{^n}Now I see she could never love someone like me.
+I'm glad I could help.
+Yes, you see, I must redouble my faith in the Three, prove myself worthy of Solael once more.{^n}{^n}Only then, perhaps Merise will find it in her heart to submit to my love.{^n}{^n}I will have her at my side, no matter the price.
+You're hopeless.
+Yeah, that will work.
+You're welcome.
+You're right, she could never love you.
+What have you done!{^n}{^n}You monster! You took Merise from this world!{^n}{^n}I...I...would cut the heart from your chest as you did mine but...{^n}{^n}Just end it...take me from this pitiless world. Perhaps I will join Merise beyond the veil.
+Who's Merise again?
+You...you fiend.{^n}{^n}You torment me even as you dare speak her name.{^n}{^n}If my arms and legs and my everything weren't shaking right now I'd...I'd...
+Yup, your life is forfeit. (Attack)
+You're pitiful.
+Who's Merise?
+
+Not a problem. (Attack)
+No, you're not worthy of her.
+No, you're too pathetic to be sacrificed.
+You've come to select me, haven't you?{^n}{^n}I know what you're doing. You're going to get me sacrificed as an excuse to get rid of me so you can have Merise all to yourself.{^n}{^n}You're disgraceful. No matter what you do, you can't come between our love.
+You're definitely insane.
+I'm in love!{^n}{^n}And there's nothing you can do to keep me from my Merise!
+We'll see about that. (Attack)
+I suppose you're right.
+Who's Merise again?
+She's just the most beautiful creature I've ever seen.{^n}{^n}Her eyes are like the stars, her hair the waves of the ocean, her smell is of a spring day, and her...well, you know what I mean.{^n}{^n}But she won't so much as look at me.{^n}{^n}Oh, the Three forsake me. My life is forfeit without her.
+Ok, I've heard enough.
+Yup, your life is forfeit. (Attack)
+You're pitiful.
+Who's Merise?
+
+Yup, that's what I'm going to do. (Attack)
+You're not worth it.
+Leave me alone.{^n}{^n}I'm in no condition to talk.
+It's about Merise.
+Merise! Did she speak of me?{^n}{^n}Oh please let it be true. My lovely Merise, how I pine for your affection.{^n}{^n}Why has she made me wait so long? Why has she kept her love from me all this time?{^n}{^n}Tell me, what does she ask of me?
+You need to stay away from her. (Tell the truth)
+What...It can't be true. {^n}{^n}What did you say to her? You said something bad about me didn't you?{^n}{^n}Or...Or, you want her for yourself, don' t you?!{^n}{^n}I can't believe you're trying to come between me and my one true love.{^n}{^n}How could you do something like this to me?{^n}{^n}You're a monster.
+And you're insane?
+Oh is that it? Now we're going for slander?{^n}{^n}What I think is you're trying to keep me away from my precious Merise.{^n}{^n}You can't do this. I'll have my Merise no matter what you say.
+Just stay away from her.
+Watch your back, Ricard.
+She'll call the sentinels if you don't stay away.
+Well I bet she will now that you set her against me.{^n}{^n}You can't do this, do you understand? I won't let you come between me and my Merise.{^n}{^n}I'll have her no matter what you say.{^n}
+Just stay away from her.
+Watch your back, Ricard.
+She wants to talk to you. (Lie) 
+Oh, I knew it.{^n}{^n}I could just feel it. She wants me as badly as I want her.{^n}{^n}Oh praise the Three, my life is complete.{^n}{^n}I don't know how to thank you.
+Glad I could help.
+Good luck with that.
+You know what. Nevermind.
+Talk to her yourself.
+What's wrong?
+What?{^n}{^n}Oh nothing...it's just...{^n}{^n}I can't keep my mind off her. No matter what I do. I can't focus on my work, I can't eat, I can't sleep.{^n}{^n}She's in my dreams. Oh is she ever in my dreams.{^n}{^n}All I can do is think of her.
+Think of who?
+Merise, of course. {^n}{^n}Is she not the most beautiful creature that ever lived?{^n}{^n}Her eyes are like the stars, her hair the waves of the ocean, her smell is of a spring day, and her...well, you know what I mean.{^n}{^n}But she won't so much as look at me.{^n}{^n}Oh, the Three forsake me. My life is forfeit without her.
+Get a hold of yourself.
+I know, I'm a wreck, but I just can't go on without her.{^n}{^n}If Raiken finds out I haven't been finishing my work, he'll have me burned alive.{^n}{^n}I just can't continue without at least speaking with her.{^n}{^n}But I'm a coward, I'm too scared. She'd never talk to a person like me.{^n}{^n}You though, you look tough and brave. You could help me.
+How can I help you?
+You could go talk to her for me.{^n}{^n}She would talk to you. I know she would. Just look at you.
+I'll see what she says.
+Nope, I don't think so.
+Nope, I don't think so.
+Nope, I don't have time for this.
+I don't really care.
+Ok, I'll be on my way then.
+I can't talk right now, Merise is watching.
+Who's Merise?
+Who's Merise? She's the love of my life, that's who Merise is.{^n}{^n}Now please, would you leave before she sees us talking. {^n}{^n}I don't want her to get the wrong idea.
+The wrong idea?
+I don't want her to think I'm, you know...talking to you.{^n}{^n}You know what I mean.
+I have no idea.
+Um, sure.
+Alright.
+Goodbye.

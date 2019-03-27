@@ -1,0 +1,92 @@
+Alain
+It makes no difference whom you choose to follow. In the end, we all serve Bysmiel's will.
+Farewell.
+The anguished cries of Korvaak reach us even here.{^n}{^n}You've served the gods well!
+Another threat to humanity vanquished.
+I can only wonder how many other relics dedicated to the vile god twisting beneath this land still exist.{^n}{^n}We will have to purge them all!
+We'll find them in time.
+Farewell.
+To gaze upon Bysmiel's web is to witness the workings of the gods themselves.{^n}{^n}Simply magnificent.
+Farewell.
+Have you tracked down the deserters?
+I convinced them to give up the relic peacefully.
+You spared their lives? How...perverse.{^n}{^n}No matter I suppose. I doubt they will get far with their limited supplies. The desert can be...unforgiving.{^n}{^n}This thing you've brought me. It is another false idol to Korvaak. I will see that it is disposed of. But perhaps we can glean some knowledge from these runes first.{^n}{^n}Here, see if you can make use of this.
+Thank you.
+They are harmless and did not deserve to die.
+Have you tracked down the deserters?
+I've dealt with them. Here is the relic.
+Good, another nuisance dealt with.{^n}{^n}This thing you've brought me. It is another false idol to Korvaak. I will see that it is disposed of. But perhaps we can glean some knowledge from these runes first.{^n}{^n}Here, see if you can make use of this.
+Thank you.
+Just doing my part.
+How goes the hunt for Kymon's deserters?
+Where should I be looking again?
+They were last spotted within the Sunbane Oasis, to the east of the Cairan docks.{^n}{^n}Do not waste time. They could be on the move again and the relic they carry could be lost to us.
+I'm on it.
+I'm still searching.
+I've heard whispers, an opportunity has presented itself.{^n}{^n}The web stirs with excitement for what may be a crippling blow to our foes.{^n}{^n}As someone trusted with Bysmiel's schemes, I thought it imperative that you be informed.
+What is it?
+We have spotted a small group of Kymon's Chosen that is fleeing the basin. We believe they have lost faith in their master and our activities have sapped them of hope.{^n}{^n}Normally, this would not be cause for alarm, but these fools also made away with a Korvan relic.{^n}{^n}As we speak, they're trying to escape the basin with this artifact. They were last spotted within the Sunbane Oasis, east of the Cairan Docks.{^n}{^n}The relic must be recovered. Their lives were already forfeit the moment they sided with Kymon. Do not fail Bysmiel in this!
+I will track down this relic.
+Have your spies deal with this.
+I've already dealt with the deserters and have the relic.
+
+I've convinced them to give up the relic peacefully.
+
+We'll speak of this later.
+Speak to the Matron of Rifts.{^n}{^n}She hears the will of Bysmiel and will know what to do next.{^n}{^n}Seek out Byscilla at the Vanguard of the Three, far to the north, past the Sunbane Oasis and through the Howling Chasm.
+Farewell.
+Well? Do you have it?
+I have the Core of Galfang.
+Was the Eldritch Realm as stunning as the stories say?{^n}{^n}You will have to tell me all about your journey later.{^n}{^n}Right now, we must bring the blood and the core to Byscilla. She has a plan for them.
+What else does Byscilla need?
+I believe it's time you spoke with her yourself.{^n}{^n}I've done everything she's asked. Seek her out at our forward camp, the Vanguard of the Three, far to the north, past the Sunbane Oasis and through the Howling Chasm.
+Alright.
+Farewell.
+It was quite the sight.
+I wasn't really impressed.
+Bysmiel has bestowed upon us a great honor.{^n}{^n}Do not squander the opportunity.
+What do I need to do again?
+As instructed by Byscilla, I've opened a rift to the Eldritch Realm.{^n}{^n}There you must find a creature called Galfang. Slay it and claim its core for our goddess.
+Alright.
+Seems pretty dangerous.
+I'm eager to see it for myself.
+We have the Blood of the Watchers, what I must ask of you next is much more dangerous, but perhaps more exotic depending on your taste for travel.
+Where am I going?
+Few mortals ever witness the splendor of the Eldritch Realm, but the Lady of Whispers has blessed us with a riftstone granting us brief access to a secluded portion of her realm.{^n}{^n}Therein dwells a creature known as Galfang, the Night Terror. Bysmiel has decreed that its time has come. Its essence will be made to serve.{^n}{^n}You are to enter the realm of the gods and track down this creature.{^n}{^n}Slay it and bring me the core of eldritch energies that swirls within its chest. Bysmiel demands it be so.
+I will track down the creature.
+The Eldritch Realm? Sounds too dangerous.
+I already have this beast's core.
+
+What is the Eldritch Realm?
+I have never witnessed it for myself, but Byscilla has told us of its splendors.{^n}{^n}It is a reality quite unlike our own, with bizarre beasts and vegetation that strafe the edges of our comprehension. Sometimes these creatures breach the veil and enter our reality, as many had following the Grim Dawn and its effects upon the barrier between realities.{^n}{^n}The Eldritch Realm is a place of wild untamed arcane energies which the Witch Gods draw upon for their godly displays. They share but a taste of this power with their loyal servants in return for unflinching loyalty. Once you experience the euphoria of the Eldritch, you will forever crave more.
+I will track down the creature.
+Sounds too dangerous.
+
+What was it you needed me to do again?
+Not right now.
+Were you successful? Do you have the blood?
+Is this what you seek?
+Yes! The power coming off their blood is intoxicating.{^n}{^n}This is exactly what Bysmiel demands.{^n}{^n}Here, a small gift from the Eldritch Realm for your efforts.
+Was there anything else?
+What I must ask of you next is much more dangerous, but perhaps more exotic depending on your taste for travel.
+
+Thank you.
+Back already? Do you have the blood?
+Where do I need to look again?
+The Infused Animated Watchers roam the various ruins across the Korvan Basin, but you will most likely find them within the Cairan Docks and the Temple of Osyr, to the north.{^n}{^n}The watchers may not be the most powerful of the ancient guardians, but their essence is the most pure and will serve Bysmiel's needs.
+Alright.
+Not yet.
+So you have chosen to fight under Bysmiel's banner. A wise decision.{^n}{^n}In the end, we all serve Bysmiel's will. You might as well be doing so willingly.
+Byscilla said to speak to you.
+Yes, I have been tasked with preparations for the upcoming battle and you will assist me.{^n}{^n}The Lady of Whispers has decreed that we are to gather powerful essence from the guardians of Korvan temples. They call it Blood of the Watchers, though it is not blood in the literal sense. It is pure arcane energy turned solid within the shells of the stone guardians still roaming these lands. Find these Infused Animated Watchers among the ruins of the Cairan Docks and the Temple of Osyr to the north and bring me their blood!
+I will get what you need.
+Find someone else to do this.
+Is this what you seek?
+
+Why do you serve Bysmiel?
+To gaze upon Bysmiel's web is to witness the workings of the gods themselves.{^n}{^n}The Schemer's cunning alone is worthy of reverence, to say nothing of her mastery of the summoning arts.{^n}{^n}I am blessed to know even a fraction of her vast network.
+
+I'll be right back.
+I'll be right back.
+The ravens spoke of your arrival.
+I see...

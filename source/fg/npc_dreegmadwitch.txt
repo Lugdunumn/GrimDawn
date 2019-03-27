@@ -1,0 +1,13 @@
+Inarah, the Afflicted
+Do you hear the whispers too?
+I think I'll be going now.
+Do you hear the whispers too?{^n}{^n}They come, from all sides, and within. We are doomed, all of us doomed.{^n}{^n}The Great Eye is blind to the calamity of blood. Founts of blood and the dead lips that drink their fill.
+Inarah, listen to me. You're not well.
+Well? Who is truly well in this broken world?{^n}{^n}Ishtal has whispered to me truths which we cannot comprehend.{^n}{^n}The gods will not listen, but I have gleaned beyond the tapestry and seen the lies beneath.{^n}{^n}We will all drown in blood. The wound must be seared by fire if any are to live.
+Ishtal is manipulating you. You have to cast him out!
+You will lay no harm upon us.{^n}{^n}The choir of madness has been silenced. I only hear one voice now.{^n}{^n}And that voice demands fire!
+I'm sorry, I have no choice. (Attack)
+There's no hope for you. (Attack)
+I'm sorry, I have no choice. (Attack)
+Do you hear the whispers too?
+I think I'll be going now.

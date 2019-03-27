@@ -1,0 +1,79 @@
+Byscilla, Matron of Rifts
+Don't worry, I'll be well aware of your every move. You need not come tell me yourself.
+Um, sure.
+If you say so.
+What a curiosity.{^n}{^n}You and I must speak another time.
+Farewell.
+What a bother.{^n}{^n}Move along, child.
+Fine.
+The web is spun. Everything is set in motion as I've planned.{^n}{^n}What are you still doing here?
+What do I need to do again?
+Our primordial foe stirs within the Tomb of the Eldritch Sun, beyond the Infernal Wastes.{^n}{^n}Seal its fate and spare Cairn another cataclysmic event.
+
+
+Alright.
+Why is this god such a threat exactly?
+You have no doubt seen the devastation wrought by his rage, the smoldering ruins, the very earth ripped apart in molten agony.{^n}{^n}Imagine what he would do if he were free of that tomb. Bysmiel's web would be a sad affair with no one left alive to exact her will.
+
+
+Fair enough.
+What of the Witch Gods? We could use their aid.
+Do not presume to know better than Bysmiel where she is needed.{^n}{^n}You have your part to play and the gods have theirs.
+
+
+Fair enough.
+I've misplaced the sigil.
+*The sigil appears over Byscilla's extended hand*{^n}{^n}My web has already seen to your error. Do not be so careless with such a precious relic.
+I'll be more careful.
+Um, on my way.
+Farewell.
+The hour of our victory has come.{^n}{^n}Our work from the shadows is finished, now we must see this through.
+What is the plan?
+The Witch Gods are united in this endeavor. All of our forces stand at the ready to assault the Tomb of the Eldritch Sun and breach its gates.{^n}{^n}Join them on the battlefield, decimate any that would stand in our way.{^n}{^n}Travel north, beyond the Infernal Wastes and into the remains of Korvan City. Ascend the steps to the tomb and make your way inside. Within lies a secret chamber with the power to breach the veil itself.{^n}{^n}Take this sigil. It will open the way to the primordial one's hiding place. Enter the rift and bring an end to this grave threat.
+I'm ready to lead the assault.
+I need time to prepare.
+What about you?
+The...Schemer's web demands my utmost attention. I will play my part, but not on the frontlines.{^n}{^n}Vengeance shall be yours alone, but I shall be watching.
+I'm ready to lead the assault.
+I need time to prepare.
+
+
+What was the plan again?
+Why is this god such a threat exactly?
+You have no doubt seen the devastation wrought by his rage, the smoldering ruins, the very earth ripped apart in molten agony.{^n}{^n}Imagine what he would do if he were free of that tomb. Bysmiel's web would be a sad affair with no one left alive to exact her will.
+I'm ready to lead the assault.
+I need time to prepare.
+
+
+What was the plan again?
+What of the Witch Gods? We could use their aid.
+Do not presume to know better than Bysmiel where she is needed.{^n}{^n}You have your part to play and the gods have theirs.
+I'm ready to lead the assault.
+I need time to prepare.
+
+
+What was the plan again?
+We'll speak of this soon.
+What a wonderfully thoughtful gift you've brought me.{^n}{^n}Just what I've been asking for.
+Are you satisfied then?
+Mmm, yes, but don't think of it as some selfish endeavor.{^n}{^n}This delightful creature will join you on the frontlines. Its claws will rip into the throats of the forgotten one's servants and spill their lifeblood in Bysmiel's name.{^n}{^n}*Byscilla closes her eyes and smiles*
+So, do we have a plan?
+
+Well? Where is my plaything?
+What do I need to do again?
+Hm, that simply will not do.{^n}{^n}Travel north to the Valley of the Chosen and enter the Temple of Ateph.{^n}{^n}Within stands an altar. Use the Gargan Key upon it and bind a minion to my will.{^n}{^n}Let no one stand in your way!
+Alright.
+I lost the Gargan Key.
+So I've heard.{^n}{^n}Don't be so careless with it this time.
+I'll be more careful.
+I'm working on it.
+You've gathered the materials and the power we need.{^n}{^n}Now it is time for my favorite part.
+And what's that?
+With the materials you've brought me, I have conjured what's known as the Gargan Key.{^n}{^n}It is an arcane device used by the people that lived here long ago. Its purpose? The summoning of eldritch creatures within the Temple of Ateph.{^n}{^n}Travel north, to the Valley of the Chosen. Seek out the temple and find the altar within. There the veil is thin and your chances of success highest.{^n}{^n}Let nothing stand in your way, not the primordial one's brainwashed fools, not the temple's defenses. Activate the altar and bind me a worthy minion!
+I'll do as you ask.
+This doesn't sound like a job for me.
+Alain was quite pleased with your performance. But now it is my turn.{^n}{^n}You've gathered the materials and the power we need. It is time for my favorite part.
+And what's that?
+
+What a bother.{^n}{^n}Move along, child.
+Fine.

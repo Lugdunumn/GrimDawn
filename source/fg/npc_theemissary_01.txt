@@ -1,0 +1,40 @@
+The Emissary
+Hello, friend. We will speak again, but at present I seek another in your midst.
+Farewell.
+I will speak with you again on the far side of the portal, traveler.
+
+Ah, we speak at last.{^n}{^n}As I am sure you know, there are many who now cast their gaze upon you, traveler, or should I say Taken? Some who mean you ill, some who fear your potential.{^n}{^n}Then there are those who command me. You know them well, for their attendant's mark is upon you.{^n}{^n}They wish to collect upon this gift.
+Collect? Meaning what?
+I cannot speak of such things in this place. The cursed gaze of our foes is cast upon us here, so I will be brief.{^n}{^n}Great powers are gathering within the distant lands of the fallen Korvan people and the Great Eye has decreed that you must play a part, whatever that may be.{^n}{^n}Will you answer our summons? Will you join me through the portal? Or do the mortal concerns of these people outweigh the calls of fate?{^n}{^n}(This begins the Forgotten Gods expansion content)
+Very well.
+I have some other matters to attend to first.
+Who are these masters of yours?
+You have not met them, but you've sought out their temple.{^n}{^n}Do not fear, you have mutual interests, and the same enemies.{^n}{^n}If we work together, we can triumph where the individual cannot!{^n}{^n}(This begins the Forgotten Gods expansion content)
+Very well, I'll trust you.
+No way I'm following a stranger through a portal.
+
+
+Uhh, I think I'll be going.
+Hold that thought.
+Ah, we speak at last.{^n}{^n}As I am sure you know, there are many who now cast their gaze upon you, traveler, or should I say Taken? Some who mean you ill, some who fear your potential.{^n}{^n}Then there are those who command me. They have taken great interest in your accomplishments. It appears you may be just the one we require.
+You require me? For what?
+I cannot speak of such things in this place. The cursed gaze of our foes is cast upon us here, so I will be brief.{^n}{^n}Great powers are gathering within the distant lands of the fallen Korvan people and the Great Eye has decreed that you must play a part, whatever that may be.{^n}{^n}Will you answer our summons? Will you join me through the portal? Or do the mortal concerns of these people outweigh the calls of fate?{^n}{^n}(This begins the Forgotten Gods expansion content)
+Very well.
+I have some other matters to attend to first.
+Who are these masters of yours?
+I am sorry, I cannot say more here. All you need to know is that you have mutual interests, and the same enemies.{^n}{^n}But if we work together, we can triumph where the individual cannot!{^n}{^n}(This begins the Forgotten Gods expansion content)
+Very well, I'll trust you.
+No way I'm following a stranger through a portal.
+
+Where is this land of the Korvan people?
+Far to the east, beyond mountains and rivers. Weeks of travel by foot, a mere instant through an eldritch gate.{^n}{^n}My masters have granted me the means to return there, but only if accompanied by you. I will not fail in this task.{^n}{^n}(This begins the Forgotten Gods expansion content)
+Very well, I'll trust you.
+No way I'm following a stranger through a portal.
+
+Uhh, I think I'll be going.
+Hold that thought.
+Leave me be, traveler. You are not the one I seek.
+Who are you looking for?
+It matters not. They will seek me out when the time comes.
+Ok, whatever.
+Um, alright.

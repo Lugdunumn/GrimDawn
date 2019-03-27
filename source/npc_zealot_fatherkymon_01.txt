@@ -151,10 +151,6 @@ Where are the ashes again?
 Underneath Fort Ikon to the north, there is a crypt dedicated to Archon Barthollem, a once faithful servant of Empyrion. The Archon was cremated upon death, his ashes stored within a sacred urn.{^n}{^n}We must not allow the Order to desecrate such holy ground. Recover the sacred ashes so that the Order cannot use them for their misguided rituals.
 I will recover the ashes.
 Not yet.
-Come, my unusual Chosen. I have a task for you that will test your very loyalty.
-
-
-We will speak later.
 Come, my loyal Chosen. I have a task for you that comes from Empyrion himself.
 What is Empyrion's will?
 Empyrion has granted me a vision of a far away place. In it, I saw a great fire, a beacon in the darkness; but the flame is being extinguished by tendrils of corruption. But there is still hope and Empyrion has shown me that you are to lead the charge.{^n}{^n}The Order of Death's Vigil, even as we speak, are laying waste to a sacred site underneath Fort Ikon to the north. It is the Tomb of Archon Barthollem, a priest who, centuries ago, was a devout follower of Empyrion. The Order have found the Archon's sacred ashes. They likely intend to use them to fuel some twisted ritual.{^n}{^n}We must not allow this to happen. You must go to the Tomb and reclaim the ashes for the Chosen. Let nothing stand in your way.
@@ -204,12 +200,6 @@ I see now.
 What did you need me to do?
 Nevermind.
 We will speak later.
-There was once a day when I would have hunted your kind down to the far reaches of Cairn.{^n}{^n}Strange times when we now call each other allies.
-
-Goodbye.
-Sit principiis Luminari requiem tibi, inquisitor.
-
-Goodbye.
 May the everlasting light of Empyrion guide your actions, just as it guides mine each and every day.
 I have some questions.
 Speak, and I will enlighten you.

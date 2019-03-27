@@ -1,0 +1,32 @@
+Mysterious Statue
+This guardian statue has already been activated.
+Step away from the statue.
+The statue's secrets await another.
+Step away from the statue.
+This must be one of the guardian statues Raiken spoke of.
+Inspect the statue.
+*A voice fills your head*{^n}{^n}Whom do you serve?
+I serve...Rahn?
+I serve...Korvaak?
+I serve...Kymon?
+Step away from the statue.
+Inspect the statue.
+*A voice fills your head*{^n}{^n}Flat as an autumn leaf, round as a wedding ring; Has two eyes, yet cannot see a thing.
+A Blade?
+A Button?
+A Wheel?
+Step away from the statue.
+Inspect the statue.
+*A voice fills your head*{^n}{^n}It has no hinges, no key, not even a lid; yet inside a golden treasure is hid.
+A Jewelry Box?
+An Egg?
+A Ritual Orb?
+Step away from the statue.
+Inspect the statue.
+*A voice fills your head*{^n}{^n}It cries without voice...flutters without wings...bites yet has no teeth...mutters and yet is mouthless...
+A Curse?
+A Spirit?
+The Wind?
+Step away from the statue.
+This strange statue stands out among the rest of the ruins, but you are unaware of its purpose.
+Step away from the statue.

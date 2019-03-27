@@ -1,0 +1,19 @@
+The Eldritch Sun
+In Service of Bysmiel
+Serving Bysmiel
+You met with Byscilla, Matron of Rifts, and chose to pledge your loyalty to Bysmiel.{^n}{^n}She requested that you speak with Alain in the Bysmiel camp and assist in preparing for the coming battle.
+Assist the Bysmiel Cult
+
+Return To Byscilla
+You have finished helping Alain in her battle preparations.{^n}{^n}Byscilla awaits your arrival at the Vanguard of the Three, a forward camp set up by the cults just beyond the Sunbane Oasis, through the Howling Chasm.
+Speak to Byscilla at the Vanguard of the Three
+
+
+
+
+
+
+
+
+
+

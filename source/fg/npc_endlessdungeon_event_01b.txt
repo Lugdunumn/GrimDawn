@@ -1,0 +1,11 @@
+Mazaan, Keeper of Portals
+The Shattered Realm awaits.{^n}{^n}Tarry not, for the portal is as unstable as the pocket reality beyond.
+This realm is beyond my abilities.
+Are you certain of this?{^n}{^n}I can close the portal and you could begin your journey anew, but any wealth therein would be forfeit.
+Yes, close the portal. (Reset Shattered Realm)
+Nevermind.
+What can I expect beyond?
+Honestly, I cannot say. The Shattered Realm is a reflection of our own, but it is...splintered...distorted.{^n}{^n}You may witness things that seem all too familiar and yet not.
+I see.
+I'm going inside now.
+I need some time to prepare.

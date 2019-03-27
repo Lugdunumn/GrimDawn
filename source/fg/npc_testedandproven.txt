@@ -1,0 +1,37 @@
+Kanatha, Mistress of the Sentinels
+The screams we heard from the temple were glorious, simply glorious!{^n}{^n}My sentinels will scour this land of the heretics until what was once forgotten is once more...forgotten.{^n}{^n}As the Three will it.
+Good luck with the hunt.
+Farewell.
+My sentinels are ready.{^n}{^n}Let the blood of our enemies flow and the fires in their heretic hearts be quenched upon our blades!
+Farewell.
+The Emissary was right, as usual.{^n}{^n}You have earned the right to stand among us in the real trials to come.
+What is your role here?
+By the blessing of the Covenant, I am the Mistress of the Sentinels.{^n}{^n}Those sworn to guard the interests of the Three and the survival of our people answer to me.{^n}{^n}They swear their oaths to the gods, and to me, just as you have made an unbreakable oath that guides your existence.
+
+Goodbye.
+By the blessing of the Covenant, I am the Mistress of the Sentinels.{^n}{^n}Those sworn to guard the interests of the Three and the survival of our people answer to me.{^n}{^n}They swear their oaths to the gods, and to me.
+What trials await us?
+Goodbye.
+And what trials are those?
+Our battle against the fiery fury boiling beneath the sands, of course.{^n}{^n}A forgotten god stirs, an ancient enemy of mankind threatens to destroy us all.{^n}{^n}We must rise to face this threat before all is lost.
+
+I see.
+Of course I did.
+Farewell.
+Don't stray too far now.{^n}{^n}Know your place or I'll have you get acquainted with my sentinels.
+Alright.
+The Emissary warned me of your coming.{^n}{^n}But whether you may remain here is not a matter of his choosing.{^n}{^n}I will decide who stays...and who dies.{^n}{^n}Are you prepared to face the trials?
+Let's get this over with. (Begin Eldritch Trials)
+I'm not ready yet.
+What are these trials?
+Save your questions for the scholars.{^n}{^n}If you are to survive out here, then you must be tested against the terrors of the Eldritch Realm.{^n}{^n}Are you prepared to begin or not?
+I'm ready. (Begin Eldritch Trials)
+I'm not ready yet.
+
+What is your role here?
+Right now, my role here is to determine whether you are worth the risks of bringing into our fold.{^n}{^n}Now are you ready to begin or not?
+I'm ready. (Begin Eldritch Trials)
+I'm not ready yet.
+
+Don't stray too far now.{^n}{^n}Speak to the Emissary or I'll be certain you get acquainted with my sentinels.
+Alright.

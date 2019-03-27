@@ -1,0 +1,62 @@
+Alica
+I've no desire to speak with you again.
+Ok,
+Whatever, lady.
+I'm honored that you chose me as a sacrifice. I saw it as an opportunity to show the depth of my loyalty to Solael.{^n}{^n}But it seems it was not to be.
+Sorry about that.
+Thank you for sparing my life, friend.{^n}{^n}To be honest, it is a bit of a mixed blessing. I would gladly have given my life if that is what Solael demanded.{^n}{^n}But he must have spared me for a purpose. Now it is up to me to discover that purpose and live what remains of my life as he intends.{^n}{^n}Let me know if there's anything I can do for you.
+I will.
+Good luck.
+Hello, is there something I might help you with?
+Sagon has ordered a sacrifice.
+Indeed, he has. {^n}{^n}Am I to be chosen for this noble end?{^n}{^n}I would gladly give my life in service of Solael.{^n}{^n}Without the Three, I would have lived a life without purpose.{^n}{^n}The least I can do is give what remains of mine to honor the will of Solael.
+Prepare yourself. (Attack)
+No, not you.
+
+
+Another time, perhaps.
+Die in the name of Solael! (Attack)
+Are you lost, inquisitor?{^n}{^n}How is it that a member of the Luminari finds [[ms]himself[fs]herself] at the center of the worship they so desperately  sought to erase?{^n}{^n}{^n}
+The Emissary summoned me.
+Then this is where you belong, for reasons I'm sure we'll all discover.{^n}{^n}The emissary does not make mistakes, his actions speak for the Three.{^n}{^n}A word of caution though: there are many here who will not appreciate your presence.
+Why is that?
+For generations, the Luminari hunted our kind, stole our artifacts, and experimented on us for their own gain. All in the name of defending the empire.{^n}{^n}That time has long since passed and there are far greater threats to the empire than the few of us who remain.{^n}{^n}But there are many here who suffered at the hands of the Luminari and they are slow to forgive.{^n}{^n}Just tread lightly.{^n}{^n}Now, is there anything else I might help you with?
+
+
+No, thank you for the advice.
+Don't worry about me.
+I'll keep that in mind.
+Too bad for them.
+Sorry to bother you.
+None of your business.
+Hello there [[ms]brother[fs]sister]. {^n}{^n}You look lost. Is there something I can help you with?{^n}{^n}Perhaps you have some questions I might answer?
+
+
+No thank you.
+Hi there.{^n}{^n}You look lost. Is there something I can help you with?
+Who is the Emissary?
+Well now, that is a good question.{^n}{^n}The Emissary has been in service of the Three for a very long time. Some say since the beginning, which would make him hundreds of years old.{^n}{^n}I don't know how much truth there is to that, but there is no doubt he has been one of their most fervent servants.{^n}{^n}He goes where the Three will not, recruiting talented individuals in their name or scouring them from existence should their refusal be perceived as a threat to the gods. I suspect many here were once recruited by him, including yours truly.
+You were recruited by the Emissary?
+Yes, I certainly was. {^n}{^n}It's not the happiest of tales, but all worked out in the end, I suppose.{^n}{^n}I was 14 at the time. My parents had fallen ill to a pox that claimed countless lives across the countryside.{^n}{^n}Things...were not looking good and we were running out of money. The little bit of medicine I could afford was quickly running out. One day, while I was out in the market trying to scrounge some coin for the meager goods we had, I began hearing voices, but they did not originate from anyone nearby. Only I could hear them.{^n}{^n}They told me things, things I thought impossible. At first, I was rightfully scared and didn't know what to make of it. I thought I was going mad. But in them was wisdom, I just didn't know it at the time.{^n}{^n}It wasn't long before my mother succumbed to the pox. I had to bury her myself as father was still too weak. As tears streamed down my cheeks, I vowed to not let that happen again.{^n}{^n}I listened to the voices and through them learned tricks beyond mortal limits. I...hurt some people, but I was able to earn enough money for food and for father's medicine.{^n}{^n}The day father got out of bed for the first time in weeks, a stranger came to me on the road. A hood cloaked his features, and he introduced himself only as the Emissary. He told me that the voices I was hearing were not of my own failing sanity, but instead they were a gift.{^n}{^n}He told me that I was right to listen, but now the time had come to pay for my gifts. Father's life in exchange for my service. He said that I should keep listening to the voices, to follow them wherever they lead, but I will never see my father again. To deny them was to deny the call of a god.{^n}{^n}I felt that I had no choice. I wrote father a note and left in the middle of the night. The Emissary was not wrong. The voices led me to Stonereach, a coven of witches in the service of the Three. There I honed my powers and embraced my calling.{^n}{^n}I do not know what happened to father, but given what's happened across Cairn, I can only imagine; and I can only imagine I'd have shared his fate if I didn't leave.
+
+That's...quite a story.
+I'm sorry to hear that.
+Thanks for the information.
+Interesting.
+What is this place?
+This is a gathering of those faithful to the Three. A convergence of powers this world has not yet seen.{^n}{^n}All of us were called here, much like you were.
+The Three?
+Are you really that out of your element?{^n}{^n}The Three...the Witch Gods...Bysmiel, Dreeg and Solael.{^n}{^n}The very reasons why we stand here this day.{^n}{^n}We are, all of us, bound to their will. To serve them is to have purpose.{^n}{^n}And now you have been called into their service as well.
+
+
+Thank you for your help.
+That's great. See you later.
+What are we doing here?
+Each of us has our role to play, but all of us are here because the Three demanded it.{^n}{^n}A forgotten threat rises to the north, one that may consume this land if we falter or delay.{^n}{^n}There are some in this camp who are skeptical of this, but they are fools to question the gods.{^n}{^n}The threat is real as we will all know it soon enough.
+
+Who are the Three?
+Ok, I'll keep that in mind.
+Farewell.
+Thanks for the information.
+I'm fine, but thanks.
+I was just leaving.

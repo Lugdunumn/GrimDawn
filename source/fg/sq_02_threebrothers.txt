@@ -1,0 +1,34 @@
+Korvan Basin
+Tomb Brothers
+Find The Missing Brothers
+You spoke with Anorak from the Bysmiel camp. It appears he and his brothers are tomb raiders of a sort, working together to recover, or to be honest steal, ancient artifacts from the countless temples and tombs scattered across the Korvan Basin.{^n}{^n}On their last outing, Anorak got separated from his brothers, Aaral and Anderan, and he was unable to find them before it got dark. He has not heard from either since and he's afraid to leave the camp in case they return or try to contact him.{^n}{^n}Anorak asked you to seek them out at their last known location, near the Cairan Docks, north of the Korvan Plateau.
+Find Anorak's brothers
+
+
+
+Find Brother Anderan
+You found Anorak's brother Aaral, but he was alone. It appears the two borhters had uncovered something in the Sandblown Ruins below the Cairan Docks, but something went terribly wrong.{^n}{^n}Aaral panicked and ran back to the surface, leaving Anderan behind.{^n}{^n}Aaral now fears the worst, but he's too much of a coward to return to the ruins.{^n}{^n}Enter the Sandblown Ruins and search for Anderan.
+Learn Anderan's fate
+
+Brother Anderan Ghost
+You found a body within the Sandblown Ruins beneath the Cairan Docks which you suspect is Anderan.{^n}{^n}However, when you inspected the body, a spectral form materialized. It appears Anderan's spirit is still bound to the mortal plane.
+
+Speak with Anderan's spirit
+
+Release Brother Anderan
+You spoke with Anderan's ghost. Apparently he had been killed by a rockslide while trying to follow Aaral out of the temple.{^n}{^n}However, more sinister things are afoot than an unfortunate accident. Anderan is bound to the physical realm due to a ritual deep within the temple ruins. He believes some kind of necromancer is at work here.{^n}{^n}If Anderan is to be freed, whatever is binding him here needs to be stopped. Explore deeper inside the Sandblown Ruins beneath the Cairan Docks, find the source of the spell binding Anderan and set him free.
+Find a way to release Anderan's spirit
+
+Return to Brother Anorak
+A mad priest was performing necromantic rituals within the ruins, but you eliminated him.{^n}{^n}Return to Anorak and Aaral back at the Conclave of the Three and inform them of Anderan's fate.
+
+
+Return to Anorak at the Conclave of the Three
+
+
+
+
+
+
+
+

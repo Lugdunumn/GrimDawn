@@ -1,0 +1,86 @@
+Draellus, Oracle of Dreeg
+Your fate was written upon the noose.{^n}{^n}You merely play the part you must.
+Um, I see.
+An unraveling of fates, a chance meeting beyond our appointed hour.{^n}{^n}We have nothing to say to each other now.
+Um, alright.
+You stand here, so certain, yet uncertainty surrounds you.{^n}{^n}Your fate was written upon the noose. You merely play the part you must.
+I...see.
+It is as it was meant to be. You will play your part, like a fiddle with but one note to play.{^n}{^n}Balance shall be maintained.
+Um, what do I need to do again?
+Our foe awaits his final fate within the Tomb of the Eldritch Sun.{^n}{^n}The destiny of our enemies is already written. Send forth our forces and play their strings.
+
+
+Alright.
+Why is this god such a threat exactly?
+This barren land is witness to the decimation of his anguished cries.{^n}{^n}Should he stir once more, untold destruction awaits. I have seen it. Dreeg has seen it.{^n}{^n}Now you must see that it is not seen by all.
+
+
+Fair enough.
+What of the Witch Gods? We could use their aid.
+You would tell the Great Guardian where his infinite gaze is needed?{^n}{^n}He has seen all the possible futures. The path he has wrought for us is the only one that matters. The only one that will bring balance.
+
+
+Fair enough.
+I've misplaced the sigil.
+*The sigil appears over Draellus' extended hand*{^n}{^n}It was to be expected.
+Thank you.
+Um, sure.
+Farewell.
+The preordained hour is upon us, nothing more remains but to bring our wrath to the cinder gates.
+What is the plan?
+The primordial foe of our collective existence stirs within the Tomb of the Eldritch Sun. See to it that he sees no more dawns.{^n}{^n}The combined forces of the Witch Gods are at your disposal, with my servants ready to throw their fates at your feet. They will set forth when you are ready and our foes shall become a choir of misery as we lay waste to their numbers.{^n}{^n}Travel far north, beyond the Infernal Wastes and into the remains of Korvan City. There the tomb still stands. Within it, lies the secret chamber that will take you to realms beyond.{^n}{^n}Take this sigil. It will open the way to the future I have decreed. Now hurry!
+I'm ready to lead the assault.
+I need time to prepare.
+What about you?
+The...Great Eye...seeks a different purpose for me.{^n}{^n}Vengeance shall not be dealt by my hand but yours. Such is our fate.
+Alright, I'm ready to lead the assault.
+I need time to prepare.
+
+
+What was the plan again?
+Why is this god such a threat exactly?
+This barren land is witness to the decimation of his anguished cries.{^n}{^n}Should he stir once more, untold destruction awaits. I have seen it. Dreeg has seen it.{^n}{^n}Now you must see that it is not seen by all.
+Alright, I'm ready to lead the assault.
+I need time to prepare.
+
+
+What was the plan again?
+What of the Witch Gods? We could use their aid.
+You would tell the Great Guardian where his infinite gaze is needed?{^n}{^n}He has seen all the possible futures. The path he has wrought for us is the only one that matters. The only one that will bring balance.
+Alright, I'm ready to lead the assault.
+I need time to prepare.
+
+
+What was the plan again?
+We'll speak of this soon.
+The camp grows silent as the maddening whispers have stopped. You were successful.
+Um, yes.
+
+Do not waste time when time is already wasted.{^n}{^n}Enter the rift and shatter the lies.
+What do I need to do again?
+The rift is open before you. Enter it and witness a future of lies made by the forgotten one to fragment our unity.{^n}{^n}Dismantle his fabrications so that the minds of the Great Guardian's followers are made clear.
+Alright.
+I'm working on it.
+The eldritch sun soon dawns, and we shall meet it on the fields of carnage.{^n}{^n}One task remained, but I see the Great Eye has already passed judgment through you and the false vision of our future has been shattered.{^n}{^n}Nothing divides our fates any longer. We must destroy the Eldritch Sun.
+When do we depart?
+
+I'll be right back.
+Your actions shape all futures this day, and now but one task remains before we can put an end to the timeless.
+What is left to do?
+A dark future boils within the strands, one that carries no meaning. These are machinations of the forgotten one, no doubt.{^n}{^n}This vision is a lie, a manifestation of fears within the cult made to divide us at a critical hour.{^n}{^n}I shall open a rift into this vision and you will shatter its delicate fallacies so that all who serve the Great Guardian see them for what they are, fiction.
+I will do as you ask.
+That's getting too weird even for me.
+The preparations are complete. Kira's duties are finished.{^n}{^n}The Eldritch Sun soon dawns, and we shall meet it on the fields of carnage.{^n}{^n}
+What is left to do?
+One task remained, but I see the Great Eye has already passed judgment through you and the false vision of our future has been shattered.{^n}{^n}Nothing divides our fates any longer. We must destroy the Eldritch Sun.
+When do we depart?
+Depart? Soon, soon indeed.{^n}{^n}All the pieces are in place, the line in the sand is gone.{^n}{^n}Today, we make our inevitable victory known.
+What is the plan?
+
+I'll be right back.
+The preparations are complete. Kira's duties are finished.{^n}{^n}The Eldritch Sun soon dawns, and we shall meet it on the fields of carnage.{^n}{^n}But one more task remains before we can put an end to the timeless.
+What is left to do?
+
+I'll be right back.
+You stand here, so certain, yet uncertainty surrounds you.{^n}{^n}Your fate was written upon the noose. You merely play the part you must.
+I...see.

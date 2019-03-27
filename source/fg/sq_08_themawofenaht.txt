@@ -1,0 +1,24 @@
+Korvan Basin
+The Maw of Enaht
+Return to Carmac
+You found a gaping maw full of tentacles and teeth protruding from the desert east of the Korvan Sands.{^n}{^n}This could be of interest to Carmac, back at the Conclave of the Three.{^n}{^n}Let him know of your discovery.
+
+Return to Carmac at the Conclave of the Three
+
+
+
+
+
+
+
+Return to the Bysmiel Camp
+You found a gaping maw full of tentacles and teeth protruding from the desert east of the Korvan Sands.{^n}{^n}This could be of interest to someone back at the Conclave of the Three.{^n}{^n}Report back on your discovery.
+
+Notify the Conclave of the Three of your discovery
+
+
+
+
+
+
+

@@ -1,0 +1,63 @@
+Vikon ~ Oathkeeper of Solael
+Please do not distract me from my task.
+Sorry, I'll be going.
+Excuse me.
+When you chose me as a sacrifice, I figured we'd end it with bloody battle.{^n}{^n}But here we are.
+Perhaps it was not meant to be.
+Stick to your duties.
+I regret that we did not have the opportunity to face each other in ritual combat.{^n}{^n}I would have enjoyed giving my life or taking yours in the name of Solael.{^n}{^n}It would have been a grand show, no matter the outcome.{^n}{^n}But if it is my fate to live in the service of Solael, so be it.
+We can still duel.
+Hah, do not tempt me!{^n}{^n}No, I must maintain my post.{^n}{^n}Partaking in ritual combat without command to do so would be an offense to Solael and a disgrace to my title.
+Very well.
+That's too bad.
+Farewell.
+So there is to be a ritual of sacrifice.{^n}{^n}If I am under consideration then truly I have failed Sagon in my duties. But if offering myself before Solael is to be my final act of service, so be it.{^n}{^n}Shall we begin?
+You want to die?
+I wish only to serve Solael, whatever it takes.{^n}{^n}But I also relish the thought of you and I fighting to the death. It will be quite a bloody show and I am eager for a good fight.{^n}{^n}You may be surprised who it is that ends up giving their life in honor of Solael.
+Let's find out. (Attack)
+No, I don't think so.
+No, it will not be you.
+Ah, you're the one they've been talking about.{^n}{^n}Worked with Kymon and his band of merry fanatics, back in Homestead.{^n}{^n}I'll tell you what, if it weren't for what you've done since I'd end your life where you stand.
+Excuse me?
+You heard me. {^n}{^n}I don't know why they've allowed you into this camp, but I assure you, I'll be looking for a good reason to remove you from the land of the living.
+And why's that?
+You see all of this here? {^n}{^n}All of these people? They're gathered here because that foolish maniac Father Kymon has been meddling with powers he can't control.{^n}{^n}Something you helped him do, whether you realize or not.{^n}{^n}If it were up to me you'd be cut down just for setting foot in this camp.
+I'd love to see you try.
+Good thing it's not up to you.
+Welcome, Oathkeeper. {^n}{^n}I am truly glad that you have joined us my [[ms]brother[fs]sister].{^n}{^n}Is there anything I can help you with?
+What are you doing here?
+I am guarding my post. I am, always, guarding my post.{^n}{^n}As an Oathkeeper of Solael, it is my life sworn duty to defend Sagon.{^n}{^n}Though, I can see that your calling is quite a bit different than my own.{^n}{^n}Yet the Three have called you here to aid in their endeavor. So they must have a great deal of faith in you.
+Who is Sagon?
+That, my friend, is a question I am ill-prepared to answer.{^n}{^n}I have served as a guardian to Sagon since I was old enough to hold a shield.{^n}{^n}But most of that time was not spent at his side. No, most of it was spent guarding ancient sites of worship or covens in service to Solael.{^n}{^n}I go where Sagon wills me to go and I don't ask questions. Such is my duty.{^n}{^n}Though, between you and I, I desperately crave a good fight.{^n}{^n}It has been far too long since I spilled the blood of a worthy foe.
+
+Hope you find one a worthy one soon then.
+Too bad for you.
+Farewell.
+What is this place?
+You are standing in the Conclave of the Three, a sacred gathering of the servants of the Witch Gods.
+Why is everyone here?
+I only know what Sagon wishes me to know.{^n}{^n}It appears a mad zealot named Father Kymon is heralding the return of a mighty foe that has even the gods concerned.{^n}{^n}He's uncovered something terrible out there in the desert. It must be pretty bad as up til now we thought him as little more than a crazy fool; and now we are all gathered here in numbers never seen before.{^n}{^n}But it is not my place to question our purpose here. I live to serve Sagon.{^n}{^n}May the Three be with you, [[ms]brother[fs]sister].
+
+Thank you, brother.
+And with you.
+One step closer and I'll take your life, inquisitor.
+Excuse me?
+You heard me. {^n}{^n}I don't know why they've allowed you into this camp, but I assure you, I'll be looking for a good reason to remove you from the land of the living.
+Why such hostility?
+An inquisitor asks a servant of Solael why the hostility...this is precious.{^n}{^n}Did you hit your head on the way here, inquisitor?{^n}{^n}Just stay out of my way before things get ugly.
+Alright, I'm going.
+There's no need for that.
+Good luck.
+Please do not distract me from my task.
+What are you doing here?
+I am an Oathkeeper of Solael. I am the sword, and the shield, I am righteous wrath.{^n}{^n}It is my sworn duty to defend brother Sagon and I will do so with my life, and yours if need be.
+Wow, that's a mouthful.
+Watch yourself, stranger.{^n}{^n}I make no threats, keep your distance and we shall have no quarrel.
+And if I don't?
+Then I will strike you down where you stand.{^n}{^n}But now is not the time for such ignorance. I'm sure you know this.{^n}{^n}You are an ally of the Three, are you not?{^n}{^n}Now please leave me to my duty.
+Keep up the good work.
+Perhaps another time.
+Keep up the good work.
+Well, excuse me.
+Sorry, I'll be going.
+Excuse me.

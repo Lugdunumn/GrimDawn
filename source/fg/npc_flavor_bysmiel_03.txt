@@ -1,0 +1,58 @@
+Sentinel Thorgil
+It seems I may have misjudged you, inquisitor.{^n}{^n}In spite of your vile choice of profession, you have done a great deed for the Three.{^n}{^n}That is a thing to be commended, despite your poor life choices.
+I didn't do it for the Witch Gods.
+Yes, I suppose you didn't set out with that intention. I suppose you did all this for Cairn, or in the interest of your own survival.{^n}{^n}But in the end, we all serve the Three.
+Whatever.
+You're welcome.
+I can sense it, the task is finished.{^n}{^n}The forgotten god is banished to the darkness of the abyss.{^n}{^n}This is a great time, my friend. I can feel the change in the energy flowing through this place.{^n}{^n}Be well and may the Three be ever at your side.
+Thank you.
+Be well.
+The command has been given. The assault on the temple is underway.{^n}{^n}We draw close to the final hour. An opportunity to correct one's mistakes, to choose the right side once and for all.{^n}{^n}Be strong out there. Do not falter.{^n}{^n}The Three will be with you.
+
+We'll see.
+I'll be on my way.
+The command has been given. The assault on the temple is underway.{^n}{^n}It seems we draw close to the final hour.{^n}{^n}Be strong out there. Do not falter.{^n}{^n}The Three will be with you.
+I'll see you out there.
+What me? You most certainly will not.{^n}{^n}Though. I'd relish a good fight. It's been far too long.{^n}{^n}I have pledged my life to defend Bysmiel's interests and for now that means standing guard in this camp. Far from the real fight.{^n}{^n}As much a waste as that may be, I will not falter in my duty.
+Carry on then.
+That's a shame.
+And you.
+I'll be on my way.
+You have chosen wisely stranger.{^n}{^n}This may be a grand opportunity to right the ills you caused in Homestead.{^n}{^n}Help Bysmiel smash the Forgotten God and lay wasted to his feeble minions and perhaps redemption will be yours.{^n}{^n}I do hope you are prepared for a fight, there are many battles ahead of us.
+Ills I caused?
+Word of your deeds precedes you. {^n}{^n}There are many here in this camp who speak of your...cooperation with the enemy back in Homestead.{^n}{^n}Given your deeds since, I suppose I should give you the benefit of the doubt.{^n}{^n}But you must help us as we lay waste to the Forgotten God and all of those foolish enough to follow him.
+That's what I'm here for.
+I'll do what needs to be done.
+
+I don't have time for this.
+I have nothing to prove.
+You have chosen wisely stranger.{^n}{^n}It will be good to have someone like you at our side.{^n}{^n}Together, we will smash the Forgotten God and lay waste to his feeble minions.{^n}{^n}I do hope you are prepared for a fight, there are many battles ahead of us.
+
+
+I see you've made your choice.{^n}{^n}You may have chosen poorly but none the less it's good to have someone like you fighting for the Three.{^n}{^n}There are many battles ahead of us.
+Someone like me?
+Yes, of course. Your reputation precedes you.{^n}{^n}The Three are always watching.
+
+I suppose that's good to know.
+That's creepy.
+Battles ahead of us?
+Of course battles...what is it you think we're doing here?{^n}{^n}This isn't some ramshackle band of farmers hoping to survive the end of the world.{^n}{^n}We came here to fight, to put down the Forgotten God and his pitiful minions once and for all.{^n}{^n}I do hope you're prepared to fight.
+
+I'm ready.
+I need to leave now.
+I heard about the antics you pulled with Kymon's Chosen back in Homestead.{^n}{^n}Don't be thinking such foolishness will go unnoticed around here.{^n}{^n}I'll be keeping an eye on you.
+Antics? Are you my mother or what?
+Don't play coy with me. You know what I'm talking about.
+Yes, mother.
+Yeah, alright.
+Duly noted.
+I'm not here to cause trouble.
+I have no desire to speak with someone like you.
+Someone like me?
+Yes, inquisitor.{^n}{^n}I have drawn the blood of your brethren countless times.{^n}{^n}Don't test my patience.
+I'd love to see you try.
+I'm leaving.
+Well alright then.
+I'm a bit busy right now.
+Sorry to bother you.
+I'll be on my way.

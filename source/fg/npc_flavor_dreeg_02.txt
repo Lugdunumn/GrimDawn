@@ -1,0 +1,84 @@
+Riggs
+Back again?{^n}{^n}You know I think you've had enough. I don't mind people being in my debt, as I'm sure you know. {^n}{^n}But you already owe me...twice!{^n}{^n}Don't forget I'm gonna come collecting on these debts some day. {^n}{^n}I do hope you're prepared.
+I will be.
+We'll see about that.
+Welcome back, my friend.
+Got anything new for me?
+Ya know, I think I do.{^n}{^n}You're really gonna be in my debt now.{^n}{^n}You ready to make another deal?{^n}
+Lets do it.
+That's what I like to hear.{^n}{^n}This is what I've got.{^n}{^n}Now remember I'm gonna be coming around to collect on this some day and I do hope you're ready to pay up.
+I will be.
+Yeah, we'll see.
+I don't think so.
+Maybe later.
+Sorry to bother you.
+Welcome back, my friend.
+Got anything new for me?
+Nothing you'd be interested in.{^n}{^n}Come back and see me again when ya got a little more...experience under your belt.{^n}{^n}I'm sure we can work something out then.
+I'll be back.
+That's just great.
+Back so soon?
+Got anything new for me?
+Hahah, you just can't get enough can you?{^n}{^n}Sadly, I don't have anything new for you just yet.{^n}{^n}Come back later and we'll see if we can work something out.
+I'll be back.
+Well look who it is. {^n}{^n}You having second thoughts?{^n}{^n}Ready to make a deal? {^n}
+Yes, I'm ready.
+That's what I like to hear.{^n}{^n}You remember how this works right? {^n}{^n}I give you the goods and then you owe me.
+Yup. 
+Well then, here you go.{^n}{^n}I'll tell ya what. If you come back sometime later I might even have something else for ya.{^n}{^n}At the right price of course.
+I'll be back.
+Of course.
+I've changed my mind.
+What kind of deal?
+Like I told you before. I trade goods for favors.{^n}{^n}I give you the goods and you're in my debt. At some point I come find you and you repay your debt by helping me.{^n}{^n}It's that simple.
+
+Nope, I'm not interested.
+No, I'm not.
+Certainly not with you.
+Well, I see you've made your decision.{^n}{^n}Choosing to pledge your loyalty to the Witch Gods.{^n}{^n}I hear they take that kind of thing very seriously around here.
+
+I need to go.
+So I've heard.
+Decisions, decisions...{^n}{^n}Seems the Emissary has left you with a bit of a choice to make, friend.{^n}{^n}Which will it be?{^n}{^n}Bysmiel and her web of spies, Dreeg with his fancy visions, or maybe Solael with the ritual sacrifice?{^n}{^n}That last one sounds like a winner to me.
+Which do you serve?
+What, me?{^n}{^n}I certainly don't serve any of them.{^n}{^n}I serve the god of making Riggs a wealthy man.
+Then what are you doing here?
+Well, I'm what you might call a supplier...a purveyor of particular goods, if you will.{^n}{^n}I have a special talent for finding high-end and difficult to acquire objects.{^n}{^n}Things this crew here can't seem to get enough of. Particularly since they set out on their little crusade here.{^n}{^n}Something about a long forgotten god and the end of the world or some such. Sounds like business as usual to me.{^n}{^n}A wise man once said: "where there's a fight there's a fortune to be made."
+Who said that?
+Me, ya fool.{^n}{^n}I just said that.{^n}{^n}It was a joke you see?
+So, you're a merchant?
+OK, I'm leaving now.
+Great, I don't have time for this.
+You're a merchant?
+Well, that's an over-simplification.{^n}{^n}You see those other trash peddlers down there? They've got it all wrong.{^n}{^n}Selling goods for iron bits is a child's game. A man isn't going to get rich playing games.{^n}{^n}No, my friend, I trade only the finest goods...for favors.{^n}{^n}Favors from very powerful people. Favors that I'll be cashing in when I see fit.
+So you just give them things?
+No...I don't think you're listening to what I'm saying here.{^n}{^n}I give them things in exchange for favors. They're in my debt. They owe me, you see?{^n}{^n}There's people all across this land that owe me. From emperors to dung sifters. The living, the dead, it makes no difference. {^n}{^n}They're in my debt and when I need it most, I'm going to come calling.{^n}{^n}That's wealth right there.
+How do you make them pay you?
+Ah, that's the genius of it right there.{^n}{^n}So many people across this land are in my debt, you never know who they might be or what they might be capable of.{^n}{^n}Say I make a deal with a wealthy merchant. Then later on when I come to collect my debt, he doesn't feel like paying.{^n}{^n}I pleasantly remind him that there's a lot of other folks looking to make good on their debts. And then leave him to think about who else might owe me and what they might be willing to do to pay up.{^n}{^n}That usually works. If it doesn't, I just get one of my other debtors to come and tune him up a bit.{^n}{^n}Sometimes you need to send a message to anyone else who might be thinking about defaulting on their debt.{^n}{^n}But, most folks are glad to pay up when it comes time. It's a relief of a sort.
+
+I don't want any part of this.
+Sounds like a racket to me.
+You have anything for me?
+See, now you're getting it.{^n}{^n}That's what I'm talking about, [[ms]he[fs]she] wants to make a deal.{^n}{^n}Let me think for a second...{^n}{^n}Yes, come to think of it I do have something for you.{^n}{^n}You know what this means of course? You're going to owe me and some day I'm going to come to collect.{^n}{^n}Do we have a deal?
+Yes, lets do this. 
+Well, here you go.{^n}{^n}I'll tell you what. If you come back sometime later I might even have something else for you.{^n}{^n}At the right price, of course.
+Of course.
+I'll be back.
+On second thought. I'm out.
+Well, that's a shame, my friend. {^n}{^n}You come back and see me if you change your mind.
+I will.
+I don't think so.
+Nope, no deal.
+Enjoy your wealth.
+Yup, I've heard enough.
+I need to go. We'll talk again later.
+Good luck with that.
+Well, thanks for the wisdom.
+I've heard enough.
+Good for you.
+That's great.
+Sorry, I can't chat right now.
+It's really none of your business.
+Hey there traveler.{^n}{^n}Come back and chat with me when you're done with the Emissary. {^n}{^n}Wouldn't want him coming after me for meddling in his business.
+I will.
+Talk to you later.

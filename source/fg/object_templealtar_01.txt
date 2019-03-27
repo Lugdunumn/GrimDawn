@@ -1,0 +1,11 @@
+Altar of Ateph
+The altar awaits another.
+Step away from the altar.
+The altar's guardians are dead.{^n}{^n}It is primed for a ritual, but requires a key.
+Use the Gargan Key upon the altar.
+Step away from the altar.
+Step away from the altar.
+The altar is guarded by powerful beings.{^n}{^n}A ritual cannot be performed with them alive.
+Step away from the altar.
+The altar is brimming with power. The veil between realities is thin here.{^n}{^n}If only you had the means to harness its potential.
+Step away from the altar.

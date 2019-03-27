@@ -1,5 +1,5 @@
 #Loading Tips
-tagLoadingTip01={^g}Tip: {^w}You can filter loot by Quality (Magic+, Rare+, etc.) using the Loot Filter button on the left end of the HUD.
+tagLoadingTip01={^g}Tip: {^w}You can access powerful Loot Filters using the Loot Filter button on the left end of the HUD.
 tagLoadingTip02={^g}Tip: {^w}If you find a Devotion Shrine you cannot restore yet, its location will be marked on the World Map.
 tagLoadingTip03={^g}Tip: {^w}You can view Tutorial Tips again at any time in the Codex Window, default hotkey: H.
 tagLoadingTip04={^g}Tip: {^w}Enemies significantly below your level do not grant Experience or Faction Reputation.
@@ -18,7 +18,7 @@ tagLoadingTip16={^g}Tip: {^w}Set items have powerful bonuses if worn together an
 tagLoadingTip17={^g}Tip: {^w}Components used on weapons grant an activated skill that you can use to complement your build.
 tagLoadingTip18={^g}Tip: {^w}Relics are special items that can only be created by a skilled Blacksmith.
 tagLoadingTip19={^g}Tip: {^w}Many Components can only be crafted. Learn new Blueprints by gaining favor with Cairn's Factions.
-tagLoadingTip20={^g}Tip: {^w}You have better chance of finding great loot on higher difficulties, but the challenge is also greater.
+tagLoadingTip20={^g}Tip: {^w}You have a better chance of finding great loot on higher difficulties, but the challenge is also greater.
 tagLoadingTip21={^g}Tip: {^w}You can rotate the camera at any time by holding down the middle mouse button. Or you can set keyboard bindings.
 
 #Tutorial Pages
@@ -238,6 +238,16 @@ tagTutorialTip61TextA=Celestial Powers are powerful auto-activated abilities whi
 tagTutorialTip61SubtitleA=Assigning a Primary Skill
 tagTutorialTip61TextB=To assign a Celestial Power, you must first unlock it in the Devotion Window, then select a valid Primary Skill from the drop-down list. You can re-assign a Celestial Power at any time without penalty. If you unassign a Celestial Power, it will retain any experience or ranks it has earned.
 
+tagTutorialTip69Title=Loot Filter
+tagTutorialTip69TextA=The Loot Filter window allows you to control what items are displayed on the ground. This powerful tool simplifies the vast variety of loot in Grim Dawn by focusing your attention on the loot your character needs most.
+tagTutorialTip69SubtitleA=Quality Filters
+tagTutorialTip69TextB=You can show or hide items based on their Quality. If a box us unchecked here, items of that quality will not appear on the ground regardless of what is checked under the other Categories. The exceptions to this rule are Monster Infrequents and Sets, as they are a subset of Rare and Epic/Legendary items, respectively, and are used only if you wish to fine-tune your filter further.{^n}{^n}By default, all options are checked in this section.
+tagTutorialTip69SubtitleB=Type Filters
+tagTutorialTip69TextC=You can show or hide items based on their Equipment Slot. If a box is unchecked here, items of that type will not appear on the ground regardless of what is checked in the Damage and Character Categories.{^n}{^n}By default, all options are checked in this section.
+tagTutorialTip69SubtitleC=Damage and Character Filters
+tagTutorialTip69TextD=You can show or hide items based on their attributes. If any boxes are checked under these Categories, only items that meet at least one of these filters will appear on the ground.{^n}{^n}By default, all options are unchecked in this section.
+
+
 #Quick Tips
 
 tagQuickTipMainMenu={^z}Welcome to Grim Dawn!{^-}{^n}{^n}{^w}Tutorial Tips{^-} are currently enabled. You can disable them at any time via the options menu.{^n}{^n}{^w}Normal Difficulty{^-} is intended for less experienced ARPG players.{^n}{^n}For a more challenging experience select {^w}Veteran Difficulty{^-}.
@@ -284,3 +294,4 @@ tagQuickTip58={^z}Cleansing Shrines{^-}{^n}{^n}Shrines can be cleansed by either
 tagQuickTip59={^z}Devotion Points{^-}{^n}{^n}Devotions Points earned from cleansing shrines can be spent in the Devotion Window, accessed via the Skills Window {^x}[%t0]{^-}.
 tagQuickTip60={^z}Devotion Window{^-}{^n}{^n}The Devotion Window allows you to spend Devotion points gained by cleansing shrines. Each spent point allows you to unlock new bonuses and skills.
 tagQuickTip61={^z}Celestial Powers{^-}{^n}{^n}Assign your Celestial Power to a skill by clicking the icon in the Devotion Window and selecting a skill from the list.
+tagQuickTip69={^z}Loot Filter{^-}{^n}{^n}Use the Loot Filter to control what loot drops are displayed on the ground.

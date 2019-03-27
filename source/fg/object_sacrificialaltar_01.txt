@@ -1,0 +1,11 @@
+Sacrificial Altar
+The altar's power is spent.
+Step away from the altar.
+The surface of the altar is scorched, as if by potent magic.{^n}{^n}It may be dangerous to rouse its potential without first becoming considerably more powerful.
+Offer Celestial Essence upon the altar.
+Step away from the altar.
+Step away from the altar.
+The surface of the altar is scorched, as if by potent magic.{^n}{^n}It may be dangerous to rouse its potential.
+Offer Celestial Essence upon the altar.
+Step away from the altar.
+Step away from the altar.

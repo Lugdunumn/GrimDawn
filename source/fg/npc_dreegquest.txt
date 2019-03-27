@@ -1,0 +1,87 @@
+Kira
+The Great Eye is watching your every move.{^n}{^n}The choices you've made here have already been written.
+Um, sure.
+The visions grow silent. The raging flame's mournful screech echoes across the heavens.{^n}{^n}The Great Guardian is pleased.
+Another threat to humanity vanquished.
+The fiends of Korvaak will pay dearly for the loss of Inarah.{^n}{^n}Our eyes are many, our gaze as acid upon flesh. They cannot hide. They cannot win.{^n}{^n}We have seen their fate.
+Yes, they will pay.
+Farewell.
+The Great Guardian commands, and I serve.
+Farewell.
+The seers of Dreeg weep tears of blood.{^n}{^n}I take it Inarah's strand, and that of the Mind Reaper within, has been severed?
+The seer lies dead.
+The loss of Inarah will create a power vacuum within the folds of our collective minds that others will greedily fill, but it is as it must be.{^n}{^n}We are grateful for this. May this gift be sufficient compensation.
+Thank you.
+Farewell.
+The Mind Reaper's actions have perverted the balance.{^n}{^n}See that it dies its final death this day.
+Where is Inarah again?
+Inarah's strand lies bare before us. She was headed to the Tomb of Nephos, within the Valley of the Chosen to the west of the Ruins of Abyd.{^n}{^n}What the Mind Reaper seeks there is unknown, but it will not come to pass.{^n}{^n}Use the hexstone I had given you to dispel any protective spells Inarah may have cast. She was a favored of Dreeg and is well versed in his ways.
+I will head there immediately.
+I've misplaced the hexstone.
+To follow Inarah without the hexstone is folly.{^n}{^n}Do not lose this one.
+Thank you.
+I will deal with her soon.
+With Draellus' eye turned elsewhere, it falls upon us to dissolve the claws digging into our minds.{^n}{^n}Though the Mind Reaper lies dead, its spirit lingered.
+What happened?
+One of our honored seers had recently succumbed to illness. We knew not its nature and none of our remedies alleviated the symptoms.{^n}{^n}Hers was a disease of the mind, not of body. Ishtal had struck our ranks one final time.{^n}{^n}Inarah's mortal flesh now bears two souls, hers and that of the Mind Reaper. The loss of a seer as gifted as her would be a grave one, but we cannot allow Korvaak's fiend to endure this horrid act unharmed. We have peeled back the curtain of her tapestry and found that Inarah was headed to the Tomb of Nephos, within the Valley of the Chosen. What the Mind Reaper seeks there is clouded to us, but it must not be allowed to pass.{^n}{^n}Take this hexstone. It will ward you from Inarah's curses. She was one of Dreeg's favored and has undoubtedly covered her tracks.
+I will track down Inarah.
+Find someone else to handle this.
+I've been there. The seer lies dead.
+Then I have truly become blind.{^n}{^n}My words fail you as we had failed Inarah. Perhaps I too suffer the lingering effects of the Mind Reaper. I will spill blood this night in hopes that my sacrifice will earn me a fragment of forgiveness from our divine patron.{^n}{^n}We are grateful for this. May this gift be sufficient compensation.										
+Do not waste any more of my time.
+Thank you.
+Farewell.
+We will speak later.
+You must hurry to the Oracle.{^n}{^n}Draellus demands your presence. You will find him at the Vanguard of the Three, Northeast of the Sunbane Oasis, through the Howling Chasm.
+Farewell.
+It pains me to call for the execution of one of our own, but such is the price of our divine vision.
+The traitor is dead.
+The fool was blind to the true vision of the Great Guardian and has paid the price.{^n}{^n}Draellus has sensed the true nature of our foe, however. Soon the maddening whispers will end.
+What else does Draellus need?
+
+The Oracle has requested your presence at the forefront of our collective.{^n}{^n}Seek him out at the Vanguard of the Three, to the northeast of the Sunbane Oasis through the Howling Chasm, and he shall speak to you himself.
+Very well.
+I'll leave you to it.
+We must not let treachery fester within our ranks.{^n}{^n}Find the rot and cut it out.
+Where should I be looking?
+You must put Navan the Usurper to the blade, let her treacherous blood spill onto the infinite sands.{^n}{^n}You will find her hiding within the Sanctuary of Horran, somewhere in the Sunbane Oasis to the east of the Cairan Docks.
+She will not live for long.
+I'll deal with her soon.
+Korvaak's wounds weep in terror of our actions.{^n}{^n}We must now drive the blade deeper, deeper into the very heart of those that wish to cripple our sight.
+So another target remains?
+Indeed. Before we can dance on the divine stage, we must first conquer the hubris rotting from within.{^n}{^n}The visions of Dreeg can be as much gift as curse. Some among us have succumbed to the dreams, become consumed by the fruit of fates untold.{^n}{^n}Whenever this occurs, we sear the wound from the flesh of our collective, but an external force bound to Korvaak's will has caused these fools to rise in sickly frequency.{^n}{^n}One such as this has evaded our blade. She now claims to see the true path forward and has fled the camp before we could reach her.  But she is naive to think she can hide from the Great Eye.{^n}{^n}Go to the Sunbane Oasis, east of the Cairan Docks, and find a place called the Sanctuary of Horran. Navan the Usurper sought it for safety, but it shall become her tomb by your hand.
+I will deal with this traitor.
+Sound like cult business, not mine.
+I've already dealt with your traitor.
+What have I done, Great Guardian, to displease you so and fail our ally in reading our grand fate?{^n}{^n}That you have dealt with this stain upon our tapestry is a testament to your determination, and to my failures.{^n}{^n}But we must not let my inadequacy stand in the way of our goals. You must hurry to the Oracle. He demands your presence at our camp northeast of the Sunbane Oasis. Speak to him at the Vanguard of the Three at once.
+I will head there immediately.
+There is something else I must do first.
+We will speak later.
+The thread is spun, the weave of our destinies unfolds.{^n}{^n}You return triumphant.
+I've dealt with Korvaak's horrors, yes.
+Korvaak's wounds weep in terror of our actions.{^n}{^n}We must now drive the blade deeper, deeper into the very heart of those that wish to cripple our sight.
+So another target remains?
+
+There is something I must attend to.
+No, this is all wrong. The path has not been taken.{^n}{^n}Our victory is in grave jeopardy.
+What do I need to do again?
+Servants of the great fury known only as Korvaak, have manifested within the Korvan Basin. If our task it to succeed, we must vanquish these foes before they form the hammer to Korvaak's anvil.{^n}{^n}Travel to the Temple of Osyr to the north and hunt down Okaloth's Unchained, then proceed Northwest to the Korvan Sands and deal with the Pack Hounds of Galfang. Finally, you must venture into the Cairan Docks, north of the sands, and deal with the Guardians of Ishtal.
+I'll deal with them.
+Relax, I'll handle it.
+The skies weep blood and the earth rages beneath us. Where do we stand in this war of titans?{^n}{^n}I am to tell you of what the Great Guardian desires. Will you hear me?
+Um, so what needs to be done?
+Our seers sing guiding words. A path has revealed itself which we must follow.{^n}{^n}Visions of horrific beings, servants of the great fury known only as Korvaak, have manifested within the Korvan Basin. If our task is to succeed, we must vanquish these foes before they form the hammer of Korvaak's anvil.{^n}{^n}Travel to the Temple of Osyr to the north and hunt down Okaloth's Unchained, then proceed Northwest to the Korvan Sands and deal with the Pack Hounds of Galfang. Finally, you must venture into the Cairan Docks, north of the sands, and deal with the Guardians of Ishtal.
+I will deal with these horrors.
+I don't have time for this.
+I have already dealt with Korvaak's horrors.
+I apologize. My vision is clouded, I cannot see as far as it should. {^n}{^n}I will seek to amend this error that we not waste further time upon the ruminations of the past.
+Was there anything else?
+
+Good, you work on that.
+Does everybody worshipping Dreeg speak like this?
+If you were blessed by the kiss of destiny, you too would make peace with her silken tongue.{^n}{^n}The gift we bear is a heavy burden. Not all are fit to transcend its meanings.
+So...what needs to be done?
+Sure...let's talk later.
+Uh, let's talk later.
+The Great Guardian commands, and I serve.
+Farewell.

@@ -1,0 +1,112 @@
+Brother Elluvius
+May the Light of Empyrion guide your path.
+Farewell.
+Father Kymon speaks very highly of you, [[ms]brother[fs]sister].
+There is something you should know about Kymon.
+Do not strain yourself, [[ms]brother[fs]sister]. I've heard all the praises.
+Kymon has made a deal with a Primordial, not Empyrion.
+You speak blasphemy. I will hear no more of this nonsense.{^n}{^n}Purge your mind of such wicked ideas.
+You don't understand, I saw it with my own eyes.
+Our Prophet has brought us hope in desperate times.{^n}{^n}I will not allow you to tear his work apart. Leave me be.
+Stubborn son of a slith.
+Fine...
+I...nevermind.
+You're right. Farewell.
+Farewell.
+I hear we were successful against the wretched Order of Death's Vigil.{^n}{^n}You have proven yourself a worthy servant to Empyrions will. Even I must learn to look past your training and instead judge you by your actions.
+
+Farewell.
+I hear we were successful against the wretched Order of Death's Vigil, [[ms]brother[fs]sister].{^n}{^n}You serve Empyrion well.
+
+Farewell.
+Father Kymon has requested your presence. Do not make him wait.
+What can you tell me about Father Kymon?
+He is our prophet, the Voice of Empyrion.{^n}{^n}His guidance has brought us strength when we needed it most. He embodies hope in a world with none.
+I see. Thank you.
+Farewell.
+Rumors travel fast. Your allies are working with the vile Order.{^n}{^n}I cannot trust you with our work when you have such questionable company.
+Goodbye.
+May the Light of Empyrion guide your path.
+Goodbye.
+Have you dealt with Ravok?
+I have slain the necromancer.
+You have exceeded even the Blessed Father's expectations.{^n}{^n}He wishes to speak with you. Do not make him wait, [[ms]brother[fs]sister].
+
+I will speak to him now.
+I must rest after the ordeal.
+Have you dealt with Ravok?
+Where should I be looking?
+Master Ravok is in Fort Haron, in the northern Blood Grove.{^n}{^n}Do not fail us.
+I will go there now.
+I've barely started.
+Father Kymon is impressed with your recent actions against the Cult of Ch'thon and is willing to overlook your past transgressions.{^n}{^n}He wishes to test your commitment to our cause. This next mission will determine whether you truly are one of us or if you are lying even to yourself.{^n}{^n}Do not fail the Father's trust.
+
+I cannot right now.
+Father Kymon is impressed with your recent actions against the Cult of Ch'thon.{^n}{^n}I am to entrust you with a critical mission. Do not fail the Father's trust.
+What is the mission?
+In the northern Blood Grove, there is a stronghold known as Fort Haron. It is an old arms storage facility that could prove useful. Unsurprisingly, it has become infested with the Order's vermin.{^n}{^n}Travel to the fort and eliminate all who would oppose you. Find their leader, a Master Ravok, and make an example of her.{^n}{^n}Go forth with the confidence that Empyrion is with you, as I shall bestow a blessing upon you to guide your hand in battle.
+I will eliminate Ravok.
+Sounds like suicide.
+I have already dealt with Master Ravok.
+
+I cannot right now.
+Have you dealt with the heretic?
+Bolvar lies dead.
+Father Kymon will be pleased to learn of his demise.{^n}{^n}You are ever eager to act out his will. That's good. You will need it for what lies ahead.
+What must be done?
+
+Not interested.
+Father Kymon will be pleased to learn of his demise.{^n}{^n}You are ever eager to act out his will. That's good, because what lies ahead will determine whether you truly are one of us or if you are lying even to yourself.
+What must be done?
+Not interested.
+Have you dealt with the heretics?
+Where should I be looking?
+Bolvar the Bloodbinder has been spotted around the Blood Grove, to the north.{^n}{^n}By Kymon's will, hunt him down and act out Empyrion's vengeance.
+I will.
+Not yet.
+You have crippled the cult's rituals, but that is not enough. So long as the cult is allowed to act without fear, they shall wreak havoc upon what's left of humanity.{^n}{^n}We have tolerated their movements for too long.
+What must be done?
+Father Kymon demands that one of the cult's higher ranked members be exterminated as the vermin he is. I speak specifically of Bolvar the Bloodbinder.{^n}{^n}This individual is responsible for more sacrifices to Ch'thon than any other cultist in the area. By Kymon's will, hunt him down in the Blood Grove to the north and act out Empyrion's vengeance upon him.
+I will slay him.
+Find someone else to be your assassin.
+I have already dealt with Bolvar.
+As if guided by Empyrion Himself, you act before even asked. Father Kymon will be pleased to learn of his demise.{^n}{^n}You are ever eager to act out Kymon's will. Will you be his blade against the Order?
+
+Not interested.
+I must deal with other matters.
+Do you have the Chthonic Seals?
+Are these the Seals you seek?
+Good, without these the cult's rituals will suffer and their foul implements will burn in righteous fire.{^n}{^n}You have proven yourself, initiate. Are you prepared to fight in Kymon's name?
+What does Kymon require?
+
+Perhaps later.
+Do you have the Chthonic Seals?
+Where should I be looking?
+The Cult of Ch'thon uses the Seals for their summoning rituals. The more powerful the member, the more likely they are to carry one.{^n}{^n}Hunt down the cultists around the Blood Grove and beyond, then return to me with the Seals.
+It will be done.
+Not yet.
+If you wish to prove yourself to the Chosen of Kymon, then first I require proof of your purity of spirit.{^n}{^n}Show us that you are not aligned with the forces of the Void.
+What must I do?
+The vile Cult of Ch'thon has long been an agent of corruption and chaos within Cairn, but their activities since the Grim Dawn are reaching catastrophic levels.{^n}{^n}Even now they summon creatures from the Void using their heathen blood rituals. These rituals must be stopped at any cost. The cultists are known to use special Seals of Binding when practicing their art. Their most powerful members often carry them on their person.If you truly are interested in Father Kymon's mission, then you must recover these Seals and bring them to me so that they can be incinerated in Empyrion's fire.
+I will gather the Seals.
+Find someone else.
+Are these the seals?
+
+Empyrion's fire?
+Yes, the sacred flame of Empyrion, the Light of the World.{^n}{^n}Empyrion, the first of the gods and protector of Cairn has returned to us in our darkest hour. His will is made known to us through Father Kymon, our prophet.
+I will gather the Seals.
+Find someone else.
+
+I will return later to discuss this.
+You are the one the Legion sent?{^n}{^n}This must be some sort of joke.
+I assure you, I am the one.
+Truly this must be a test of faith from Empyrion himself.{^n}{^n}I pray for strength in this trying hour.
+Shall we speak or not then?
+You are the one the Legion sent?{^n}{^n}You are later than I've expected.
+You wanted to speak with me?
+
+A tainted soul has entered our ranks.{^n}{^n}We all pray for guidance, you should pray for forgiveness.
+Whatever you say.
+Goodbye.
+May the Light of Empyrion guide your path.
+Goodbye.

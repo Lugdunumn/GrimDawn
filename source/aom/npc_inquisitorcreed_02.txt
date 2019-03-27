@@ -1,0 +1,262 @@
+Inquisitor Creed
+Though the situation is dire, we must remain hopeful.{^n}{^n}We're counting on you.
+I...misplaced Ulgrim's Keepsake.
+You cannot be serious. How many of these do you think Ulgrim kept around? Don't answer that...{^n}{^n}Please be more careful with this one.
+Thank you. I'll be more careful.
+I...misplaced your pendant.
+I'm not sure I heard you correctly when you said you lost a precious Luminari relic that only a handful of inquisitors ever even had access to.{^n}{^n}Be more careful.
+Thank you. I'll be more careful.
+This keepsake of Ulgrim's...
+I know, it doesn't seem like much, but this is one of only a few things Ulgrim dragged around everywhere he went.{^n}{^n}It clearly had sentimental value, something the witches can use to divine his whereabouts, if he still lives...
+
+I suppose it's the best we've got.
+Why is finding Ulgrim so damn important?
+There's a lot to Ulgrim that you don't know about, that none of us know about.{^n}{^n}He seems more than human and I suspect has been walking this world for a lot longer than you and I combined. He could become a devastating weapon of the Chthonians if we allow them to corrupt his mind.{^n}{^n}Maybe there is some degree of comradery influencing my thinking but I do feel that he could become a threat if we leave him to be consumed by the madness of the void.
+Farewell.
+Farewell.
+Show me the events that transpired here again. (Play Intro)
+Even here, in our last stronghold, the enemy has found a way to wreak havoc.{^n}{^n}Nevertheless, we must stand united or face complete annihilation.
+We'll deal with it, one challenge at a time.
+Good, you're back.{^n}{^n}We have other matters to discuss immediately.
+Sure, what is it?
+I struggle to admit this, but I must abandon my efforts at opening a rift to reach Ulgrim. For all I've learned in battling the occult, I'm no Warlock. During my last attempt, I nearly lost control of the ritual when something tried to breach my portal from the other side. This is too dangerous to continue. {^n}{^n}To make matters worse, Captain Bourbon has just arrived with a girl named Amala, bearing dire news from the east. While we struggled here to stop the Chthonians from unleashing terror and madness upon the world, the Aetherials have been far from idle. Everything they had done in this region is merely a sample of what is to come if what Amala says is true.{^n}{^n}As much as it pains me to say this, our plans to rescue Ulgrim are secondary to this rising threat in the fallen city of Malmouth. The passage north from Burrwitch is quickly closing as the Aetherfire consumes everything. But perhaps we can accomplish both goals at once.
+What do you have in mind?
+You see, the Luminari have long been aware of a coven of witches hiding out to the north of Burrwitch, using the treacherous territory to deter pursuers. The witches will know the lay of the land and should be aware of any paths that remain through the Aetherfire.{^n}{^n}And...I have hopes that they will be able to do what I could not: reveal where the Loghorrean has taken Ulgrim. I would go myself, but I doubt the arrival of a high ranking inquisitor will be looked upon kindly within their circle, and I am needed in Devil's Crossing.{^n}{^n}I know that you have suffered much already in the defense of humanity, but you are the only one I can trust with this. Take my pendant and travel north from the Burrwitch Estates. A barrier of aetherfire will stand in your way, but the pendant will make short work of it.Head north through Gloomwald until you've reached the edges of Ugdenbog, where I believe the coven has made their home. You cannot arrive empty-handed or they may well burn any memory of discovering their location right out of your mind.{^n}{^n}I recommend you hunt down a creature known as Carraxus Foul, the Scourge of Ugdenbog. I imagine it has grown quite large over the years, preying on unwary travelers making their way through Gloomwald. Find the beast within its waterside lair in Gloomwald and bring its heart to the coven. I'm sure they'll find some nefarious use for it, but we must overlook that in light of our situation.{^n} {^n}Show them this keepsake of Ulgrim's and find us a way to Malmouth. We will be awaiting your signal.
+I'll head to Ugdenbog right away.
+I need some time to prepare.
+
+I'll return soon.
+Sorry, I'll be right back.
+Show me the events that transpired here again. (Play Intro)
+We have no time to rest. Humanity's survival depends upon our vigilance.{^n}{^n}We have other matters to discuss.
+How can I help?
+I'll be back.
+I heard back from Captain Bourbon.{^n}{^n}I'm pleased to hear that Warden Krieg has been dealt with. He was a despicable creature. I only wish I had been more prepared when I met him myself.
+He was a menace, but it is finished.
+Indeed, but while one matter is closed, another begins. We have no time to rest. Humanity's survival depends upon our vigilance.{^n}{^n}We have other matters to discuss.
+How can I help?
+I'll be back.
+How go your efforts in Devil's Crossing.{^n}{^n}With so few of us remaining, every settlement counts.
+What do I need to do again?
+Head back to Devil's Crossing and assist Captain Bourbon with anything he needs.{^n}{^n}We can't simply allow the Aetherials in that region to spread their influence unopposed.
+I'll be off then.
+Still much left to do.
+Good, you're back.{^n}{^n}Do you have a moment?
+Sure, what is it?
+I struggle to admit this, but I must abandon my efforts at opening a rift to reach Ulgrim. For all I've learned in battling the occult, I'm no Warlock. During my last attempt, I nearly lost control of the ritual when something tried to breach my portal from the other side. This is too dangerous to continue. {^n}{^n}To make matters worse, Captain Bourbon has just arrived with a girl named Amala, bearing dire news from the east. While we struggled here to stop the Chthonians from unleashing terror and madness upon the world, the Aetherials have been far from idle. Everything they had done in this region is merely a sample of what is to come if what Amala says is true.{^n}{^n}As much as it pains me to say this, our plans to rescue Ulgrim are secondary to this rising threat in the fallen city of Malmouth. The passage north from Burrwitch is quickly closing as the Aetherfire consumes everything. But perhaps we can accomplish both goals at once.
+What do you have in mind?
+You see, the Luminari have long been aware of a coven of witches hiding out to the north of Burrwitch, using the treacherous territory to deter pursuers. The witches will know the lay of the land and should be aware of any paths that remain through the Aetherfire.{^n}{^n}And...I have hopes that they will be able to do what I could not: reveal where the Loghorrean has taken Ulgrim. I would go myself, but I doubt the arrival of a high ranking inquisitor will be looked upon kindly within their circle, and I am needed in Devil's Crossing.{^n}{^n}I know that you have suffered much already in the defense of humanity, but you are the only one I can trust with this. Take my pendant and travel north from the Burrwitch Estates. A barrier of aetherfire will stand in your way, but the pendant will make short work of it.Head north through Gloomwald until you've reached the edges of Ugdenbog, where I believe the coven has made their home. You cannot arrive empty-handed or they may well burn any memory of discovering their location right out of your mind.{^n}{^n}I recommend you hunt down a creature known as Carraxus Foul, the Scourge of Ugdenbog. I imagine it has grown quite large over the years, preying on unwary travelers making their way through Gloomwald. Find the beast within its waterside lair in Gloomwald and brings its heart to the coven. I'm sure they'll find some nefarious use for it, but we must overlook that in light of our situation.{^n} {^n}Show them this keepsake of Ulgrim's and find us a way to Malmouth. We will be awaiting your signal.
+I'll head to Ugdenbog right away.
+I need some time to prepare.
+I have some questions.
+Make it quick. We depart for Devil's Crossing as soon as possible.
+Why is finding Ulgrim so damn important?
+There's a lot to Ulgrim that you don't know about, that none of us know about.{^n}{^n}He seems more than human and I suspect has been walking this world for a lot longer than you and I combined. He could become a devastating weapon of the Chthonians if we allow them to corrupt his mind.{^n}{^n}Maybe there is some degree of comradery influencing my thinking but I do feel that he could become a threat if we leave him to be consumed by the madness of the void.{^n}
+
+
+I need some time to think.
+I'm going to destroy a barrier...with a pendant?
+It may not look like much, but that pendant has helped me out of many a tricky situation, including my ordeal with Warden Krieg.{^n}{^n}Trust me, it is inscribed with powerful Luminari runes. Throw it into the barrier and it will do the rest.
+What's the situation again?
+
+I have another question.
+I need some time to think.
+What can I expect out there?
+The road north from Burrwitch has never been pleasant, passing through the treacherous Gloomwald and Ugdenbog.{^n}{^n}Between the toxic plant life and murky waters housing some of Cairn's most dangerous beasts, beyond the established road it's an inhospitable hell, but that is precisely why the Coven chose to hide out there. No one would willingly venture into those untamed lands, so the Coven was isolated and left in peace.{^n}
+
+I have another question.
+I need some time to think.
+What happened in Malmouth?
+Amala can give you a more up to date explanation, but Malmouth was one of the first cities to fall to the Aetherials when the Grim Dawn occurred.{^n}{^n}Ulgrim passed through there on the way south when we split up at the capital and his reports were as depressing as you would expect. We had believed Malmouth to be a lost cause, completely overrun by the enemy and devoid of survivors, but Amala here is a testament to humanity's resilience and evidence that the fight for Malmouth is not yet over.
+
+I have another question.
+I need some time to think.
+Is there no other way to Malmouth?
+Used to be you could travel across the lake, but with the waters full of eldritch monstrosities and intact ships in short supply, we do not have the capabilities to send that many soldiers up to Malmouth via the water. Better to encounter foes on land that we have a chance against than to find ourselves at the mercy of whatever lurks beneath the depths of the lake. It's not a risk I'd want to take.{^n}{^n}We will have to follow the roads from Burrwitch, or perhaps travel via riftgate if you manage to secure one. I'm counting on you.
+
+I have another question.
+I need some time to think.
+How can we be sure the Coven still exists?
+Ulgrim shared with me some of what he saw on his journey to Devil's Crossing. {^n}{^n}Though he was sparing on details, he did mention that some of the Coven survived the Grim Dawn. He had suggested we try to ally with them earlier but I was reluctant until now.
+
+I have another question.
+I need some time to think.
+Actually, forget it.
+I'll return soon.
+Show me the events that transpired here again. (Play Intro)
+I'll return soon.
+Show me the events that transpired here again. (Play Intro)
+And so our great moment of triumph is soured with tragedy.{^n}{^n}The cult's defeat at the Necropolis marks humanity's first major victory in this conflict, proving that we are not going to simply lie down and let ourselves be wiped out by fiends and spirits. Word of this victory will spread and give people hope that someday this nightmare will truly be over.{^n}{^n}Yet we cannot forget those who sacrificed their lives to bring us here. Brave men and women of the Black Legion who took up arms in the defense of Erulan, a nation that scorned them as criminals, outcasts and even traitors. In death, they were none of those things. They died as heroes.{^n}{^n}But I refuse to count Ulgrim among the dead just yet. I owe him that much.{^n}{^n}I could use your help. Are you with me?
+Sure, what can I do?
+I have some questions.
+Yes?
+What about the Aetherials?
+They are as much a threat as ever. Much of the empire is still under their control.{^n}{^n}We must be prepared for an extended conflict. It may be years before we even breach the capital, much less expel the Aetherials from Cairn.
+What about Ulgrim?
+I have another question.
+Farewell.
+The Cult is still out there. Shouldn't we stop them for good?
+Your actions at the Necropolis have severely crippled their activities.{^n}{^n}It will likely be some time before we have to deal with their ilk again.{^n}{^n}For now, we must see to strengthening our defenses.
+What about Ulgrim?
+I have another question.
+Farewell.
+Did you know that Anasteria is an Aetherial?
+I had my suspicions, but...she has put us all in a rather difficult place.{^n}{^n}I can't say that I fully trust her, but she has been useful in fighting against her own people, at least until recently when her information has gotten spotty at best.{^n}{^n}I suspect that the Aetherial have become wise to her dealings with us and had adjusted their plans to foil her information.{^n}{^n}Nevertheless, her knowledge has helped save countless human lives, and she still knows more about the Aetherials than any of us. For that alone she is still useful.
+What about Ulgrim?
+I have another question.
+Farewell.
+I...need some time.
+You're just going to end up killed.
+Good, you're back.{^n}{^n}Do you have a moment?
+Sure, what is it?
+While I look into Ulgrim's situation, something has come up that you may want to hear.{^n}{^n}The settlement you came from, Devil's Crossing, has requested assistance with the Aetherials pouring out of Burrwitch. We can't just leave those people to die. Since you've dealt with Captain Bourbon before, I figured you could handle this one personally.{^n}{^n}Please go back to Devil's Crossing and help bring down this Aetherial threat by any means necessary.
+I'm on it.
+I can't right now.
+You've returned. Is it finished then?
+The beast has been banished, but Ulgrim was pulled into the Void along with it.
+And so our great moment of triumph is soured with tragedy.{^n}{^n}The cult's defeat at the Necropolis marks humanity's first major victory in this conflict, proving that we are not going to simply lie down and let ourselves be wiped out by fiends and spirits. Word of this victory will spread and give people hope that someday this nightmare will truly be over.{^n}{^n}Yet we cannot forget those who sacrificed their lives to bring us here. Brave men and women of the Black Legion who took up arms in the defense of Erulan, a nation that scorned them as criminals, outcasts and even traitors. In death, they were none of those things. They died as heroes.{^n}{^n}But I refuse to count Ulgrim among the dead just yet. I owe him that much.{^n}{^n}I could use your help. Are you with me?
+How can I help?
+What can we do?
+I have some questions.
+Yes?
+What about the Aetherials?
+They are as much a threat as ever. Much of the empire is still under their control.{^n}{^n}We must be prepared for an extended conflict. It may be years before we even breach the capital, much less expel the Aetherials from Cairn.
+What about Ulgrim?
+What about Ulgrim?
+I have another question.
+Farewell.
+The Cult is still out there. Shouldn't we stop them for good?
+Your actions at the Necropolis have severely crippled their activities.{^n}{^n}It will likely be some time before we have to deal with their ilk again.{^n}{^n}For now, we must see to strengthening our defenses.
+What about Ulgrim?
+What about Ulgrim?
+I have another question.
+I see.
+Did you know that Anasteria is an Aetherial?
+I had my suspicions, but...she has put us all in a rather difficult place.{^n}{^n}I can't say that I fully trust her, but she has been useful in fighting against her own people, at least until recently when her information has gotten spotty at best.{^n}{^n}I suspect that the Aetherial have become wise to her dealings with us and had adjusted their plans to foil her information.{^n}{^n}Nevertheless, her knowledge has helped save countless human lives, and she still knows more about the Aetherials than any of us. For that alone she is still useful.
+What about Ulgrim?
+What about Ulgrim?
+I have another question.
+Makes sense.
+Nevermind.
+I...need some time.
+You're just going to end up killed.
+I've heard about what you've done to Anasteria.{^n}{^n}Your brash actions have cost us a valuable resource.
+She was an Aetherial witch!
+Be that as it may, she was helping us.{^n}{^n}Her information has helped us evade deadly attacks from the Aetherials. It took the enemy months to figure out that there was a leak.{^n}{^n}Anasteria saved countless lives, perhaps even the resistance itself. And we repaid her with murder.
+I had no idea.
+Perhaps you should have considered that before acting.
+I'm sorry.
+I stand by what I did.
+She was still a risk.
+I did what you refused to.
+Is there something you need?
+We could use you out there.
+Perhaps so, but someone has to coordinate our forces, and Fort Ikon is still exposed.
+Fair enough.
+
+Farewell.
+What are you still doing here? Ulgrim needs you at the Necropolis!
+
+I'll head there now.
+Have you secured the riftgate?
+Where is the Necropolis?
+Take the front gates out of Fort Ikon and make your way across the Plains of Strife. The gates to the Necropolis are not far beyond.{^n}{^n}Once there, find a riftgate and secure it so that our troops can advance on the cult.
+Thank you.
+I have some questions.
+Yes?
+Who is Anasteria?
+Anasteria? Why do you ask...
+Captain Reave mentioned her.
+Ah, now I understand.{^n}{^n}All you need to know is that, regardless of what Captain Reave may have said, Anasteria has been a valuable ally. Her knowledge of the Aether has helped save many lives.{^n}{^n}In spite of whatever Reave has told you to do, Anasteria is not to be harmed.
+I have another question.
+Very well.
+I heard her name come up.
+Anasteria has provided us with invaluable insight on the Aether.{^n}{^n}Whatever you may have heard from the troops, she is an ally and is not to be harmed.
+I have another question.
+I see.
+I have another question.
+Forget it.
+What do we know about the Loghorrean?
+Unfortunately, not much. We know that the Loghorrean had been summoned to Cairn before, presumably during the carnage that led to the construction of the Necropolis.{^n}{^n}If I had access to the Inquisitor archives in Erulan, then perhaps we could learn more.
+I have another question.
+I need to get back out there.
+What can you tell me about the Necropolis?
+The Necropolis was constructed following a great conflict between Erulan and the western nation of Carinea. The Battle of Ikon, which Erulan ultimately won to conquer the lands we are standing in today, was a brutal affair that cost thousands of lives.{^n}{^n}The dead heroes of that time were said to be buried at the Necropolis, which was constructed in honor of the victory.{^n}{^n}Though now it appears that the Necropolis had an ulterior purpose.
+I have another question.
+I need to get back out there.
+Did you know that Anasteria is an Aetherial?
+I had my suspicions, but...she has put us all in a rather difficult place.{^n}{^n}I can't say that I fully trust her, but she has been useful in fighting against her own people, at least until recently when her information has gotten spotty at best.{^n}{^n}I suspect that the Aetherial have become wise to her dealings with us and had adjusted their plans to foil her information.{^n}{^n}Nevertheless, her knowledge has helped save countless human lives, and she still knows more about the Aetherials than any of us. For that alone she is still useful.
+I have another question.
+Nevermind.
+I will take care of it.
+Good work handling Lucius, but the Necropolis still awaits.
+Where do you need me?
+We cannot simply march our forces straight into the Necropolis. The cult's minions will descend upon us in force and we will be crushed before we even get near the Tomb of the Watchers.{^n}{^n}Instead, we will put your unique skills to use. Make your way into the Necropolis, past the Plains of Strife, and secure the nearest riftgate.{^n}{^n}Once you've done so, Ulgrim will come through with a contingent of our men. With the element of surprise on our side, we will strike at the enemy from within.
+I will head to the Necropolis at once.
+I need some time to prepare.
+I've already secured the riftgate.
+Quick thinking. I will have a contingent of troops sent there immediately.{^n}{^n}Head back out there and speak with Ulgrim. He will debrief you on what needs to be done next.
+I will meet them there.
+I have some questions.
+Make it quick.
+Who is Anasteria?
+Anasteria? Why do you ask...
+Captain Reave mentioned her.
+Ah, now I understand.{^n}{^n}All you need to know is that, regardless of what Captain Reave may have said, Anasteria has been a valuable ally. Her knowledge of the Aether has helped save many lives.{^n}{^n}Ignore whatever Reave has told you to do, Anasteria is not to be harmed.
+Alright. What did you need me to do?
+
+I have another question.
+Very well.
+I heard her name come up.
+Anasteria has provided us with invaluable insight on the Aether.{^n}{^n}Whatever you may have heard from the troops, she is an ally and is not to be harmed.
+Alright. What did you need me to do?
+
+I have another question.
+I see.
+Forget it. What did you need me to do?
+
+I have another question.
+I see.
+What do we know about the Loghorrean?
+Unfortunately, not much. We know that the Loghorrean had been summoned to Cairn before, presumably during the carnage that led to the construction of the Necropolis.{^n}{^n}If I had access to the Inquisitor archives in Erulan, then perhaps we could learn more.
+What did you need me to do?
+
+I have another question.
+I'll be back soon.
+What can you tell me about the Necropolis?
+The Necropolis was constructed following a great conflict between Erulan and the western nation of Carinea. The Battle of Ikon, which Erulan ultimately won to conquer the lands we are standing in today, was a brutal affair that cost thousands of lives.{^n}{^n}The dead heroes of that time were said to be buried at the Necropolis, which was constructed in honor of the victory.{^n}{^n}Though now it appears that the Necropolis had an ulterior purpose.
+What did you need me to do?
+
+I have another question.
+I'll be back soon.
+Did you know that Anasteria is an Aetherial?
+I had my suspicions, but...she has put us all in a rather difficult place.{^n}{^n}I can't say that I fully trust her, but she has been useful in fighting against her own people, at least until recently when her information has gotten spotty at best.{^n}{^n}I suspect that the Aetherial have become wise to her dealings with us and had adjusted their plans to foil her information.{^n}{^n}Nevertheless, her knowledge has helped save countless human lives, and she still knows more about the Aetherials than any of us. For that alone she is still useful.
+What did you need me to do?
+
+I have another question.
+I'll be back soon.
+Good work down there.{^n}{^n}We need to secure a forward position at the Necropolis immediately.
+Where do you need me?
+
+Have you recovered the explosives?
+Where is the armory?
+The armory is on the north side of Fort Ikon. Do not tarry!
+I will head there now.
+Not yet.
+Betrayal, sabotage, call it what you will. We've been attacked from within.{^n}{^n}The Aetherials have gotten a hold of the commander.
+He's been possessed?
+Precisely. Based on the reports, Commander Lucius has been sending out our men on futile missions, thinning out the fort's defenses. Then, once the watch was sufficiently weak, he opened the gates allowing the Aetherials to pour in.{^n}{^n}He was not counting on human ingenuity however. Weapons Master Edric collapsed the front gates with some explosives, cutting off the enemy's forces. When we arrived with reinforcements from the south, the coward Lucius fled into the armory.Until those gates are cleared, we are stuck here. I need you to enter the armory and recover what's left of the Heavy Explosives; use them to clear the rubble. But beware of Lucius. He has shed his human disguise in favor of a monstrous form which I cannot even begin to describe. You will likely have to deal with him to get to the explosives.
+It will be done.
+It will have to wait.
+I've already dealt with Lucius and cleared the gates.
+Good work.{^n}{^n}We need to secure a forward position at the Necropolis immediately.
+Where do you need me?
+
+I've already dealt with Lucius.
+Then there is no time to waste. Bring the explosives to the front gates and clear the rubble so that the Legion may advance upon the Necropolis.
+I will do so.
+Good, you've arrived.{^n}{^n}Things here are in worse shape than I thought.
+What happened?
+
+Even here, in our last stronghold, the enemy has found a way to wreak havoc.{^n}{^n}Nevertheless, we must stand united or face complete annihilation.
+We'll deal with it, one challenge at a time.

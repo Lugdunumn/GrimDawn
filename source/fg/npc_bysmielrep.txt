@@ -1,0 +1,70 @@
+Byscilla, Matron of Rifts
+Don't worry, I'll be well aware of your every move. You need not come tell me yourself.
+Um, sure.
+If you say so.
+What a curiosity.{^n}{^n}You and I must speak another time.
+Farewell.
+What a bother.{^n}{^n}Move along, child.
+Fine.
+Don't worry, I'll be well aware of your every move. You need not come tell me yourself.
+I have some questions.
+And I suppose it falls on me to answer them.
+Why aren't we attacking our enemies head on?
+My dear, would you have us throw ourselves upon the blades of our enemies?{^n}{^n}This is a delicate matter and every step must be executed with precision. For now, the worshipers of the forgotten one have the upper hand and control much of the Korvan Basin.{^n}{^n}But not for long.
+I have another question.
+Alright.
+What can you tell me about this forgotten god?
+It is a creature of celestial origins that once enjoyed the boons of a thriving nation that adored it. But their zealous belief abruptly ended when the fiend turned on the very people that made offerings to it.{^n}{^n}The tomb was its prison, but now it seeks to return to Cairn. The results would be cataclysmic for humanity and Bysmiel's machinations.{^n}{^n}The web shivers with anticipation of what comes to pass. We must ensure that it all goes according to our plan.
+I have another question.
+I see.
+What is your role here?
+The Lady of Whispers wove a web of spies and contacts that offers us unparalleled knowledge of all that happens on Cairn, but like a web it is fragile and must be maintained.{^n}{^n}I stand at the center of our schemes and tug upon the strands at my lady's command. In the end, all play their part.
+I have another question.
+I see.
+What can you tell me about Bysmiel?
+A favorite legend among the rabble is that the secrets of the Eldritch Realm were whispered in the goddess' ear by a spider. I believe it happened on a night of fire and passion, of betrayal and lust for power.{^n}{^n}The Lady of Whispers always gets her way in the end. It was by her machinations that the empire's inquisitors spent centuries aimlessly hunting for the Witch God cults, their efforts confounded by the endless weave of decoys and lies. Only a select few are trusted in knowing the span of Bysmiel's web. I have the honor of sitting at its center.
+I have another question.
+I see.
+Bysmiel is a spider?
+Bysmiel is like a dreadweave widow, sultry and manipulative, and deadly. But no, she is not a spider in the literal sense.{^n}{^n}The Schemer takes on many forms, all a means to an end. A pompous oligarch...an unassuming beggar...a seductress...all the faces of Bysmiel.{^n}{^n}If you would ever be so blessed to witness her true form, then you are already dead.
+I have another question.
+I see.
+What can you tell me about the Veiled Den?
+Ah, so you've peered into the Schemer's domain?{^n}{^n}Was it as striking as you hoped? Personally, I find it...rousing.{^n}{^n}Tread carefully within the Eldritch Realm. It is not a place for mortals. Only by the blessing of Bysmiel may we look upon it and drink of its splendors.
+I have another question.
+I see.
+Nevermind.
+Farewell.
+What I've heard is true. You do have some sense to accompany your affinity for carnage.{^n}{^n}Together, we shall weave a web not even a god can escape.
+What must we do?
+The Schemer's web demands my utmost attention. For now, speak to Alain, here at my camp.{^n}{^n}The forgotten god stirs within his temple, but plans have been set in motion to see to his destruction.{^n}{^n}Alain has heard the Lady's will and knows how to proceed. Speak with her, I am certain that you will not let me down.
+I'll speak to Alain.
+I need to deal with something else first.
+We'll speak later.
+You've been quite a sight since entering our camp.{^n}{^n}I'm shivering with anticipation for what's next.{^n}{^n}But will you be at my side? Or would you rather waste your time on the minions of Dreeg and Solael?
+You serve Bysmiel? Why should I help you?
+My dear, who needs to see the future when you can manipulate it from the shadows? Solael would have you play with fire and get burned, but Bysmiel offers you the true gifts of the Eldritch Realm.{^n}{^n}Every hound, every raven, every fiend that's ever crossed the veil can and will serve the Schemer. All are bound within the web. No move can be made without tugging at the strings, until finally the spider strikes.
+I will work with your cult, Byscilla. (Join the Cult of Bysmiel)
+Then what I've heard is true. You do have some sense to complement your affinity for carnage.{^n}{^n}Together, we shall weave a web not even a god can escape.
+
+I'll be back soon.
+Bysmiel is a spider?
+Bysmiel is like a dreadweave widow, sultry, manipulative, and deadly. But no, she is not a spider in the physical sense.{^n}{^n}The Schemer takes on many forms, all a means to an end. A pompous oligarch...an unassuming beggar...a seductress...all the faces of Bysmiel.{^n}{^n}If you would ever be so blessed to witness her true form, then you are already dead.
+
+
+I need to consider my options.
+What can you tell me about Bysmiel?
+A favorite legend among the rabble is that the secrets of the Eldritch Realm were whispered in the goddess' ear by a spider. I believe it happened on a night of fire and passion, of betrayal and lust for power.{^n}{^n}The Lady of Whispers always gets her way in the end. It was by her machinations that the empire's inquisitors spent centuries aimlessly hunting for the Witch God cults, their efforts confounded by the endless weave of decoys and lies. Only a select few are trusted in knowing the span of Bysmiel's web. I have the honor of sitting at its center.
+
+
+I need to consider my options.
+I need to consider my options.
+I need to think about this.
+What a delightful performance.{^n}{^n}What else can you do?
+What's necessary.
+Guess you'll find out.
+A real test of your skills then?{^n}{^n}I look forward to seeing you in...action.
+We'll see.
+I'm sure you do.
+What a bother.{^n}{^n}Move along, child.
+Fine.

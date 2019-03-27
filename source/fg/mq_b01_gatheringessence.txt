@@ -1,0 +1,13 @@
+The Eldritch Sun
+Blood of the Korvan Guardians
+Gather Materials
+Alain has asked you to gather materials in preparation for a ritual of Byscilla's design.{^n}{^n}Scour the ruins of the Temple of Osyr and the Cairan Docks, located beyond the Korvan Plateau to the north, for Infused Animated Watchers and gather their arcane blood.{^n}{^n}When you have enough, return to Alain at the Bysmiel camp in the Conclave of the Three.
+Gather Blood of the Watchers
+Deliver the blood to Alain at the Conclave of the Three
+
+
+
+
+
+
+

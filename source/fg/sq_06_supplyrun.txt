@@ -1,0 +1,15 @@
+Korvan Basin
+Good Aspirants are Difficult to Find
+Supply Run
+What was once a battle against a raving zealot has turned into an assault on a forgotten god. The cults were ill-prepared for a conflict of this magnitude.{^n}{^n}A group of Solael aspirants was sent out to the Temple of Osyr, to the north of the Conclave of the Three, to scout and gather any relics they could scavenge to aid in the upcoming attack.{^n}{^n}They should have returned yesterday, but no one has heard from them.{^n}{^n}Keisen has asked you find them and return with anything they found, and possibly with them too.
+Find the Solael Aspirants
+
+Return to Keisen
+You found the missing group of aspirants and returned them to the Conclave of the Three.{^n}{^n}Report back to Keisen.
+Speak with Keisen at the Conclave of the Three
+
+
+
+
+
+

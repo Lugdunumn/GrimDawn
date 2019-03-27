@@ -1,0 +1,93 @@
+Raiken, Guardian of Solael
+It is good you've found a place among the weaklings serving Bysmiel and Dreeg, we do not suffer the weak here.
+Farewell.
+We heard Korvaak's suffering even here.{^n}{^n}I hate to admit it, but your actions are truly worthy of praise.
+Another threat to humanity vanquished.
+The Korvan Basin has a wealth of treasures for the taking.{^n}{^n}We must merely be willing to risk it all to claim them for ourselves.
+Farewell.
+Stay out of my way and we'll get along just fine.
+I don't want any trouble.
+Uh, sure.
+I give you the find of a lifetime, and you're still here?
+Are these the tablets?
+Ah yes, the Words of Rahn. Shattered and hidden so that none may utter the spell hidden within ever again.{^n}{^n}The fools feared the words of power. Well now they are ours.{^n}{^n}Here, bring this to a craftsman you trust and reap the power at our fingertips!
+Thank you.
+Farewell.
+I give you the find of a lifetime, and you're still here?
+What do I need to do again?
+Head out into the ruins of Korvan City to the northwest of the Infernal Wastes and seek out three silver statues.{^n}{^n}Find a way to activate them and recover the fragments of the Words of Rahn within.{^n}{^n}Bring those to me and I will decipher their meaning for our mutual gain.
+I'm on it.
+I'm working on it.
+You serve Sagon, that I know. But perhaps I can tempt you with another prize.{^n}{^n}You've proven to be capable so I'll be willing to share this secret knowledge with you in return for a fair share.
+What did you find?
+Korvan City was once a gem in the desert, a place of unimaginable wealth and arcane rituals devoted to Korvaak.{^n}{^n}That is all forgotten history now and what remains of its splendors had long ago been looted.{^n}{^n}But some fragments of knowledge are hidden such that your average tomb raider will not find them. I've learned of one such secret that I suspect still remains untouched.{^n}{^n}Head out into the ruins of Korvan City to the northwest of the Infernal Wastes and seek out three silver statues. They may seem dormant, but secrets are housed within.{^n}{^n}Find a way to activate them and recover the fragments of the Word of Rahn within. Bring them to me and I will decipher their meaning for our mutual gain.{^n}{^n}What do you say?
+I will unlock the secrets of these statues.
+Find someone else to do your dirty work.
+You mean these tablets?
+
+If this is so powerful, why share it with me?
+Believe me, if I had any other choice, I would not.{^n}{^n}Unfortunately there are those whom even I fear to disobey and I cannot head into the desert.{^n}{^n}You, however, are not bound by such limitations.{^n}{^n}So, will we share this prize?
+I will unlock the secrets of these statues.
+Find someone else to do your dirty work.
+You mean these tablets?
+
+What is it you wanted again?
+
+If I do this, why would I share it with you?
+I respect your hunger for power. It is fitting of Solael's ranks.{^n}{^n}But while you may find wealth on this task, the real treasure lies in the texts, which I doubt you can translate without my help.
+I will unlock the secrets of these statues.
+Find someone else to do your dirty work.
+You mean these tablets?
+
+What is it you wanted again?
+
+I'm not interested.
+Sagon demands you speak with him. He expects you at the Vanguard of the Three, north of here, beyond the Sunbane Oasis and through the Howling Chasm.{^n}{^n}Do not make him wait.
+Very well.
+Well? Have you purged our ranks of the weak?
+Yes, the grisly task is finished.
+Good. You should never hesitate to exterminate weakness.{^n}{^n}They are like a festering wound. Given time, it can kill you if not treated properly.{^n}{^n}But I digress. Sagon demands you speak with him. He expects you at the Vanguard of the Three, north of here, beyond the Sunbane Oasis.{^n}{^n}Don't make him wait.
+Very well.
+Well? Have you purged our ranks of the weak?
+What must I do again?
+We must be resolute. Speak to the aspirants around the camp.{^n}{^n}Find the weakest among them and cut them down!
+This is all so wrong.
+I do not need a lecture on morals.{^n}{^n}Do what must be done or we will find someone else who can.
+Fine.
+If that's what it takes...
+I will get on it.
+This is barbaric.
+I'm not finished yet.
+I can only wonder what other powerful relics lay hidden within these ruins.{^n}{^n}But for now we must focus on other matters.
+What else needs doing?
+Korvaak and his minions cannot be underestimated. We must enter this fight united and without fault or we risk failure.{^n}{^n}Solael will not accept failure and you do not want to be here when Solael is displeased. We must show our patron that we are resolute in our commitment to his creed.{^n}{^n}Speak with the aspirants around our camp. Find the weak and cull them.{^n}{^n}Solael will find pleasure in their deaths and we will cleanse ourselves of the unworthy.
+I will cull your ranks.
+I'm not going to execute our allies.
+Why would you do such a thing?
+The chain is only as strong as its weakest link.{^n}{^n}Solael does not suffer weakness.{^n}{^n}You will do this or someone else will, and you will join the ranks of the weak.{^n}
+Alright, I will cull your ranks.
+I'm not going to execute our allies.
+We'll speak of this later.
+You're looking smug.{^n}{^n}Do you have the eye? Give it to me!
+Here it is.
+Can you sense its power? To think it was wasting away in these ruins all these centuries.{^n}{^n}Yes, this will serve Solael's needs well.{^n}{^n}Perhaps I was wrong to call you an aspirant. You are far more useful.
+Was that all?
+
+There is something I must attend to.
+I thought I told you what you must do?{^n}{^n}Bring me the Eye of Ekur!
+Where is this relic again?
+The Eye of Ekur lies forgotten in the Temple of Osyr, not far north of here.{^n}{^n}Now go, bring me the eye!
+Alright.
+I'm working on it.
+So, you're the latest blood to join our ranks?{^n}{^n}You've survived the trials, which is more than I can say for some of this lot, so I expect similarly impressive results.{^n}{^n}Are you ready to get started then?
+What is it we need to do?
+The servants of an ancient god they call Korvaak have infested the Korvan Basin and now stand in our way. Exterminating vermin, war, a massacre, call it what you want, we cannot proceed without preparations.{^n}{^n}There is a temple not far north from here dedicated to some long forgotten entity called Osyr. It houses a relic of great power known as the Eye of Ekur. The temple's attendants likely used it for rituals and dazzling the sheep with false displays of the divine. We will put it to better use.{^n}{^n}Recover this relic in the name of Solael and bring it to me.
+I'll get you your toy.
+Find someone else to run your errands.
+You mean this relic?
+
+I'm not your aspirant.
+We'll speak later.
+Stay out of my way and we'll get along just fine.
+I don't want any trouble.
+Uh, sure.

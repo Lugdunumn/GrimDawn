@@ -1,0 +1,32 @@
+Mysterious Statue
+This guardian statue has already been activated.
+Step away from the statue.
+The statue's secrets await another.
+Step away from the statue.
+This must be one of the guardian statues Raiken spoke of.
+Inspect the statue.
+*A voice fills your head*{^n}{^n}I've watched you coming, yet cannot see.{^n}{^n}I bleed for you, yet have no blood.{^n}{^n}Eternal agony through immortality.
+Bysmiel?
+Dreeg?
+Solael?
+Step away from the statue.
+Inspect the statue.
+*A voice fills your head*{^n}{^n}A lover's touch, a web of lies. Who will whisper of your demise?
+Bysmiel?
+Dreeg?
+Solael?
+Step away from the statue.
+Inspect the statue.
+*A voice fills your head*{^n}{^n}A heart so vile, the shadows squirm. A flame so dark, evil's cloaked within.
+Bysmiel?
+Dreeg?
+Solael?
+Step away from the statue.
+Inspect the statue.
+*A voice fills your head*{^n}{^n}A drop of blood, a celestial sin, a death for every wound, yet with no end.
+Ch'thon?
+Korvaak?
+Mogdrogen?
+Step away from the statue.
+This strange statue stands out among the rest of the ruins, but you are unaware of its purpose.
+Step away from the statue.

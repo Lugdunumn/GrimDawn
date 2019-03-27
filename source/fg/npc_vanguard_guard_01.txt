@@ -1,0 +1,32 @@
+Indalla
+Fascinating. You are a blank, an unknown.{^n}{^n}The winds of destiny wash over you with uncertainty.{^n}{^n}One with such dedication must be rewarded.
+Um, thanks?
+Whatever you've got, I don't want it.
+Victory is ours, and yet...{^n}{^n}Ill portents blow upon the winds of change.
+Farewell.
+Stay vigilant out there.{^n}{^n}The many eyes are watching.
+Farewell.
+The fates are pleased in today's turn, and yet...blood...{^n}{^n}But I digress. The Emissary seeks your presence back at the Conclave.
+Where is Byscilla?
+The web's mistress is gone. To where, I cannot say.{^n}{^n}Perhaps the Emissary knows.
+
+Very well.
+Where is Draellus?
+The oracle has seen a path he must follow. To where, I cannot say.{^n}{^n}Perhaps the Emissary knows.
+
+Very well.
+Where is Sagon?
+The blood vicar has left us in great haste. To where, I cannot say.{^n}{^n}Perhaps the Emissary knows.
+
+Very well.
+What does the Emissary want with me?
+The strings swirl in black smoke. The truth is unknown.{^n}{^n}Speak with him yourself and learn which path is yours.
+
+
+
+Very well.
+I'll speak with him then.
+Stay vigilant out there.{^n}{^n}The many eyes are watching.
+Farewell.
+Stay vigilant out there.{^n}{^n}The many eyes are watching.
+Farewell.

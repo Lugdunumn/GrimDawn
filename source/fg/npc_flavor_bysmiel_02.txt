@@ -1,0 +1,120 @@
+Carmac
+Thank you again traveler. {^n}{^n}Now, if you would excuse me I must prepare for the journey. {^n}
+Be careful out there.
+Goodbye.
+What can I help you with?
+I found something you might be interested in.
+Oh, have you found the Maw of Enaht?{^n}{^n}Tell me!
+Yes, just east of the Korvan Sands.
+Praise the Three. This may be the discovery of a lifetime.{^n}{^n}The creature must be studied before it vanishes again beneath the sands.{^n}{^n}I will depart immediately.{^n}{^n}You have done me a great service. Perhaps I will mention your contribution in my writings on the beast.
+Glad I could help.
+Be careful out there.
+Nothing. Goodbye.
+What can I help you with?
+I found something you might be interested in.
+Oh? Was it a strange creature of some sort?{^n}{^n}Have you brought me a sample?{^n}{^n}I don't suppose you've spotted the Maw of Enaht?
+I'm not sure.
+Was it a gaping hole full of teeth and tentacles?
+Yes, that's it.
+Truly?{^n}{^n}You wouldn't lie to me would you?
+No, that is what I saw.
+Praise the Three. This may be the discovery of a lifetime.{^n}{^n}The creature must be studied before it vanishes again beneath the sands.
+What is it?
+Honestly I'm not sure, no one is.{^n}{^n}This is why it must be studied.{^n}{^n}Until now I've only read about it in ancient folklore, sightings seem to be very rare. So rare that they border on myth.{^n}{^n}If it is real, it may be very old. An ancient relic of a primordial time.{^n}{^n}The stories describe it as a gargantuan beast living deep beneath the desert. It would appear during times of upheaval or great conflict, revealing only its mouth to feast on unsuspecting creatures or to consume bodies and carrion left behind.{^n}{^n}Whether it was simply attracted to conflict or somehow a herald of dark times is unclear.{^n}{^n}In light of what's been happening now, this may be the perfect opportunity to study such a beast.{^n}{^n}Tell me friend, where did you spot this anomaly?
+Just east of the Korvan Sands.
+Fantastic.{^n}{^n}I will depart immediately.{^n}{^n}You have done me a great service. Perhaps I will mention your contribution in my writings on the beast.
+Glad I could help.
+Be careful out there.
+Nothing. Goodbye.
+What is it, inquisitor?{^n}{^n}Have you found the Maw of Enaht?
+
+You're back.{^n}{^n}Does this mean you've found the Maw of Enaht?
+It's east of the Korvan Sands.
+It's real?{^n}{^n}Praise the Three. This may be the discovery of a lifetime.{^n}{^n}The creature must be studied before it vanishes again beneath the sands.{^n}{^n}I will depart immediately.{^n}{^n}You have done me a great service. Perhaps I will mention your contribution in my writings on the beast.
+Glad I could help.
+Be careful out there.
+Have you brought me information about the Maw of Enaht?
+No, sorry. 
+Well then, I must return to my research.
+Goodbye.
+Not yet.
+Inquisitor, I find your presence here to be quite curious.{^n}{^n}What do you want?
+What are you doing here?
+I'm not certain why I've been called to this place.{^n}{^n}I just arrived, much like yourself. {^n}{^n}But I can tell you this is a gathering unlike any I've seen before.
+Why is that?
+Well, we are not generally known to be so open about our activities. Most of us live in seclusion, away from prying eyes. I hadn't seen another seeker of truth in months.{^n}{^n}But here we are, out in the open with an inquisitor wandering around our camp.{^n}{^n}It's an odd sight to behold.{^n}{^n}I suppose it speaks to the importance of what's happening here.
+What is happening here?
+Something big. I hear rumors, a group of zealots from the west following the sermons of a mad priest possessed by a primordial god; a dark prophecy regarding the ruins of Korvan City.{^n}{^n}Yesterday, when I arrived, I overheard some of the sentinels speaking of rivers of flame and desolation as far as they could see.{^n}{^n}I can't account for any of that though. I haven't been north to see it for myself.{^n}{^n}If that's where you're headed, you may be in over your head, inquisitor.{^n}{^n}Now, if you don't mind, I must get back to my work.
+
+
+Enjoy your work.
+Over my head? I think not.
+An inquisitor huh?
+Watch yourself, witch.
+Interesting. 
+Nevermind.
+Watch yourself, witch.
+Welcome, fellow seeker.{^n}{^n}I see that you too have answered the call.
+The call?
+Yes,  the call. The Three have called to you and you've answered, as was your duty.{^n}{^n}They called me to this place as well. Though I'm not yet sure why.{^n}{^n}But I can tell you this is a gathering unlike any I've seen before.
+What's different?
+Well, as you probably know, we are not generally known to be so open about our activities. Most of us live in seclusion, away from prying eyes. I hadn't seen another seeker of truth in months.{^n}{^n}But here we are, out in the open, acting unhindered by the pursuits of the empire.{^n}{^n}It's an odd sight to behold.{^n}{^n}I suppose it speaks to the importance of what's happening here.
+What is happening here?
+You know, I'm not quite sure. The elder sisters speak amongst themselves in whispers but you can hear the gravity in their voices.{^n}{^n}I've heard rumors, a group of zealots from the west following the sermons of a mad priest possessed by a primordial god; a dark prophecy regarding the ruins of Korvan City.{^n}{^n}Yesterday, when I arrived, I overheard some of the sentinels speaking of rivers of flame and desolation as far as they could see.{^n}{^n}I can't account for any of that though. I haven't been north to see it for myself.{^n}{^n}Is that where you're headed?
+I believe so.
+Really?{^n}{^n}Good luck out there, it sounds like you're going to need it.{^n}{^n}Now, if you'll excuse me, I should be getting back to my work.
+What are you working on, brother?
+I study all manner of beasts in the interest of garnering new servants for Bysmiel's sacred web. There is a large number of unique specimens in this area.{^n}{^n}If given the opportunity I will spend my time here studying them.{^n}{^n}Though between you and me, most are not all that interesting. Massive, sharp, poisonous, twisted, and deadly. I've seen it all before.{^n}{^n}I'm far more interested in a particular creature that may prove to be more myth than reality.I intend to uncover the truth behind the legend.
+What is this creature?
+In local lore, they called it "The Maw of Enaht".{^n}{^n}If it is real, it may be very old. An ancient relic of a primordial time.{^n}{^n}The stories describe it as a gargantuan beast living deep beneath the desert. It would appear during times of upheaval or great conflict, revealing only its mouth to feast on unsuspecting creatures or to consume bodies and carrion left behind.{^n}{^n}In light of what's been happening now, this may be the perfect opportunity to study such a beast.{^n}{^n}Just thinking of such a discovery makes me giddy with excitement. Do me a favor while you're out there and keep an eye out for any signs of such a creature.
+
+I'll let you know if I see anything.
+Sure.
+I will.
+Thank you, brother.
+I don't know.
+We'll find out.
+Sorry, I don't have time to talk.
+Sorry, I don't have time to talk.
+Sorry to disturb you.
+I have.
+What can I help you with?
+What are you doing here?
+I'm not certain why I've been called to this place.{^n}{^n}I just arrived, much like yourself. {^n}{^n}But I can tell you this is a gathering unlike any I've seen before.
+Why is that?
+Well, we are not generally known to be so open about our business. Most of us live in seclusion, away from prying eyes. I hadn't seen another seeker of truth in months.{^n}{^n}But here we are, out in the open with the unmarked wandering around our camp.{^n}{^n}No offense intended.{^n}{^n}I suppose it speaks to the importance of what's happening here.
+What is happening here?
+Something big. The elder sisters speak amongst themselves in whispers but you can hear the gravity in their voices.{^n}{^n}I've heard rumors, a group of zealots from the west following the sermons of a mad priest possessed by a primordial god; a dark prophecy regarding the ruins of Korvan City.{^n}{^n}Yesterday, when I arrived, I overheard some of the sentinels speaking of rivers of flame and desolation as far as they could see.{^n}{^n}I can't account for any of that though. I haven't been north to see it for myself.{^n}{^n}If that's where you're headed, I wish you luck.{^n}{^n}Now, if you don't mind, I must get back to my work.
+Your work?
+Yes, my work. I study all manner of beasts in the interest of garnering new servants for Bysmiel's sacred web. There is a large number of unique specimens in this area.{^n}{^n}If given the opportunity I will spend my time here studying them.{^n}{^n}Though between you and me, most are not all that interesting. Massive, sharp, poisonous, twisted, and deadly. I've seen it all before.{^n}{^n}I'm far more interested in a particular creature that may prove to be more myth than reality. In either case, I intend to uncover the truth behind the legend.
+What is it? 
+In local lore they called it "The Maw of Enaht".{^n}{^n}If it is real, it may be very old. An ancient relic of a primordial time.{^n}{^n}The stories describe it as a gargantuan beast living deep beneath the desert. It would appear during times of upheaval or great conflict, revealing only its mouth to feast on unsuspecting creatures or to consume bodies and carrion left behind.{^n}{^n}In light of what's been happening now, this may be the perfect opportunity to study such a beast. Do me a favor while you're out there and keep an eye out for any signs of such a creature.
+I've already found the Maw of Enaht.
+Truly, you've seen the beast? {^n}{^n}How big was it? What did it look like? Oh, this is very exciting indeed!{^n}{^n}Where is it? I must see the beast for myself.
+Just east of the Korvan Sands.
+Praise the Three. This may be the discovery of a lifetime.{^n}{^n}The creature must be studied before it vanishes again beneath the sands.{^n}{^n}I will depart immediately.{^n}{^n}You have done me a great service. Perhaps I will mention your contribution in my writings on the beast.
+That would be nice.
+I'm glad I could help.
+
+I'll let you know if I see anything.
+Sure.
+Good luck with your investigation.
+Interesting.
+How did you end up here?
+I was called here, just as you were.{^n}{^n}The Conclave is such an unusual gathering of the cults, I could not deny the summons. Besides, I've pledged my life in service of the Lady of Whispers.{^n}{^n}No doubt preparations are being made for something major.{^n}{^n}Speaking of preparations, it is time for me to get back to my work.
+What are you working on?
+I'll leave you to it.
+I don't need luck.
+Thank you.
+None taken.
+Interesting.
+Excuse me brother, I must be on my way.
+Nothing, I need to go.
+I have no desire to speak with you right now, inquisitor.
+Excuse me.
+Watch yourself, witch.
+Excuse me [[ms]brother[fs]sister] but I haven't got time to talk right now.{^n}{^n}Come back another time perhaps.
+Sorry to bother you.
+Another time.
+I'm sorry but I don't have time to talk right now.
+Sorry to bother you.

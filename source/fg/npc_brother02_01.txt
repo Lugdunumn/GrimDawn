@@ -1,0 +1,17 @@
+Aaral
+Hey, I could use some help over here.
+I'll send someone for you.
+Hey, I could use a hand.{^n}{^n} I think my leg is broken.
+Anorak sent me.
+Anorak sent you? That figures.{^n}{^n}That guy worries like an old woman. {^n}{^n}He's always after us to be careful and watch out for each other.{^n}{^n}Though, I guess he was right this time...he's always right. It's incredibly annoying.
+Where's your brother?
+I don't know.{^n}{^n}I mean he told me to run and he looked horrified, so I booked it. I never looked back to check on him.{^n}{^n}The whole temple started shaking, it was like an earthquake or something. {^n}{^n}I fell coming up the stairs, busted my leg up pretty bad. When I yelled out for Anderan to help me he wasn't there.{^n}{^n}So I hauled myself the rest of the way up the stairs.
+He's still down in the temple? 
+He must be, he certainly didn't pass me on his way out.{^n}{^n}I'd go down there looking for him but I can't walk, not with my leg like this.{^n}{^n}Are you going down there to find him?
+Yes, but first let's get you out of here.
+How are you going to do that?{^n}{^n}I'm certainly not walking out.
+Like this. (Open Riftgate)
+I'll be back.
+I'll be back.
+Hey, I could use some help over here.
+I'll send someone for you.

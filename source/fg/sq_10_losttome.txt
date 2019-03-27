@@ -1,0 +1,13 @@
+Korvan Basin
+The Tome of Eanatum
+Recover the Tome of Eanatum
+Kargon, a self-described inventor at the Conclave of the Three, has asked you to find a missing object for him.{^n}{^n}Apparently he had sent out his understudy to retrieve a valuable tome from the Valley of the Chosen.{^n}{^n}That was more than two days ago and the last he's heard of his student is that he was wandering somewhere in the Sunbane Oasis to the east of the Cairan Docks.{^n}{^n}Kargon suspects the worst...that the apprentice ran off with the tome. Apprentices are like flies, but that tome is one of a kind.{^n}{^n}Kargon has asked you to search the Sunbane Oasis for the Tome of Eanatum. Finding the apprentice is secondary.{^n}
+Retrieve the Tome of Eanatum
+Bring the tome to Kargon at the Conclave of the Three
+
+
+
+
+
+
+

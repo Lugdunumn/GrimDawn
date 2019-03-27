@@ -1,0 +1,9 @@
+Sorcerous Barrier
+The magic sealing this path has been dispelled.
+Step away.
+This door is blocked by vile hexes.{^n}{^n}Only the most potent sorcery or intimate knowledge of the original spell could dispel it.
+Use the Hexstone of Dreeg on the barrier.
+Step away from the barrier.
+Step away from the barrier.
+This door is blocked by vile hexes.{^n}{^n}Only the most potent sorcery or intimate knowledge of the original spell could dispel it.
+Step away from the barrier.

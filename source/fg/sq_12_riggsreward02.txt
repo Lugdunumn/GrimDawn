@@ -1,0 +1,14 @@
+Korvan Basin
+Deeper in Debt
+ Making Another Deal
+You spoke with Riggs again.{^n}{^n}Once more, he gave you another of his wares, asking only that you be in his debt.{^n}{^n}No doubt he will come to collect on this debt eventually.
+
+Make another deal with Riggs
+
+
+
+
+
+
+
+

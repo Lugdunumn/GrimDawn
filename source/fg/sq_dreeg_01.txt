@@ -1,0 +1,35 @@
+Witch Gods
+The Future Is Madness
+Enter the Tomb
+One of the honored seers of Dreeg had succumbed to the Mind Reaper you defeated and now serves as its vessel.{^n}{^n}Inarah was last seen headed to the Tomb of Nephos, within the Valley of the Chosen, in the Infernal Wastes. What the Mind Reaper seeks there is unknown, but it cannot be allowed to pass.{^n}{^n}Track down Inarah and do whatever is necessary. You have been issued a Hexstone of Dreeg to dispel any defenses she may have erected to thwart pursuers.
+
+
+
+Acquire the Hexstone of Dreeg
+Use the Hexstone to purge Inarah's defenses in the Tomb of Nephos
+
+
+
+Speak to Inarah
+You have dispelled Inarah's magic within the Tomb of Nephos in the Valley of the Chosen.{^n}{^n}Seek her out and speak to her in the depths of the tomb.
+Speak with Inarah at the Tomb of Nephos
+
+
+
+Kill Inarah
+Inarah is beyond help. The Mind Reaper has complete control over her.{^n}{^n}You must slay her in her hideout within the Tomb of Nephos, in the Valley of the Chosen.
+Eliminate Inarah, the Afflicted
+
+Return To Kira
+Inarah has been eliminated. Unfortunately this is another great loss for the Dreeg Cult, but the Mind Reaper could not have been allowed to endure.{^n}{^n}You did what had to be done.{^n}{^n}Report back to Kira at the Conclave of the Three.
+Return to Kira at the Conclave of the Three
+
+
+
+
+
+
+
+
+
+

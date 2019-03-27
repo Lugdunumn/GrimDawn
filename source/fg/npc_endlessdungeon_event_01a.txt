@@ -1,0 +1,61 @@
+Mazaan, Keeper of Portals
+The Shattered Realm spans eternity. One could spend a lifetime exploring even a small fragment of its vast reality. You must be careful not to lose your mind, or worse, become lost forever.{^n}{^n}The Shattered Realm awaits. Will you join me in pursuing its mysteries?
+Open a new rift to the Shattered Realm!
+Before we begin, I have a Waystone you can use.
+
+
+Wait, I need some time to prepare.
+The oracles of Dreeg spoke of your arrival. Their mad choir whispers of you marching alongside our forces into the Tomb of the Eldritch Sun and emerging triumphant, but even their eyes cannot peer into what I offer.{^n}{^n}The Shattered Realm is unlike anything mankind has ever witnessed, teeming with wealth and power beyond imagining, but also dangers not unlike those that we face even now on Cairn.{^n}{^n}I have the means to open the way, if you wish to join me in pursuing its mysteries. But be warned: the Shattered Realm spans eternity. One could spend a lifetime exploring even a small fragment of its vast reality. You must be careful not to lose your mind, or worse, become lost forever.{^n}{^n}Will you dare enter? Will you witness sights beyond imagining?
+Open the portal to the Shattered Realm!
+Before we begin, I have a Waystone you can use.
+A Waystone? Splendid!{^n}{^n}Waystones are fragments of the very realm we seek to enter, the only guiding light in the veiled lands that await.{^n}{^n}How far shall we go, hm?
+Use a Shattered Waystone to open the way to the 5th Shard.
+Use a Shattered Waystone to open the way to the 10th Shard.
+Use a Shattered Waystone to open the way to the 15th Shard.
+Use a Resonating Waystone to open the way to the 20th Shard.
+Use a Resonating Waystone to open the way to the 25th Shard.
+Use a Resonating Waystone to open the way to the 30th Shard.
+Use a Haunted Waystone to open the way to the 35th Shard.
+Use a Haunted Waystone to open the way to the 40th Shard.
+Use a Haunted Waystone to open the way to the 45th Shard.
+Use a Desecrated Waystone to open the way to the 50th Shard.
+Use a Desecrated Waystone to open the way to the 55th Shard.
+Use a Desecrated Waystone to open the way to the 60th Shard.
+Use a Celestial Waystone to open the way to the 65th Shard.
+Use a Celestial Waystone to open the way to the 70th Shard.
+Use a Celestial Waystone to open the way to the 75th Shard.
+Forget it, just open the way forward.
+Nevermind.
+Can I ask some questions first?
+The Shattered Realm is as much a mystery to me as it is to you, but I'll answer what I can.
+What is the Shattered Realm, exactly?
+The Shattered Realm is unlike anything mankind has ever witnessed, teeming with wealth and power beyond imagining, but also dangers not unlike those that we face even now on Cairn. Whatever entity crafted this realm, it seems it has long vanished and, with its absence, the world crumbles.{^n}{^n}It is very much a reflection of our own physical reality, but broken and distorted.  As far as I know, it continues forever, but as its light fades so the insatiable darkness consumes it. The deeper you dig, the more difficult the opposition may become.{^n}{^n}You may encounter powerful guardians of the realm that will seek to stop you, but should you triumph against them, vast wealth awaits!{^n}{^n}Upon entering the Shattered Realm, you will appear within a Shard. The way forward will only open once you've gathered enough Souls from its forsaken denizens. I shall keep the way open for you so that you can return during your current journey.
+Open a new rift to the Shattered Realm!
+Before we begin, I have a Waystone you can use.
+
+Wait, I need some time to prepare.
+How do the rewards work?
+The Shattered Realm is protected by powerful guardians, many of whom will be reflections of mighty foes you may have faced here on Cairn. Should you vanquish them, I shall project myself before you.{^n}{^n}Then you will face a choice: delve deeper into this warped reality and face even greater threats for greater wealth, or claim anything the guardians you felled held dominion over.
+Open a new rift to the Shattered Realm!
+Before we begin, I have a Waystone you can use.
+
+Wait, I need some time to prepare.
+What if I wish to return deeper into the Shattered Realm at a later time?
+Should you delve deep enough, you may eventually discover the means to create Waystones with the assistance of a Blacksmith.{^n}{^n}These fragments are a piece of the very realm you seek to explore and will allow me to open a portal into Shards deeper within.
+Open a new rift to the Shattered Realm!
+Before we begin, I have a Waystone you can use.
+
+Wait, I need some time to prepare.
+Nevermind.
+Wait, I need some time to prepare.
+The oracles of Dreeg spoke of your arrival. Their mad choir whispers of you marching alongside our forces into the Tomb of the Eldritch Sun and emerging triumphant, but even their eyes cannot peer into what I offer.{^n}{^n}The Shattered Realm is unlike anything mankind has ever witnessed, teeming with wealth and power beyond imagining, but also dangers not unlike those that we face even now on Cairn.But before you can enter this treacherous reality, I must know that you are indeed the one the oracles speak of. Earn your place within our camp, and we can speak more of the Shattered Realm's mysteries.
+What is the Shattered Realm?
+It is very much a reflection of our own physical reality, but broken and distorted. Whatever entity crafted this realm, it seems it has long vanished and, with its absence, the world crumbles.{^n}{^n}As far as I know, it goes on forever, but as its light fades so the insatiable darkness consumes it. The deeper you dig, the tougher the opposition may become. Occasionally, you may encounter powerful guardians of the realm that will seek to stop you, but should you triumph against them, vast wealth awaits!{^n}{^n}Upon entering the Shattered Realm, you will appear within a Shard. The way forward will only open once you've gathered enough Souls from its forsaken denizens. I shall keep the way open for you so that you can return during your current journey.
+
+Farewell.
+How can I prove myself?
+The Shattered Realm is not some playground. It carries great risks and I must know you are prepared.{^n}{^n}Speak to the Emissary, earn a right to battle alongside one of the cults gathered here, and we shall speak again.
+
+Farewell.
+We'll speak again.
+Farewell.

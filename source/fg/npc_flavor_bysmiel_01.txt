@@ -1,0 +1,66 @@
+Nika
+I see that your loyalty does not lie with Bysmiel. Even so you must not take your pledge lightly.{^n}{^n}The Three expect a great deal from their followers.
+
+I'll keep that in mind.
+An Inquisitor pledging their loyalty to Bysmiel. I never thought I'd see the day.{^n}{^n}I don't mind telling you, this pledge you've made is not something to be taken lightly.{^n}{^n}The Three expect a great deal from their followers.
+
+I'll keep that in mind.
+I don't have time for this, witch.
+Welcome [[ms]brother[fs]sister]. I hear you've made a pledge to our lady Bysmiel. {^n}{^n}This is a noble thing to do. Though I'm sure you know Bysmiel expects a great deal from her followers.
+And what does she expect from you, sister?
+I'll keep that in mind, sister.
+Yes, I know.
+So, I hear you've pledged your loyalty to Bysmiel. This is not a thing to be taken lightly. {^n}{^n}The Three expect a great deal from their followers.
+And what do they expect from you?
+From me? {^n}{^n}Well that is a long story.
+I'm all ears.
+Well, the simple answer is; I collect ancient things, relics and runes.{^n}{^n}How I get them and what I do with them is where it gets a bit more complex.{^n}{^n}There is a very powerful connection between this place and the realms beyond. The Three wish to take advantage of this. That is where I come in.{^n}{^n}My duty is to learn as much as possible about the civilization that once thrived here by studying what they left behind.
+How do you get these relics?
+By any means necessary, really.{^n}{^n}There are just so many tombs and temples to be explored and we know so little about the people who once lived here that I do not shy to acquire outside assistance.{^n}{^n}Travelers willing to part with their finds. Fools unaware of the treasures they hold.{^n}{^n}And of course then I have my loyal thralls...{^n}{^n}I had a trio, brothers, scrounging the nearby ruins, but it seems something has happened to two of them and the third refuses to work as a result.
+What do you do with the relics you find?
+Thank you for speaking with me.
+So you're a grave robber.
+What do you do with these relics?
+Well, that is where things get interesting.{^n}{^n}I was selected for this task thanks to my talent for deciphering ancient languages and runes. {^n}{^n}Many of the objects we find are simple and have no real value, but a small number of them have historical significance or even magical properties.{^n}{^n}When I find such an object, I must first determine its nature. Some of them were intentionally crafted, some of them gained their properties through more nefarious means, some can be quite dangerous. I use various spells and incantations, sometimes enlisting the help of the Dreeg seers, to determine the origin and nature of each artifact.{^n}{^n}When I feel that I understand an object well enough, I attempt to use it, on others if necessary.{^n}{^n}With varying results, as you may imagine.{^n}{^n}Thralls serve many uses after all.{^n}{^n}*Nika grins*
+Sounds dangerous.
+You cannot imagine.{^n}{^n}I've lost my fair share of thralls, and brothers and sisters who were too careless toying with artifacts they did not understand.{^n}{^n}The risk of injury or even death is always there, but that is part of the thrill.
+What happens after you test them?
+Keep up the good work.
+Try not to get killed.
+Then what?
+Well, to be quite frank, inquisitor, you should be all too familiar with what happens to dangerous artifacts.{^n}{^n}It is a search for knowledge and power...a race even.{^n}{^n}We seek to uncover the secrets of the past so that we might unlock them before they fall into the hands of our adversaries.{^n}{^n}Many of whom are Luminari, like yourself.{^n}{^n}There are those who would use such information for the misfortune of us all, as I'm sure you're aware.{^n}{^n}We may have chosen different paths, but the Luminari and the cult of Bysmiel are not all that different.{^n}{^n}In the end, we just serve different masters.
+
+I suppose that's true.
+I don't think so witch.
+Well, to be quite frank, it is a search for knowledge and power...a race even.{^n}{^n}We seek to uncover the secrets of the past so that we might unlock them before they fall into the hands of our adversaries.{^n}{^n}There are those who would use such information for the misfortune of us all, as I'm sure you're aware.{^n}{^n}Instead, the relics serve the purposes of the Three, and we are justly rewarded.
+
+I see.
+Keep up the good work sister.
+Well, to be quite frank, it is a search for knowledge and power...a race even.{^n}{^n}We seek to uncover the secrets of the past so that we might unlock them before they fall into the hands of our adversaries.{^n}{^n}There are those who would use such information for the misfortune of us all, as I'm sure you're aware.
+
+Keep up the good work.
+That's interesting.
+ I need to go.
+We can finish this later.
+I don't have time for this.
+Perhaps another time.
+I'll keep that in mind.
+It seems you've passed the test, congratulations.{^n}{^n}Think carefully about your next move. Choosing to serve one of the Three is no small thing.
+Whom do you serve?
+I am a humble and lifelong servant of Bysmiel.{^n}{^n}But this was a choice that was made for me. Not all are as fortunate as you.{^n}{^n}Though I am thankful for the life my service has provided me.
+The choice was made for you?
+In a way yes.{^n}{^n}When I was very young I answered the call.{^n}{^n}The Schemer came to me in a dream and showed me what my life would be in her service. {^n}{^n}I had never felt such purpose before. I knew then that I must serve Bysmiel. I left home and began searching for clues to her grand web.{^n}{^n}So you could say my decision was made for me. Bysmiel called and I answered.
+That's interesting.
+Thanks for sharing.
+That's interesting.
+I don't have time to talk right now.
+Thanks.
+Welcome [[ms]brother[fs]sister]. The Emissary spoke of your arrival. {^n}{^n}I believe he's waiting for you.
+Thank you.
+I'll go find him.
+Hello there stranger.{^n}{^n}You had better go speak with the Emissary before you go wandering around the camp.
+I'll go wherever I please.
+I'll go find him.
+I'm sorry, stranger{^n}{^n}Perhaps we can talk later.
+Ok.
+See you later.

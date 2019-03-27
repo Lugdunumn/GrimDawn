@@ -1,0 +1,89 @@
+Uroboruuk
+*Uroboruuk looks at you silently*
+Goodbye.
+*Uroboruuk looks at you silently*
+Goodbye.
+I've witnessed the passing of centuries, but now I find myself wishing I had more time.
+Can you bring down the barrier?
+When Dravis confronted me at the temple steps, I saw the madness consuming his soul, but I also saw the anguish that I had wrought upon it.{^n}{^n}Dravis was unwilling to listen to reason. I erected the barrier so that he could not enter the tomb by any means, but I could not bring myself to strike down my own child.{^n}{^n}Now my powers are nearly spent. The souls flowing through my veins seek their release. I sense that my time has finally come.{^n}{^n}It appears that you and I had similar goals. The evils within this tomb must not be set free.{^n}{^n}I will lower my barrier.{^n}{^n}Enter the Tomb of the Eldritch Sun and complete my task. Vanquish the darkness and bring a momentary peace to Cairn.
+Thank you for your sacrifice.
+Hold on just a moment longer.
+I have so many questions.
+I will answer what I can in the short time that we have.
+The Order's been looking for you, master.
+A foolish errand and a waste of time. My purpose there had been served.{^n}{^n}The ancient art has been restored.{^n}{^n}The Order no longer requires my guidance.{^n}{^n}Sealing the evils of this tomb was to be my final act, the end to centuries of anguish.{^n}{^n}To stand at the cusp of my journey only to fail...our existence certainly has a taste for cruelty.
+
+May I ask another question?
+I need a moment to think.
+Are you the Uroboruuk I've heard about?
+The stories about me have no doubt become muddled with legends over the centuries, but yes, I am one and the same.{^n}{^n}Sealing the evils of this tomb was to be my final act, the end to centuries of anguish.{^n}{^n}To stand at the cusp of my journey only to fail...our existence certainly has a taste for cruelty.
+
+May I ask another question?
+I need a moment to think.
+Who are you?
+I am the one they call Uroboruuk.{^n}{^n}For a time, I was the last living master of the necromantic arts, but through my Order of Death's Vigil, I saw its study restored.{^n}{^n}I endured for centuries, but my time is nearly up. Sealing the evils of this tomb was to be my final act, the end to my anguish.{^n}{^n}To stand at the cusp of my journey only to fail...our existence certainly has a taste for cruelty.
+
+May I ask another question?
+I need a moment to think.
+What happened in Arkovia?
+*Uroboruuk stares past you into the distance*{^n}{^n}Hm, Arkovia...perhaps my most troubling legacy.{^n}{^n}*Uroboruuk's eyes snap back to you*{^n}{^n}It was a land of opulence, of a people obsessed with pursuits of the flesh. Their oligarchs were consumed with consolidating their authority at any cost, even if it meant the downfall of their nation.{^n}{^n}I lived in Arkovia for a time. I bore witness to atrocities committed against my kind in the name of justice and keeping of the peace. Eventually they came for me as well.{^n}{^n}I was brought to the despicable tomb prison they called the Steps of Torment and left to the whims of their chief executioner, Alkamos. When they discovered I could not die, the tortures they imparted upon me pushed the limits of human imagination.{^n}{^n}Naturally, this drew the attention of the oligarchs, who hungered for my immortality. They demanded I show them, but I refused. And so I was put to renewed torture, day and night without rest.{^n}{^n}In the end, I relented, in a way. They thought me broken, defeated, but it was a mere ruse. I was finished with the Arkovians and their depravity. They would all suffer a thousand-fold for the torment I endured.{^n}{^n}I gave them their immortality and cursed their progeny for all time, then as they were distracted by their twisted gift, I made my escape. They would not discover the nature of my curse for some time, but by then I was long gone.{^n}{^n}Arkovia bears the weight of my hubris to this day. An entire people wiped out by my hand for the actions of a few.
+
+May I ask another question?
+I need a moment to think.
+Why did you leave the Order of Death's Vigil?
+Having achieved my goals, the time had come for me to move on. The Order no longer requires my guidance, even if they do not yet see it.{^n}{^n}The stirring of ancient gods and the machinations of their banished servants had captured my attention, and so I set out to discover the source of these disturbances.{^n}{^n}But I was too late to stop what the people now call the Grim Dawn.{^n}{^n}I fear we may be too late to stop Kymon and his god as well. But that falls to you now.
+
+May I ask another question?
+I need a moment to think.
+If Dravis was your son...then Daila...
+I fathered many children. Few of them ever knew me as Dravis and Daila did, and even they did not know much.{^n}{^n}Such attachments breed only agony.{^n}{^n}I slighted Daila as I did Dravis but, unlike him, she sought to forgive.{^n}{^n}She was a daughter I did not deserve.
+
+May I ask another question?
+You abandoned your children?
+If you endure enough lifetimes, emotional attachments start to lose all meaning.{^n}{^n}As I sought to atone for my sins, I believed myself above the concerns of mortals.{^n}{^n}Perhaps I was simply too afraid of loss. But who can withstand watching their children die as you outlive them time and again?
+
+May I ask another question?
+I need a moment to think.
+I need a moment to think.
+You lived for centuries?
+Yes, I've witnessed the rise of empires and their inevtiable fall. I played no small part in one of them.{^n}{^n}I was there when the gods grew silent and the world was left to the machinations of mortals and ascendants.{^n}{^n}But this is no gift. I paid a dark price for this cursed existence.
+
+May I ask another question?
+You mean Arkovia?
+
+How did you do it?
+Do you hope to replicate my rituals?{^n}{^n}I performed unthinkable acts, sacrificed others for my own gains. I still hear their anguished cries within me when I close my eyes.{^n}{^n}Immortality was mine, so long as I was willing to repeat my mistakes. Lifetimes of guilt had eroded my arrogance, however.{^n}{^n}My most recent ritual laid unused, that is until Dravis stumbled upon it and achieved partial success.
+
+May I ask another question?
+I need a moment to think.
+I need a moment to think.
+What brought you here?
+I wished to atone for my sins by putting my skills to the only purpose they serve...destruction.{^n}{^n}A threat is rising beneath these sands and I sought to extinguish it.
+
+May I ask another question?
+I need a moment to think.
+Nevermind, what about the barrier?
+Nevermind. I'll be right back.
+I need a moment to think.
+And so my misguided child lies dead, far from the land of his birth.{^n}{^n}I've witnessed many of my progeny perish over the centuries, such is the curse of my existence, but none stung as much as this.{^n}{^n}I thought myself above his pain, that my pursuit of atonement superseded his naive ignorance.{^n}{^n}I see now that I was wrong. In my hubris, I created a monster, the force of my own undoing.
+Dravis was too far gone.
+He was consumed by his hatred for me. In another life, perhaps he would have stood by my side as we sealed this tomb forever.{^n}{^n}I'm afraid now that duty falls to another.{^n}{^n}*Uroboruuk scoffs*{^n}{^n}I've witnessed the passing of centuries, but now I find myself wishing I had more time.
+
+
+I'll be back.
+I'll be right back.
+You...have to...stop Dravis.{^n}{^n}My barrier will not hold for long.
+What's happening here?
+Now is not the time...{^n}{^n}Stop...Dravis...
+
+Alright, I will.
+This isn't my fight.
+Wait, are you Uroboruuk?
+Now is not the time...{^n}{^n}Stop...Dravis...
+
+Alright, I will.
+This isn't my fight.
+Alright, I will.
+This isn't my fight.
+*Uroboruuk looks at you silently*
+Goodbye.

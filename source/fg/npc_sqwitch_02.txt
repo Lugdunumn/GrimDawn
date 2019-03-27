@@ -1,0 +1,31 @@
+Vorak
+Thank you for the assistance.{^n}{^n}It's a relief to know the fanatics will not be harnessing another fiend against us.
+Farewell.
+I hear you've done some excellent work around here, but don't you have some place more important to be?{^n}{^n}We're at war here.
+Goodbye.
+Have you executed our little plan?
+Yes, the beast is dead.
+I knew it existed!{^n}{^n}This is a great victory for the Three and an affirmation to the glory of Bysmiel's web.{^n}{^n}Now we can move forward with our plans without worrying about the creature being used against us.
+Another victory for us.
+Have you executed our little plan?
+What am I supposed to be doing again?
+Are you so busy that you've forgotten our plan?{^n}{^n}There is a group of Korvaak's zealots in the Valley of the Chosen. I strongly suspect they are trying to stir a beast said to be contained within the Tomb of Ariath.{^n}{^n}If you get to the creature first and destroy it before it can regain its full strength, then the zealots lose a potential resource.{^n}{^n}But you can't just walk into the temple and stab it in the heart. The way is sealed by three conduits that must first be destroyed.{^n}{^n}Sound familiar?
+Yes, I'm on it.
+Sure...
+I'm still working on it.
+I hear you've done some excellent work around here.{^n}{^n}Perhaps you can spare a moment to assist in the interests of Bysmiel?
+Sure, what do you need?
+The sacred web brings word of a peculiar gathering in the Valley of the Chosen. Korvaak's zealots are up to something.{^n}{^n}There are whispers of an eldritch monstrosity that was once imprisoned within the Tomb of Ariath. I have a strong feeling that the fools are trying to release it.{^n}{^n}Scouts could confirm my concerns, but by then it may be too late. If these fanatics release it, they may even be able to bind it.{^n}{^n}I propose a different solution: we release it first.{^n}{^n}Now, hear me out. If this creature truly exists and has in fact been bound within the tomb for centuries, it will be weak when it first awakens. That will be our opportunity to strike and deny our enemy a resource.{^n}{^n}Within the tomb are three conduits said to bind the creature there. If they are broken, the beast will be unleashed.{^n}{^n}Find the Tomb of Ariath in the Valley of the Chosen, in the Infernal Wastes to the northwest. Destroy the conduits, release the beast and slay it before the enemy has a chance to claim it.
+I'll eliminate the creature.
+Not right now.
+The creature is already dead.
+Well, well, it seems the web does not know everything.{^n}{^n}This is a great victory for the Three nonetheless.{^n}{^n}Now we can move forward with our plans without worrying about the creature being used against us.
+Another victory for us.
+Why not bind it ourselves?
+A possibility, but we do not know the nature of this creature or its weaknesses.{^n}{^n}If it is bound here and now Korvaak's minions seek it, then it undoubtedly once served the interests of the forgotten god.{^n}{^n}We cannot risk them getting to it first and claiming it for their own.
+I'll eliminate the creature.
+Not right now.
+
+I don't really have the time.
+I hear you've done some excellent work around here, but don't you have some place more important to be?{^n}{^n}We're at war here.
+Goodbye.

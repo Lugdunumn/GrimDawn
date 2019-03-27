@@ -265,7 +265,7 @@ Nevermind.
 I can't help you right now.
 Strange, I cannot help but feel as if we've met before, perhaps on another strand of fate?{^n}{^n}I wonder, what will fate hold for us this time?
 We were friends, but I'm not so sure anymore.
-Do not be swayed by the wishes of the paranoid and the afraid.{^n}{^n}Make you choices with confidence.
+Do not be swayed by the wishes of the paranoid and the afraid.{^n}{^n}Make your choices with confidence.
 I don't trust you anymore. (Reset Faction)
 
 Perhaps we shall remain friends.

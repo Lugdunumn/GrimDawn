@@ -1,0 +1,17 @@
+Atrin
+I'm sorry, are you the one we're supposed to see for our initiation?
+I'm afraid not.
+We've been instructed to wait here for our initiation.{^n}{^n}I don't suppose that's why you're here?
+Yes, that's why I'm here.
+We're prepared for whatever you throw at us.{^n}{^n}Whatever it takes to earn our rightful place in Solael's ring.{^n}{^n}So, what will it be? Slaying some beast? A battle of wits?{^n}{^n}Or...?
+You will prove your battle prowess to me.
+Oh, I wasn't expecting to fight people.{^n}{^n}But if that's what it takes.{^n}{^n}Alright, we're ready.
+Prepare yourself. (Attack)
+Not just yet.
+Not just yet.
+I'm sorry, are you the one we're supposed to see for our initiation?
+I don't believe so.
+Ah, sorry then.{^n}{^n}Let's talk another time.
+Well then, carry on.
+Ok then.
+I need to go.

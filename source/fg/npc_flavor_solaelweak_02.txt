@@ -1,0 +1,52 @@
+Merise
+I think we've spoken enough.{^n}{^n}Leave me.
+Ok.
+*Merise sighs deeply*{^n}{^n}I thought being chosen as a sacrifice would release me from the foolish gaze of that creeper, Ricard.{^n}{^n}But here I am.
+I guess not.
+
+So, Ricard is gone.{^n}{^n}I suppose this means he won't be bothering me anymore, but he didn't deserve that fate.
+He didn't deserve what?
+He didn't deserve to give his life in honor of Solael.{^n}{^n}Such a fate is too glorious for that groveling fool.
+Wow, that's cold.
+You're probably right.
+Maybe he didn't.
+He probably did.
+Hello again.{^n}{^n}I appreciate you sparing my life but I fear I may have missed an opportunity to prove my loyalty to Solael.{^n}{^n}Such an opportunity is rare.{^n}{^n}I suppose I must focus on my work to show my continued devotion.
+You'll be fine.
+You're welcome.
+At least you don't have to deal with Ricard.
+I suppose you're here because you've chosen me?{^n}{^n}Well, I accept. I will gladly give my life in honor of Solael if that is what's required of me.{^n}{^n}That may finally put a stop to Ricard's madness.{^n}{^n}
+Who's Ricard?
+That grubby creeper who keeps following me around.{^n}{^n}If I am to give my life in honor of Solael, at least I won't have to deal with him anymore.{^n}{^n}Now, if you've chosen me, let's get to it.
+
+No, I've changed my mind.
+I'm sorry to do this.
+No need to appologize.{^n}{^n}I accept my fate. But would you grant me an honorable death in combat?
+As you wish. (Attack)
+I've changed my mind.
+No, that's not it.
+Is there something you need?
+It's about Ricard.
+Look, you tell that grubby stalker to mind his own business.{^n}{^n}I've told him before, I don't want anything to do with him.{^n}{^n}But he keeps following me around, leaving little notes in my tent, in my gear, and in my clothes.{^n}{^n}My clothes! That greasy creeper has been touching my clothes!
+That is creepy.
+You're telling me.{^n}{^n}I have serious work to do, but I can't finish it because I have to deal with him following me around all the time.{^n}{^n}And now, he's asking strangers to follow me around too.{^n}{^n}Look, I'm sorry you got tangled up in this but you have to tell him to stay away from me.{^n}{^n}I just can't deal with this anymore.{^n}{^n}Would you do that for me?
+Maybe you should give him a chance.
+A chance at what?{^n}{^n}I've tried speaking with him, he just blushes like a child and runs off giggling.{^n}{^n}No, I think I've given him enough of a chance.{^n}{^n}It's time for that little weasel to leave me alone.{^n}{^n}You go and tell him if he doesn't stay away from me I'm going to send the sentinels on him.{^n}{^n}I'm sure they can think of creative ways to do away with somebody disrupting our work for Solael.
+I'll speak with him.
+That's too bad.
+I'll speak with him.
+Nope, good luck.
+Sorry, I need to go.
+Ok, I don't have time for this.
+What do you do around here?
+It's my job to gather supplies for the various spells, rituals, and incantations performed here in the Solael camp.{^n}{^n}It's a never-ending task, as you can imagine; particularly with everything that's going on right now.{^n}{^n}Recently, it's been even more difficult because of that nosy dimwit, Ricard.{^n}{^n}He follows me everywhere, it's maddening.{^n}{^n}I've tried speaking with him about it but he just blushes like a child and runs off.{^n}{^n}How can a grown man act like such a fool? Actually, can you do me a favor?
+Sure.
+Go over there and tell Ricard to leave me alone or I'll tell the sentinels he's disrupting vital ritual work for Solael.{^n}{^n}That should put a stop to his foolishness, for a while.{^n}{^n}Perhaps then I can get back to my work.
+I'll talk with him.
+I don't think so.
+Sorry I don't have time.
+Nope, I'm not interested in your affairs.
+Nothing, sorry to bother you.
+I'm a bit busy right now, come back and see me when you've finished with the Emissary.
+Alright, I will.
+Sorry to bother you.

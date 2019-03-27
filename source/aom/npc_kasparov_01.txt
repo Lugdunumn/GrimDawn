@@ -1,0 +1,231 @@
+Kasparov
+Splendid work in Malmouth.{^n}{^n}I wish you had brought me some samples of this "Master of Flesh", but I suppose it is for the best that none of his twisted legacy ever see the light of day again.
+What's left to try with Hargate's Formula?
+Hm, I've considered exposing Darlet to the effects of the crystal, but she was most unaccommodating.{^n}{^n}I suppose I'll begin by sneaking a rodent out of Edwin's kitchen, observe the long-term effects of exposure to the crystal's energies, then attempt a reversal...in a contained environment, of course.
+Just don't kill us all.
+Good luck.
+Farewell.
+You may not have an appreciation for the art of science, but at least you fight for us all.{^n}{^n}I suppose I must forgive and move on.
+Farewell.
+The exothermic results were...undesirable, but there's still hope, yes, most certainly not a dead end.
+What is left to try?
+Hm, I've considered exposing Darlet to the effects of the crystal, but she was most unaccommodating.{^n}{^n}I suppose I'll begin by sneaking a rodent out of Edwin's kitchen, observe the long-term effects of exposure to the crystal's energies, then attempt a reversal...in a contained environment, of course.
+Just don't kill us all.
+Good luck.
+Good luck.
+This business with the colossus, despicable, truly despicable.
+Farewell.
+Leave me to my work. Some of us are busy trying to end this madness.
+You don't say?
+I'll, uh, leave you to it.
+You're here! Splendid!{^n}{^n}I have some good news! I dare say, I may have finally deciphered the mess of notes you brought me from Hargate's laboratory.{^n}{^n}It may be just the breakthrough we've been looking for!
+Great! What is it?
+What you see before you is an Aether Crystal, but not just any crystal. I've attuned it precisely to the specifications within Hargate's notes.{^n}{^n}Based on what I've uncovered, I may have stumbled upon a way to reverse the energies within the crystal and force it to release all of the tainted energies within.{^n}{^n}In theory, I should be able to do the same to living tissue. In theory... But let's begin with a simpler experiment, just the crystal itself.
+Let's give it a try.
+Hm, it appears the crystal was not as stable as I had hoped.{^n}{^n}Oh dear, there goes another finger. Are you alright?{^n}{^n}No matter, look! The crystal has lost its aether hue and is now a magnificent stable purple!{^n}{^n}Perhaps it's not the breakthrough we needed, but it is a step in the, uh, correct trajectory. With more research, and perhaps some gloves, I may able to reverse Aetherial mutations after all!
+I'm getting really tired of your "experiments".
+Let's hope you figure something out.
+Absolutely not.
+Oops, too late now! It appears the crystal was not as stable as I had hoped.{^n}{^n}Oh dear, there goes another finger. Are you alright?{^n}{^n}No matter, look! The crystal has lost its aether hue and is now a magnificent stable purple!{^n}{^n}Perhaps it's not the breakthrough we needed, but it is a step in the, uh, correct trajectory. With more research, and perhaps some gloves, I may able to reverse Aetherial mutations after all!
+I'm getting really tired of your "experiments".
+Let's hope you figure something out.
+I'm not comfortable with this.
+I don't have time for this right now.
+Maybe later, Kasparov.
+Well, make yourself useful for a change and deal with this catastrophe.
+I'm working on it.
+Well, make yourself useful for a change and deal with this catastrophe.
+I'm working on it.
+This business with the colossus, despicable, truly despicable.{^n}{^n}Hargate's formula has proven difficult to decipher, but perhaps there is still a chance we can gleam some knowledge as to the mutations involved.
+Any progress with the formula?
+Hargate's formula has proven difficult to decipher, but perhaps there is still a chance we can gleam some knowledge as to the mutations involved.
+Be careful.
+Don't make me regret this.
+Let's hope so.
+This business with the colossus, despicable, truly despicable.
+
+Let's hope so.
+At least you're good for gathering food, like a proper caveman that cannot appreciate the wonders of science.
+
+
+Goodbye.
+The shipments have started to arrive from Homestead.{^n}{^n}I suppose that means I can stop researching ways to turn rifthound meat into something edible. A shame...
+
+
+I...don't even want to know what that entailed.
+Farewell.
+What do you want?
+I've changed my mind, have Hargate's notes. (Give Formula)
+Splendid! Let's see what old Hargate had cooked up in that lab of his.{^n}{^n}Here's something on a Relic he's used, that's a start. By the stars, it's all a mess. This will take some time to decipher.{^n}{^n}*Kasparov throws you a satchel of 2000 Iron Bits*{^n}{^n}Now get out. I must study these without any distractions.
+Um, good luck?
+That's one way to say thanks.
+Splendid! Let's see what old Hargate had cooked up in that lab of his.{^n}{^n}Here's something on a Relic he's used, that's a start. By the stars, it's all a mess. This will take some time to decipher.{^n}{^n}*Kasparov throws you a satchel of 10000 Iron Bits*{^n}{^n}Now get out. I must study these without any distractions.
+Um, good luck?
+That's one way to say thanks.
+Splendid! Let's see what old Hargate had cooked up in that lab of his.{^n}{^n}Here's something on a Relic he's used, that's a start. By the stars, it's all a mess. This will take some time to decipher.{^n}{^n}*Kasparov throws you a satchel of 20000 Iron Bits*{^n}{^n}Now get out. I must study these without any distractions.
+Um, good luck?
+That's one way to say thanks.
+Can you provide me with Inventor services?
+I wouldn't dream of helping you.{^n}{^n}Leave me to my work.
+So be it.
+Nevermind.
+Is there something you need?
+Any progress with Hargate's formula?
+The man wasn't very good at keeping notes, I'm afraid.{^n}{^n}Most of what I've deciphered so far has been nothing but the random musings of a madman. Nothing solid to work with.{^n}{^n}Are you sure there weren't any other notes down there?
+I'm pretty sure.
+I'm not going back there, if that's what you're asking.
+
+Nevermind.
+What can I do for you?
+
+Just passing through.
+Hm? Do you have something for me?
+I have the formula right here. (Give Formula)
+Good, good, hand it here. Let's see what old Hargate had cooked up in that lab of his.{^n}{^n}Here's something on a Relic he's used, that's a start. By the stars, it's all a mess. This will take some time to decipher.
+What exactly do you plan to do with these notes?
+Well, sate my curiosity at worst, find a way to revert some of the mutations induced by the Aetherials at best.{^n}{^n}Where we fall in the spectrum depends on if I can ever make any sense of this jargon.
+Good luck, I guess.
+Glad to be done with this.
+No, I am keeping it. (Keep Formula)
+What? No, no, you can't do this!{^n}{^n}Think about what you're doing. I only wish to use those notes in order to treat Aetherial victims, I swear it.
+This knowledge cannot end up in the wrong hands.
+You're being a fool. A selfish fool!{^n}{^n}Think of all the good we could do with that knowledge!
+Farewell.
+Alright, have them. (Give Formula)
+Hm? Do you have something for me?
+Where should I be looking for the formula?
+Hargate's lab, it's not far off the coast. You'll need to take a boat.{^n}{^n}I have a row boat in Lower Crossing for just the occasion. Just make sure nothing devours you out on those waters.
+That's comforting. Thanks for the info.
+Not yet.
+There you are! Come, come. I have something that requires your penchant for violence and survival despite all odds.
+Oh great, what is it this time?
+Nearly a century ago, a man named Oswald Hargate created the first slith. Needless to say, it was all a huge mistake, and the man paid for it with a lifetime in prison, but what interests me is the how.{^n}{^n}You see, Hargate harnessed the Aether in order to perform his mutagenic experiment. If I could get my hands on his notes, perhaps I could use his knowledge of the Aether to reverse some of the damage the Aetherials have caused to the local flora and fauna.I've been searching for Hargate's Lab for years, bribed the right people, even visited some prisons, and I believe I know where it is hidden. I was in Burrwitch putting together an expedition when everything turned sour.{^n}{^n}Now I'm here, and the discovery is more important than ever. I'd send Darlet, but after her performance in Burrwitch, I'm reluctant to give her more than a rag to wipe the shelves.{^n}{^n}Will you be my liaison? I have a row boat in Lower Crossing, just past the bridge out of the prison. If you take it northwest, you should find Hargate's Isle and, underneath it, his lab.
+I will find these notes for you.
+Find someone else crazy enough.
+I've been there. Here is Hargate's Formula. (Give Formula)
+
+I've been there. You will not have his notes. (Keep Formula)
+
+These notes sound dangerous. I'm not sure anyone should have them.
+I don't appreciate the suspicion. After all, I've trusted you from the beginning, despite your, um, disability.{^n}{^n}Besides, sometimes we must deal with dangerous materials in order to push the boundaries, and benefits, of science.{^n}{^n}*Kasparov holds up his left hand, which is missing two fingers*{^n}{^n}So how about a little more confidence, yes?
+I will find these notes for you.
+There's no way I am doing this for you.
+I don't have time for your experiments.
+The shipments have started to arrive from Homestead.{^n}{^n}I suppose that means I can stop researching ways to turn rifthound meat into something edible. A shame...
+Can you provide me with Inventor services?
+Oh, that paltry stuff? Busy work! Speak with my apprentice. She handles the menial labor.
+Hmm, alright.
+I...don't even want to know what that entailed.
+Farewell.
+Hello there, friend. What can Kasparov do for you?
+
+Just passing through.
+Your allies have already provided me with the materials I required for my experiment. They are quite industrious.
+Very well.
+Hmm, yes? Do you have the dynamite we require?
+Here it is.
+Oh, good good! Let us start the experiment immediately! Darlet! Prep the blast furnace!
+Is this safe?
+Of course! I am fully confident that it will function as intended. Well, uh, there may be a slight chance that we will tear apart reality when the artifact is consumed by the conflagration...{^n}{^n}But chances of that are very low. So low! One in a billion. You're safe. Really.
+This can't end well.
+Aha! I was correct! Just look at these wonderful components. We can finally begin studying artifacts properly. If only the Erulan Museum Society could see me now. They would be absolutely furious!{^n}{^n}Oh, and uh, if you wish, you can have Darlet break down any items you find. Just bring her more explosives.
+I...um, thanks.
+I think I'll step back.
+Not yet.
+Hmm, yes? Do you have the dynamite we require?
+Where should I look?
+There are several run-down mines out past the northwest bridge, in the Arkovian Foothills and Old Arkovia. I'd start by looking there.
+I'll check them out.
+Not yet.
+Ah, there you are! Come, come, we have an errand you must perform immediately.
+Excuse me?
+Yes, at once. Do not tarry! There are experiments to be run and Darlet and I require explosive materials immediately. No time for questions. These magical artifacts aren't going to break themselves down, now are they?{^n}{^n}Are you still here? Head to the mines around the Arkovian Foothills and Old Arkovia immediately!
+Very well. I'll gather the explosives.
+Oh no, I'm not getting involved in another of your experiments.
+Will this Dynamite suffice?
+
+Did my allies deliver the Dynamite?
+
+Ah, there you are! Come, come, we have an errand you must perform immediately.
+Excuse me?
+Yes, at once. Do not tarry! There are experiments to be run and Darlet and I require explosive materials immediately. No time for questions. These magical artifacts aren't going to break themselves down, now are they?{^n}{^n}Are you still here? Head to the mines around the Arkovian Foothills and Old Arkovia immediately!
+Very well. I'll gather the explosives.
+Oh no, I'm not getting involved in another of your experiments.
+Will this Dynamite suffice?
+
+Did my allies deliver the Dynamite?
+Yes, yes. The experiment was a smashing, no...an explosive success! There may have been an explosion. But everyone was fine, really.{^n}{^n}You should speak to Darlet if you want anything else...uh, exploded.
+Um, alright.
+Oh no, not another experiment...
+Ah, there you are! Come, come, we have an errand you must perform immediately.
+Excuse me?
+Yes, at once. Do not tarry! There are experiments to be run and Darlet and I require explosive materials immediately. No time for questions. These magical artifacts aren't going to break themselves down, now are they?{^n}{^n}Are you still here? Head to the mines around the Arkovian Foothills and Old Arkovia immediately!
+Very well. I'll gather the explosives.
+Oh no, I'm not getting involved in another of your experiments.
+Will this Dynamite suffice?
+
+Did my allies deliver the Dynamite?
+Yes, yes. The experiment was a smashing, no...an explosive success! There may have been an explosion. But everyone was fine, really.{^n}{^n}You should speak to Darlet if you want anything else...uh, exploded.
+Um, alright.
+Oh no, not another experiment...
+You're back! Is there anything I can help you with?
+Can you provide me with Inventor services?
+Oh, that paltry stuff? Busy work! Speak with my apprentice. She handles the menial labor.
+Hmm, alright.
+You're back! Is there anything I can help you with?
+Can you provide me with Inventor services?
+Oh, that paltry stuff? Busy work! Speak with my apprentice. She handles the menial labor.
+Hmm, alright.
+Your allies have already rescued my incompetent apprentice. So I imagine we are finished, yes?
+Very well.
+I see that my lazy assistant is finally back from her little trip. Good, good. I'll put her back to work.{^n}{^n}She mentioned you. You should speak with her.
+I'll do that.
+I see that my lazy assistant is finally back from her little trip. Good, good. I'll put her back to work.{^n}{^n}She mentioned you. You should speak with her.
+I'll do that.
+Have you happened to find my apprentice? I'm sure she's probably in some cellar in the Burrwitch Estates. You can bring her back here by opening a riftgate. As a matter of fact, if you find others stranded out there, you could do the same for them.
+I'll keep looking.
+Have you happened to find my apprentice? I'm sure she's probably in some cellar in the Burrwitch Estates. You can bring her back here by opening a riftgate. As a matter of fact, if you find others stranded out there, you could do the same for them.
+I'll keep looking.
+Ah, we've been so preoccupied with this riftgate business that I completely forgot about my apprentice, Darlet! {^n}{^n}I sent her out to the Burrwitch Estates to fetch parts for our research and she's been gone entirely too long. Seems her ineptitude carries beyond just the workstation.
+You lost your apprentice?
+I have to say, I do feel a little responsible for her now that she's my apprentice. Could you please go out there and find that hopeless girl?
+I will keep an eye out.
+She can take care of herself.
+Ah, your allies have already provided me with everything I need. But thank you for asking.
+Very well.
+Did you bring back the Aether Crystal fragments I require?
+Here they are.
+Excellent, these will do perfectly! I'll just place them into my device here and... oh my. That's not right, not at all. That pulse, it wasn't supposed to go off. Oh dear. One, two, three... yes, my fingers are still intact. Did it reach you too? How do you feel?
+I feel... stronger.
+Ah! Very good! I'm sure a little more Aether in your system won't do you the slightest harm. Ok... maybe it was a lot more. But you look fine! Fitter than ever.{^n}{^n}A real shame about the prototype though. Showed such promise. Perhaps if I had more fragments...
+Um... I think we're done here.
+
+
+Um... I think we're done here.
+I'd be happy to speak with you, but I'm really busy with this prototype. Bring me back the Aether Crystal fragments and we can proceed further.
+Where can I find the Aether Crystals again?
+You'll be looking for large formations of crystals with an unnatural green glow. They are strewn about the landscape now, anywhere the Aetherials have left their mark. Shouldn't be too hard to find, especially around places with large concentrations of corpses. {^n}{^n}I'd check the graveyard. Be careful though. Those crystals are a bit unstable around the living.
+I'll bring some back.
+Welcome to my workshop! I saw you fighting the Dead out in Lower Crossing and I daresay you were absolutely brilliant! Evidently, cutting you off that noose was the best decision the Captain made that day... {^n}{^n}Ah! Where are my manners? I'm Kasparov, scientist and inventor. What brings you to my humble shop?
+The Captain said you wanted to speak with me?
+Riftgates, yes! The Aetherials use them to get around. I was working on a way to close them, but then you stumbled through ours! {^n}{^n}We have never seen a human, possessed or otherwise, pass through one before. Not a living one anyway. It was then that I realized that we could put these portals to use! {^n}{^n}There is something about you that is attuned to the riftgates and I intend to replicate it!
+Wait... I what?
+You don't remember anything, do you? I may have... taken some liberties while you were out cold. It was just a few tests, a blood sample or two. Nothing major. {^n}{^n}The results were... curious. It appears that your body is still teeming with residual Aether energies. Don't worry, you won't be growing any new limbs, probably. But I'm going on tangents here! I believe that, with a correctly tuned pulse of Aether energy, we can replicate this phenomenon in a controlled manner, as in without the need for pesky possession. I've been working on just the device to do it, but it needs power. For that, I require Aether Crystal fragments.
+Where can I find them?
+You'll be looking for large formations of crystals with an unnatural green glow. They are strewn about the landscape now, anywhere the Aetherials have left their mark. Shouldn't be too hard to find, especially around places with large concentrations of corpses. {^n}{^n}I'd check the graveyard. Be careful though. Those crystals are a bit unstable around the living.
+I'll bring some back.
+Sorry I don't have the time.
+Aether Crystals... like these?
+Excellent, these will do perfectly! I'll just place them into my device here and... oh my. That's not right, not at all. That pulse, it wasn't supposed to go off. Oh dear. One, two, three... yes, my fingers are still intact. Did it reach you too? How do you feel?
+I feel... stronger.
+Ah! Very good! I'm sure a little more Aether in your system won't do you the slightest harm. Ok... maybe it was a lot more. But you look fine! Fitter than ever.{^n}{^n}A real shame about the prototype though. Showed such promise. Perhaps if I had more fragments...
+Um... I think we're done here.
+
+
+Um... I think we're done here.
+Did my ally deliver the crystals?
+Ah, yes yes! There was a bit of an...explosion, but I'm sure a little more Aether in your system won't do you the slightest harm. Ok... maybe it was a lot more. But you look fine! Fitter than ever.{^n}{^n}A real shame about the prototype though. Showed such promise. Perhaps if I had more fragments...
+
+Um... I think we're done here.
+Ah, you must be the Taken! I heard about that mess at the gallows, grisly business. I don't care for it. {^n}{^n}I'm quite eager to learn more about you, but you really should speak to the Captain before wandering too much around the camp.
+Alright.

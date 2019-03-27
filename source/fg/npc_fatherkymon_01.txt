@@ -1,0 +1,67 @@
+Father Kymon, Avatar of Korvaak
+So now you understand that I did what I had to.
+No, now I see just how insane you are!
+
+Please, stop this madness.
+You fail to understand. Everything I've done has been to save humanity.{^n}{^n}Yes, Korvaak exacts a price upon our very souls, but it is a price I am willing to pay to stop the ravages of the void.
+Who are you to decide humanity's fate?
+I am the only one with eyes open enough to see that we've run out of options.{^n}{^n}If it falls to me to make this difficult choice, then I will gladly bear it. My soul be damned.
+This is all wrong! (Attack)
+
+I will stop you! (Attack)
+I can't let you do this.
+It is beyond stopping. Korvaak is risen and his revenge upon the false gods will be absolute.{^n}{^n}I can see that there is no convincing you of my path. Turn back now and be spared, or else I will be forced to end your life where you stand.
+False gods?
+You do not know? The very gods you allied with are nothing more than lies.{^n}{^n}The Three are not true gods, merely usurpers who will get their just rewards.{^n}{^n}Korvaak is humanity's only hope against Ch'thon and the legions of the void.
+You're delusional.
+I did what I had to!{^n}{^n}Humanity already lost this war. We require the aid of a greater power. A power that seeks the destruction of Chthonians above all else.{^n}{^n}Some deaths are inevitable. A small price to pay for the survival of our people.
+This madness ends here! (Attack)
+Doesn't matter. I will stop you! (Attack)
+
+I will stop you! (Attack)
+There's nothing to discuss, Kymon. Die! (Attack)
+I am sorry, my [[ms]brother[fs]sister]. Korvaak has seen into your heart.{^n}{^n}The corruption within makes you unworthy of his gifts.{^n}{^n}I cannot allow you to impede my crusade.
+Father Kymon? Why are you doing this?
+What I achieved here this day is paramount to humanity's survival.{^n}{^n}Korvaak may be a bane upon this world, but he is also our only hope against the darkness that's already consuming Cairn.{^n}{^n}The Eldritch Sun is our salvation, not the false gods you serve.
+False gods?
+You do not know? The very gods you allied with are nothing more than lies.{^n}{^n}The Three are not true gods, merely usurpers who will get their just rewards.{^n}{^n}Korvaak is humanity's only hope against Ch'thon and the legions of the void.
+
+Doesn't matter. I will stop you! (Attack)
+You're delusional.
+I did what I had to!{^n}{^n}Humanity already lost this war. We require the aid of a greater power. A power that seeks the destruction of Chthonians above all else.{^n}{^n}Some deaths are inevitable. A small price to pay for the survival of our people.
+This madness ends here! (Attack)
+
+
+I will stop you! (Attack)
+I can't let you do this.
+It is beyond stopping. Korvaak is risen and his revenge upon the false gods will be absolute.{^n}{^n}You are but a gnat caught in the hurricane. Turn back now and perhaps you will be spared.
+
+Why are you doing this?
+
+I will stop you! (Attack)
+Please, stop this madness.
+You fail to understand. Everything I've done has been to save humanity.{^n}{^n}Yes, Korvaak exacts a price upon our very souls, but it is a price I am willing to pay to stop the ravages of the void.
+Who are you to decide humanity's fate?
+I am the only one with eyes open enough to see that we've run out of options.{^n}{^n}If it falls to me to make this difficult choice, then I will gladly bear it. My soul be damned.
+This is all wrong! (Attack)
+Why are you doing this?
+
+I will stop you! (Attack)
+There's nothing to discuss, Kymon. Die! (Attack)
+It is too late.{^n}{^n}Turn back now. Return to whatever loved ones you still cherish and perhaps you will evade Korvaak's wrath.
+Father Kymon? Why are you doing this?
+Do you not see? If not for my actions, humanity would already be doomed.{^n}{^n}Korvaak may be a bane upon this world, but he is also our only hope against the darkness that's already consuming Cairn.{^n}{^n}The Eldritch Sun is our salvation, not the false gods you serve.
+
+
+I will stop you! (Attack)
+I can't let you do this.
+It is beyond stopping. Korvaak is risen and his revenge upon the false gods will be absolute.{^n}{^n}You are but a gnat caught in the hurricane. Turn back now and perhaps you will be spared.
+False gods?
+You do not know? The very gods you chose to serve are nothing more than lies.{^n}{^n}The Three are not true gods, merely usurpers who will get their just rewards.{^n}{^n}Korvaak is humanity's only hope against Ch'thon and the legions of the void.
+You're delusional.
+I did what I had to!{^n}{^n}Humanity already lost this war. We require the aid of a greater power. A power that seeks the destruction of Chthonians above all else.{^n}{^n}Some deaths are inevitable. A small price to pay for the survival of our people.
+This madness ends here! (Attack)
+Doesn't matter. I will stop you! (Attack)
+Why are you doing this?
+I will stop you! (Attack)
+There's nothing to discuss. Die! (Attack)

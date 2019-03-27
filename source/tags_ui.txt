@@ -421,6 +421,8 @@ tagHUD_RightMouse_R=Right Mouse Assignment
 tagHUD_RightMouse_R1=This is your secondary attack.  Right click to assign a different skill.
 tagHUD_CompassToggleName=Compass Map Toggle
 tagHUD_CompassToggleDescription=Click to change size or minimize the compass map.
+tagHUD_LootMode=Loot Filter
+tagHUD_LootModeDescription=Adjust the options for what loot should be shown.
 tagHUD_LootModeToggleOff=Auto Show Loot ^D(Off)
 tagHUD_LootModeToggleCommon=Auto Show Loot (Common+)
 tagHUD_LootModeToggleMagic=Auto Show Loot ^Y(Magic+)
@@ -468,6 +470,102 @@ tagHUDButtonRollChat=Send messages to other players in your game.
 tagHUDButtonRollFaction=Details on the various Factions that inhabit Cairn.
 tagHUDButtonRollAchievements=Achievements completed.
 tagHUDButtonRollOptions=Save, exit and configure game options.
+
+#LootFilterUI
+tagLootFilterWindowTitle=Loot Filter
+tagLootFilterTitle01=Quality
+tagLootFilterTitle02=Type
+tagLootFilterTitle03=Damage
+tagLootFilterTitle04=Character
+
+tagLootFilterReset=Defaults
+tagLootFilterResetInfo=Reset the filter settings to their defaults.
+tagLootFilterResetConfirm=Reset filter settings to their defaults?
+
+tagLootFilter01=Common
+tagLootFilter01Info=Show/Hide items of Common (White) Quality.
+tagLootFilter02=Magic
+tagLootFilter02Info=Show/Hide items of Magic (Yellow) Quality.
+tagLootFilter03=Rare
+tagLootFilter03Info=Show/Hide items of Rare (Green) Quality. This includes items that drop from specific enemies, also known as Monster Infrequents.
+tagLootFilter04=Monster Infrequent
+tagLootFilter04Info=Show/Hide items that drop from specific enemies, also known as Monster Infrequents.{^N}{^N}Use this filter if you wish to only see Rare items that are classified as Monster Infrequents by also unchecking the Rare filter.
+tagLootFilter05=Epic
+tagLootFilter05Info=Show/Hide Unique items of Epic (Blue) Quality. This includes items that are a part of Sets.
+tagLootFilter06=Legendary
+tagLootFilter06Info=Show/Hide Unique items of Legendary (Purple) Quality. This includes items that are a part of Sets.
+tagLootFilter07=Sets
+tagLootFilter07Info=Show/Hide items that are a part of Sets. Use this filter if you wish to only see Epic and Legendary items that are parts of sets by also unchecking the Epic and Legendary filters.
+tagLootFilter08=Always Show Uniques
+tagLootFilter08Info=Toggle this checkbox to always show Unique items (Epic and Legendary Quality) regardless of your Filter Settings.{^N}{^N}Use this setting when you wish to search for particular Magic, Rare or Monster Infrequent items but still wish to collect every Unique that drops.
+
+tagLootFilter09=1h Melee
+tagLootFilter09Info=Show/Hide One-handed Axes, Maces and Swords.
+tagLootFilter10=2h Melee
+tagLootFilter10Info=Show/Hide Two-handed Axes, Maces and Swords.
+tagLootFilter11=1h Ranged
+tagLootFilter11Info=Show/Hide One-handed Guns.
+tagLootFilter12=2h Ranged
+tagLootFilter12Info=Show/Hide Two-handed Guns and Crossbows.
+tagLootFilter13=Dagger/Scepter
+tagLootFilter13Info=Show/Hide Daggers and Scepters.
+tagLootFilter14=Caster Off-Hand
+tagLootFilter14Info=Show/Hide Caster Off-hands.
+tagLootFilter15=Shield
+tagLootFilter15Info=Show/Hide Shields.
+tagLootFilter16=Armor
+tagLootFilter16Info=Show/Hide Helms, Shoulders, Chest Armor, Pants, Boots and Gloves.
+tagLootFilter17=Accessories
+tagLootFilter17Info=Show/Hide Amulets, Rings, Medals and Belts.
+
+tagLootFilter18=Physical
+tagLootFilter18Info=Show items that increase Physical or Internal Trauma damage.
+tagLootFilter19=Pierce
+tagLootFilter19Info=Show items that increase Pierce damage.
+tagLootFilter20=Fire
+tagLootFilter20Info=Show items that increase Fire or Burn damage.
+tagLootFilter21=Cold
+tagLootFilter21Info=Show items that increase Cold or Frostburn damage.
+tagLootFilter22=Lightning
+tagLootFilter22Info=Show items that increase Lightning or Electrocute damage.
+tagLootFilter23=Acid
+tagLootFilter23Info=Show items that increase Acid or Poison damage.
+tagLootFilter24=Vitality
+tagLootFilter24Info=Show items that increase Vitality or Vitality Decay damage.
+tagLootFilter25=Aether
+tagLootFilter25Info=Show items that increase Aether damage.
+tagLootFilter26=Chaos
+tagLootFilter26Info=Show items that increase Chaos damage.
+tagLootFilter27=Bleed
+tagLootFilter27Info=Show items that increase Bleeding damage.
+tagLootFilter28=Pet Bonuses
+tagLootFilter28Info=Show items that provide bonuses to Pets.
+
+tagLootFilter29=My Masteries
+tagLootFilter29Info=Show items that increase the ranks of Skills in your selected Masteries.
+tagLootFilter30=Other Masteries
+tagLootFilter30Info=Show items that increase the ranks of Skills in Masteries your character does not have selected.
+tagLootFilter31=Speed
+tagLootFilter31Info=Show items that increase Attack, Cast or Run Speed.
+tagLootFilter32=Cooldown Reduction
+tagLootFilter32Info=Show items that reduce the Cooldown of Skills.
+tagLootFilter33=Crit Damage
+tagLootFilter33Info=Show items that increase Critical Damage.
+tagLootFilter34=Offensive Ability
+tagLootFilter34Info=Show items that increase Offensive Ability.
+tagLootFilter35=Defensive Ability
+tagLootFilter35Info=Show items that increase Defensive Ability.
+tagLootFilter36=Resistances
+tagLootFilter36Info=Show items that increase Resistances to Damage, Crowd Control or exotic effects such as Reflected Damage or Reduced Damage over Time Duration.
+tagLootFilter37=Retaliation
+tagLootFilter37Info=Show items that increase Retaliation damage.
+
+tagLootFilter38=Components
+tagLootFilter38Info=Show/Hide Components.
+tagLootFilter39=Only Show Double Rare
+tagLootFilter39Info=Toggle this checkbox to only show items that have a Rare Prefix and Rare Suffix.{^N}{^N}Use this setting in conjunction with the Rare and/or Monster Infrequent filters when you only wish to search for the most potent Rare or Monster Infrequent items.
+
+
 
 #SkillUI
 
@@ -528,11 +626,11 @@ tagCharAttributeName03=Spirit
 tagCharAttributeName04=Health
 tagCharAttributeName05=Energy
 
-tagCharAttributeDescription01=A cunning intellect improves your combat technique, increasing physical, pierce, bleed and internal trauma damage. Cunning also increases your chances of landing melee and ranged attacks, and critically hitting enemies.
+tagCharAttributeDescription01=A cunning intellect improves your combat technique, increasing physical, pierce, bleed and internal trauma damage. Cunning also increases your capacity for pain, your chances of landing melee and ranged attacks, and critically hitting enemies.
 
-tagCharAttributeDescription02=Physical conditioning gives you the strength to fight in heavier gear and the agility to avoid enemy attacks. Physique also increases your capacity for pain, your ability to regenerate your wounds and the ability to avoid being critically hit.
+tagCharAttributeDescription02=Physical conditioning gives you the strength to fight in heavier gear and the agility to avoid enemy attacks. Physique also greatly increases your capacity for pain, your ability to regenerate your wounds and the ability to avoid being critically hit.
 
-tagCharAttributeDescription03=A strong spirit increases the flow of energy into your being and allows you to withstand the spiritual burden of using more powerful enchanted items. Spirit also magnifies the damage of magical attacks.
+tagCharAttributeDescription03=A strong spirit increases the flow of energy into your being and allows you to withstand the spiritual burden of using more powerful enchanted items. Spirit also increases your capacity for pain and magnifies the damage of magical attacks.
 
 tagCharAttributeDescription04=Health is a measure of how much pain and damage you can withstand before you collapse or die.
 
@@ -1671,6 +1769,7 @@ tagGamePadSkills=Skills
 tagGamePadMap=Map
 tagGamePadFactions=Factions
 tagGamePadAchieve=Achievements
+tagGamePadLootFilter=Loot Filter
 
 tagControllerUIWarning=Your current Screen Resolution does not support the Controller User Interface.
 
@@ -2101,6 +2200,7 @@ tagDamageModifierDamageMult={^E}Total Damage Modified by {^H}{%.0f0}%
 tagRetaliationModifierTotalDamage={%+.0f0}% {^E}to All Retaliation Damage
 tagRetaliationModifierTotalDamageR={%+.0f0}-{%.0f1}% {^E}to All Retaliation Damage
 tagTotalSpeedResistance={%.0f0}% {^E}Slow Resistance
+tagTotalSpeedResistanceR={%+.0f0}-{%.0f1}% {^E}Slow Resistance
 tagMindcontrolledMonster=Mind-controlled
 tagSparkMaxNumberChanceSingle={^H}{%.0f0}% {^E}Chance of affecting up to {^H}{%d1} {^E}target
 tagSparkMaxNumberChanceSingleMod={^H}+{%.0f0}% {^E}Chance of affecting up to {^H}{%d1} {^E}target

@@ -1,0 +1,118 @@
+Witch God Bounties
+You return with the materials in hand, a Bounty fulfilled.
+Report in.
+
+Step away from the Bounty Table.
+You return triumphantly, a Bounty fulfilled.
+Report in.
+
+Step away from the Bounty Table.
+You are already on a Bounty for the Witch God Cults.
+Step away from the Bounty Table.
+The Witch God Cults acknowledge your assistance.{^n}{^n}But only tireless dedication shall see reward from the Three themselves.
+Take a look at the bounty.
+You have fulfilled all of the posted Bounties for this session.
+Step away from the Bounty Table.
+Take a look at the bounty.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step away from the Bounty Table.
+Due to recent conflict there has been a great deal more carrion for native predators to feed on. {^n}{^n}As a result there is a dramatic overpopulation of predatory animals in the basin.{^n}{^n}A hunt has begun, balance must be restored. Seek out the creatures called Sandclaws in the Korvan Plateau and eliminate their Matriarchs.{^n}{^n}Completing this task will be rewarded with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Recent activity around the temples and tombs of the Korvan Basin has awakened numerous ancient guardians. {^n}{^n}Their presence is hindering the work of Solael scholars. Explore the various temples dotting the Valley of the Chosen and eliminate the Animated Preservers so that our work may continue.{^n}{^n}Success in this task shall be justly rewarded with scavenged materials.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The vile minions of Korvaak must be eliminated to ensure total victory.{^n}{^n}Go to the Basalt Crags and hunt down Korvaak's Champions.{^n}{^n}Completing this task will be rewarded with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+A group of five Dreeg scouts were recently attacked by a particularly large gryphon. Three of them were killed in the attack and the remaining two were gravely wounded.{^n}{^n}We cannot allow these attacks to continue. The gryphon called Razorfeather was last spotted near the Cairan Docks. It must be eliminated.{^n}{^n}The destruction of this abomination shall be rewarded with scavenged materials.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+A forgotten god has twisted and warped the Korvan Basin, setting it ablaze with rivers of molten stone.{^n}{^n}Its vile presence had also taken a heavy toll on the local wildlife, turning them into horrific monstrosities.{^n}{^n}These twisted creatures must be eliminated. Go to the the Eye of Ulzuin in the Infernal Wastes and destroy the creature called Varnox, the Molten.{^n}{^n}The destruction of this abomination shall be rewarded with scavenged materials.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The battle with Korvaak's minions has unleashed some peculiar beasts upon the Korvan Basin.{^n}{^n}Eldritch hounds are of particular interest to the followers of Bysmiel. It seems they live in a pack structure similar to other doglike creatures of Cairn.{^n}{^n}The Bysmiel camp wishes to observe what happens to members of a pack when their alpha is eliminated. To aid in this research, travel to the Basalt Crags and kill the eldritch hound called Grimmaw.{^n}{^n}The destruction of this abomination shall be rewarded with rare scavenged materials.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Several seers in the Dreeg camp have reported visions of one particular eldritch wraith.{^n}{^n}They believe this powerful minion of Korvaak is attempting to attack their minds from deep within the Eldritch Realm. This cannot continue.{^n}{^n}Travel to the Throne of the Three, accessible only through the Tomb of the Eldritch Sun and destroy the wraith called Avronath.{^n}{^n}The destruction of this abomination shall be rewarded with scavenged materials.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The battle with Korvaak's minions continues. Perhaps eliminating one of their commanders will create chaos in their ranks.{^n}{^n}Go to the Infernal Wastes and slay the one called Reynar, the Loathed.{^n}{^n}The destruction of this abomination shall be rewarded with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Targeting the most powerful of Korvaak's minions has created chaos on the battlefield. It is a strategy we must continue to pursue.{^n}{^n}Seers in the Dreeg camp have identified a new target. Go to Korvan City and kill Keynen, Burntheart.{^n}{^n}The destruction of this abomination shall be rewarded with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The priesthood of Solael wishes to continue their research in the Tomb of Sethan. We believe there is an unusually strong connection to the spirit realm there.{^n}{^n}However, the tomb is protected by a particularly powerful guardian. This animated statue must be removed for our research to continue.{^n}{^n}Find the Tomb of Sethan in the Valley of the Chosen and destroy the animated statue called Yaharum.{^n}{^n}The destruction of this abomination shall be rewarded with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+A powerful guardian prowls the sands near the Valley of the Chosen.{^n}{^n}Our research on the valley's tombs cannot continue with such a threat nearby. Find the Stone Gryphon, Ulazor, and destroy it.{^n}{^n}The destruction of this abomination shall be rewarded with iron bits.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The priesthood of Solael wishes to delve deeper into the strong connection to the spirit realm in this region. To facilitate this, they require a relic known as Specter, forged by a trained blacksmith.{^n}{^n}Delivery of this valuable object shall be rewarded with rare scavenged materials.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+We must strike a devastating blow at the highest ranks of Korvaak's followers.{^n}{^n}None have faced this target and lived to tell the tale. But seers in the dreeg camp have reported recurring visions of his intense brutality.{^n}{^n}Travel to the Tomb of the Eldritch Sun, hunt down Brother Segarius, and end his life.{^n}{^n}This is a highly dangerous task, which we will gladly compensate with rare scavenged materials.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+We must strike a precise blow at the highest ranks of Korvaak's followers.{^n}{^n}The web brings word of a suitable target. Travel to the Tomb of Sethan in the Valley of the Chosen and end the life of Sister Crimson.{^n}{^n}This is a highly dangerous task, which we will gladly compensate with rare scavenged materials.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+During our research on the Korvan people, we uncovered tales of a massive, bloodthristy beast roaming the desert, consuming all in its path.{^n}{^n}These tales speak of the beast as if it were an ancient terror but there may be more truth to them than fiction. Recently, a group of scouts were attacked while exploring the outer reaches of the Korvan Sands. {^n}{^n}Only one of three survived and she described an attack much like those of Korvan folklore.{^n}{^n}If this beast is real it must be destroyed. Go to the Korvan Sands and hunt down the Korvan Titanovore.{^n}{^n}This is a highly dangerous task, which we will gladly compensate with rare scavenged materials.
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+Our investigations have revealed that the Gryphons of the Korvan Basin live in rigid hierarchical packs.{^n}{^n}The actions of each pack are guided by a single dominant individual.  Without this leader, a pack would be thrown into turmoil as lesser individuals fight for the right to replace their missing alpha.{^n}{^n}Witnessing this event take place would aid our research into the lives of these creatures. Go to the Sunward Spire and end the rule of Gryphon Sovereign, Azaleon.{^n}{^n}This is a highly dangerous task, which we will gladly compensate with rare scavenged materials.{^n}
+Accept the Bounty.
+Step away from the Bounty Table.
+Next Bounty.
+
+The Witch God Cults acknowledge your assistance.{^n}{^n}But only tireless dedication shall see reward from the Three themselves.
+
+Step away from the Bounty Table.
+The Witch Gods Cults do not yet trust you with their innermost secrets.{^n}{^n}A Respected reputation is required to access the Bounty Table.
+Step away from the Bounty Table.

@@ -1,0 +1,32 @@
+Mysterious Statue
+This guardian statue has already been activated.
+Step away from the statue.
+The statue's secrets await another.
+Step away from the statue.
+This must be one of the guardian statues Raiken spoke of.
+Inspect the statue.
+*A voice fills your head*{^n}{^n}When men sleep, it rises. A friend to thieves, it knows not the touch of the sun, yet fears not the dark.
+A Moon?
+A Bat?
+A Cat?
+Step away from the statue.
+Inspect the statue.
+*A voice fills your head*{^n}{^n}A lover scorned, an endless rage. A burning eye to mark the pain.
+Korvaak?
+Ulzuin?
+Solael?
+Step away from the statue.
+Inspect the statue.
+*A voice fills your head*{^n}{^n}A celestial path. Endless potential.{^n}{^n}It sits on no throne, bears no crown, but all must begin their journey here.
+Gallows?
+Sailor's Guide?
+Crossroads?
+Step away from the statue.
+Inspect the statue.
+*A voice fills your head*{^n}{^n}The sands flow as time ebbs. They have but one master, but even he must bend an ear.
+Aeon?
+Korvaak?
+Azrakaa?
+Step away from the statue.
+This strange statue stands out among the rest of the ruins, but you are unaware of its purpose.
+Step away from the statue.

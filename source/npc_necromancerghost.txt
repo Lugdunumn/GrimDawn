@@ -1,7 +1,4 @@
 Kalderos
-You have done well, but even greater challenges await within the depths of Torment, forever bound in undeath.{^n}{^n}Such is the fearsome power of your kind. Do not think to abuse it.
-
-Goodbye.
 You have done well, but even greater challenges await within the depths of Torment.
 I have some questions.
 Ask and I shall answer.

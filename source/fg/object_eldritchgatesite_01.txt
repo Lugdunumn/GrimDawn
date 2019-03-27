@@ -1,0 +1,9 @@
+The Eldritch Gate
+The Eldritch Gate stands open.
+Step away.
+The Eldritch Gate is sealed by powers beyond your comprehension.{^n}{^n}It may only be opened with the Sigil of the Three.
+Use the Sigil.
+Leave the Gate alone.
+Step away. 
+The Eldritch Gate is sealed by powers beyond your comprehension.
+Step away.

@@ -1,0 +1,18 @@
+Elita
+Help us, please.{^n}{^n}We need to get out of here.
+Don't worry, help is on the way.
+Oh, thank the Three, you got here just in time.{^n}{^n}Those things had us cornered.{^n}{^n}Listen, we're in no condition to continue but we need to get out of here.{^n}{^n}Do you think you could help us?
+I've been looking for you. Keisen sent me.
+I knew they wouldn't just leave us out here.{^n}{^n}We need to get back, but we can't just leave our supplies here. That would...be frowned upon.{^n}{^n}If we come back without these supplies, we might as well slit our own throats.
+I can open a rift and send you back with your supplies.
+
+I'll be back for you.
+I'll be back for you.
+Oh, thank the Three, you got here just in time.{^n}{^n}Those things had us cornered.{^n}{^n}Listen, we're in no condition to continue but we need to get out of here.{^n}{^n}Do you think you could help us?
+Where will you go?
+We need to get these supplies back to the Conclave.{^n}{^n}But there's no way we're going to make it out there.{^n}{^n}Do you have some way of getting us all out of here safely?
+I can open a rift and send you there.
+Is that any safer given what roams the Eldritch Realm?{^n}{^n}You know what, it doesn't matter. {^n}{^n}Do whatever you need to, whatever it takes to get us out of here..
+Here you go. (Open Riftgate)
+I'll be back for you.
+I'll be back for you.

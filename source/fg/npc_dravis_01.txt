@@ -1,0 +1,36 @@
+Dravis
+This is a family matter.{^n}{^n}Leave us be!
+Alright.
+Ah, you must be the pawn my sister's been sending around to do her sleuthing for her.{^n}{^n}And now here you are, and she's nowhere in sight. I must say I'm rather disappointed that she could not be bothered to show herself, especially at the moment of my victory!{^n}{^n}Unfortunately for you, you're standing in my way, and I simply cannot abide by that.{^n}{^n}I'm afraid you have to die.
+
+
+No time for talk! (Attack)
+I do not know who you are, and I suppose I do not care.{^n}{^n}But you are getting in the way of my delicious victory, and I simply cannot abide by that.{^n}{^n}I'm afraid you have to die.
+Who are you?
+The world may not know my name yet, but it will soon enough.{^n}{^n}I...am Dravis! Son of the immortal necromancer and successor to his mighty mantle!{^n}{^n}I am the future of Cairn, the vessel of a thousand tortured souls.{^n}{^n}You are as a gnat to me. Bow and perhaps I will show mercy!
+Vessel of a thousand souls?
+Indeed, I completed the ritual my father was too afraid of!{^n}{^n}The valiant souls buried within the Necropolis now fuel my own. I am nigh immortal, nigh unstoppable!{^n}{^n}Once the power within this tomb is mine, the world will learn the meaning of true might!{^n}{^n}Unfortunately you will not be around to see it.
+
+You spoke of victory? Here?
+You're delusional. (Attack)
+My, aren't you full of yourself.
+Don't mock me.{^n}{^n}I stand on the precipice of true immortality and power beyond imagining.{^n}{^n}All will bow before me and despair.{^n}{^n}Your corpse will be just another stepping stone.
+You're delusional. (Attack)
+You spoke of victory? Here?
+I think I've heard enough. (Attack)
+Victory?
+Yes. With my father broken at my feet, there is nobody in this world that can stop me from achieving my goals.{^n}{^n}Not even my sister.{^n}{^n}Today marks the beginning of a new era for Cairn.{^n}{^n}The era of Dravis!{^n}{^n}It's a shame you will not live to see its glory.
+Your sister?
+I once hoped that she would join me, but it has become abundantly clear that she does not see things as I have.{^n}{^n}So she will burn, along with anyone else that stands in my way...like you.
+What about your father?
+I think I've heard enough. (Attack)
+Your father?
+The fool wandered the world for centuries, never thinking about what he left in his wake.{^n}{^n}My father squandered his power...his immortality!{^n}{^n}I will not make the same mistake.{^n}{^n}Now, as for you...I'm afraid your time is up.
+What about your sister?
+I think I've heard enough. (Attack)
+
+
+I don't have time for this. (Attack)
+No time for talk! (Attack)
+This is a family matter.{^n}{^n}Leave us be!
+Alright.

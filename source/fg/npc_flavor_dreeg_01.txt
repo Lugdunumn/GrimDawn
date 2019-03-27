@@ -1,0 +1,46 @@
+Lura, Seer of Dreeg
+Seeker. I do not know what has changed, but my mind is at ease.{^n}{^n}Where there was hopelessness and darkness there is now clarity and hope.{^n}{^n}Have you done this? Have you found a way to free me of this bleak vision?
+It was an agent of Korvaak.
+You mean to tell me these visions were false?{^n}{^n}What is the name of this foul creature?
+Ishtal, the Mind Reaper.
+This is a grim revelation.{^n}{^n}It means we can no longer trust the gifts Dreeg bestows upon us as the enemy may use them against us. I did not know such a feat was possible.{^n}{^n}There were several in this camp who succumbed to these vile intrusions.{^n}{^n}I believe you've encountered at least one of them, Navan. She was a dear friend once and a loyal follower of Dreeg.{^n}{^n}It is truly a shame what happened to her. But I certainly don't blame you. You did what had to be done.{^n}{^n}Now, if you would seeker, please leave me to my thoughts.{^n}{^n}I must contemplate the ramifications of today's events.
+How do your visions work?
+Well, my friend, they work differently for each of us.{^n}{^n}For some, they come as waking dreams. A thought deep in your mind that lingers and grows there like an invasive weed. Such visions can be quite damaging if not attended to.{^n}{^n}For others, they manifest as brief flashes, images of future or sometimes past events.{^n}{^n}For the most gifted among us, the vision of Dreeg can seem as real as I am standing here before you.{^n}{^n}For these brothers and sisters, dealing with such visions can be confusing and unsettling, even maddening.{^n}{^n}It's one thing to see a small glimpse of possible future events and an entirely different thing to feel as though you've lived through them.{^n}{^n}Each mind reacts in its own way. The more powerful the vision, the greater the risks. My powers are a a trifle thing compared to those of the Oracle, and he speaks in riddles half the time.{^n}{^n}I think this is why the Mind Reaper had such a terrible effect on some here in the camp.{^n}{^n}They were forced to live with a horrid vision of their own fate.
+That makes sense.
+I see.
+I'll leave you to it.
+Good luck.
+Yes, be at ease now.
+Nope, not me.
+My visions have worsened, seeker.{^n}{^n}I fear the bleak reality I see is truly a vision of our future.{^n}{^n}I now see a silhouette of fire and embers and the utter desolation it will lay upon this land. I see it as clearly as I see you standing before me.{^n}{^n}It is more than I can bear.{^n}{^n}We must bow to his will so that he might spare us this fate.
+Don't give up just yet.
+What hope is there in such a bleak future?{^n}{^n}How can we continue to fight an enemy such as this?{^n}{^n}You ask too much of me.
+Hang in there.
+Suck it up.
+Hang in there.
+Suck it up.
+Seeker, please...spare me a moment. {^n}{^n}I've been waiting.{^n}{^n}I must speak with you.
+You've been waiting?
+Yes, waiting in darkness that gathers at the corners of my mind.{^n}{^n}I have had many visions of your deeds in Devil's Crossing and beyond.{^n}{^n}I have followed your path closely.
+Visions?
+My faith in Dreeg has granted me the gift of true sight.{^n}{^n}I see many things, in far off places. Some that lie behind us and some that have yet to pass.{^n}{^n}Many of my visions appear as clear as day, others are broken and twisted like a fitful dream.{^n}{^n}This is why I have been so eager to speak with you.{^n}{^n}I have seen many things of your past, but your future is hidden from me.{^n}{^n}A dark veil hangs over you, obscuring you from my sight. Even now as you stand before me my vision is clouded as if something doesn't want me to see you.{^n}{^n}Do you know what it is, this darkness?{^n}{^n}Do you know why it follows you? Does it speak to you?
+I have no idea.
+You must be wary, seeker. To have your eyes truly opened only to become blindsided is troubling.{^n}{^n}I cannot say for certain if you are a savior or the harbinger of our undoing.
+What else have you seen?
+It is...difficult to say.{^n}{^n}My sight has taken a dark turn as of late. I am plagued by a depth of hopelessness I cannot explain.{^n}{^n}Every night there are flashes of the future, just the slighest glimpse, but each is more dreadful than the last.{^n}{^n}I lie awake until they subside.{^n}{^n}There are many others in this camp who suffer at the presence of these visions. Some have begun to give in, believing their visions are of an inevitable darkness, taking their own lives or fleeing into the desert for the sands to claim them.{^n}{^n}The only constant that has shown through my nightmarish visions is you.{^n}{^n}This is why I have been so desperate to speak with you.
+Maybe the darkness follows you, not me.
+Perhaps you are right.{^n}{^n}But as these visions worsen, others may come to more sinister conclusions.{^n}{^n}They may begin to perceive you as a threat to the meaning of their existence.{^n}{^n}Whatever the source of this darkness, so long as it hangs over us, I would be wary.
+I'll be careful.
+Maybe you're going insane.
+I think you might be crazy.
+Ok, I'll be careful.
+Whatever you say.
+No I don't know, sorry.
+You might be insane.
+You've been following me? Creepy.
+I don't have time for crazy.
+Sorry, I'll be back.
+You're gonna have to keep waiting.
+The Emissary awaits your arrival, seeker.{^n}{^n}Do come speak with me when you've finished with him. {^n}{^n}I've been waiting for you.
+Alright, we'll speak later.
+Um, I will.

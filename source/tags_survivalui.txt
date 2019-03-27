@@ -27,7 +27,7 @@ achS006Title=Top Score
 achS006Desc=Earn a Crucible score of at least 10000000.
 
 achS007Title=Unstoppable Lord of the Crucible
-achS007Desc=Complete the Crucible on Gladiator Difficulty with the 6th Spawn Point active.
+achS007Desc=Complete the Crucible through Wave 150 on Gladiator Difficulty with the 6th Spawn Point active.
 
 achS008Title=Defensive Stance
 achS008Desc=Construct a Defensive Structure.

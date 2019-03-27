@@ -1,0 +1,73 @@
+Master Harken of Death's Vigil
+Good to see you're still in the fight [[ms]brother[fs]sister].{^n}{^n}It seems our efforts in the Blood Grove weren't enough to stop Father Kymon and his band of Zealots.{^n}{^n}So we find ourselves chasing him through this forsaken wasteland on his mad quest to resurrect the Forgotten God.
+Father Kymon is dead.
+Is he?{^n}{^n}Have you done this, have you put an end to his madness?{^n}{^n}This is good news indeed, I will report back to the masters of the order.{^n}{^n}They will be pleased to hear that our trust in you was well placed.{^n}{^n}The Oder of Death's Vigil thanks you.
+Unfortunately Uroboruuk is also dead.
+Are you certain of this?{^n}{^n}The grip of death is slight upon a man such as our master.
+I saw him die.
+I am not convinced.{^n}{^n}What you see is not always what it truly is.{^n}{^n}I witnessed our master raise legions from their dark slumber. I think the long sleep cannot be an end to such a man.
+You may be right.
+He looked pretty dead to me.
+He had to be stopped.
+Yup, I'm the best.
+Have we met before?
+No, but we hail from the same banner.{^n}{^n}You did a great service to the Order of Death's Vigil back in Sorrow's Bastion and the Blood Grove.{^n}{^n}Because of this there are many brothers of the order who have heard of you.{^n}{^n}We are in your debt.
+I'm glad I could help.
+Sadly, our battle with Father Kymon and his fanatics didn't end there. {^n}{^n}We tried to warn the Black Legion of his folly but alas they are occupied by the Chthonian and Aetherial threats.{^n}{^n}No one would believe a lone fanatic could be so dangerous.{^n}{^n}And why would they? {^n}{^n}With all the unimaginable horrors that now roam Cairn one crazy old man doesn't seem like a credible threat.{^n}{^n}Yet here we are.
+What do you know about Father Kymon?
+Truthfully, I know very little about the man.{^n}{^n}But his story is a tragic one. Despite the effort he and his army of zealots put into hunting down our order I still have empathy for him.{^n}{^n}I truly believe he thought he could save us all,  thought he was doing what needed to be done to save Cairn.{^n}{^n}But I fear he was misled from the very beginning, used as a tool of revenge by a spiteful entity that wanted nothing more than to punish this realm and all who inhabit it.I can only imagine what promises it made to Kymon under the guise of Empyrion. What lies it fed him to maintain his faith.
+It... you mean Korvaak?
+Yes, we now know the truth behind Kymon's lunacy: a forgotten god that forged a new faith under the guise of Empyrion.{^n}{^n}All of Kymon's Chosen are mere pawns in the machinations of primordial beings that do not care about us in the least. We are as insects, insignificant to their plans.{^n}{^n}How ironic that humanity was exactly what Korvaak required to return.
+We'll stop him.
+I'll stop him and the Forgotten God.
+I need to be going. 
+We will stop him.
+I do what I can.
+No, but we hail from the same banner.{^n}{^n}You chose to work with us back at the Blood Grove instead of serving those fanatics.{^n}{^n}Word has spread of events that transpired there, and who stands by our side.
+
+I do what I can.
+Good luck with that.
+Look here, if it isn't one of Kymon's zealots. I'm not here to fight you. There are greater threats about.{^n}{^n}Have you come to atone for your errors? Or do you serve the forgotten god as well?
+What do you mean?
+I think you know exactly what I mean.{^n}{^n}You chose to side with that sad bastard and his loyal band of fools back in Sorrow's Bastion.{^n}{^n}With your help he nearly wiped out all of our men stationed there. {^n}{^n}And look where that's gotten us.{^n}{^n}Here we are chasing the old fool through this wasteland where he plans to resurrect an ancient god that's bent on vengeance.{^n}{^n}And it looks like he might just pull it off.{^n}{^n}So, thank you for that.
+I didn't know.
+Of course not.{^n}{^n}It's not like we tried to warn you or anything.{^n}{^n}I suppose you were even convinced that he found a way to defeat the Chthonians.{^n}{^n}I think he may truly have believed that himself.{^n}{^n}The gullible will believe anything, particularly in desperate times like these.{^n}{^n}But that's all behind us. {^n}{^n}What matters now is what you're going to do to help us stop him.{^n}{^n}You are going to help us aren't you?
+
+It's none of your business.
+No, I'm going to do it myself.
+Father Kymon was very convincing.
+Of course he was. {^n}{^n}He was trained by the Luminari. Charisma and manipulation are part of his toolkit. With a primordial god at his side, it was trivial for him to convince lesser fools to lay down their lives in his service.{^n}{^n}I suppose you were even convinced that he found a way to defeat the Chthonians.{^n}{^n}The gullible will believe anything, particularly in desperate times like these.{^n}{^n}But that's all behind us.{^n}{^n}What matters now is now is what you do next.{^n}{^n}Will you help us stop him?
+Of course.
+I suppose that's good news.{^n}{^n}I've heard rumors of your deeds in Cairn.{^n}{^n}If any of them are true it'll be nice to have you on our side now.{^n}{^n}Do me a favor though, stay away from me and my men.{^n}{^n}After what you did to our brothers in the Blood Grove I'm sure they'll be on edge with you around.
+Ok.
+Too bad for them.
+No, I'll do it myself as usual.
+I don't have time for this.
+You're welcome.
+I think you know exactly what I mean.{^n}{^n}You chose to side with that sad bastard and his loyal band of fools back in Sorrow's Bastion.{^n}{^n}And look where your loyalties have gotten us.{^n}{^n}Here we are chasing the old fool through this wasteland where he plans to resurrect an ancient god that's bent on vengeance.{^n}{^n}And it looks like he might just pull it off.{^n}{^n}So, thank you for that.
+
+
+I don't have time for this.
+You're welcome.
+I don't have time for your foolishness.
+Hold stranger.{^n}{^n}We are not enemies.
+What are you doing out here?
+I believe we have shared goals.{^n}{^n}We are here in this forsaken wasteland in search of Father Kymon.{^n}{^n}To put a stop to his madness once and for all.{^n}{^n}Is this not the same end you seek traveler?
+Father Kymon is dead.
+Is he?{^n}{^n}Have you done this, have you put an end to his madness?{^n}{^n}This is good news indeed, I will report back to my order.{^n}{^n}Thank you for this news, traveler. {^n}{^n}The Oder of Death's Vigil thanks you for bringing balance to Cairn.
+He had to be stopped.
+Yes, you do.
+Yes. I'm looking for Father Kymon.
+Then we are allies in this endeavor.
+Who are you?
+We, my friend, are brothers and sisters in the Order of Death's Vigil. {^n}{^n}Trained by our master Uroboruuk, we have come to this land in the hopes of putting a stop to Father Kymon's plans to bring forth a forgotten god.{^n}{^n}But, given the state of this place, I fear we may be too late.
+
+It's not too late, we will stop him.
+That's good to hear.
+Yes, now I'll be on my way.
+Yup, but I need to go.
+That's good to hear.
+Sorry, don't have time to chat.
+I don't have time to waste talking with you, stranger.
+Well ok then.
+Excuse me.

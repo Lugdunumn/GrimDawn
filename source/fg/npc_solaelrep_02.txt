@@ -1,0 +1,89 @@
+Sagon, Vicar of Solael
+It is good that you have found your place with the others.{^n}{^n}Solael has no time for distractions.
+Whatever you say.
+Admirable, but your place isn't here with me.{^n}{^n}We will speak another time.
+Farewell.
+Your presence here is only welcome out of necessity.{^n}{^n}If it were up to me...
+Um, goodbye.
+Do not tempt Solael...or me.{^n}{^n}Get to the tomb!
+Um, what do I need to do again?
+Our primordial enemy awaits within the Tomb of the Eldritch Sun, far to the north beyond the Infernal Wastes.{^n}{^n}Breach its defenses and slaughter it before it can fully manifest in Cairn!
+
+
+Alright.
+Why is this god such a threat exactly?
+The forgotten one was once capable of unimaginable destruction. The Korvan Basin is a testament to his rage.{^n}{^n}What was once a thriving nation is now smoldering ruins and molten lands consumed by raging fires.{^n}{^n}Though his primordial powers have faded, if he were to free himself from that tomb, the destruction here would pale in comparison to the carnage that would ensue.
+
+
+Fair enough.
+What of the Witch Gods? We could use their aid.
+If Solael were here, he would tell you not to presume...as his flames consumed you from the inside.{^n}{^n}The gods are where they must.
+
+
+Fair enough.
+I've misplaced the sigil.
+*The sigil appears over Sagon's extended hand*{^n}{^n}One does not simply lose an artifact of such power. Be more careful with my gifts.
+I'll be careful this time.
+I'm on my way.
+Farewell.
+Solael is pleased!{^n}{^n}All that remains is to crush the insolent fools guarding the Tomb of the Eldritch Sun and destroy their precious god.
+What is the plan?
+The Witch Gods are united in this very moment. The three cults will move upon the Tomb of the Eldritch Sun and you will join them.{^n}{^n}You must go north, beyond the Infernal Wastes and into what remains of Korvan City.{^n}{^n}Turn the sands red with the blood of our enemies, decimate their fortifications and breach the gates of the tomb.{^n}{^n}Inside, you will find a central chamber with the power to pierce the veil between realities.{^n}{^n}Use this sigil. It will activate the chamber and open the way to where the forgotten one stirs. Enter the rift and bring an end to this calamity.
+I'm ready to lead the assault.
+I need time to prepare.
+What about you?
+Me? I have my part to play and you've got yours.{^n}{^n}Solael requires my presence...elsewhere.
+Alright, I'm ready to lead the assault.
+I need time to prepare.
+
+
+What was the plan again?
+Why is this god such a threat exactly?
+The forgotten one was once capable of unimaginable destruction. The Korvan Basin is a testament to his rage.{^n}{^n}What was once a thriving nation is now smoldering ruins and molten lands consumed by raging fires.{^n}{^n}Though his primordial powers have faded, if he were to free himself from that tomb, the destruction here would pale in comparison to the carnage that would ensue.
+Alright, I'm ready to lead the assault.
+I need time to prepare.
+
+
+What was the plan again?
+What of the Witch Gods? We could use their aid.
+If Solael were here, he would tell you not to presume...as his flames consumed you from the inside.{^n}{^n}The gods are where they must.
+Alright, I'm ready to lead the assault.
+I need time to prepare.
+
+
+What was the plan again?
+We'll speak of this soon.
+I smell the heart on your presence.{^n}{^n}Give it to me so that Solael may feast on its power and bestow his gift upon our forces!
+Alright, here it is.
+Solael is pleased!{^n}{^n}All that remains is to crush the insolent fools guarding the Tomb of the Eldritch Sun and destroy their precious god.
+
+You would make Solael wait for his prize?{^n}{^n}Bring me that heart at once.
+Where do I need to go again?
+Take the Eye of Ekur and bring it to the altar upon the Burning Spire, in the Ruins of Abyd to the north.{^n}{^n}A rift in reality will tear open. Enter it and seek out a creature named Onarix.{^n}{^n}Slaughter it in the name of Solael and bring me its heart so that our patron's hunger may be sated!
+Alright.
+I've misplaced the eye.
+You are testing my patience.{^n}{^n}Do not tempt me by losing this one too.
+I'll be more careful.
+I'll get you the heart.
+I smell the Heart of Onarix on your presence.{^n}{^n}Give it to me so that Solael may feast on its power and bestow his gift upon our forces!
+Alright, here it is.
+
+The time to strike is nearly at hand, but before Solael blesses us with his gift, he demands sacrifice.{^n}{^n}*Sagon stares at you intently*
+Uh, what kind of sacrifice?
+*Sagon smiles, revealing sharp teeth*{^n}{^n}Don't worry, Solael will not be feasting on your essence today.{^n}{^n}He has another in mind. You recall the Eye of Ekur you've acquired for us? It peers beyond the veil into realities beyond our own. I've branded it with runes so that its iris will focus upon a particular place.{^n}{^n}Bring it to the Burning Spire, in the Ruins of Abyd to the north and place it upon the altar. A rift in reality will tear open. Do not fear it. Enter and seek out a creature named Onarix.{^n}{^n}Slaughter it in the name of Solael and bring me its heart so that our patron's hunger may be sated!
+I will get you this sacrifice.
+I'm not doing this.
+Um, nobody's sacrificing me.
+Um, I need to go.
+It seems I have underestimated you.{^n}{^n}Raiken came to me with an update on our progress, but I smell a certain heart upon your presence.{^n}{^n}You carry with you the Heart of Onarix!
+What of the heart?
+Yes, before Solael was to bless us with his gift, he demanded a sacrifice.{^n}{^n}A being known as Onarix thrived in a realm beyond our own, but you saw to that and now you bring its heart.{^n}{^n}Give it to me so that Solael may feast on its power.
+Alright, here it is.
+Solael is pleased!{^n}{^n}All that remains is to crush the insolent fools guarding the Tomb of the Eldritch Sun and destroy their precious god.
+What is the plan?
+
+Raiken seems pleased with your work, remarkable.{^n}{^n}Before we can depart for the tomb, however, Solael demands sacrifice!
+What kind of sacrifice?
+
+Your presence here is only welcome out of necessity.{^n}{^n}If it were up to me...
+Um, goodbye.

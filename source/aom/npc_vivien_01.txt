@@ -1,0 +1,29 @@
+Vivian Neven
+Please, you have have to help us. We won't survive out here alone.
+Don't worry, help is on the way. 
+Please, we must get going. Rictor requires aid.
+Sure, lets get you two to safety. (Lie)
+But how will we get Rictor there? Can we carry him?{^n}{^n}I don't want to leave him out here all alone.
+I can send you both there via rift. (Lie)
+Truly, you can do that?{^n}{^n}You hear that, Rictor? We're going to make it out of this mess. You're going to be ok!
+I'll see you at the hideout. (Open Riftgate)
+I need a moment.
+Oh, thank the gods you found us.{^n}{^n}Please, you have to help us.{^n}{^n}I don't think we'll survive out here much longer. Rictor is hurt pretty bad. I'm not sure he can even stand.
+The resistance has a stronghold nearby.
+But how will we get Rictor there? Can we carry him?{^n}{^n}I don't want to leave him out here all alone.
+Hm, he doesn't look too good.
+I know...if you hadn't arrived, I'm not sure how much time he'd have left.{^n}{^n}So let's not waste it. Please help me get him to safety.
+
+Let me talk to him first.
+Let me talk to him first.
+He doesn't look too good.
+I know...if you hadn't arrived, I'm not sure how much time he'd have left.{^n}{^n}So let's not waste it. Please help me get him to safety.
+The resistance has a stronghold nearby.
+But how will we get Rictor there?{^n}{^n}Can we carry him through the city?
+I can send you both there via rift. (Lie)
+Truly, you can do that?{^n}{^n}You hear that, Rictor? We're going to make it out of this mess. You're going to be ok!
+I'll see you at the hideout. (Open Riftgate)
+Let me talk to him first.
+I'll be back for you.
+Help us please.
+I'll send someone for you.
