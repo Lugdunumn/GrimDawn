@@ -15,7 +15,11 @@ Sorry, I can't talk.{^n}{^n}I'm waiting for someone.
 Maybe later.
 Thank you for bringing my brothers back.{^n}{^n}What's left of them.
 I'm glad I could help.
+I have to be honest, this is all very strange. I don't really know how this is happening, the thing with the ghost.{^n}{^n}I suppose I don't really care.{^n}{^n}That thing...my brother. He's as much Anderan as he was when he was alive.{^n}{^n}I'm just glad to have him back.
 
+
+It's rather unusual, I admit.
+Farewell.
 I spoke with Aaral, if Anderan is stuck down in that temple you've got to go down there and find him, please.{^n}{^n}That kid is as strong as a chillmane but he's not much smarter than a rock.{^n}{^n}If he is down there he's going to need your help.
 Where's the temple again?
 There are ruins below the Cairan Docks to the north.{^n}{^n}That's where you found Aaral.
