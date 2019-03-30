@@ -383,4 +383,7 @@ tagGDX2BountyWG10=Guardian Yaharum
 tagGDX2BountyWG11=Guardian Ulazor
 
 
+#Races
 
+tagRace017=Empowered
+tagRace017P=Empowered

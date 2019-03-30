@@ -422,7 +422,8 @@ tagHUD_RightMouse_R1=This is your secondary attack.  Right click to assign a dif
 tagHUD_CompassToggleName=Compass Map Toggle
 tagHUD_CompassToggleDescription=Click to change size or minimize the compass map.
 tagHUD_LootMode=Loot Filter
-tagHUD_LootModeDescription=Adjust the options for what loot should be shown.
+tagHUD_LootHide=Toggle Show/Hide Items
+tagHUD_LootModeDescription=Adjust the options for what loot should be shown. Toggling Show/Hide Items can be used to hide all drops during a busy encounter and then display them again once finished.
 tagHUD_LootModeToggleOff=Auto Show Loot ^D(Off)
 tagHUD_LootModeToggleCommon=Auto Show Loot (Common+)
 tagHUD_LootModeToggleMagic=Auto Show Loot ^Y(Magic+)
@@ -473,6 +474,8 @@ tagHUDButtonRollOptions=Save, exit and configure game options.
 
 #LootFilterUI
 tagLootFilterWindowTitle=Loot Filter
+tagLootFilterToggleOn=Items Shown
+tagLootFilterToggleOff=Items Hidden
 tagLootFilterTitle01=Quality
 tagLootFilterTitle02=Type
 tagLootFilterTitle03=Damage

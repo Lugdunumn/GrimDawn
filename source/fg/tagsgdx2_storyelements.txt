@@ -183,7 +183,7 @@ tagNotification_AreaG_Special02=A shiver goes down your spine, visions of endles
 tagNotification_AreaG_Special03=As the creature's remains dissolve into the sands, the way forward opens...
 
 tagNotification_AreaG_MawOfEnahtA=A terrifying discovery. Somebody at the Conclave of the Three would likely wish to hear of this...
-tagNotification_AreaG_MawOfEnahtB=This must be the creature Carmac spoke off back at the Conclave of the Three...
+tagNotification_AreaG_MawOfEnahtB=This must be the creature Carmac spoke of back at the Conclave of the Three...
 
 
 #NPC Names
@@ -315,7 +315,7 @@ tagGDX2QuestItemBloodSwornManual_Desc="A collection of hastily written notes on 
 #Journals
 tagGDX2LoreObj_AreaG_NoteA01Name=Bloodsworn Manuscript Excerpt
 tagGDX2LoreObj_AreaG_NoteA01codexTitle=Bloodsworn Manuscript
-tagGDX2LoreObj_AreaG_NoteA01Text=*This parchment appears to have been torn out of some larger tome and is covered in a fresh layer of hastily written notes. What remains is covered in what you assume is human blood.*{^n}{^n}Ketan'Thunn, herald of the darkness, we beseech you. Our Bloordlord has fallen, and by association with his blunders we were made to suffer; but hear us, master of our blood, for we come bearing an offering. This land, these ruins, they are brimming with power, power which reeks of the enemies of the Dying One.{^n}{^n}We beseech you with this offering of blood. Come forth! May the shadows of the void follow in your wake that the Eldritch Sun be blotted out. And when the void has consumed this fallen kingdom, may we stand beside you with but a taste of your eternal glory. Then we shall go forth in your name and gather blood from the unworthy.{^n}{^n}The remainder of the text is written in glyphs beyond your understanding. Even peering upon them fills your head with thoughts of murder and spilled blood.
+tagGDX2LoreObj_AreaG_NoteA01Text=*This parchment appears to have been torn out of some larger tome and is covered in a fresh layer of hastily written notes. What remains is covered in what you assume is human blood.*{^n}{^n}Ketan'Thunn, herald of the darkness, we beseech you. Our Bloodlord has fallen, and by association with his blunders we were made to suffer; but hear us, master of our blood, for we come bearing an offering. This land, these ruins, they are brimming with power, power which reeks of the enemies of the Dying One.{^n}{^n}We beseech you with this offering of blood. Come forth! May the shadows of the void follow in your wake that the Eldritch Sun be blotted out. And when the void has consumed this fallen kingdom, may we stand beside you with but a taste of your eternal glory. Then we shall go forth in your name and gather blood from the unworthy.{^n}{^n}The remainder of the text is written in glyphs beyond your understanding. Even peering upon them fills your head with thoughts of murder and spilled blood.
 
 
 #Witch Gods

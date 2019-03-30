@@ -45,7 +45,7 @@ You've been quite a sight since entering our camp.{^n}{^n}I'm shivering with ant
 You serve Bysmiel? Why should I help you?
 My dear, who needs to see the future when you can manipulate it from the shadows? Solael would have you play with fire and get burned, but Bysmiel offers you the true gifts of the Eldritch Realm.{^n}{^n}Every hound, every raven, every fiend that's ever crossed the veil can and will serve the Schemer. All are bound within the web. No move can be made without tugging at the strings, until finally the spider strikes.
 I will work with your cult, Byscilla. (Join the Cult of Bysmiel)
-Then what I've heard is true. You do have some sense to complement your affinity for carnage.{^n}{^n}Together, we shall weave a web not even a god can escape.
+Then what I've heard is true. You do have some sense to accompany your affinity for carnage.{^n}{^n}Together, we shall weave a web not even a god can escape.
 
 I'll be back soon.
 Bysmiel is a spider?

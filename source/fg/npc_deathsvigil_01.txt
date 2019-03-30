@@ -1,7 +1,7 @@
 Master Harken of Death's Vigil
 Good to see you're still in the fight [[ms]brother[fs]sister].{^n}{^n}It seems our efforts in the Blood Grove weren't enough to stop Father Kymon and his band of Zealots.{^n}{^n}So we find ourselves chasing him through this forsaken wasteland on his mad quest to resurrect the Forgotten God.
 Father Kymon is dead.
-Is he?{^n}{^n}Have you done this, have you put an end to his madness?{^n}{^n}This is good news indeed, I will report back to the masters of the order.{^n}{^n}They will be pleased to hear that our trust in you was well placed.{^n}{^n}The Oder of Death's Vigil thanks you.
+Is he?{^n}{^n}Have you done this, have you put an end to his madness?{^n}{^n}This is good news indeed, I will report back to the masters of the order.{^n}{^n}They will be pleased to hear that our trust in you was well placed.{^n}{^n}The Order of Death's Vigil thanks you.
 Unfortunately Uroboruuk is also dead.
 Are you certain of this?{^n}{^n}The grip of death is slight upon a man such as our master.
 I saw him die.

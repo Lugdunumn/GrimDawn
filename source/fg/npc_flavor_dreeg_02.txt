@@ -36,10 +36,6 @@ Nope, I'm not interested.
 No, I'm not.
 Certainly not with you.
 Well, I see you've made your decision.{^n}{^n}Choosing to pledge your loyalty to the Witch Gods.{^n}{^n}I hear they take that kind of thing very seriously around here.
-
-I need to go.
-So I've heard.
-Decisions, decisions...{^n}{^n}Seems the Emissary has left you with a bit of a choice to make, friend.{^n}{^n}Which will it be?{^n}{^n}Bysmiel and her web of spies, Dreeg with his fancy visions, or maybe Solael with the ritual sacrifice?{^n}{^n}That last one sounds like a winner to me.
 Which do you serve?
 What, me?{^n}{^n}I certainly don't serve any of them.{^n}{^n}I serve the god of making Riggs a wealthy man.
 Then what are you doing here?
@@ -77,6 +73,10 @@ Well, thanks for the wisdom.
 I've heard enough.
 Good for you.
 That's great.
+I need to go.
+So I've heard.
+Decisions, decisions...{^n}{^n}Seems the Emissary has left you with a bit of a choice to make, friend.{^n}{^n}Which will it be?{^n}{^n}Bysmiel and her web of spies, Dreeg with his fancy visions, or maybe Solael with the ritual sacrifice?{^n}{^n}That last one sounds like a winner to me.
+
 Sorry, I can't chat right now.
 It's really none of your business.
 Hey there traveler.{^n}{^n}Come back and chat with me when you're done with the Emissary. {^n}{^n}Wouldn't want him coming after me for meddling in his business.

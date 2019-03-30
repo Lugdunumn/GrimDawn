@@ -218,7 +218,7 @@ tagClass02SkillName05E=Electrical Mortar
 tagClass02SkillDescription05E=Launches an electrically charged mortar at enemies.
 
 tagClass02SkillName06A=Thermite Mine
-tagClass02SkillDescription06A=Drops a trio of small but deadly pyrotechnic charges that will sear enemies with intense jets of flame. ^oThe mines scale with player damage bonuses and last for 12s once triggered by a foe.
+tagClass02SkillDescription06A=Drops a trio of small but deadly pyrotechnic charges that will sear enemies with intense jets of flame. ^oThe mines scale with player damage bonuses.
 tagClass02SkillName06B=Hellfire Mine
 tagClass02SkillDescription06B=Half pyrotechnics, half alchemy, this lethal improvement to the Thermite Mine causes it to scorch enemies with unearthly flame that sears the very being.
 tagClass02SkillName06C=Flame Jet
@@ -226,7 +226,7 @@ tagClass02SkillDescription06C=Emits a deadly jet of white-hot flame to incinerat
 tagClass02SkillName06D=Detonation
 
 tagClass02SkillName07A=Blast Shield
-tagClass02SkillDescription07A=A combination of military gear and pyromancy creates a ward capable of deflecting a fixed amount of all incoming damage while reducing pierce and fire damage. Attacking enemies will suffer the fiery blowback from the shield.
+tagClass02SkillDescription07A=A combination of military gear and pyromancy creates a ward capable of fortifying defenses while deflecting a fixed amount of incoming damage. Attacking enemies will suffer the fiery blowback from the shield.
 tagClass02SkillName07B=Ulzuin's Chosen
 tagClass02SkillDescription07B=Those who have sacrificed much in the pursuit of pyrotechnics eventually come to be favored by Ulzuin, receiving his blessing in wreaking fiery devastation upon the world. ^o[Affects Stun Jacks, Grenado and Canister Bomb and requires one to unlock]
 
@@ -527,7 +527,7 @@ tagClass05SkillName05B=Conversion
 tagClass05SkillDescription05B=The sphere absorbs harmful debilitating effects and converts them into your energy reserves.
 
 tagClass05SkillName06A=Albrecht's Aether Ray
-tagClass05SkillDescription06A=A powerful arcane technique perfected by Master Albrecht in the years just preceeding the Grim Dawn that channels raw arcane energies into a concentrated beam of destruction. ^oRequires a Caster Off-Hand. At 0% Cast Speed, Albrecht's Aether Ray deals damage and drains Energy every 0.3s.
+tagClass05SkillDescription06A=A powerful arcane technique perfected by Master Albrecht in the years just preceeding the Grim Dawn that channels raw arcane energies into a concentrated beam of destruction. ^oRequires a Caster Off-Hand. At 100% Cast Speed, Albrecht's Aether Ray deals damage and drains Energy every 0.3s.
 tagClass05SkillName06B=Disintegration
 tagClass05SkillDescription06B=Pours all of your energy into the Aether Ray, turning it into a catastrophic force that disintegrates all it touches. ^oEnergy Cost increase is per damage interval.
 tagClass05SkillName06C=Tainted Power
@@ -1780,7 +1780,7 @@ tagItemSkillD145Name=Nightshade Venom
 tagItemSkillD145Desc=Release a vile toxin trapped within the blade that turns flesh into stone.
 
 tagItemSkillD146Name=Obliteration
-tagItemSkillD146Desc=Unleash a beam of arcane destruction that obliterates everything it touches, piercing through foes as it erases them from existence. ^oThis is a channeled skill and must be held down to maintain. At 0% Cast Speed, Obliteration deals damage and drains Energy every 0.3s.
+tagItemSkillD146Desc=Unleash a beam of arcane destruction that obliterates everything it touches, piercing through foes as it erases them from existence. ^oThis is a channeled skill and must be held down to maintain. At 100% Cast Speed, Obliteration deals damage and drains Energy every 0.3s.
 
 tagItemSkillD147Name=Obsidian Tremor
 tagItemSkillD147Desc=Shatter the barrier between the void and the physical realm as obsidian spines burst through the earth.
@@ -2319,7 +2319,7 @@ tagRelicSkillC007Name=Haunt
 tagRelicSkillC007Desc=Invoke a summoning of tortured spirits that will haunt your enemies and chill their blood.
 
 tagRelicSkillC008Name=Conflagration
-tagRelicSkillC008Desc=Unleash a beam of pure flame so intense that not even the toughest armor can withstand it. ^oThis is a channeled skill and must be held down to maintain. At 0% Cast Speed, Conflagration deals damage and drains Energy every 0.3s.
+tagRelicSkillC008Desc=Unleash a beam of pure flame so intense that not even the toughest armor can withstand it. ^oThis is a channeled skill and must be held down to maintain. At 100% Cast Speed, Conflagration deals damage and drains Energy every 0.3s.
 
 tagRelicSkillC009Name=Summon Stormhound
 tagRelicSkillC009Desc=Call forth a loyal Stormhound, an eldritch beast born of the heavens. ^oOnly one Stormhound can be summoned at any one time. The stormhound scales with Pet Bonuses.
