@@ -2,7 +2,7 @@ Indalla
 Fascinating. You are a blank, an unknown.{^n}{^n}The winds of destiny wash over you with uncertainty.{^n}{^n}One with such dedication must be rewarded.
 Um, thanks?
 Whatever you've got, I don't want it.
-Victory is ours, and yet...{^n}{^n}Ill portents blow upon the winds of change.
+Victory is ours, and yet...{^n}{^n}Ill portents blow upon the winds of change.{^n}{^n}In times like this, a blank path without second chances may be the ultimate mark of victory.
 Farewell.
 Stay vigilant out there.{^n}{^n}The many eyes are watching.
 Farewell.
@@ -28,5 +28,5 @@ Very well.
 I'll speak with him then.
 Stay vigilant out there.{^n}{^n}The many eyes are watching.
 Farewell.
-Stay vigilant out there.{^n}{^n}The many eyes are watching.
+Stay vigilant out there.{^n}{^n}The many eyes are watching.{^n}{^n}In times like this, a blank path without second chances may be the ultimate mark of victory.
 Farewell.

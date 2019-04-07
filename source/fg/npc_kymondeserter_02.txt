@@ -1,0 +1,59 @@
+Sister Girra
+Our spirits are crushed and our bodies broken, please leave us alone.{^n}{^n}We have nothing of value.
+Farewell.
+Greetings, [[ms]brother[fs]sister].{^n}{^n}I do not know what brought you to these lands, but you should turn back.{^n}{^n}Father Kymon has betrayed us all.
+What can I expect up ahead?
+You will find our brothers and sisters that followed Kymon into this hell and offered themselves to a malevolent power.{^n}{^n}They are our brothers and sisters no longer, they've been turned into...something no longer human.
+
+
+Good luck in your journey.
+Thanks for the info.
+I fight for Kymon no longer.
+Then you too have seen the truth?{^n}{^n}Father Kymon offered us a chance in a dying world, a means to fight back against the blood cults and their dark masters.{^n}{^n}He selected us from among the most zealous and asked us to follow him to this forsaken land.{^n}{^n}We believed we were seeking a weapon to vanquish the Chthonians. I had no idea that in truth we would unleash something far worse.{^n}{^n}It was all a lie. Empyrion is not with us. There is only...Korvaak.
+What has Kymon done?
+We were fools to listen to his promises, and now all of Cairn will pay for our mistakes.{^n}{^n}Father Kymon uncovered something ancient...primordial...it is beyond mortal comprehension.
+The others at Sorrow's Bastion must be told.
+True, they must be warned of this betrayal.{^n}{^n}We may be Kymon's Chosen no longer, but our mission to protect Cairn remains the same.{^n}{^n}But how can we get word to them now?
+I can rift all of you there.
+Astounding, and...concerning.{^n}{^n}But I will do whatever it takes. The others, however, may be too injured too travel by such means.
+I'll see you there. (Open Riftgate)
+I'll be back.
+Good luck in your journey.
+I'll be back.
+Good luck in your journey.
+Farewell.
+
+
+Good luck in your journey.
+Farewell.
+Father Kymon is dead.
+So the false prophet lies dead...that does offer a measure of relief.{^n}{^n}But I fear it may already be too late. He has unleashed something terrifying beneath that temple.
+What has he done?
+
+
+
+Good luck in your journey.
+Farewell.
+Good luck in your journey.
+Farewell.
+Our spirits are crushed and our bodies broken.{^n}{^n}Please move on, we have nothing of value.
+You're Kymon's Chosen? Which makes you the enemy!
+No! Hold your weapons.{^n}{^n}We...we were deceived. Father Kymon offered us a chance in a dying world, a means to fight back against the blood cults and their dark masters.{^n}{^n}But it was all a lie. Empyrion is not with us. There is only...Korvaak.{^n}{^n}After witnessing the horrors of this truth, we've abandoned Kymon's camp and are heading back to Erulan...if we survive.
+
+
+Who are you?
+We once proudly called ourselves Kymon's Chosen, but I can no longer abide by such a name.{^n}{^n}We...we were deceived. Father Kymon offered us a chance in a dying world, a means to fight back against the blood cults and their dark masters.{^n}{^n}But it was all a lie. Empyrion is not with us. There is only...Korvaak.{^n}{^n}After witnessing the horrors of this truth, we've abandoned Kymon's camp and are heading back to Erulan...if we survive.{^n}{^n}
+I fight to stop Kymon.
+Then I pray to the true Empyrion that you find victory, though I honestly cannot see how.{^n}{^n}He has unleashed something terrifying beneath that temple.
+What has Kymon done?
+We were fools to listen to his promises, and now all of Cairn will pay for our mistakes.{^n}{^n}Father Kymon uncovered something ancient...primordial...it is beyond mortal comprehension.
+Then I hope for your sake you are wrong.
+Good luck in your journey.
+Then I hope for your sake you are wrong.
+Good luck in your journey.
+Father Kymon is dead.
+So the false prophet lies dead...that does offer a measure of relief.{^n}{^n}But I fear it may already be too late. He has unleashed something terrifying beneath that temple.
+What has he done?
+
+Good luck in your journey.
+Farewell.

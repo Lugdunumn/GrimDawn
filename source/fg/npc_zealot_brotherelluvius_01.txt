@@ -1,6 +1,13 @@
 Brother Elluvius
 May the Light of Empyrion guide your path.
 Farewell.
+The news Sister Girra brings of Father Kymon's mission to the east is...troubling.{^n}{^n}Her words rattle me to the core, surely she spouts heresy?
+It's all true, brother. I've seen it.
+*Elluvius shakes with rage*{^n}{^n}In the end, he was but a man. His mistakes do not change what we stand for.{^n}{^n}Without us, the Chthonians will engulf all of Cairn. We must stand united in this betrayal.
+Good, accept the truth.
+We will persevere!
+You must accept the truth.
+I'll let you dwell on it.
 Brother Miranok speaks very highly of you, [[ms]brother[fs]sister].
 Kymon is dead, as is your god.
 *Brother Elluvius tenses up*{^n}{^n}Watch your tongue lest I cut it out for you.{^n}{^n}Father Kymon is blessed by Empyrion's light. Nothing can touch him.{^n}{^n}To suggest that Empyrion himself had fallen? Preposterous.

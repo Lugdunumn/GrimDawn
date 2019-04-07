@@ -1,0 +1,25 @@
+Sister Thaddia
+Is what Sister Girra says true?{^n}{^n}Have we been lied to all this time?
+You must accept the truth.
+I'll let you dwell on it.
+You truly are a Chosen of Kymon.{^n}{^n}Empyrion will surely reward your faithful service.
+Farewell.
+Through Empyrion, all is possible.
+Empyrion?
+The Lightbringer, the Eternal Flame. Empyrion is the savior of humanity, returned to us in our darkest hour.{^n}{^n}Father Kymon communes with Empyrion, delivering the Divine One's will to his Chosen.
+How do I commune with Empyrion?
+Empyrion only speaks to Father Kymon.{^n}{^n}We are not permitted to disturb him during his visions.
+Seems awfully convenient.
+Do you not have faith? None who have witnessed Father Kymon's work would dare question his connection with Empyrion.{^n}{^n}The Blessed Father has walked through flame and emerged unscathed. His very touch banishes Chthonians to the void.{^n}{^n}It is an honor and a privilege to be one of his Chosen.
+I will have to see it for myself.
+I'm sorry I jumped to conclusions.
+Farewell.
+Farewell.
+What's behind this gate?
+Father Kymon's personal study, where he communes with Empyrion.{^n}{^n}No one is permitted inside except the Father.
+
+I see.
+Farewell.
+Welcome [[ms]brother[fs]sister]. May Empyrion be your light in the encroaching darkness.
+
+Farewell.

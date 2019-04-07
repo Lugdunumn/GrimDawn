@@ -8,23 +8,48 @@ Wait, I need some time to prepare.
 The oracles of Dreeg spoke of your arrival. Their mad choir whispers of you marching alongside our forces into the Tomb of the Eldritch Sun and emerging triumphant, but even their eyes cannot peer into what I offer.{^n}{^n}The Shattered Realm is unlike anything mankind has ever witnessed, teeming with wealth and power beyond imagining, but also dangers not unlike those that we face even now on Cairn.{^n}{^n}I have the means to open the way, if you wish to join me in pursuing its mysteries. But be warned: the Shattered Realm spans eternity. One could spend a lifetime exploring even a small fragment of its vast reality. You must be careful not to lose your mind, or worse, become lost forever.{^n}{^n}Will you dare enter? Will you witness sights beyond imagining?
 Open the portal to the Shattered Realm!
 Before we begin, I have a Waystone you can use.
-A Waystone? Splendid!{^n}{^n}Waystones are fragments of the very realm we seek to enter, the only guiding light in the veiled lands that await.{^n}{^n}How far shall we go, hm?
+A Waystone? Splendid!{^n}{^n}Waystones are fragments of the very realm we seek to enter, the only guiding light in the veiled lands that await.
+Forget it, just open the way forward.
+Offer a Shattered Waystone...
+How far shall we go, hm?
 Use a Shattered Waystone to open the way to the 5th Shard.
 Use a Shattered Waystone to open the way to the 10th Shard.
 Use a Shattered Waystone to open the way to the 15th Shard.
+Forget it, just open the way forward.
+I'd like to use a different Waystone.
+Nevermind.
+Offer a Resonating Waystone...
+How far shall we go, hm?
 Use a Resonating Waystone to open the way to the 20th Shard.
 Use a Resonating Waystone to open the way to the 25th Shard.
 Use a Resonating Waystone to open the way to the 30th Shard.
+Forget it, just open the way forward.
+I'd like to use a different Waystone.
+Nevermind.
+Offer a Haunted Waystone...
+How far shall we go, hm?
 Use a Haunted Waystone to open the way to the 35th Shard.
 Use a Haunted Waystone to open the way to the 40th Shard.
 Use a Haunted Waystone to open the way to the 45th Shard.
+Forget it, just open the way forward.
+I'd like to use a different Waystone.
+Nevermind.
+Offer a Desecrated Waystone...
+How far shall we go, hm?
 Use a Desecrated Waystone to open the way to the 50th Shard.
 Use a Desecrated Waystone to open the way to the 55th Shard.
 Use a Desecrated Waystone to open the way to the 60th Shard.
+Forget it, just open the way forward.
+I'd like to use a different Waystone.
+Nevermind.
+Offer a Celestial Waystone...
+How far shall we go, hm?
 Use a Celestial Waystone to open the way to the 65th Shard.
 Use a Celestial Waystone to open the way to the 70th Shard.
 Use a Celestial Waystone to open the way to the 75th Shard.
 Forget it, just open the way forward.
+I'd like to use a different Waystone.
+Nevermind.
 Nevermind.
 Can I ask some questions first?
 The Shattered Realm is as much a mystery to me as it is to you, but I'll answer what I can.

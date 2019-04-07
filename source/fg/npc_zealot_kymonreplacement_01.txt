@@ -1,7 +1,16 @@
 Brother Miranok
 Welcome to the Chosen.
 Farewell.
-And now you understand that we did what we had to.{^n}{^n}The Loghorrean is just one of countless terrors under the command of Ch'thon.
+Sister Girra spout heresy.{^n}{^n}Do you stand with her as well? Or do you stand with the light of our Father?
+Kymon is dead, as is your god.
+Preposterous!{^n}{^n}You would come here, into our sanctuary, and spew such vitriol in our faces?!{^n}{^n}A god cannot be killed by some puny mortal. So long as our faith in Korvaak lives, so shall he guide us to Cairn's salvation.
+Then I guess you are all next.
+Is that a threat? We are steeled by our faith.{^n}{^n}Nothing you or the Eldritch usurpers can do will ever cause us to waver in our purpose.
+In time they will all see the truth.
+Good luck then.
+Don't you dare touch her.
+In time they will all see the truth.
+I am sorry that you too must carry the burden of Father Kymon's secret, but you deserved to know the truth.
 Kymon is dead, as is your god.
 Preposterous!{^n}{^n}You would come here, into our sanctuary, and spew such vitriol in our faces?!{^n}{^n}A god cannot be killed by some puny mortal. So long as our faith in Korvaak lives, so shall he guide us to Cairn's salvation.
 Then I guess you are all next.
@@ -9,6 +18,13 @@ Is that a threat? We are steeled by our faith.{^n}{^n}Nothing you or the Eldritc
 You are blinded by faith.
 Good luck then.
 Farewell.
+Sister Girra spout heresy.{^n}{^n}Do you stand with her as well? Or do you stand with the light of our Father?
+Father Kymon has betrayed us, you must see that.
+I see a man that has sacrificed everything, even his humanity, to save us all.{^n}{^n}None of you will sway me from our mission.
+You're hopeless.
+Suit yourself.
+Don't you dare touch her.
+In time they will all see the truth.
 And now you understand that we did what we had to.{^n}{^n}The Loghorrean is just one of countless terrors under the command of Ch'thon.
 Perhaps, but was the price you paid too high?
 Maybe so, but we must all live with the decisions we make.{^n}{^n}We will die knowing that we battled one terror with the aid of another, but so long as Cairn survives, the sacrifice will be worth it.

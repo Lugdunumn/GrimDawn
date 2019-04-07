@@ -65,7 +65,7 @@ tagGDX2Class09SkillName06B=Clarity of Purpose
 tagGDX2Class09SkillDescription06B=Driven to destroy their foes without hesitation, an Oathkeeper becomes the embodiment of celestial fury.
 
 tagGDX2Class09SkillName07A=Eye of Reckoning
-tagGDX2Class09SkillDescription07A=When the first Oathkeepers looked upon the celestial vale and witnessed the astounding power of Empyrion's light, they sought to replicate its brilliance and might. The culmination of their prayers and training was the Eye of Reckoning, a devastating display of martial combat that rapidly cleaves through all nearby foes in a whirlwind of fire and light for as long as the Oathkeeper channels their focus into the attack. ^oRequires a melee weapon. At 100% Attack Speed, Eye of Reckoning deals damage and drains Energy every 0.2s.
+tagGDX2Class09SkillDescription07A=When the first Oathkeepers looked upon the celestial vale and witnessed the astounding power of Empyrion's light, they sought to replicate its brilliance and might. The culmination of their prayers and training was the Eye of Reckoning, a devastating display of martial combat that rapidly cleaves through all nearby foes in a whirlwind of fire and light for as long as the Oathkeeper channels their focus into the attack. ^oRequires a melee weapon. At 100% Attack Speed, Eye of Reckoning deals damage and drains Energy every 0.16s.
 tagGDX2Class09SkillName07B=Soulfire
 tagGDX2Class09SkillDescription07B=Through the righteous fire burning with the Oathkeeper's soul, the light becomes as if a physical force, spiraling outward and piercing through unwary foes during the Eye of Reckoning.
 
@@ -265,8 +265,8 @@ tagGDX2RelicSkillD202Desc=Smash the ground, causing the earth to crack and erupt
 tagGDX2RelicSkillD203Name=Sand Devil
 tagGDX2RelicSkillD203Desc=Unleash a whirlwind of sand upon your foes. ^oSand Devils scale with player damage bonuses.
 
-tagGDX2RelicSkillD204Name=Hungering Reach
-tagGDX2RelicSkillD204Desc=Focus your fury into a whirlwind of voracious power that consumes the lifeblood of all near you for as long as you channel the effect. ^oRequires a melee weapon.
+tagGDX2RelicSkillD204Name=Voracious Reach
+tagGDX2RelicSkillD204Desc=Focus your fury into a whirlwind of voracious power that consumes the lifeblood of all near you for as long as you channel the effect. ^oRequires a melee weapon. At 100% Attack Speed, Voracious Reach deals damage and drains Energy every 0.16s.
 
 tagGDX2RelicSkillD205Name=Serenity
 tagGDX2RelicSkillD205Desc=Serenity fills you in time of need, offering respite from grievous wounds.
