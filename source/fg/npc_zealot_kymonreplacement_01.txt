@@ -153,7 +153,7 @@ I hope he responds.
 That seems likely.
 Have you dealt with the Order's followers and recovered the sacred ashes?
 Yes, I have them here.
-Empyrion's will was done this day. You have done well, brother.{^n}{^n}With the ashes in our possession, we have brought forth a harbinger of Empyrion's will. Together, we shall bring righteous fire down upon the impure and the corrupt.{^n}{^n}Thanks to your efforts, we now have a formidable new ally. A manifestation of Archon Barthollem himself!
+Empyrion's will was done this day. You have done well, [[ms]brother[fs]sister].{^n}{^n}With the ashes in our possession, we have brought forth a harbinger of Empyrion's will. Together, we shall bring righteous fire down upon the impure and the corrupt.{^n}{^n}Thanks to your efforts, we now have a formidable new ally. A manifestation of Archon Barthollem himself!
 What is that spirit doing here?
 Archon Barthollem is the burning retribution of Empyrion himself.{^n}{^n}Using the ashes you recovered, I was able to manifest him from the celestial realm. He is as dedicated to Empyrion as the day he died. He shall be a formidable ally in the battles ahead.
 You...called this spirit? Sounds like necromancy.

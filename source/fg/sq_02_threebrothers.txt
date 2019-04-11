@@ -7,7 +7,7 @@ Find Anorak's brothers
 
 
 Find Brother Anderan
-You found Anorak's brother Aaral, but he was alone. It appears the two borhters had uncovered something in the Sandblown Ruins below the Cairan Docks, but something went terribly wrong.{^n}{^n}Aaral panicked and ran back to the surface, leaving Anderan behind.{^n}{^n}Aaral now fears the worst, but he's too much of a coward to return to the ruins.{^n}{^n}Enter the Sandblown Ruins and search for Anderan.
+You found Anorak's brother Aaral, but he was alone. It appears the two brothers had uncovered something in the Sandblown Ruins below the Cairan Docks, but something went terribly wrong.{^n}{^n}Aaral panicked and ran back to the surface, leaving Anderan behind.{^n}{^n}Aaral now fears the worst, but he's too much of a coward to return to the ruins.{^n}{^n}Enter the Sandblown Ruins and search for Anderan.
 Learn Anderan's fate
 
 Brother Anderan Ghost

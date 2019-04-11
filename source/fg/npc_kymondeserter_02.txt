@@ -42,7 +42,7 @@ No! Hold your weapons.{^n}{^n}We...we were deceived. Father Kymon offered us a c
 
 
 Who are you?
-We once proudly called ourselves Kymon's Chosen, but I can no longer abide by such a name.{^n}{^n}We...we were deceived. Father Kymon offered us a chance in a dying world, a means to fight back against the blood cults and their dark masters.{^n}{^n}But it was all a lie. Empyrion is not with us. There is only...Korvaak.{^n}{^n}After witnessing the horrors of this truth, we've abandoned Kymon's camp and are heading back to Erulan...if we survive.{^n}{^n}
+We once proudly called ourselves Kymon's Chosen, but I can no longer abide by such a name.{^n}{^n}We...we were deceived. Father Kymon offered us a chance in a dying world, a means to fight back against the blood cults and their dark masters.{^n}{^n}But it was all a lie. Empyrion is not with us. There is only...Korvaak.{^n}{^n}After witnessing the horrors of this truth, we've abandoned Kymon's camp and are heading back to Erulan...if we survive.
 I fight to stop Kymon.
 Then I pray to the true Empyrion that you find victory, though I honestly cannot see how.{^n}{^n}He has unleashed something terrifying beneath that temple.
 What has Kymon done?

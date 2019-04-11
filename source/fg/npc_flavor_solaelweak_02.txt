@@ -21,7 +21,7 @@ That grubby creeper who keeps following me around.{^n}{^n}If I am to give my lif
 
 No, I've changed my mind.
 I'm sorry to do this.
-No need to appologize.{^n}{^n}I accept my fate. But would you grant me an honorable death in combat?
+No need to apologize.{^n}{^n}I accept my fate. But would you grant me an honorable death in combat?
 As you wish. (Attack)
 I've changed my mind.
 No, that's not it.

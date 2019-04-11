@@ -534,10 +534,10 @@ tagGDX2NPC_ExchangeA01=Garrus ~ Keeper of Iron
 
 tagGDX1StoreDesc_SmithA03_2=Bella Fald's hammer is said to have been forged from the stars themselves, capable of creating Legendary items up to level 94, not including objects forged by the Forgotten Gods.
 
-tagGDX2NPC_SmithA01=Ignar
+tagGDX2NPC_SmithA01=Ignus
 tagGDX2StoreTitle_SmithA01=Bewitched Smith
 tagGDX2StoreDesc_SmithA01_1={}Marked by the Witch Gods
-tagGDX2StoreDesc_SmithA01_2=The work of Ignar has been marked by the Witch Gods. His creations carry unusual properties bestowed by their blessing.
+tagGDX2StoreDesc_SmithA01_2=The work of Ignus has been marked by the Witch Gods. His creations carry unusual properties bestowed by their blessing.
 tagGDX2StoreDesc_SmithA01_3= 
 tagGDX2StoreDesc_SmithA01_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
 
