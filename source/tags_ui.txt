@@ -1773,6 +1773,8 @@ tagGamePadMap=Map
 tagGamePadFactions=Factions
 tagGamePadAchieve=Achievements
 tagGamePadLootFilter=Loot Filter
+tagGamePadDevotionSearch=Search
+tagGamePadMinimapSize=Minimap
 
 tagControllerUIWarning=Your current Screen Resolution does not support the Controller User Interface.
 
@@ -2202,6 +2204,7 @@ tagDamageModifierCritDamageR={%+.0f0}-{%.0f1}% {^E}Crit Damage
 tagDamageModifierDamageMult={^E}Total Damage Modified by {^H}{%.0f0}%
 tagRetaliationModifierTotalDamage={%+.0f0}% {^E}to All Retaliation Damage
 tagRetaliationModifierTotalDamageR={%+.0f0}-{%.0f1}% {^E}to All Retaliation Damage
+tagRetaliationModifierDamageMult={^E}Total Retaliation Damage Modified by {^H}{%.0f0}%
 tagTotalSpeedResistance={%.0f0}% {^E}Slow Resistance
 tagTotalSpeedResistanceR={%+.0f0}-{%.0f1}% {^E}Slow Resistance
 tagMindcontrolledMonster=Mind-controlled

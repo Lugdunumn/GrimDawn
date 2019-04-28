@@ -60,7 +60,12 @@ tagGDX2EndlessDungeon_S202=Bonebleach Halberd
 tagGDX2EndlessDungeon_NPC_Event01=Mazaan, Keeper of Portals
 
 tagGDX2EndlessDungeon_NPC_Merchant01=Ullana
-tagGDX2EndlessDungeon_ StoreTitle_Merchant01=Immortal Peddler
+tagGDX2EndlessDungeon_ StoreTitle_Merchant01=Shattered Peddler
+tagGDX2EndlessDungeon_ StoreTitle_Merchant02=Shattered Squire
+tagGDX2EndlessDungeon_ StoreTitle_Merchant03=Shattered Knight
+tagGDX2EndlessDungeon_ StoreTitle_Merchant04=Shattered Lord
+tagGDX2EndlessDungeon_ StoreTitle_Merchant05=Shattered Guardian
+
 
 tagGDX2EndlessDungeon_NPC_Smith01=Ikarrod
 tagGDX2EndlessDungeon_StoreTitle_Smith01=Cursed Smith

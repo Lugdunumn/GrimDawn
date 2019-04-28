@@ -59,7 +59,7 @@ Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-The Coven needs assistance maintaining balance in the Ugdenbog.{^n}{^n}Despite our efforts the Basilisk threat continues to grow.{^n}{^n}Perhaps it's time we dealt a more precise blow.{^n}{^n}Find the beast called Silancar, at the heart of Ugdenbog, and destroy it.{^n}{^n}The death of this fiend will be rewarded with iron bits.
+The Coven needs assistance maintaining balance in the Ugdenbog.{^n}{^n}Despite our efforts the Basilisk threat continues to grow.{^n}{^n}Perhaps it's time we dealt a more precise blow.{^n}{^n}Find the beast called Sllancar, at the heart of Ugdenbog, and destroy it.{^n}{^n}The death of this fiend will be rewarded with iron bits.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
@@ -79,7 +79,7 @@ Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-The beast Carraxus Foul has long plagued the Coven of Ugdenbog. {^n}{^n}Find the creatures lair in the Northeast of Gloomwald and slay Carraxus Foul for the safety of the Coven.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for slaying this beast.
+The beast Carraxus Foul has long plagued the Coven of Ugdenbog. {^n}{^n}Find the creature's lair in the Northeast of Gloomwald and slay Carraxus Foul for the safety of the Coven.{^n}{^n}The Coven has set aside some of their ritual supplies as compensation for slaying this beast.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.

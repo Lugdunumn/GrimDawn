@@ -309,7 +309,7 @@ tagGDX1ItemSkillD111Name=Fiend's Gaze
 tagGDX1ItemSkillD111Desc=The fiend's gaze falls upon your foes, burning their very souls.
 
 tagGDX1ItemSkillD112Name=Flame Patch
-tagGDX1ItemSkillD112Desc=You ignite the very ground you step on.
+tagGDX1ItemSkillD112Desc=You ignite the very ground your foes stand upon.
 
 tagGDX1ItemSkillD113Name=Light of Truth
 tagGDX1ItemSkillD113Desc=The light of the sacred truth overwhelms your foes and forces the weakminded to serve.
@@ -537,7 +537,7 @@ tagGDX1CompSkillA103Name=Chain Lightning
 tagGDX1CompSkillA103Desc=Lightning crackles at your fingertips and cascades off of your foes to demolish their ranks.
 
 tagGDX1CompSkillA104Name=Acid Purge
-tagGDX1CompSkillA104Desc=Unleash a continuous spray of vile acid from your hand to melt your foes, so long as you maintain focus.
+tagGDX1CompSkillA104Desc=Unleash a continuous spray of vile acid from your hand to melt your foes, so long as you maintain focus. ^oThis is a channeled skill and must be held down to maintain. ^oAt 100% Cast Speed, Acid Purge deals damage and drains Energy every 0.3s.
 
 tagGDX1CompSkillA105Name=Aether Corruption
 tagGDX1CompSkillA105Desc=Corrupting Aether energy rips through your foes, rapidly spreading corruption among your enemies.

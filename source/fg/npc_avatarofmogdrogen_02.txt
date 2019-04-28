@@ -8,7 +8,7 @@ You don't know?{^n}{^n}I would think one such as you would be used to doing the 
 Can I ask about something else?
 I need to go.
 You underestimate me!
-You truly do not know?{^n}{^n}You've become a piece in a game that spans the the very stars, of beings incomprehensible to your mortal mind.{^n}{^n}But now the balance has shifted, the rules will have to change.
+You truly do not know?{^n}{^n}You've become a piece in a game that spans the very stars, of beings incomprehensible to your mortal mind.{^n}{^n}But now the balance has shifted, the rules will have to change.
 Can I ask about something else?
 I, uh, should go.
 Nobody manipulates me!

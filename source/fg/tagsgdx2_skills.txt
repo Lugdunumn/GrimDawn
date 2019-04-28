@@ -148,6 +148,9 @@ tagGDX2ItemSkillD210Desc=Blast your target with a heavenly ray of searing flames
 tagGDX2ItemSkillD211Name=Spectral Guard
 tagGDX2ItemSkillD211Desc=Being brought low fills you with spectral resilience and fury.
 
+tagGDX2ItemSkillD211BName=Corrupted Guard
+tagGDX2ItemSkillD211BDesc=Being brought low fills you with corrupted resilience and fury.
+
 tagGDX2ItemSkillD212Name=Rewind Fate
 tagGDX2ItemSkillD212Desc=Rewind the strands of fate, undoing recent harm.
 
@@ -242,6 +245,9 @@ tagGDX2ItemSkillD239Desc=You ignite the very ground beneath your foes.
 
 tagGDX2ItemSkillD240Name=Bysmiel's Command
 tagGDX2ItemSkillD240Desc=Invoke your authority over your minions, invigorating and empowering yourself and your allies.
+
+tagGDX2ItemSkillD241Name=Bitter Winds
+tagGDX2ItemSkillD241Desc=A rush of bitter winds erupts from you, chilling nearby foes to the bone.
 
 
 #Component Skills

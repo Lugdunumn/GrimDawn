@@ -527,7 +527,7 @@ tagClass05SkillName05B=Conversion
 tagClass05SkillDescription05B=The sphere absorbs harmful debilitating effects and converts them into your energy reserves.
 
 tagClass05SkillName06A=Albrecht's Aether Ray
-tagClass05SkillDescription06A=A powerful arcane technique perfected by Master Albrecht in the years just preceeding the Grim Dawn that channels raw arcane energies into a concentrated beam of destruction. ^oRequires a Caster Off-Hand. At 100% Cast Speed, Albrecht's Aether Ray deals damage and drains Energy every 0.3s.
+tagClass05SkillDescription06A=A powerful arcane technique perfected by Master Albrecht in the years just preceeding the Grim Dawn that channels raw arcane energies into a concentrated beam of destruction that penetrates all foes. ^oRequires a Caster Off-Hand. At 100% Cast Speed, Albrecht's Aether Ray deals damage and drains Energy every 0.3s.
 tagClass05SkillName06B=Disintegration
 tagClass05SkillDescription06B=Pours all of your energy into the Aether Ray, turning it into a catastrophic force that disintegrates all it touches. ^oEnergy Cost increase is per damage interval.
 tagClass05SkillName06C=Tainted Power
@@ -1488,7 +1488,7 @@ tagItemSkillD050Name=Chilling Presence
 tagItemSkillD050Desc=Your very presence chills enemies to the bone. ^oThis ability must be toggled to maintain its effect.
 
 tagItemSkillD051Name=Clairvoyance
-tagItemSkillD051Desc=Clear your mind in preparation for taxing spellwork.
+tagItemSkillD051Desc=Clear your mind in preparation for devastating spellwork.
 
 tagItemSkillD052Name=Colossal Might
 tagItemSkillD052Desc=Mastery of shield combat has honed you into a lethal and unstoppable weapon. ^oThis is a shield passive bonus.
@@ -2089,7 +2089,7 @@ tagItemSkillD247Name=Warborn
 tagItemSkillD247Desc=You were born for combat and thrive in the thick of it.
 
 tagItemSkillD248Name=Bloodrage
-tagItemSkillD248Desc=Slaying a foe throws you into a rage as you thirst for more blood to spill.
+tagItemSkillD248Desc=Landing a crippling blow throws you into a rage as you thirst for more blood to spill.
 
 tagItemSkillD249Name=Arcane Destruction
 tagItemSkillD249Desc=Tear a small rift in reality through which falls an arcane ember.
@@ -2111,6 +2111,21 @@ tagItemSkillD254Desc=Flames erupt from the earth all around you, leaving nothing
 
 tagItemSkillD255Name=Dread Ice
 tagItemSkillD255Desc=Release a burst of frozen razor sharp spines.
+
+tagItemSkillD256Name=Iskandra's Sky Shard
+tagItemSkillD256Desc=Adapted from Trozan's legendary technique, Iskandra has put her own spin on this impressive arcane display.
+
+tagItemSkillD257Name=Iskandra's Elemental Tear
+tagItemSkillD257Desc=Iskandra's knowledge of the arcane can tear the very integrity of a being apart, should she wish it.
+
+tagItemSkillD258Name=Bloodfrenzy
+tagItemSkillD258Desc=Slaying a foe throws you into a regenerative frenzy.
+
+tagItemSkillD259Name=Ulzuin's Gaze
+tagItemSkillD259Desc=Wherever the burning god's gaze fell, flames erupted.
+
+tagItemSkillD260Name=Ulzuin's Vengeance
+tagItemSkillD260Desc=A manifestation of the fire god's rage, burning embers fall from the sky and incinerate all.
 
 tagItemSkillFailName=Failchantment
 tagItemSkillFailDesc=Fail a little harder.
@@ -2319,7 +2334,7 @@ tagRelicSkillC007Name=Haunt
 tagRelicSkillC007Desc=Invoke a summoning of tortured spirits that will haunt your enemies and chill their blood.
 
 tagRelicSkillC008Name=Conflagration
-tagRelicSkillC008Desc=Unleash a beam of pure flame so intense that not even the toughest armor can withstand it. ^oThis is a channeled skill and must be held down to maintain. At 100% Cast Speed, Conflagration deals damage and drains Energy every 0.3s.
+tagRelicSkillC008Desc=Unleash a piercing beam of pure flame so intense that not even the toughest armor can withstand it. ^oThis is a channeled skill and must be held down to maintain. At 100% Cast Speed, Conflagration deals damage and drains Energy every 0.3s.
 
 tagRelicSkillC009Name=Summon Stormhound
 tagRelicSkillC009Desc=Call forth a loyal Stormhound, an eldritch beast born of the heavens. ^oOnly one Stormhound can be summoned at any one time. The stormhound scales with Pet Bonuses.
@@ -2530,7 +2545,7 @@ tagDevotion_RequiresFocus=^oRequires a caster off-hand.
 tagDevotion_Requires1hRange=^oRequires a one-handed ranged weapon.
 tagDevotion_Requires2hRange=^oRequires a two-handed ranged weapon.
 tagDevotion_RequiresRange=^oRequires a ranged weapon.
-tagDevotion_Requires2h=^oRequires a two-handed melee or ranged weapon.
+tagDevotion_Requires2h=^oRequires a two-handed melee or two-handed ranged weapon.
 tagDevotion_RequiresShield=^oRequires a shield.
 tagDevotion_RequiresMagic=^oRequires a scepter, dagger or caster off-hand.
 

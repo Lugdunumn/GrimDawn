@@ -181,7 +181,7 @@ tagGameplayDesc27=If enabled the "Move To" skill can be used to break destructib
 tagGameplayDesc28=Adjusts the type of loot that is automatically shown.
 tagGameplayDesc29=Check to enable Grim Dawn's classic Spell Casting System that forces character movement when out of range.{^n}Uncheck to use our new Spell Casting System for more responsive spell behavior.{^n}(This option is only active when using a Mouse+Keyboard)
 tagGameplayDesc30=Enable pop up text error messages such as when a skill is on cooldown.
-tagGameplayDesc31=Check to have movement skills move towards your current target.{^n}Uncheck to have movement skills ignore your current target.
+tagGameplayDesc31=When using a Gamepad, check to have movement skills (ex. the Oathkeeper's Vire's Might) move towards your current target.{^n}Uncheck to have movement skills ignore your current target and move their max distance instead.
 tagDownloadLanguages=Download Language
 tagDownloadConnecting=Please Wait...
 tagLanguageSuccess=Download complete, please restart the game to enable the new language.
@@ -610,3 +610,8 @@ tagImportToSteamCloud=Steam Cloud Saving is enabled. Import existing characters?
 tagResetCloudWarning=Are you sure you want to delete all characters and data stored in the cloud?
 tagDownloadCloudWarning=Are you sure you want to download cloud saves? Locally saved characters and data will be overwritten!
 tagWorking=Working...
+
+# Onscreen Keyboard
+tagOnscreenKeyboardBackspace=Delete
+tagOnscreenKeyboardCaps=Caps
+tagOnscreenKeyboardReturn=Enter

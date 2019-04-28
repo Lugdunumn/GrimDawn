@@ -193,6 +193,8 @@ tagGDX2FocusD204_Desc="Atonement through action."
 tagGDX2FocusD205=Inashkor's Head
 tagGDX2FocusD205_Desc="The mighty guardian of the Korvan people may have fallen, but its power remains eerily intact."
 tagGDX2FocusD206=Cyclone Effigy
+tagGDX2FocusD207=Inashkor's Corrupted Head
+tagGDX2FocusD207_Desc="The mighty guardian of the Korvan people fell to a Chthonian invader, its once glorious power forever tainted by the void."
 
 tagGDX2FocusF201=Bysmiel Veilfire Effigy
 tagGDX2FocusF202=Bysmiel Tainted Effigy
@@ -579,7 +581,7 @@ tagGDX2Blueprint_ArmorD203=Blueprint: Soulare's Helm
 tagGDX2Blueprint_ArmorD204=Blueprint: Mythical Dawnshard Gaze
 tagGDX2Blueprint_ArmorD205=Blueprint: Mythical Crown of the Revenant King
 tagGDX2Blueprint_ArmorD206=Blueprint: Mythical Soulare's Helm
-tagGDX2Blueprint_ArmorD207=Blueprint: Chillwhisper Hood
+tagGDX2Blueprint_ArmorD207=Blueprint: Chillwhisper Crown
 tagGDX2Blueprint_ArmorD208=Blueprint: Ludrigan's Hat
 tagGDX2Blueprint_ArmorD209=Blueprint: Bonemonger's Hood
 tagGDX2Blueprint_ArmorD210=Blueprint: Virtue's Gaze
