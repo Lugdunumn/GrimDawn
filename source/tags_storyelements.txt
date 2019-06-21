@@ -1295,6 +1295,7 @@ tagNPC_GateGuardA01=Rook - Gate Keeper
 #Merchants and Other Services
 
 tagNPC_BonusItems=Kory the Keeper
+tagNPC_BonusItems02=Lancel the Knight
 
 tagNPC_MerchantA01=Roan
 tagStoreTitle_MerchantA01=Salvage Dealer
@@ -1396,6 +1397,8 @@ tagStoreDesc_SmithA06_1={}Know Thy Enemy
 tagStoreDesc_SmithA06_2=Hallena has studied the enemies of man and learned to counter their strengths through the forge.
 tagStoreDesc_SmithA06_3= 
 tagStoreDesc_SmithA06_4=Crafted Weapons, Armor and Accessories are imbued with one of the following properties:
+
+tagNPC_PowerupsS01=Torralia, the Immortal Archmage
 
 #Faction Quartermasters
 tagNPC_FactionQuartermaster_01=Ellis

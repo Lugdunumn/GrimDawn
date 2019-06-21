@@ -61,7 +61,7 @@ Hold stranger.{^n}{^n}We are not enemies.
 What are you doing out here?
 I believe we have shared goals.{^n}{^n}We are here in this forsaken wasteland in search of Father Kymon.{^n}{^n}To put a stop to his madness once and for all.{^n}{^n}Is this not the same end you seek traveler?
 Father Kymon is dead.
-Is he?{^n}{^n}Have you done this, have you put an end to his madness?{^n}{^n}This is good news indeed, I will report back to my order.{^n}{^n}Thank you for this news, traveler. {^n}{^n}The Oder of Death's Vigil thanks you for bringing balance to Cairn.
+Is he?{^n}{^n}Have you done this, have you put an end to his madness?{^n}{^n}This is good news indeed, I will report back to my order.{^n}{^n}Thank you for this news, traveler. {^n}{^n}The Order of Death's Vigil thanks you for bringing balance to Cairn.
 He had to be stopped.
 Yes, you do.
 Yes. I'm looking for Father Kymon.

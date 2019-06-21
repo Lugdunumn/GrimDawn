@@ -62,7 +62,7 @@ tagSkillUndoClass=Undo Class
 #Transmuter
 tagTransmuterWindow=Illusionist
 tagTransmuteButton=Apply Illusion
-tagTransmuteNew=You have gained a new Illusion: {%t0}
+tagTransmuteNew=You have gained a new Illusion: {%s0}
 tagTransmutePageFormat={%d0} / {%d1}
 tagTransmuteNoItems=You are not wearing any equipment which the Illusionist can service.
 tagTransmuteTotalGold=Total Iron Bits:

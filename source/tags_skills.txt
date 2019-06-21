@@ -499,13 +499,13 @@ tagClass05SkillName01E=Concussive Missile
 tagClass05SkillDescription01E=Manifests the power of the Replicating Missile into the corporeal realm, causing it to inflict physical as well as metaphysical harm.
 
 tagClass05SkillName02A=Iskandra's Elemental Exchange
-tagClass05SkillDescription02A=Iskandra taught her students that the most efficient path of victory was to turn an opponent's own energies against them. Just so, Elemental Exchange causes the weapons of allies to hungrily absorb arcane energy from foes and return it in the form of elemental damage. ^oThis ability must be toggled to maintain its effect. The damage conversion only applies to the caster.
+tagClass05SkillDescription02A=Iskandra taught her students that the most efficient path of victory was to turn an opponent's own energies against them. Just so, Elemental Exchange causes the weapons of allies to hungrily absorb arcane energy from foes and return it in the form of elemental damage. ^oThis ability must be toggled to maintain its effect.
 tagClass05SkillName02B=Overload
 tagClass05SkillDescription02B=The incantation becomes overloaded with arcane forces, causing your weapons to crackle with the raw powers of the elements.
 tagClass05SkillName02C=Elemental Balance
 tagClass05SkillDescription02C=Strike a finely-tuned balance within your incantation, harmonizing the opposing forces of fire and ice with wild electricity.
 tagClass05SkillName02D=Manifestation
-tagClass05SkillDescription02D=Arcane energies manifest in many forms. Arcanists who delve into the art of summoning often transfer their mastery of the arcane to their loyal minions so that they can better serve the will of their masters. ^oThis effect is extended to your allies.
+tagClass05SkillDescription02D=Arcane energies manifest in many forms. Arcanists who delve into the art of summoning often transfer their mastery of the arcane to their loyal minions so that they can better serve the will of their masters. ^oThis effect is extended to your allies. The player damage conversion only applies to the caster.
 
 tagClass05SkillName03A=Trozan's Sky Shard
 tagClass05SkillDescription03A=The mythical Trozan was said to be a natural; wild and unwilling to conform to the doctrines of the Imperial Arcanists. When the Imperials finally surrounded his mountaintop refuge, Trozan humbled them using an unknown technique to bring down the very sky upon them. ^oDrops 3 shards upon the target area.
@@ -517,7 +517,7 @@ tagClass05SkillDescription03C=The Sky Shard becomes increasingly unstable upon d
 tagClass05SkillName04A=Callidor's Tempest
 tagClass05SkillDescription04A=Master Callidor famously served as a general in King Samuel's army. While deployed on the front lines, Callidor perfected a technique which, by creating a sudden concentrated burst of raw aether energy, would ignite the air around him in an arcane tempest.
 tagClass05SkillName04B=Inferno
-tagClass05SkillDescription04B=The tempest becomes a blazing inferno, searing flesh and melting armor.
+tagClass05SkillDescription04B=The tempest becomes a blazing inferno, searing enemy flesh with lasting flames.
 tagClass05SkillName04C=Wrath of Agrivix
 tagClass05SkillDescription04C=Agrivix was reknown for channeling such immense power into the Tempest that the resulting explosion would leave nothing but ashes of anyone foolish enough to stray within reach. However, his technique required great concentration and could not be repeated without rest.
 
@@ -1846,7 +1846,7 @@ tagItemSkillD167Name=Sacred Balance
 tagItemSkillD167Desc=Strike a balance between the opposing forces of light and darkness before unleashing their powers upon nearby foes.
 
 tagItemSkillD168Name=Screams of the Aether
-tagItemSkillD168Desc=Cries of the Aether emanate from you, terrifying nearby foes.
+tagItemSkillD168Desc=Cries of the Aether emanate from you, terrifying and confounding nearby foes.
 
 tagItemSkillD169Name=Sealed Fate
 tagItemSkillD169Desc=You seal the fate of your foes, confident in the judgment you cast upon them.

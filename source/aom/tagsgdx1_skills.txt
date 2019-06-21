@@ -68,7 +68,7 @@ tagGDX1Class07SkillDescription03D=By extending their will through massive two-ha
 tagGDX1Class07SkillName04A=Flames of Ignaffar
 tagGDX1Class07SkillDescription04A=Hold the Stone of Ignaffar in front of you, unleashing a torrent of flame from the palm of your hand for as long as you channel your will into the artifact.^oThis is a channeled skill and must be held down to maintain. ^oAt 100% Cast Speed, Flames of Ignaffar deals damage and drains Energy every 0.3s.
 tagGDX1Class07SkillName04B=Intensify
-tagGDX1Class07SkillDescription04B=The Flames of Ignaffar intensify, melting through armor and turning flesh to ashes.
+tagGDX1Class07SkillDescription04B=The Flames of Ignaffar intensify, melting through defenses and turning flesh to ashes.
 tagGDX1Class07SkillName04C=Infernal Purge
 tagGDX1Class07SkillDescription04C=Your will pours forth through the Stone of Ignaffar, purging the weak with a blazing inferno.
 tagGDX1Class07SkillName04D=Endless Flame
@@ -360,7 +360,7 @@ tagGDX1ItemSkillD128Name=Gladiator's Persistence
 tagGDX1ItemSkillD128Desc=Persistence through glorious battle. ^oThis is a two-handed melee and two-handed ranged weapon passive bonus.
 
 tagGDX1ItemSkillD129Name=Treacherous Means
-tagGDX1ItemSkillD129Desc=Victory through any means. ^oThis is a ranged weapon passive bonus.
+tagGDX1ItemSkillD129Desc=Victory through any means. ^oThis is a melee dual-wielding and ranged dual-wielding passive bonus. Also enables the ability to dual wield weapons.
 
 tagGDX1ItemSkillD130Name=Magma Orb
 tagGDX1ItemSkillD130Desc=Hurl a projectile of pure fire which fragments at the slightest touch.

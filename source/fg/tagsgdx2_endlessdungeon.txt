@@ -20,6 +20,9 @@ tagGDX2EndlessDungeon_Boss12=Shattered Outcast
 tagGDX2EndlessDungeon_Boss13=Salazin the Shattered Blade
 tagGDX2EndlessDungeon_Boss14=Shatteredshaper Hinass
 tagGDX2EndlessDungeon_Boss15=Keeper of the Shattered Gates
+tagGDX2EndlessDungeon_Boss16=Manifestation of Hunger
+tagGDX2EndlessDungeon_Boss16_Tentacle=Hungering Tentacle
+tagGDX2EndlessDungeon_Boss16_Void=Hungering Void
 
 tagGDX2EndlessDungeon_Special01=Fanatic ~ Cult of the Mine
 tagGDX2EndlessDungeon_Special02=Gazer Prime
@@ -33,6 +36,13 @@ tagGDX2EndlessDungeon_Special08=Spirit of Crate
 tagGDX2EndlessDungeon_Special09=Bonebleach Dromedary
 tagGDX2EndlessDungeon_Special10=Bonebleach Dromedary ~ Champion
 tagGDX2EndlessDungeon_Special11=Bonebleach Dromedary ~ Watcher
+tagGDX2EndlessDungeon_Special12=Starved Maggot
+tagGDX2EndlessDungeon_Special13=Fired Up Maggot
+tagGDX2EndlessDungeon_Special14=Bloated Maggot
+tagGDX2EndlessDungeon_Special15=Overfed Maggot
+tagGDX2EndlessDungeon_Special16=Unstable Devourer
+tagGDX2EndlessDungeon_Special17=Bloated Devourer
+tagGDX2EndlessDungeon_Special18=Hungerling
 
 tagGDX2EndlessDungeon_Lever01=Red Lever
 tagGDX2EndlessDungeon_Lever02=Green Lever
@@ -63,7 +73,7 @@ tagGDX2EndlessDungeon_NPC_Merchant01=Ullana
 tagGDX2EndlessDungeon_ StoreTitle_Merchant01=Shattered Peddler
 tagGDX2EndlessDungeon_ StoreTitle_Merchant02=Shattered Squire
 tagGDX2EndlessDungeon_ StoreTitle_Merchant03=Shattered Knight
-tagGDX2EndlessDungeon_ StoreTitle_Merchant04=Shattered Lord
+tagGDX2EndlessDungeon_ StoreTitle_Merchant04=Shattered Maiden
 tagGDX2EndlessDungeon_ StoreTitle_Merchant05=Shattered Guardian
 
 

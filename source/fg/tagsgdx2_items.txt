@@ -15,6 +15,8 @@ tagGDX2WeaponSwordD201_Desc="The venom infused within this blade reeks of rot an
 tagGDX2WeaponSwordD202=Soulblade
 tagGDX2WeaponSwordD205=Chillheart
 tagGDX2WeaponSwordD205_Desc="The words 'stuck in another reality, please send help' are hastily etched into the hilt."
+tagGDX2WeaponSwordD206=Dunefiend's Blade
+tagGDX2WeaponSwordD207=Dunefiend's Slicer
 
 tagGDX2WeaponSwordF201=Bysmiel Blade
 tagGDX2WeaponSwordF202=Solael Slicer
@@ -31,6 +33,10 @@ tagGDX2WeaponBluntC201=Kalastorian Gavel
 
 tagGDX2WeaponBluntD201=Gavel of Ravenous Souls
 tagGDX2WeaponBluntD202=Herald of Amatok
+tagGDX2WeaponBluntD203=Targo's Mallet
+tagGDX2WeaponBluntD204=Totally Normal Buckler
+tagGDX2WeaponBluntD205=Totally Normal Dawnshard
+tagGDX2WeaponBluntD206=Totally Normal Bulwark
 
 tagGDX2WeaponBluntF201=Bysmiel Warhammer
 tagGDX2WeaponBluntF202=Solael Warhammer
@@ -164,6 +170,7 @@ tagGDX2ShieldD201=Bramblevine
 tagGDX2ShieldD202=Gravetouch
 tagGDX2ShieldD203=Virtue's Defender
 tagGDX2ShieldD204=Defender of the Three
+tagGDX2ShieldD205=Voidsoul Bulwark
 
 tagGDX2ShieldF201=Bysmiel Defender
 tagGDX2ShieldF202=Dreeg Protector
@@ -195,6 +202,7 @@ tagGDX2FocusD205_Desc="The mighty guardian of the Korvan people may have fallen,
 tagGDX2FocusD206=Cyclone Effigy
 tagGDX2FocusD207=Inashkor's Corrupted Head
 tagGDX2FocusD207_Desc="The mighty guardian of the Korvan people fell to a Chthonian invader, its once glorious power forever tainted by the void."
+tagGDX2FocusD208=Pyran's Effigy
 
 tagGDX2FocusF201=Bysmiel Veilfire Effigy
 tagGDX2FocusF202=Bysmiel Tainted Effigy
@@ -250,6 +258,11 @@ tagGDX2HeadD213=Cyclone Mask
 tagGDX2HeadD214=Blightlord's Hood
 tagGDX2HeadD215=Callagadra's Visage
 tagGDX2HeadD215_Desc="Manifestation of the terror of the Korvan people as they fled devastation."
+tagGDX2HeadD216=Dunefiend's Mask
+tagGDX2HeadD217=Pyran's Visage
+tagGDX2HeadD218=Targo's Helm
+tagGDX2HeadD219=Voidsoul Visage
+tagGDX2HeadD220=Rotgheist Mask
 
 tagGDX2HeadF201=Bysmiel Nightshroud Casque
 tagGDX2HeadF202=Bysmiel Dread Hood
@@ -294,6 +307,10 @@ tagGDX2ShoulderD211=Cyclone Mantle
 tagGDX2ShoulderD212=Rah'Zin's Shoulderguards
 tagGDX2ShoulderD213=Blightlord's Mantle
 tagGDX2ShoulderD214=Ghol's Mantle
+tagGDX2ShoulderD215=Pyran's Mantle
+tagGDX2ShoulderD216=Targo's Shoulderguard
+tagGDX2ShoulderD217=Voidsoul Mantle
+tagGDX2ShoulderD218=Rotgheist Shoulderguard
 
 tagGDX2ShoulderF201=Bysmiel Arcane Spaulders
 tagGDX2ShoulderF202=Bysmiel Stormshroud Mantle
@@ -341,6 +358,11 @@ tagGDX2TorsoD210=Armor of the Three
 tagGDX2TorsoD211=Harra's Chestguard
 tagGDX2TorsoD212=Rah'Zin's Armor
 tagGDX2TorsoD213=Ghol's Raiment
+tagGDX2TorsoD214=Dunefiend's Jacket
+tagGDX2TorsoD215=Pyran's Vestments
+tagGDX2TorsoD216=Targo's Chestguard
+tagGDX2TorsoD217=Voidsoul Armor
+tagGDX2TorsoD218=Rotgheist Chestguard
 
 tagGDX2TorsoF201=Bysmiel Nightshroud Chestguard
 tagGDX2TorsoF202=Bysmiel Vile Vestments
@@ -487,6 +509,7 @@ tagGDX2NecklaceD210=Harra's Ward
 tagGDX2NecklaceD211=Rah'Zin's Gem
 tagGDX2NecklaceD212=Blightlord's Vector
 tagGDX2NecklaceD213=Bysmiel's Iris
+tagGDX2NecklaceD214=Rotgheist Emblem
 
 tagGDX2NecklaceF201=Bysmiel Champion Pendant
 tagGDX2NecklaceF202=Bysmiel Veiled Pendant
@@ -590,6 +613,11 @@ tagGDX2Blueprint_ArmorD212=Blueprint: Cyclone Mask
 tagGDX2Blueprint_ArmorD213=Blueprint: Rah'Zin's Armor
 tagGDX2Blueprint_ArmorD214=Blueprint: Blightlord's Hood
 tagGDX2Blueprint_ArmorD215=Blueprint: Ghol's Raiment
+tagGDX2Blueprint_ArmorD216=Blueprint: Dunefiend's Mask
+tagGDX2Blueprint_ArmorD217=Blueprint: Pyran's Visage
+tagGDX2Blueprint_ArmorD218=Blueprint: Targo's Helm
+tagGDX2Blueprint_ArmorD219=Blueprint: Voidsoul Visage
+tagGDX2Blueprint_ArmorD220=Blueprint: Rotgheist Mask
 
 tagGDX1Blueprint_AccessoryD121I=Blueprint: Conduit of Divine Whispers
 
@@ -718,6 +746,9 @@ tagGDX2Consumable_01_Desc="The orb's purpose, or even origins, are a mystery. Wo
 
 tagGDX2Consumable_02=Celestial Orb
 tagGDX2Consumable_02_Desc="A remnant of the Shattered Realm. But what purpose does it serve..."
+
+tagGDX2Consumable_03=Void Orb
+tagGDX2Consumable_03_Desc="This orb shimmers with void energies. It's probably not safe to handle..."
 
 
 #ItemEnchantment
@@ -1068,6 +1099,23 @@ tagGDX2ItemSetD212Desc="Ghol was savage, yet brilliant; precisely the traits tha
 tagGDX2ItemSetD213Name=Bysmiel's Trinkets
 tagGDX2ItemSetD213Desc="In her mortal days, the Lady of Whispers was known to gather powerful objects that enhanced her control over lesser creatures. After ascending to her throne, she no longer had need for such petty trinkets."
 
+tagGDX2ItemSetD214Name=The Korvan Dunefiend
+tagGDX2ItemSetD214Desc=The Korvan Dunefiend aspired to be as the vipers of the Korvan Sands, elusive...swift...and deadly.
+
+tagGDX2ItemSetD215Name=Pyran's Ruminations
+tagGDX2ItemSetD215Desc=Scorned by his teachers, Pyran vowed to leave his mark upon the history of the arcane, even as his experiments warped and twisted his own flesh.
+
+tagGDX2ItemSetD216Name=Targo's Craft
+tagGDX2ItemSetD216Desc=Said to be forged by the very forgemaster of the stars themselves, the armor embodies strength of body and will.
+
+tagGDX2ItemSetD217Name=The Voidsoul
+tagGDX2ItemSetD217Desc=This once blessed armor now teems with sinister energies, the void having corrupted its heart for all eternity.
+
+tagGDX2ItemSetD218Name=Rotgheist
+tagGDX2ItemSetD218Desc=Rotgheist reveled in slaughter of man and creature alike, and even wore the flesh of his prey long after it had begun to rot.
+
+
+
 
 #LootChests
 
@@ -1151,3 +1199,6 @@ tagGDX2DifficultyUnlock02_Desc=Proof of vanquishing Cairn's terrors and earning 
 tagGDX2DifficultyUnlockStats={^E}Unlocks Attribute/Skill rewards from quests on lower difficulties
 tagGDX2DifficultyUnlockTeleporters={^E}Unlocks Riftgates on lower difficulties
 tagGDX2DifficultyUnlockBags={^E}Unlocks all Inventory Bags
+
+
+

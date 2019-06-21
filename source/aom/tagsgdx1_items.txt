@@ -73,7 +73,7 @@ tagWeaponGun1hC013B=Mediator
 tagGDX1WeaponGun1hC101=The Dissenter
 tagGDX1WeaponGun1hC101B=Dissenter
 tagGDX1WeaponGun1hC102=Aldur's Inquisition
-tagGDX1WeaponGun1hC102_Desc=Sidearm of Inquisitor Aldur, renowned hunter of heretics and slayer of Galbar'Thuul."
+tagGDX1WeaponGun1hC102_Desc="Sidearm of Inquisitor Aldur, renowned hunter of heretics and slayer of Galbar'Thuul."
 tagGDX1WeaponGun1hC103=Core of Gargabol
 tagGDX1WeaponGun1hC103_Desc="A flicker of the once mighty guardian's flame still glows within its core."
 tagGDX1WeaponGun1hC108=Stormlauncher of Ultos
@@ -269,7 +269,7 @@ tagGDX1FocusB105Desc="The tome writhes in your hands."
 tagGDX1FocusB106=Fleshwarped Codex
 tagGDX1FocusB107=Fleshwarped Archive
 tagGDX1FocusB108=Spellshock Tome
-tagGDX1FocusB109=Smoldering Effigy
+tagGDX1FocusB109=Smoldering Tome
 tagGDX1FocusB110=Leafmane Horn
 tagGDX1FocusB111=Leafmane Trophy
 
@@ -735,7 +735,7 @@ tagGDX1NecklaceD102=Flames of Wrath
 tagGDX1NecklaceD103=Vigar's Hunger
 tagGDX1NecklaceD103_Desc="The phial is filled with blood from the wendigo Ravager itself."
 tagGDX1NecklaceD104=Tainted Ruby of Gar'dal
-tagGDX1NecklaceD105=Executioner's Judgement
+tagGDX1NecklaceD105=Executioner's judgment
 tagGDX1NecklaceD106=Stormseer Sapphire
 tagGDX1NecklaceD113A=Conduit of Warring Whispers
 tagGDX1NecklaceD113B=Conduit of Destructive Whispers
@@ -904,7 +904,7 @@ tagGDX1Blueprint_WeaponB103=Blueprint: Bloodspill Cleaver
 tagGDX1Blueprint_WeaponB104=Blueprint: Gutcrush Warmaul
 tagGDX1Blueprint_WeaponB105=Blueprint: Stonewall Defender
 tagGDX1Blueprint_WeaponB106=Blueprint: Spellshock Tome
-tagGDX1Blueprint_WeaponB107=Blueprint: Smoldering Effigy
+tagGDX1Blueprint_WeaponB107=Blueprint: Smoldering Tome
 tagGDX1Blueprint_WeaponB108=Blueprint: Rime-Rotten Wand
 tagGDX1Blueprint_WeaponB109=Blueprint: Deathborne Scepter
 
@@ -1221,11 +1221,6 @@ tagGDX1ConsumableF107Desc="A viscous fluid teeming with potential."^oCan be plac
 
 tagGDX1Consumable_AttributeReset=Tonic of Reshaping
 tagGDX1Consumable_AttributeReset_Desc="Fills you with an uncomfortable warmth as your entire body seemingly reshapes itself."
-
-#DLC
-tagGDX1DLCA01=Illusion: Powdered Wig
-tagGDX1DLCA01Desc="The definition of sophistication and style."
-
 
 
 
@@ -1875,3 +1870,30 @@ tagGDX1EpicDoor_AncientGroveLocked= {^R} ~ Sealed by Mogdrogen (Requires a Skele
 tagGDX1Door_Vine=Vines
 tagGDX1Door_Flesh=Living Flesh Door
 tagGDX1Door_Puppetmaster=Living Flesh Door
+
+
+#DLC
+tagGDX1DLCIllusionA01=Illusion: Black Knight Armor
+tagGDX1DLCA01=Black Knight Armor
+tagGDX1DLCA01Desc="The sinister Black Knight Armor."
+
+
+tagGDX1DLCIllusionA02=Illusion: Silver Knight Armor
+tagGDX1DLCA02=Silver Knight Armor
+tagGDX1DLCA02Desc="The sacred Silver Knight Armor."
+
+tagGDX1DLCIllusionA03=Illusion: Dragon General Collection
+tagGDX1DLCA03=Dragon General Collection
+tagGDX1DLCA03Desc="The venerable General collection."
+
+tagGDX1DLCIllusionA04=Illusion: White Wizard
+tagGDX1DLCA04=White Wizard Attire
+tagGDX1DLCA04Desc="The enigmatic White Wizard's attire."
+
+tagGDX1DLCIllusionHelmInvisible=Invisible Helm
+tagGDX1DLCIllusionHelmInvisibleDesc="100% of the protection with 0% of the weight. Now also dairy-free."
+
+tagGDX1DLCIllusionShouldersInvisible=Invisible Shoulderguards
+tagGDX1DLCIllusionShouldersInvisibleDesc="100% of the protection with 0% of the weight. Now also dairy-free."
+
+

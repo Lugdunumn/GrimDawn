@@ -243,11 +243,23 @@ tagGDX2ItemSkillD238Desc=A pool of blood bubbles up from the earth beneath your 
 tagGDX2ItemSkillD239Name=Flame Patch
 tagGDX2ItemSkillD239Desc=You ignite the very ground beneath your foes.
 
-tagGDX2ItemSkillD240Name=Bysmiel's Command
+tagGDX2ItemSkillD240Name=Bysmiel's Authority
 tagGDX2ItemSkillD240Desc=Invoke your authority over your minions, invigorating and empowering yourself and your allies.
 
 tagGDX2ItemSkillD241Name=Bitter Winds
 tagGDX2ItemSkillD241Desc=A rush of bitter winds erupts from you, chilling nearby foes to the bone.
+
+tagGDX2ItemSkillD242Name=Dunefiend Blades
+tagGDX2ItemSkillD242Desc=The Dunefiend's blades carry a caustic bite, which comes at your foes in a blur of steel. ^oThis is a melee dual-wielding passive bonus. Also enables the ability to dual wield melee weapons.
+
+tagGDX2ItemSkillD243Name=Pyran's Pyre
+tagGDX2ItemSkillD243Desc=Unleash a burst of violent flames at the target point.
+
+tagGDX2ItemSkillD244Name=Void Soul
+tagGDX2ItemSkillD244Desc=A tormented soul infests your foe and rapidly spreads its suffering to nearby enemies.
+
+tagGDX2ItemSkillD245Name=Phantasmal Blade
+tagGDX2ItemSkillD245Desc=A blade with a will of its own flies towards your foe and impales all in its way.
 
 
 #Component Skills
@@ -287,6 +299,9 @@ tagGDX2_SummonMiniLizardDesc=Call forth the mighty Korvan Minivore, a ferocious 
 
 tagGDX2_SummonMaggotName=Summon Celestial Maggot
 tagGDX2_SummonMaggotDesc=Conjure a writhing maggot from the Shattered Realm. ^oOnly one Celestial Maggot can be summoned at any one time. Maggots are strictly non-violent.
+
+tagGDX2_SummonDevourer=Summon Hungerling
+tagGDX2_SummonDevourerDesc=Conjure a voracious hungerling from the void. ^oOnly one Hungerling can be summoned at any one time. Hungerlings are strictly non-violent.
 
 
 #SkillsQuest

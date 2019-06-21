@@ -1046,6 +1046,7 @@ tagRelicSwarm=Swarmling
 
 
 tagDLCWisp=Will'O'Wisp
+tagDLCCrate=Sacred Crate
 
 #EnemySummons
 

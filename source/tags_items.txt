@@ -101,7 +101,7 @@ tagWeaponBluntA010=Warmace
 tagWeaponBluntB000=Torch
 tagWeaponBluntB001=Warden's Verdict
 tagWeaponBluntB001Desc="It is unclear how many innocent men lost their lives at the mercy of this weapon."
-tagWeaponBluntB002=Warden's Judgement
+tagWeaponBluntB002=Warden's judgment
 tagWeaponBluntB003=Troll Bonesmasher
 tagWeaponBluntB004=Troll Bonecrusher
 tagWeaponBluntB005=Spectral Morningstar
@@ -135,7 +135,7 @@ tagWeaponBluntC013=Black Hand of Sanar'Siin
 tagWeaponBluntC014=Progenitor
 tagWeaponBluntC015=War's Rebuke
 tagWeaponBluntC016=Gavel of Barthollem
-tagWeaponBluntC016Desc="Sacred gavel of Archon Barthollem, used to pass divine judgement upon the unworthy."
+tagWeaponBluntC016Desc="Sacred gavel of Archon Barthollem, used to pass divine judgment upon the unworthy."
 tagWeaponBluntC017=Chillsteel Redeemer
 
 tagWeaponBluntD001=Death Omen
@@ -2497,6 +2497,64 @@ tagDLCConsumableA01PetSkill01Desc=The Wisp surrounds you with a warm light that 
 tagDLCConsumableA02=Burrwitch Brew
 tagDLCConsumableA02Desc="Not for the faint of heart. Side effects may include: nausea, vomiting, forgetting where you were last night."
 
+tagDLCConsumableA03=Sacred Crate
+tagDLCConsumableA03Desc="A sacred creature, bound to the physical realm."
+tagDLCConsumableA03PetSkill01=Crate Presence
+
+tagDLCIllusionA11=Illusion: Black Knight's Boots
+tagDLCA11=Black Knight's Boots
+tagDLCA11Desc="Part of the sinister Black Knight Armor."
+tagDLCIllusionA12=Illusion: Black Knight's Gauntlets
+tagDLCA12=Black Knight's Gauntlets
+tagDLCIllusionA13=Illusion: Black Knight's Helm
+tagDLCA13=Black Knight's Helm
+tagDLCIllusionA14=Illusion: Black Knight's Legguards
+tagDLCA14=Black Knight's Legguards
+tagDLCIllusionA15=Illusion: Black Knight's Shield
+tagDLCA15=Black Knight's Shield
+tagDLCIllusionA16=Illusion: Black Knight's Shoulderguards
+tagDLCA16=Black Knight's Shoulderguards
+tagDLCIllusionA17=Illusion: Black Knight's Blade
+tagDLCA17=Black Knight's Blade
+tagDLCIllusionA18=Illusion: Black Knight's Chestguard
+tagDLCA18=Black Knight's Chestguard
+
+tagDLCIllusionA19=Illusion: Silver Knight's Boots
+tagDLCA19=Silver Knight's Boots
+tagDLCA19Desc="Part of the sacred Silver Knight Armor."
+tagDLCIllusionA20=Illusion: Silver Knight's Gauntlets
+tagDLCA20=Silver Knight's Gauntlets
+tagDLCIllusionA21=Illusion: Silver Knight's Helm
+tagDLCA21=Silver Knight's Helm
+tagDLCIllusionA22=Illusion: Silver Knight's Legguards
+tagDLCA22=Silver Knight's Legguards
+tagDLCIllusionA23=Illusion: Silver Knight's Shield
+tagDLCA23=Silver Knight's Shield
+tagDLCIllusionA24=Illusion: Silver Knight's Shoulderguards
+tagDLCA24=Silver Knight's Shoulderguards
+tagDLCIllusionA25=Illusion: Silver Knight's Blade
+tagDLCA25=Silver Knight's Blade
+tagDLCIllusionA26=Illusion: Silver Knight's Chestguard
+tagDLCA26=Silver Knight's Chestguard
+
+tagDLCIllusionA27=Illusion: Dragon General's Spear
+tagDLCA27=Dragon General's Spear
+tagDLCA27Desc="Part of the venerable Dragon General collection."
+tagDLCIllusionA28=Illusion: Dragon General's Helm
+tagDLCA28=Dragon General's Helm
+tagDLCIllusionA29=Illusion: Dragon General's Armor
+tagDLCA29=Dragon General's Armor
+
+tagDLCIllusionA30=Illusion: White Wizard's Staff
+tagDLCA30=White Wizard's Staff
+tagDLCA30Desc="Part of the enigmatic White Wizard's attire."
+tagDLCIllusionA31=Illusion: White Wizard's Hat
+tagDLCA31=White Wizard's Hat
+tagDLCIllusionA32=Illusion: White Wizard's Robes
+tagDLCA32=White Wizard's Robes
+
+
+
 #ItemNote
 
 tagNoteHelp=[Right-Click to Read]
@@ -3527,7 +3585,7 @@ tagItemSetC004NameB=Bloodreaper's Carnage
 tagItemSetC004Desc="Armor and weapons used only by the most bloodthirsty assassins of Cairn."
 
 tagItemSetC005Name=Marauder's Justice
-tagItemSetC005NameB=Marauder's Judgement
+tagItemSetC005NameB=Marauder's judgment
 tagItemSetC005Desc="Judge, jury, and executioner."
 
 tagItemSetC006Name=Herald's Regalia
@@ -4229,6 +4287,7 @@ tagTrollDoor=Gate
 
 tagBreakableStoneWall=Crumbling Wall
 tagBreakableNaturalWall=Loose Earth
+tagBreakableObsidianWall=Crumbling Obsidian
 
 #Dungeon Doors
 

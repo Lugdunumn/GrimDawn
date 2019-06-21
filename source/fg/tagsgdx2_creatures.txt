@@ -254,6 +254,8 @@ tagGDX2Pet_Item_Mini=Korvan Minivore
 tagGDX2Pet_Item_Mini_Skill=Miniroar
 tagGDX2Pet_Item_Maggot=Celestial Maggot
 tagGDX2Pet_Item_Maggot_Skill=Writhe
+tagGDX2Pet_Item_Devourer=Hungerling
+tagGDX2Pet_Item_Devourer_Skill=Hungry!
 
 tagGDX2Pet_Devotion_BlackBlood=Black Blood of Yugol
 

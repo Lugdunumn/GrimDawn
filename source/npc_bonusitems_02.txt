@@ -1,0 +1,27 @@
+Lancel the Knight
+Greetings!{^n}{^n}I am Lancel, and I've traveled the world in search of one worthy of my collection.{^n}{^n}Are you such a one?
+I am feeling knightly.
+As you should!{^n}{^n}But are you in more of a silver mood...or perhaps something a bit more sinister?
+The silver armaments!
+A fine choice.{^n}{^n}I might say it's my favorite choice!{^n}{^n}Be aware, this is quite the large collection, so make sure your bags have enough space.
+(Receive Illusions: Silver Knight)
+The black armaments!
+Hm, can't say it's what I would go with, but who am I to judge?{^n}{^n}Be aware, this is quite the large collection, so make sure your bags have enough space.
+(Receive Illusions: Black Knight)
+What was the most impressive thing you've seen?
+It was a splendid sight.{^n}{^n}He fought as if he were a ferocious beast. His spear cut through foes in a blur.{^n}{^n}This armor is now all that remains of the venerable warrior.{^n}{^n}Be aware, this is a large collection, so make sure your bags have enough space.
+(Receive Illusions: Dragon General)
+Have you met any wizards in your travels?
+Indeed I have. Powerful beings they are, not to be trifled with.{^n}{^n}Although the one I met was very wise, very ancient...but an enigmatic fellow.{^n}{^n}He told me to fly.{^n}{^n}Be aware, this is a large collection, so make sure your bags have enough space.
+(Receive Illusions: White Wizard)
+I could use a companion.
+This is a lonely world, it helps to have a friend.
+I'll take the sacred crate.
+This creature is a symbol of great fortune in many cultures.{^n}{^n}Treat it well.
+(Receive Item: Sacred Crate)
+I'm tired of these Illusions.
+I understand. Looking this good can become quite the burden.
+(Receive Item: Illusion-Be-Gone)
+Then start fresh with Illusion-Be-Gone!
+True, I already have that.
+Um, ok. Goodbye.
