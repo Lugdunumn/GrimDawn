@@ -85,3 +85,6 @@ tagCharStatsInquisitorSkillsBonus=Inquisitor Skills
 tagCharStatsInquisitorSkillsBonusInfo=Bonus to all learned skills in the Inquisitor Mastery.
 tagCharStatsNecroSkillsBonus=Necromancer Skills
 tagCharStatsNecroSkillsBonusInfo=Bonus to all learned skills in the Necromancer Mastery.
+
+#Caravan
+tagCaravanSearchBoxInfo=Enter search parameters to filter items based on item names or desired stats.

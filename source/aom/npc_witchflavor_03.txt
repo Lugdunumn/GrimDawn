@@ -73,7 +73,7 @@ I'll be leaving then.
 I'll be on my way. 
 Excuse me but I am quite busy.
 Are you in charge around here?
-Certainly not. You'll should speak to Sister Garradia before somebody mistakes you for a ghoul.{^n}{^n}Now, leave me to my work.
+Certainly not. You should speak to Sister Garradia before somebody mistakes you for a ghoul.{^n}{^n}Now, leave me to my work.
 
 I'll be on my way.
 What are you working on?

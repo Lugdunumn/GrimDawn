@@ -444,6 +444,8 @@ tagGDX2WaistD204_Desc="Brand of the White Lotus, caretakers of the celestial flo
 tagGDX2WaistD205=Nosferattis
 tagGDX2WaistD206=Rah'Zin's Waistguard
 tagGDX2WaistD207=Murmur's Kiss
+tagGDX2WaistD208=Pack of Deadly Means
+tagGDX2WaistD208_Desc="Rumored to have once belonged to the nightblade Nidalla, each vial is filled with a unique toxin. Some can even be combined to create entirely different results."
 
 tagGDX2WaistF201A=Bysmiel Lethal Waistguard
 tagGDX2WaistF201B=Bysmiel Lethal Girdle
@@ -608,7 +610,7 @@ tagGDX2Blueprint_ArmorD207=Blueprint: Chillwhisper Crown
 tagGDX2Blueprint_ArmorD208=Blueprint: Ludrigan's Hat
 tagGDX2Blueprint_ArmorD209=Blueprint: Bonemonger's Hood
 tagGDX2Blueprint_ArmorD210=Blueprint: Virtue's Gaze
-tagGDX2Blueprint_ArmorD211=Blueprint: Harra's Helm
+tagGDX2Blueprint_ArmorD211=Blueprint: Harra's Hood
 tagGDX2Blueprint_ArmorD212=Blueprint: Cyclone Mask
 tagGDX2Blueprint_ArmorD213=Blueprint: Rah'Zin's Armor
 tagGDX2Blueprint_ArmorD214=Blueprint: Blightlord's Hood

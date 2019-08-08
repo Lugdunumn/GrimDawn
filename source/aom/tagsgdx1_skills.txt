@@ -77,7 +77,7 @@ tagGDX1Class07SkillName04E=Tainted Flame
 tagGDX1Class07SkillDescription04E=Though it is rare, some Inquisitors have been known to fall from grace and embrace the very powers that they were trained to defeat. By channeling the void itself into the Stone of Ignaffar, it instead unleashes a torrent of tainted flames.
 
 tagGDX1Class07SkillName05A=Rune of Hagarrad
-tagGDX1Class07SkillDescription05A=The Rune of Hagarrad was one of the first objects contained within the Vault of the Luminari but, after mounting pressure from the imperial court to exterminate occult activity within the capital, it also became the first artifact to be sanctioned for study and replicated by the Luminari in order to cut off escape routes for fleeing targets. ^oRunes of Hagarrad take 1.5 seconds to arm and scale with player bonuses. Icicles initially deal 30% reduced damage before reaching their full strength as they expand outward.
+tagGDX1Class07SkillDescription05A=The Rune of Hagarrad was one of the first objects contained within the Vault of the Luminari but, after mounting pressure from the imperial court to exterminate occult activity within the capital, it also became the first artifact to be sanctioned for study and replicated by the Luminari in order to cut off escape routes for fleeing targets. ^oRunes of Hagarrad take 1.5 seconds to arm and scale with player bonuses. Icicles initially deal 25% reduced damage before reaching their full strength as they expand outward.
 tagGDX1Class07SkillName05A_PetSkill=Chilling Burst
 tagGDX1Class07SkillName05B=Biting Cold
 tagGDX1Class07SkillDescription05B=The chilling energy released from the Rune of Hagarrad dulls the wits of the afflicted and makes them easy prey for follow-up attacks.
@@ -360,7 +360,7 @@ tagGDX1ItemSkillD128Name=Gladiator's Persistence
 tagGDX1ItemSkillD128Desc=Persistence through glorious battle. ^oThis is a two-handed melee and two-handed ranged weapon passive bonus.
 
 tagGDX1ItemSkillD129Name=Treacherous Means
-tagGDX1ItemSkillD129Desc=Victory through any means. ^oThis is a melee dual-wielding and ranged dual-wielding passive bonus. Also enables the ability to dual wield weapons.
+tagGDX1ItemSkillD129Desc=Victory through any means. ^oThis is a ranged weapon passive bonus.
 
 tagGDX1ItemSkillD130Name=Magma Orb
 tagGDX1ItemSkillD130Desc=Hurl a projectile of pure fire which fragments at the slightest touch.
@@ -521,6 +521,9 @@ tagGDX1ItemSkillD181Desc=Summon the tormented soul of Lord Nazaran to lash out a
 
 tagGDX1ItemSkillD182Name=Mark of the Rimetongue
 tagGDX1ItemSkillD182Desc=Rimetongue's mark was renowned for sowing discord and confusion among the political elite. When applied to your foes, it fills them with a similar unease and sense of entrapment.
+
+tagGDX1ItemSkillD183Name=Tormented Soul Well
+tagGDX1ItemSkillD183Desc=Tear open a rift to the beyond, unleashing a well of tormented spirits that will tear at any enemy that dares enter it.
 
 tagGDX1w=GrimDawn/images/evil
 

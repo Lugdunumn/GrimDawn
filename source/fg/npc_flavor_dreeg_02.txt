@@ -2,6 +2,12 @@ Riggs
 Back again?{^n}{^n}You know I think you've had enough. I don't mind people being in my debt, as I'm sure you know. {^n}{^n}But you already owe me...twice!{^n}{^n}Don't forget I'm gonna come collecting on these debts some day. {^n}{^n}I do hope you're prepared.
 I will be.
 We'll see about that.
+Back so soon?
+
+And off I go again.
+Back again?{^n}{^n}You know I think you've had enough. I don't mind people being in my debt, as I'm sure you know. {^n}{^n}But you already owe me...twice!{^n}{^n}Don't forget I'm gonna come collecting on these debts some day. {^n}{^n}I do hope you're prepared.
+I will be.
+We'll see about that.
 Welcome back, my friend.
 Got anything new for me?
 Ya know, I think I do.{^n}{^n}You're really gonna be in my debt now.{^n}{^n}You ready to make another deal?{^n}
@@ -21,6 +27,7 @@ Back so soon?
 Got anything new for me?
 Hahah, you just can't get enough can you?{^n}{^n}Sadly, I don't have anything new for you just yet.{^n}{^n}Come back later and we'll see if we can work something out.
 I'll be back.
+And off I go again.
 Well look who it is. {^n}{^n}You having second thoughts?{^n}{^n}Ready to make a deal? {^n}
 Yes, I'm ready.
 That's what I like to hear.{^n}{^n}You remember how this works right? {^n}{^n}I give you the goods and then you owe me.

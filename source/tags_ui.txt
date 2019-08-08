@@ -398,6 +398,8 @@ tagPortraitRemove=Remove From Group
 tagPortraitChat=Chat
 tagPortraitDisband=Disband Pet
 
+tagHUDHealth_Head=({%t0}/{%t1})
+tagHUDPlayerHealth_Head={%t0}({%t1}/{%t2})
 tagHUDRoll_Health={%s0}  {%d1} / {%d2}
 tagHUDRoll_XP={%s0} {%d1}  ~  {%s2} {%d3}
 tagHUDXP_Current=Experience
@@ -1237,6 +1239,8 @@ tagCraftingProductBoxInfo=The constructed item will appear here once the require
 tagCraftingProductBoxCompletion=Take your newly assembled item from the worktable.
 
 tagCraftingInsterComponent=Add components specified by a blueprint to these slots.
+
+tagCraftingSearchBoxInfo=Enter search parameters to filter Blueprints based on item names or desired stats.
 
 #Subheadings
 
@@ -2283,7 +2287,7 @@ tagMove=Move
 tagForceMove=Force Move
 tagUse=Interact
 tagPickup=Pickup
-
+tagPushToTalk=Push To Talk
 tagUC_Button=Unlock Content
 tagUC_Message=Please type in your unlock code to unlock new content.
 tagUC_OK=OK

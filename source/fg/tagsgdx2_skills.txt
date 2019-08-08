@@ -261,6 +261,12 @@ tagGDX2ItemSkillD244Desc=A tormented soul infests your foe and rapidly spreads i
 tagGDX2ItemSkillD245Name=Phantasmal Blade
 tagGDX2ItemSkillD245Desc=A blade with a will of its own flies towards your foe and impales all in its way.
 
+tagGDX2ItemSkillD246Name=Deadly Means
+tagGDX2ItemSkillD246Desc=Death by any means. ^oThis is a melee dual-wielding and ranged dual-wielding passive bonus. Also enables the ability to dual wield weapons.
+
+tagGDX2ItemSkillD247Name=Targo's Hammer
+tagGDX2ItemSkillD247Desc=Targo's celestial hammer manifests and flies towards your foes before returning to you.
+
 
 #Component Skills
 tagGDX2CompSkillA033Name=Void Weapons

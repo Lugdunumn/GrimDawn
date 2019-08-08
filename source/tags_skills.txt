@@ -2923,6 +2923,8 @@ tagEnemySkillA19_Desc=Your strength has been sapped by a curse, crippling damage
 tagEnemySkillA20=Plague
 tagEnemySkillA20_Desc=You've been plagued, suffering poison damage over time and crippling your offense and defense.
 
+tagEnemySkillA21=Blade Swarm
+tagEnemySkillA21_Desc=A swarm of enchanted blades cuts into your flesh and shreds your defenses.
 
 tagEnemySkillD01=Entropic Void
 tagEnemySkillD01_Desc=The void pulls you apart slowly with chaotic energy.
