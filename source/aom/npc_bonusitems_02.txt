@@ -12,8 +12,13 @@ What was the most impressive thing you've seen?
 It was a splendid sight.{^n}{^n}He fought as if he were a ferocious beast. His spear cut through foes in a blur.{^n}{^n}This armor is now all that remains of the venerable warrior.
 (Receive Illusion: Dragon General)
 Have you met any wizards in your travels?
-Indeed I have. Powerful beings they are, not to be trifled with.{^n}{^n}Although the one I met was very wise, very ancient...but an enigmatic fellow.{^n}{^n}He told me to fly.
+Indeed I have. Powerful beings they are, not to be trifled with.{^n}{^n}Some are good...others...not so much.
+Tell me of the White Wizard!
+Ah yes, he was very wise, very ancient...but an enigmatic fellow.{^n}{^n}He told me to fly.
 (Receive Illusion: White Wizard)
+Tell me of the Dark Wizard!
+His very presence sent chills down my spine.{^n}{^n}He dabbled in powers we are not meant to seek and bound many to darkness.{^n}{^n}I would not follow in his footsteps.
+(Receive Illusions: Dark Wizard)
 I could use a companion.
 This is a lonely world, it helps to have a friend.
 I'll take the sacred crate.

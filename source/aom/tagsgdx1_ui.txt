@@ -88,3 +88,7 @@ tagCharStatsNecroSkillsBonusInfo=Bonus to all learned skills in the Necromancer 
 
 #Caravan
 tagCaravanSearchBoxInfo=Enter search parameters to filter items based on item names or desired stats.
+tagMoveComponents=Move Components from the Inventory to the Currently Open Stash page.
+
+tagStorageInfo01=Toggle to go to the Item Stash. The Item Stash as an extension of your inventory. Right click or drag and drop items to and from the Item Stash. Items stored this way are accessible from any Smuggler in the game.
+tagTransferInfo02=Toggle to go to the Item Transfer stash. Place items in the transfer area to have the Smuggler make them available to all your characters.

@@ -209,7 +209,7 @@ tagGDX2ItemSkillD229_Pet01=Spider Fangs
 tagGDX2ItemSkillD230Name=Eldritch Shard
 tagGDX2ItemSkillD230Desc=Conjure a shard bursting with eldritch energies to empower yourself and any allies that stand near its radiance while harming foes.
 tagGDX2ItemSkillD230_Pet01=Eldritch Radiance
-tagGDX2ItemSkillD230_Pet01Desc=Fighting near the shard empower you with eldritch energies and harms nearby foes.
+tagGDX2ItemSkillD230_Pet01Desc=Fighting near the shard empowers you with eldritch energies and harms nearby foes.
 tagGDX2ItemSkillD230_Pet02=Eldritch Sear
 tagGDX2ItemSkillD230_Pet02Desc=The eldritch shard radiates harmful energies.
 

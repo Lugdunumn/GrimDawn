@@ -2167,7 +2167,7 @@ tagCompSkillA011Name=Behead
 tagCompSkillA011Desc=Attempt to behead your foe with a deadly blow capable of causing intense bleeding.
 
 tagCompSkillA012Name=Decapitate
-tagCompSkillA012Desc=Attempt to decapitate your foe with a deadly blow capable of causing intense bleeding.
+tagCompSkillA012Desc=Attempt to decapitate your foe with a deadly attack capable of causing intense bleeding. ^oWhen used with a melee weapon, the attack strikes multiple nearby targets.
 
 tagCompSkillA013Name=Burning Weapons
 tagCompSkillA013Desc=Empower your attacks with a blazing flame. ^oThis ability must be toggled to maintain its effect.

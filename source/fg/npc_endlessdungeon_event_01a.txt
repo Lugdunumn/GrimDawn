@@ -43,7 +43,7 @@ Forget it, just open the way forward.
 I'd like to use a different Waystone.
 Nevermind.
 Offer a Celestial Waystone...
-How far shall we go, hm?
+How far shall we go, hm?{^n}{^n}(Shards beyond 60 are incredibly challenging and not for the faint of heart. Proceed if you dare!)
 Use a Celestial Waystone to open the way to the 65th Shard.
 Use a Celestial Waystone to open the way to the 70th Shard.
 Use a Celestial Waystone to open the way to the 75th Shard.

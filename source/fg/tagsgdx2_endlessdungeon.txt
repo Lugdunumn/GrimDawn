@@ -65,6 +65,9 @@ tagGDX2EndlessDungeon_Boss_Summon02_Skill_Desc=The hungering chill of the infini
 tagGDX2EndlessDungeon_S201=Totally Normal Shield
 tagGDX2EndlessDungeon_S201_Desc="Southpaws will understand."
 tagGDX2EndlessDungeon_S202=Bonebleach Halberd
+tagGDX2EndlessDungeon_S203=Leovinus' Ring
+tagGDX2EndlessDungeon_S203_Desc="A spectacularly preserved ring made of a strange very maleable material. Seems rather silly."
+
 
 #NPCs
 tagGDX2EndlessDungeon_NPC_Event01=Mazaan, Keeper of Portals

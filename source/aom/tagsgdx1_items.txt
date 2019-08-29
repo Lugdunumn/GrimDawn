@@ -134,6 +134,7 @@ tagGDX1WeaponGun2hF101=Malmouth Carbine
 tagGDX1WeaponGun2hF102=Malmouth Rifle
 tagGDX1WeaponGun2hF103=Wendigo Stakethrower
 tagGDX1WeaponGun2hF104=The Desolator
+tagGDX1WeaponGun2hF104_Desc="Every foe a mere delay to the desolation that follows."
 
 
 tagGDX1WeaponMelee2hB101=Fleshwarped Core
@@ -1889,6 +1890,10 @@ tagGDX1DLCA03Desc="The venerable General collection."
 tagGDX1DLCIllusionA04=Illusion: White Wizard
 tagGDX1DLCA04=White Wizard Attire
 tagGDX1DLCA04Desc="The enigmatic White Wizard's attire."
+
+tagGDX1DLCIllusionA05=Illusion: Dark Wizard
+tagGDX1DLCA05=Dark Wizard Attire
+tagGDX1DLCA05Desc="The vile Dark Wizard's attire."
 
 tagGDX1DLCIllusionHelmInvisible=Invisible Helm
 tagGDX1DLCIllusionHelmInvisibleDesc="100% of the protection with 0% of the weight. Now also dairy-free."

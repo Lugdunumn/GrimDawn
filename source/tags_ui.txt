@@ -1168,6 +1168,7 @@ tagVendorTab04A=Accessories and Consumables
 tagVendorTab04B=A mix of old relics and home-brewed remedies.
 tagVendorTab05A=Buyback
 tagVendorTab05B=Changed your mind? You can buy your items back at no additional charge while you are at the vendor. As soon as you leave though, the sale is finalized.
+tagVendorSearchBoxInfo=Enter search parameters to filter items based on item names or desired stats.
 
 tagFactionVendorTab01A=Friendly
 tagFactionVendorTab01B=Faction rewards unlocked at Friendly status.
@@ -1336,6 +1337,7 @@ tagTransferTab01=Tab 1
 tagTransferTab02=Tab 2
 tagTransferTab03=Tab 3
 tagTransferTab04=Tab 4
+tagCaravanSort=Are you sure you wish to auto-sort your items?
 
 #Chat
 
