@@ -1,0 +1,35 @@
+Korvan Basin
+Paying Debts
+Acquire Seals
+You owe a debt to Riggs and he's finally ready to get his end of the bargain.{^n}{^n}As you'd expect, Riggs does not have a simple request. He's informed you of a Lost Oasis beyond the Valley of the Chosen, where a powerful artifact known as the Iris of Eternal Night lies hidden.{^n}{^n}However, the ancient Korvan people had sealed it away centuries ago and the key was scattered to the sands. Riggs has knowledge of the first piece, but the texts are profoundly cryptic: so that the darkness of Morgoneth may never know the light of the Eldritch Sun, the way forward has been fed to the devouring sands.{^n}{^n}Riggs has left the rest to you. Acquire the Focusing Iris and your debt will be considered repaid.
+
+
+Obtain the First Seal of Morgoneth
+Obtain the Second Seal of Morgoneth
+Obtain the Third Seal of Morgoneth
+Open the way to the Lost Oasis
+
+Defeat Boss
+The way to the Lost Oasis has been unsealed. You now have the means to seek out Morgoneth and claim his Iris, thus clearing you of your debt to Riggs.{^n}{^n}Proceed through the Path of the Damned and find the entrance to the Tomb of the Heretic. Beware of what you may find inside, for the tomb was sealed with good reason.{^n}{^n}Endure its dangers and make your way to the Conduit of Eternal Night, where the dark sorcerer Morgoneth awaits.{^n}{^n}This task will require a Skeleton Key.
+
+
+
+
+
+Defeat Morgoneth at the Tomb of the Heretic
+
+Return to Riggs
+You have triumphed over the darkness swelling within the Tomb of the Heretic. The way to the Iris Riggs demands has opened.{^n}{^n}Claim the Iris at the Tomb of the Heretic and return it to Riggs at the Vanguard of the Three.
+
+Claim the Iris of Eternal Night
+Deliver the Iris to Riggs at the Vanguard of the Three
+
+
+
+
+
+
+
+
+
+

@@ -115,6 +115,9 @@ tagGDX2ItemSkillC204Desc=A sorcerous blaze festers within your foes, destroying 
 tagGDX2ItemSkillC205Name=Spill their Blood
 tagGDX2ItemSkillC205Desc=Spill the blood of the heathens that dare stand in your way.
 
+tagGDX2ItemSkillC206Name=Nightshroud
+tagGDX2ItemSkillC206Desc=Unleash a burst of violent hungering energies upon your foes.
+
 tagGDX2ItemSkillD201Name=Blood Spout
 tagGDX2ItemSkillD201Desc=A crimson spout erupts beneath your foes, showering them with blood and gore.
 
@@ -266,6 +269,33 @@ tagGDX2ItemSkillD246Desc=Death by any means. ^oThis is a melee dual-wielding and
 
 tagGDX2ItemSkillD247Name=Targo's Hammer
 tagGDX2ItemSkillD247Desc=Targo's celestial hammer manifests and flies towards your foes before returning to you.
+
+tagGDX2ItemSkillD248Name=Nightbringer
+tagGDX2ItemSkillD248Desc=A rift in reality is torn from which erupt violent hungering energies.
+tagGDX2ItemSkillD248PetSkillName=Hungering Energies
+tagGDX2ItemSkillD248PetSkillDesc=Violent hungering energies erupt to consume your foes.
+
+tagGDX2ItemSkillD249Name=Eye of Sethris
+tagGDX2ItemSkillD249Desc=A cursed eye orbits around you and penetrates through the physical form of your foes to assault the spirit directly.
+tagGDX2ItemSkillD250Name=Eye of Orissia
+tagGDX2ItemSkillD251Name=Eye of Anubar
+tagGDX2ItemSkillD252Name=Eye of Tawrot
+tagGDX2ItemSkillD253Name=Eye of Basti
+tagGDX2ItemSkillD254Name=Eye of Shuroth
+
+tagGDX2ItemSkillD255Name=Gaze of Khonsar
+tagGDX2ItemSkillD255Desc=The Gaze of Khonsar falls upon your minions, filling them with fiery fury.
+
+tagGDX2ItemSkillD256Name=Invocation of Yugol
+tagGDX2ItemSkillD256Desc=Invoke the ritual that doomed the stars, calling forth a manifestation of the great celestial hunger.
+tagGDX2ItemSkillD256PetSkill_Name=Flail
+tagGDX2ItemSkillD256PetSkill2_Name=Dark Presence
+
+tagGDX2ItemSkillD257Name=Toxic Burst
+tagGDX2ItemSkillD257Desc=A burst of caustic toxins erupts around you.
+
+tagGDX2ItemSkillD258Name=Phantasmal Nova
+tagGDX2ItemSkillD258Desc=A burst of phantasmal blades erupts around you.
 
 
 #Component Skills
@@ -596,7 +626,7 @@ tagGDX2EnemySkillA21=Solael's Aura
 tagGDX2EnemySkillA21_Desc=The presence of a nearby Priest of Solael empowers you, granting defenses and Offensive Ability.
 
 tagGDX2EnemySkillA22=Blood of the Guardian
-tagGDX2EnemySkillA22_Desc=You are marked by Dreeg's Blood, restoring health and bolstering Retaliation Effects
+tagGDX2EnemySkillA22_Desc=You are marked by Dreeg's Blood, restoring health and bolstering Retaliation Effects.
 
 tagGDX2EnemySkillA23=Impaling Spines
 tagGDX2EnemySkillA23_Desc=Inarah has trapped you within a cage of poison spines.
@@ -654,3 +684,12 @@ tagGDX2EnemySkillD15_Desc=An nearby effigy empowers Korvaak and harms mortals.
 
 tagGDX2EnemySkillD16=Howling Wind
 tagGDX2EnemySkillD16_Desc=A powerful wind chills you to the bone and causes some projectiles to miss their intended target.
+
+tagGDX2EnemySkillD17=Visions of Terror
+tagGDX2EnemySkillD17_Desc=You have witnessed the infinite hunger of the encroaching darkness, sapping you of all strength.
+
+tagGDX2EnemySkillD18=Hungering Night
+tagGDX2EnemySkillD18_Desc=A dark sorcerer has sapped your essence, draining you of life and compromosing your resistances.
+
+tagGDX2EnemySkillD19=Unraveled Mind
+tagGDX2EnemySkillD19_Desc=Your mind cannot process the horrors it has witnessed, crippling your aim and casting ability.

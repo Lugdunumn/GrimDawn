@@ -1,0 +1,9 @@
+Forgotten Passage
+The magic sealing this path has been dispelled.
+Step away.
+This path is sealed by a powerful rune.{^n}{^n}Without knowledge of its creation, it will be impossible to remove it.
+Use the Seals of Morgoneth on the barrier.
+Step away from the barrier.
+Step away from the barrier.
+This path is sealed by a powerful rune.{^n}{^n}Without knowledge of its creation, it will be impossible to remove it.
+Step away from the barrier.

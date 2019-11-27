@@ -66,7 +66,7 @@ tagGDX2EndlessDungeon_S201=Totally Normal Shield
 tagGDX2EndlessDungeon_S201_Desc="Southpaws will understand."
 tagGDX2EndlessDungeon_S202=Bonebleach Halberd
 tagGDX2EndlessDungeon_S203=Leovinus' Ring
-tagGDX2EndlessDungeon_S203_Desc="A spectacularly preserved ring made of a strange very maleable material. Seems rather silly."
+tagGDX2EndlessDungeon_S203_Desc="A spectacularly preserved ring made of a strange very malleable material. Seems rather silly."
 
 
 #NPCs
@@ -129,8 +129,8 @@ tagGDX2EndlessDungeon_Shrine05Skill_Desc=You struck a bargain with death, granti
 tagGDX2EndlessDungeon_Powerup01=Essence of the Shattered Realm
 tagGDX2EndlessDungeon_Powerup01_Desc=You have absorbed a soul of the Shattered Realm, granting you vast power and toughness for a brief period. ^oThis effect stacks up to 5 times, with more stacks possible in higher Shards.
 tagGDX2EndlessDungeon_Powerup02_Desc=You have absorbed a soul of the Shattered Realm, granting you vast power and toughness for a brief period. ^oThis effect stacks up to 8 times, with more stacks possible in higher Shards.
-tagGDX2EndlessDungeon_Powerup03_Desc=You have absorbed a soul of the Shattered Realm, granting you vast power and toughness for a brief period. ^oThis effect stacks up to 10 times, with more stacks possible in higher Shards.
-tagGDX2EndlessDungeon_Powerup04_Desc=You have absorbed a soul of the Shattered Realm, granting you vast power and toughness for a brief period. ^oThis effect stacks up to 12 times.
+tagGDX2EndlessDungeon_Powerup03_Desc=You have absorbed a soul of the Shattered Realm, granting you vast power and toughness for a brief period. ^oThis effect stacks up to 9 times, with more stacks possible in higher Shards.
+tagGDX2EndlessDungeon_Powerup04_Desc=You have absorbed a soul of the Shattered Realm, granting you vast power and toughness for a brief period. ^oThis effect stacks up to 10 times.
 
 
 #Items
@@ -156,8 +156,12 @@ tagGDX2EndlessDungeon_Key_04_Desc=The Desecrated Waystone has been anointed in t
 tagGDX2EndlessDungeon_Key_04_Blueprint=Blueprint: Desecrated Waystone
 
 tagGDX2EndlessDungeon_Key_05=Celestial Waystone
-tagGDX2EndlessDungeon_Key_05_Desc=The Celestial Waystone has been fully restored to its divine potential. It enables Mazaan to open the way to at least the 65th Shard, up to the 75th Shard, of the Shattered Realm.
+tagGDX2EndlessDungeon_Key_05_Desc=The Celestial Waystone has been fully restored to its divine potential. It enables Mazaan to open the way to at least the 65th Shard, up to the 75th Shard, of the Shattered Realm. ^n^nThis waystone should not be used by the faint of heart.
 tagGDX2EndlessDungeon_Key_05_Blueprint=Blueprint: Celestial Waystone
+
+tagGDX2EndlessDungeon_Key_06=Death's Waystone
+tagGDX2EndlessDungeon_Key_06_Desc=Tainted with the power of death, the Waystone now opens the way forward to unfathomable dangers where no reward awaits but for the glory of conquest. ^n^nIt enables Mazaan to open the way to at least the 80th Shard of the Shattered Realm, and beyond. ^n^nThis waystone should not be used by the faint of heart.
+tagGDX2EndlessDungeon_Key_06_Blueprint=Blueprint: Death's Waystone
 
 tagGDX2ItemTest=Miss Gazer Man
 tagGDX2ItemTestDesc="A crowning achievement in Gazer wear."

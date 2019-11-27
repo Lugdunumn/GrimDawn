@@ -1193,7 +1193,7 @@ tagItemSkillC084Name=Miasma
 tagItemSkillC084Desc=Releases a cloud of toxic gases which choke and confuse your enemies.
 
 tagItemSkillC085Name=Summon Blighted Rift Scourge
-tagItemSkillC085Desc=Summon a Blighted Rift Scourge from the depths to follow your every command. ^oOnly one rift scourge can be summoned at any one time. The rift scourge scales with Pet Bonuses.
+tagItemSkillC085Desc=Summon a Blighted Rift Scourge from the depths to follow your every command. ^oThe rift scourge scales with Pet Bonuses.
 tagItemSkillC085PetSkillName01=Acid Spit
 tagItemSkillC085PetSkillName02=Poison Nova
 
@@ -1325,8 +1325,8 @@ tagItemSkillC127Desc=Lightning infused with pure aether emanates from you and ca
 tagItemSkillC128Name=Eye of Thaddeus
 tagItemSkillC128Desc=The Eye of Thaddeus exposes easy to exploit weak points on your feeble foes.
 
-tagItemSkillC129Name=Ignited Round
-tagItemSkillC129Desc=Fire an ignition round from the rifle that sets anything on fire and frequently pierces through your foes. ^oActivates off of default weapon attacks.
+tagItemSkillC129Name=Shrapnel Round
+tagItemSkillC129Desc=Fire a shrapnel round from the rifle that perforates your foes. ^oActivates off of default weapon attacks.
 
 tagItemSkillC130Name=Unholy Covenant
 tagItemSkillC130Desc=Forge an unholy covenant with your minions, empowering your connections to the dark forces of the void. ^oThis ability must be toggled to maintain its effect.
@@ -2885,7 +2885,7 @@ tagEnemySkillA07=Blood Plague
 tagEnemySkillA07_Desc=The Ghoul curse boils your blood and damages your Defensive Ability.
 
 tagEnemySkillA08=Torment
-tagEnemySkillA08_Desc=The undead curse cause intense pain in your bones, slowing you and weakening physical attacks.
+tagEnemySkillA08_Desc=The undead curse causes intense pain in your bones, slowing you and weakening physical attacks.
 
 tagEnemySkillA09=Enraged Spirit
 tagEnemySkillA09_Desc=An enraged spirit haunts you, inflicting vitality damage before it spreads to nearby victims.

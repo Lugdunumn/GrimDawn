@@ -50,6 +50,43 @@ Use a Celestial Waystone to open the way to the 75th Shard.
 Forget it, just open the way forward.
 I'd like to use a different Waystone.
 Nevermind.
+Offer Death's Waystone...
+How far shall we go, hm?{^n}{^n}(Death's Waystone allows progression into very dangerous Shards, with disabled rewards. For those that seek glory!)
+Use Death's Waystone to open the way to the 80th Shard.
+Use Death's Waystone to open the way to the 85th Shard.
+Proceed to Shard 90 through 110...
+(Death's Waystone allows progression into very dangerous Shards, with disabled rewards. For those that seek glory!)
+Use Death's Waystone to open the way to the 90th Shard.
+Use Death's Waystone to open the way to the 95th Shard.
+Use Death's Waystone to open the way to the 100th Shard.
+Use Death's Waystone to open the way to the 105th Shard.
+Use Death's Waystone to open the way to the 110th Shard.
+Forget it, just open the way forward.
+I'd like to use a different Waystone.
+Nevermind.
+Proceed to Shard 115 through 135...
+(Death's Waystone allows progression into very dangerous Shards, with disabled rewards. For those that seek glory!)
+Use Death's Waystone to open the way to the 115th Shard.
+Use Death's Waystone to open the way to the 120th Shard.
+Use Death's Waystone to open the way to the 125th Shard.
+Use Death's Waystone to open the way to the 130th Shard.
+Use Death's Waystone to open the way to the 135th Shard.
+Forget it, just open the way forward.
+I'd like to use a different Waystone.
+Nevermind.
+Proceed to Shard 140 through 160...
+(Death's Waystone allows progression into very dangerous Shards, with disabled rewards. For those that seek glory!)
+Use Death's Waystone to open the way to the 140th Shard.
+Use Death's Waystone to open the way to the 145th Shard.
+Use Death's Waystone to open the way to the 150th Shard.
+Use Death's Waystone to open the way to the 155th Shard.
+Use Death's Waystone to open the way to the 160th Shard.
+Forget it, just open the way forward.
+I'd like to use a different Waystone.
+Nevermind.
+Forget it, just open the way forward.
+I'd like to use a different Waystone.
+Nevermind.
 Nevermind.
 Can I ask some questions first?
 The Shattered Realm is as much a mystery to me as it is to you, but I'll answer what I can.

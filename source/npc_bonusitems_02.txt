@@ -19,6 +19,9 @@ Ah yes, he was very wise, very ancient...but an enigmatic fellow.{^n}{^n}He told
 Tell me of the Dark Wizard!
 His very presence sent chills down my spine.{^n}{^n}He dabbled in powers we are not meant to seek and bound many to darkness.{^n}{^n}I would not follow in his footsteps.{^n}{^n}Be aware, this is a large collection, so make sure your bags have enough space.
 (Receive Illusions: Dark Wizard)
+Have you been to the northern lands?
+Aye, my armor nearly froze in the bitter winds.{^n}{^n}It's inhabited by a savage people that feel neither cold nor fear.{^n}{^n}They have a legend of a great white wolf that embodies their rulers. I am told this armor was made in honor of its spirit.{^n}{^n}Be aware, this is a large collection, so make sure your bags have enough space.
+(Receive Illusion: Great Wolf)
 I could use a companion.
 This is a lonely world, it helps to have a friend.
 I'll take the sacred crate.

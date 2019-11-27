@@ -1,0 +1,15 @@
+Marr
+I hope the merits serve you well!
+Thanks for the tip.
+Hello, traveler.
+Farewell.
+Hello again!
+Where can I get these merits again?
+Just speak to Asgra nearby and browse her wares.{^n}{^n}She has what you need.
+Thanks for the tip.
+Farewell.
+Hello!{^n}{^n}It's always a pleasure to meet someone worthy of the Emissary's attention.{^n}{^n}I'll let you in on a little secret. See Asgra nearby? She sells trinkets known as Merits which stand as proof of your achievements. You can even pass them on to others so that they may partake!{^n}{^n}I suggest you pick one up!
+Sounds like a good idea.
+I'm not interested in petty trinkets.
+Hello, traveler.{^n}{^n}You should speak to the Emissary before you get too far.
+

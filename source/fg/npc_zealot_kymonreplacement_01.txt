@@ -175,7 +175,7 @@ Where are the ashes again?
 Underneath Fort Ikon to the north, there is a crypt dedicated to Archon Barthollem, a once faithful servant of Empyrion. The Archon was cremated upon death, his ashes stored within a sacred urn.{^n}{^n}We must not allow the Order to desecrate such holy ground. Recover the sacred ashes so that the Order cannot use them for their misguided rituals.
 I will recover the ashes.
 Not yet.
-Come, my brother. I have a task for you that comes from Empyrion himself.
+Come, my [[ms]brother[fs]sister]. I have a task for you that comes from Empyrion himself.
 What is Empyrion's will?
 Empyrion has granted Father Kymon a vision of a far away place. In it, he was shown a great fire, a beacon in the darkness; but the flame is being extinguished by tendrils of corruption. There is still hope and you are to lead the charge.{^n}{^n}The Order of Death's Vigil, even as we speak, are laying waste to a sacred site underneath Fort Ikon to the north. It is the Tomb of Archon Barthollem, a priest who, centuries ago, was a devout follower of Empyrion. The Order have found the Archon's sacred ashes. They likely intend to use them to fuel some twisted ritual.{^n}{^n}We must not allow this to happen. You must go to the Tomb and reclaim the ashes for the Chosen. Let nothing stand in your way.
 I will recover the ashes.

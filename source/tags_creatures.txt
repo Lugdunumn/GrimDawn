@@ -441,6 +441,7 @@ tagHumanHeroH07=Everett, the Bloodbound ~ Burning
 tagHumanHeroH08=Dred One-Eye
 tagHumanHeroH09=Meric Aether-Touched ~ Charger
 tagHumanHeroH10=Eldon "Snakeskin" ~ Regenerator
+tagHumanHeroH11=Roman, the Blade Dancer
 
 tagHumanBoss01="Moneybags" Martin
 tagHumanBoss02=Halion "The Rat"

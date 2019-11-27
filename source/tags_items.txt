@@ -770,6 +770,7 @@ TagQualityBrokenWeapon02=Shattered
 TagQualityBrokenWeapon03=Bent
 TagQualityBrokenArmor01=Ruined
 TagQualityBrokenAll01=Destroyed
+TagQualityOld=Obsolete
 
 tagQualityWeaponMetal01=Scrapmetal
 tagQualityWeaponMetal02=Tarnished
@@ -2560,6 +2561,24 @@ tagDLCIllusionA34=Illusion: Dark Wizard's Hat
 tagDLCA34=Dark Wizard's Hat
 tagDLCIllusionA35=Illusion: Dark Wizard's Robes
 tagDLCA35=Dark Wizard's Robes
+
+tagDLCIllusionA36=Illusion: Great Wolf's Boots
+tagDLCA36=Great Wolf's Boots
+tagDLCA36Desc="Part of the savage Great Wolf armor."
+tagDLCIllusionA37=Illusion: Great Wolf's Gauntlets
+tagDLCA37=Great Wolf's Gauntlets
+tagDLCIllusionA38=Illusion: Great Wolf's Helm
+tagDLCA38=Great Wolf's Helm
+tagDLCIllusionA39=Illusion: Great Wolf's Legguards
+tagDLCA39=Great Wolf's Legguards
+tagDLCIllusionA40=Illusion: Great Wolf's Shield
+tagDLCA40=Great Wolf's Shield
+tagDLCIllusionA41=Illusion: Great Wolf's Shoulderguards
+tagDLCA41=Great Wolf's Shoulderguards
+tagDLCIllusionA42=Illusion: Great Wolf's Bite
+tagDLCA42=Great Wolf's Bite
+tagDLCIllusionA43=Illusion: Great Wolf's Chestguard
+tagDLCA43=Great Wolf's Chestguard
 
 
 #ItemNote

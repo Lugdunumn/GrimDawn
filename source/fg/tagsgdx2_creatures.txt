@@ -46,6 +46,41 @@ tagGDX2HeroBeetle_H02=Bargox
 tagGDX2HeroBeetle_H03=Sagrax ~ Defender
 tagGDX2HeroBeetle_H04=Mirg ~ Reflective
 
+tagGDX2EnemyMaggot_A01=Maggot
+tagGDX2EnemyMaggot_B01=Bloated Maggot
+
+
+#CreatureCelestial
+tagGDX2EnemyCelestial_Armor_A01=Korvan Cursed
+tagGDX2EnemyCelestial_Armor_B01=Korvan Cursed ~ Forsaken
+tagGDX2EnemyCelestial_Armor_C01=Korvan Cursed ~ Ancient
+
+tagGDX2EnemyCelestial_Gryphon_A01=Celestial Gryphon
+tagGDX2EnemyCelestial_Gryphon_B01=Celestial Gryphon Skytalon
+tagGDX2EnemyCelestial_Gryphon_C01=Celestial Gryphon Matriarch
+
+tagGDX2EnemyCelestial_Hound_A01=Celestial Mongrel ~ Runt
+tagGDX2EnemyCelestial_Hound_B01=Celestial Mongrel ~ Stalker
+tagGDX2EnemyCelestial_Hound_C01=Celestial Mongrel ~ Alpha
+
+tagGDX2EnemyCelestial_Leech_A01=Embodiment of Hunger
+tagGDX2EnemyCelestial_Leech_B01=Embodiment of Famine
+
+tagGDX2EnemyCelestial_Lizard_A01=Nightclaw
+tagGDX2EnemyCelestial_Lizard_B01=Nightclaw ~ Flayer
+tagGDX2EnemyCelestial_Lizard_C01=Nightclaw ~ Matriarch
+
+tagGDX2EnemyCelestial_Monstrosity_C01=Scion of Hunger
+tagGDX2EnemyCelestial_Monstrosity_D01=Scion of Famine
+
+tagGDX2EnemyCelestial_Mummy_A01=Korvan Damned ~ Desiccated
+tagGDX2EnemyCelestial_Mummy_B01=Korvan Damned ~ Festering
+tagGDX2EnemyCelestial_Mummy_C01=Korvan Damned ~ Reaper
+
+tagGDX2EnemyCelestial_Statue_A01=Animated Keeper of the Damned
+tagGDX2EnemyCelestial_Statue_B01=Animated Watcher of the Damned
+tagGDX2EnemyCelestial_Statue_C01=Animated Preserver of the Damned
+
 
 #CreatureEldritchArmor
 tagGDX2EnemyArmor_A01=Possessed Armor
@@ -239,6 +274,10 @@ tagGDX2HeroViper_H02=Arashor
 tagGDX2HeroViper_H03=Serpentior ~ Regenerator
 tagGDX2HeroViper_H04=Cespal ~ Arcane
 
+#CreatureWorm
+tagGDX2EnemyWormA01=Gutsifter
+tagGDX2EnemyWormB01=Gutrager
+
 
 
 
@@ -250,6 +289,8 @@ tagGDX2Pet_Item_SandDevil01=Sand Devil
 tagGDX2Pet_Item_EldritchSpider=Eldritch Webweaver
 tagGDX2Pet_Item_EldritchLizard=Eldritch Talon
 tagGDX2Pet_Item_EldritchShard=Eldritch Shard
+tagGDX2Pet_Item_NightRift=Nightbringer
+tagGDX2Pet_Item_YugolTentacle=Tentacle of Yugol
 tagGDX2Pet_Item_Mini=Korvan Minivore
 tagGDX2Pet_Item_Mini_Skill=Miniroar
 tagGDX2Pet_Item_Maggot=Celestial Maggot
@@ -272,6 +313,9 @@ tagGDX2EnemySummon_Dravis=Thrall of Dravis
 tagGDX2EnemySummon_FlameJet=Magma Burst
 tagGDX2EnemySummon_Volcano=Volcano
 tagGDX2EnemySummon_LightningOrb=Storm Orb
+tagGDX2EnemySummon_NightRift=Celestial Rift
+tagGDX2EnemySummon_NightCrystal=Celestial Conduit
+tagGDX2EnemySummon_FireHound=Blazehound
 
 
 #Boss&Quest
@@ -285,6 +329,30 @@ tagGDX2Boss_FatherKymon=Father Kymon, Avatar of Korvaak
 
 tagGDX2Boss_Special=Callagadra, Scion of the Sands
 tagGDX2Boss_Messenger=Okaloth ~ "The Messenger"
+
+tagGDX2Boss_Roguelike_MiniBoss_01=Magi Sethris
+tagGDX2Boss_Roguelike_MiniBoss_01B=Shade of Sethris
+tagGDX2Boss_Roguelike_MiniBoss_02=Magi Orissia
+tagGDX2Boss_Roguelike_MiniBoss_02B=Shade of Orissia
+tagGDX2Boss_Roguelike_MiniBoss_03=Magi Anubar
+tagGDX2Boss_Roguelike_MiniBoss_03B=Shade of Anubar
+tagGDX2Boss_Roguelike_MiniBoss_04=Magi Tawrot
+tagGDX2Boss_Roguelike_MiniBoss_04B=Shade of Tawrot
+tagGDX2Boss_Roguelike_MiniBoss_05=Magi Basti
+tagGDX2Boss_Roguelike_MiniBoss_05B=Shade of Basti
+tagGDX2Boss_Roguelike_MiniBoss_06=Magi Shuroth
+tagGDX2Boss_Roguelike_MiniBoss_06B=Shade of Shuroth
+tagGDX2Boss_Roguelike_MiniBoss_07=Magi Khonsar
+tagGDX2Boss_Roguelike_MiniBoss_07B=Shade of Khonsar
+tagGDX2Boss_Roguelike_Boss_01=Keeper of the Seal
+tagGDX2Boss_Roguelike_Boss_02=Grand Magus Morgoneth
+
+tagGDX2Boss_RoguelikePath_Boss_01=Jarinthor the Sandstorm
+tagGDX2Boss_RoguelikePath_Boss_02=Hallanx the Forgotten
+tagGDX2Boss_RoguelikePath_Boss_03=Gurblix the Digested
+
+tagGDX2Boss_RiggsCollector_01="Associate" of Riggs
+
 
 tagGDX2Miniboss_Kymon_01=Brother Segarius, Vengeance of Kymon
 tagGDX2Miniboss_Kymon_02=Sister Crimson, Vengeance of Kymon

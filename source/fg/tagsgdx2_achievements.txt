@@ -148,28 +148,26 @@ achGDX247Desc=Gain the effects of one of the Shattered Realm's shrines.
 achGDX248Title=A Done Deal
 achGDX248Desc=Gain the effects of all five of the Shattered Realm's shrines.
 
-achGDX249Title=
-achGDX249Desc=
+achGDX249Title=Hungering Darkness
+achGDX249Desc=Survive the Hungering Darkness in the Tomb of the Heretic.
 
-achGDX250Title=
-achGDX250Desc=
+achGDX250Title=Banish the Night
+achGDX250Desc=Slay Grand Magus Morgoneth in the Tomb of the Heretic.
 
+achGDX251Title=A Light in the Dark
+achGDX251Desc=Slay Grand Magus Morgoneth in the Tomb of the Heretic on Ultimate Difficulty.
 
+achGDX252Title=Immortal Light in the Dark
+achGDX252Desc=Slay Grand Magus Morgoneth in the Tomb of the Heretic on Hardcore Mode.
 
+achGDX253Title=Bargain Help
+achGDX253Desc=Slay 5 Associates of Riggs in a single journey.
 
+achGDX254Title=Settled Debt
+achGDX254Desc=Settle your debt with Riggs.
 
-
-
-
-
-
-
-
-
-
-
-
-
+achGDX255Title=The Seven Magi
+achGDX255Desc=Slay all seven of the Korvan Magi in the Tomb of the Heretic.
 
 
 

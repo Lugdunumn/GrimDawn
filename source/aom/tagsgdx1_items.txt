@@ -1879,9 +1879,9 @@ tagGDX1DLCA01=Black Knight Armor
 tagGDX1DLCA01Desc="The sinister Black Knight Armor."
 
 
-tagGDX1DLCIllusionA02=Illusion: Silver Knight Armor
-tagGDX1DLCA02=Silver Knight Armor
-tagGDX1DLCA02Desc="The sacred Silver Knight Armor."
+tagGDX1DLCIllusionA02=Illusion: Great Wolf Armor
+tagGDX1DLCA02=Great Wolf Armor
+tagGDX1DLCA02Desc="The sacred Great Wolf Armor."
 
 tagGDX1DLCIllusionA03=Illusion: Dragon General Collection
 tagGDX1DLCA03=Dragon General Collection
@@ -1895,10 +1895,17 @@ tagGDX1DLCIllusionA05=Illusion: Dark Wizard
 tagGDX1DLCA05=Dark Wizard Attire
 tagGDX1DLCA05Desc="The vile Dark Wizard's attire."
 
+tagGDX1DLCIllusionA06=Illusion: Great Wolf Armor
+tagGDX1DLCA06=Great Wolf Armor
+tagGDX1DLCA06Desc="The savage Great Wolf Armor."
+
 tagGDX1DLCIllusionHelmInvisible=Invisible Helm
 tagGDX1DLCIllusionHelmInvisibleDesc="100% of the protection with 0% of the weight. Now also dairy-free."
 
 tagGDX1DLCIllusionShouldersInvisible=Invisible Shoulderguards
 tagGDX1DLCIllusionShouldersInvisibleDesc="100% of the protection with 0% of the weight. Now also dairy-free."
+
+tagGDX1DLCIllusionMedalInvisible=Invisible Medal
+tagGDX1DLCIllusionMedalInvisibleDesc="100% of the recognition with none of the pins. Now also dairy-free."
 
 

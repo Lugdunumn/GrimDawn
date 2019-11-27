@@ -312,7 +312,7 @@ tagGDX1ItemSkillD112Name=Flame Patch
 tagGDX1ItemSkillD112Desc=You ignite the very ground your foes stand upon.
 
 tagGDX1ItemSkillD113Name=Light of Truth
-tagGDX1ItemSkillD113Desc=The light of the sacred truth overwhelms your foes and forces the weakminded to serve.
+tagGDX1ItemSkillD113Desc=The light of the sacred truth overwhelms your foes.
 
 tagGDX1ItemSkillD114Name=Spines of Hagarrad
 tagGDX1ItemSkillD114Desc=Unleash icy spines conjured from the Luminari Rune of Hagarrad upon your foes.
