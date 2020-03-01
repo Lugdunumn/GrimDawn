@@ -91,7 +91,7 @@ Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-Ghouls, despicable beings and abominations. The weak ones hide in the shadows, skulking about tombs searching for their next meal.{^n}{^n}But it is the greater ghouls that should strike terror into the hearts of man. They do not fear the sun, do not fear flame. They are the nightmares with which we must contend.{^n}{^n}One such ghoul, we call it Gravvis, has been wandering the Black Sepulcher in the Necropolis. For the sake of Cairn herself, it must be slain.{^n}{^n}Gravvis' elimination will be amply rewarded with materials from our stores.
+Ghouls, despicable beings and abominations. The weak ones hide in the shadows, skulking about tombs searching for their next meal.{^n}{^n}But it is the greater ghouls that should strike terror into the hearts of man. They do not fear the sun, do not fear flame. They are the nightmares with which we must contend.{^n}{^n}One such ghoul, we call it Gravvis, has been wandering the Black Sepulcher in the Necropolis. For the sake of Cairn herself, it must be slain.Gravvis' elimination will be amply rewarded with materials from our stores.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
@@ -106,7 +106,7 @@ Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.
 
-No Arkovian was spared from Uroboruuk's curse, such was his wrath. But that did not stop the Arkovians from trying to evade it. One such group gathered in a temple hidden away within a flooded cavern near Wightmire.{^n}{^n}There they prayed to their gods and waited for the curse to expire. Their High Priest, Rolderathis, preached sermon after sermon condemning necromancy and praising the Arkovians. To this day, he stands at his ruined altar and spews out the same flawed rhetoric.{^n}{^n}The Keeper of Tomes wishes to reclaim the temple from the undead in order to tap into its archives, what little remains undamaged by the flooding. For this to be accomplished, Rolderathis must be destroyed.{^n}{^n}His elimination will be amply rewarded with materials from our stores.
+No Arkovian was spared from Uroboruuk's curse, such was his wrath. But that did not stop the Arkovians from trying to evade it. One such group gathered in a temple hidden away within a flooded cavern near Wightmire.{^n}{^n}There they prayed to their gods and waited for the curse to expire. Their High Priest, Rolderathis, preached sermon after sermon condemning necromancy and praising the Arkovians. To this day, he stands at his ruined altar and spews out the same flawed rhetoric.The Keeper of Tomes wishes to reclaim the temple from the undead in order to tap into its archives, what little remains undamaged by the flooding. For this to be accomplished, Rolderathis must be destroyed.{^n}{^n}His elimination will be amply rewarded with materials from our stores.
 Accept the Bounty.
 Step away from the Bounty Table.
 Next Bounty.

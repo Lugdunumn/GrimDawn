@@ -20,7 +20,7 @@ I'm just giving them a break.
 Farewell.
 Do you have something for me?
 Here, the Iris.
-Splendind work, my friend. You and I are settled.{^n}{^n}In fact, I'll throw in one last prize for a job well done, no favors necessary.
+Splendid work, my friend. You and I are settled.{^n}{^n}In fact, I'll throw in one last prize for a job well done, no favors necessary.
 What do you plan to do with it?
 What does one do with an eye? Might see things you shouldn't.{^n}{^n}Let's just say I'm going to put it away for safekeeping so that nobody else gets any dangerous ideas!
 I don't trust you.
@@ -47,6 +47,9 @@ Alright, how do I settle my debt?
 Why, it's simple really.{^n}{^n}I've got word of a legendary relic in these parts known as the Iris of Eternal Night. Couldn't tell you what it does, but when something's mentioned that many times in those old texts, I keep my ears open.{^n}{^n}While its current location is no mystery, the means to enter it are not as obvious. I know that it resides within the Tomb of the Heretic, far to the north beyond the Valley of the Chosen. But the ancient Korvan people had it sealed away centuries ago and I'm sure they had good reasons.{^n}{^n}The only way through is with the Seal of Morgoneth. The texts on that are profoundly cryptic. Here is what I found: so that the darkness of Morgoneth may never know the light of the Eldritch Sun, the way forward has been fed to the devouring sands.{^n}{^n}Bunch of poetic nonsense, if you ask me. Well, that's all I can do for ya. The rest is up to you. Oh, and take this Skeleton Key, I have a feeling you'll need it if you are to find this Morgoneth fellow.
 I'll seek out the Iris.
 I'm not working for you.
+
+Alright, how do I settle my debt?
+Why, it's simple really.{^n}{^n}I've got word of a legendary relic in these parts known as the Iris of Eternal Night. Couldn't tell you what it does, but when something's mentioned that many times in those old texts, I keep my ears open.{^n}{^n}While its current location is no mystery, the means to enter it are not as obvious. I know that it resides within the Tomb of the Heretic, far to the north beyond the Valley of the Chosen. But the ancient Korvan people had it sealed away centuries ago and I'm sure they had good reasons.{^n}{^n}The only way through is with the Seal of Morgoneth. The texts on that are profoundly cryptic. Here is what I found: so that the darkness of Morgoneth may never know the light of the Eldritch Sun, the way forward has been fed to the devouring sands.{^n}{^n}Bunch of poetic nonsense, if you ask me. Well, that's all I can do for ya. The rest is up to you. Oh, and take this Skeleton Key, I have a feeling you'll need it if you are to find this Morgoneth fellow.
 I already have the Iris.
 Now why didn't you say so in the first place. You are a legend in the making, my friend!{^n}{^n}Hand it here and you and I are settled.{^n}{^n}In fact, I'll throw in one last prize, no favors necessary.
 
@@ -55,9 +58,9 @@ Consider it done, my friend. Consider it done.
 Good, they were a nuisance.
 Thank you.
 Good, we are done then.
-
 Will you send your goons away?
 Hm, perhaps I could...if you get me what I need.
+
 
 No way.
 No, I'm good.
@@ -72,25 +75,29 @@ Now don't be like that.{^n}{^n}A man makes an honest deal with you and this is h
 I'll seek out the Iris.
 I'm not working for you.
 
-I already have the Iris.
-You are a legend in the making, my friend!{^n}{^n}Hand it here and you and I are settled.{^n}{^n}In fact, I'll throw in one last prize, no favors necessary.
-
 I've already opened the seal.
 Well look at that!{^n}{^n}Your job's already almost finished!{^n}{^n}Now off ya go then. Get me that iris!
 Alright, but after that we are even.
 I'm not working for you.
+What will it take to clear my debt?
+Why, it's simple really.{^n}{^n}I've got word of a legendary relic in these parts known as the Iris of Eternal Night. Couldn't tell you what it does, but when something's mentioned that many times in those old texts, I keep my ears open.{^n}{^n}While its current location is no mystery, the means to enter it are not as obvious. I know that it resides within the Tomb of the Heretic, far to the north beyond the Valley of the Chosen. But the ancient Korvan people had it sealed away centuries ago and I'm sure they had good reasons.{^n}{^n}The only way through is with the Seal of Morgoneth. The texts on that are profoundly cryptic. Here is what I found: so that the darkness of Morgoneth may never know the light of the Eldritch Sun, the way forward has been fed to the devouring sands.{^n}{^n}Bunch of poetic nonsense, if you ask me. Well, that's all I can do for ya. The rest is up to you. Oh, and take this Skeleton Key, I have a feeling you'll need it if you are to find this Morgoneth fellow.
+I already have the Iris.
+You are a legend in the making, my friend!{^n}{^n}Hand it here and you and I are settled.{^n}{^n}In fact, I'll throw in one last prize, no favors necessary.
 
 My debt?
 Hm, well let me refresh your memory for ya.{^n}{^n}Remember when you came to me in need of equipment and I provided without questions asked, so long as you agreed you'd owe me a debt?{^n}{^n}Well, now's the time for your end of the bargain.
+Alright, how do I clear my debt?
 Alright, how do I clear my debt?
 
 We'll speak later.
 I don't owe you anything.
 Now don't be like that.{^n}{^n}A man makes an honest deal with you and this is how you respond? Someone with a shorter temper might not take too kindly to that.{^n}{^n}But I know you'll come to your senses.
 Alright, how do I clear my debt?
+Alright, how do I clear my debt?
 You and I are finished.
 Look, let me spell it out for you in terms you might understand.{^n}{^n}I've got people all over this land that owe me big. Any one of them would leap on a sword to be free of such a weight.{^n}{^n}What if I so happened to tell them to return with your head...you catch my meaning?
 Bring them on. I'm not working for you.
+Alright, how do I clear my debt?
 Alright, how do I clear my debt?
 We'll speak later.
 We'll speak later.

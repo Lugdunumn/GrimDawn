@@ -19,10 +19,10 @@ The way to the Lost Oasis has been unsealed. You now have the means to seek out 
 Defeat Morgoneth at the Tomb of the Heretic
 
 Return to Riggs
-You have triumphed over the darkness swelling within the Tomb of the Heretic. The way to the Iris Riggs demands has opened.{^n}{^n}Claim the Iris at the Tomb of the Heretic and return it to Riggs at the Vanguard of the Three.
+You have triumphed over the darkness swelling within the Tomb of the Heretic. The way to the Iris Riggs demands has opened.{^n}{^n}Claim the Iris at the Tomb of the Heretic and return it to Riggs at the Conclave of the Three.
 
 Claim the Iris of Eternal Night
-Deliver the Iris to Riggs at the Vanguard of the Three
+Deliver the Iris to Riggs at the Conclave of the Three
 
 
 

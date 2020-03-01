@@ -46,7 +46,7 @@ Splendid. My trust in you was not misplaced. Speak to Kalderos at the Steps of T
 Very well.
 I want no part in this.
 What of that spirit?
-Does Kalderos frighten you? I would have thought a necromancer used to such sights.{^n}{^n}Do not fear, he our ally and sworn to serve. Now will you listen to my proposition or will you continue to stare into the deathless eyes of my companion?
+Does Kalderos frighten you? I would have thought a necromancer used to such sights.{^n}{^n}Do not fear, he is our ally and sworn to serve. Now will you listen to my proposition or will you continue to stare into the deathless eyes of my companion?
 What did you want me to do?
 I don't want any part in your schemes.
 I don't want to know.
