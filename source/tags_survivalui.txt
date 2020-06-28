@@ -9,7 +9,7 @@ tagSurvivalLastDeath=Your party has fallen.
 achGroupSurvival=The Crucible
 
 achS001Title=Champion of the Crucible
-achS001Desc=Complete the Crucible through Wave 150 .
+achS001Desc=Complete the Crucible through Wave 150.
 
 achS002Title=Conqueror of the Crucible
 achS002Desc=Complete the Crucible through Wave 150 on Challenger Difficulty.

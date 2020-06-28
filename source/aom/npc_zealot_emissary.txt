@@ -20,7 +20,7 @@ I will seek out your enclave.
 Perhaps another time.
 Your allegiance to the vile arts will lead you down a dark path from which there is no return.
 You're right, it was a mistake. I wish to join you.
-Do not presume to be ignorant of who you are, necromancer.{^n}{^n}The likes of you are an affront to nature, an abominations that twists the divine threads of life to your will as if they were playthings.{^n}{^n}I see it was a mistake in coming here as the Legion willingly aligns itself with heretics. Leave me be.
+Do not presume to be ignorant of who you are, necromancer.{^n}{^n}The likes of you are an affront to nature, an abomination that twists the divine threads of life to your will as if they were playthings.{^n}{^n}I see it was a mistake in coming here as the Legion willingly aligns itself with heretics. Leave me be.
 Um, alright.
 It serves me well.
 Your allegiance to the vile necromancers will lead you down a dark path from which there is no return.
@@ -115,7 +115,7 @@ I'll need some time to think this through.
 Goodbye.
 Do not dare to stand before me, filth.{^n}{^n}If we were not on neutral ground, I would incinerate you where you stand.
 Why the hostility?
-Do not presume to be ignorant of who you are, necromancer.{^n}{^n}The likes of you are an affront to nature, an abominations that twists the divine threads of life to your will as if they were playthings.{^n}{^n}It is my duty as a Chosen of Kymon to eliminate all enemies of mankind.
+Do not presume to be ignorant of who you are, necromancer.{^n}{^n}The likes of you are an affront to nature, an abomination that twists the divine threads of life to your will as if they were playthings.{^n}{^n}It is my duty as a Chosen of Kymon to eliminate all enemies of mankind.
 Um, alright.
 Um, alright.
 I have come to represent Kymon's Chosen, as the one you call Ulgrim has requested.{^n}{^n}We would be eager to learn from one such as you as our goals are much the same.

@@ -309,7 +309,7 @@ tagQuestItemInquisitorsRune=Creed's Pendant
 tagQuestItemInquisitorsRuneDesc="At first glance, it appears to be a simple pendant with an ornate rune at its center. Yet it emanates with power."
 
 tagGDX1QuestItemUlgrimHeirloom=Ulgrim's Keepsake
-tagGDX1QuestItemUlgrimHeirloom_Desc="A rather mundane object considering the implications. Inquisitor Creed hopes to use it to hone in on Ulgrim's location."
+tagGDX1QuestItemUlgrimHeirloom_Desc="A rather mundane object considering the implications. Inquisitor Creed hopes to use it to home in on Ulgrim's location."
 tagGDX1QuestItemUlgrimHeirloom02=Ulgrim's Keepsake
 tagGDX1QuestItemUlgrimHeirloom02_Desc="Marked with the Coven's magic, it should, hopefully, open the way to Ulgrim."
 
