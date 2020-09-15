@@ -66,7 +66,7 @@ tagGDX1Class07SkillName03D=Word of Arms
 tagGDX1Class07SkillDescription03D=By extending their will through massive two-handed weapons, Inquisitors can inscribe additional runes into their equipment and thus enact the Word of Renewal with greater frequency. ^oRequires a two-handed melee or two-handed ranged weapon.
 
 tagGDX1Class07SkillName04A=Flames of Ignaffar
-tagGDX1Class07SkillDescription04A=Hold the Stone of Ignaffar in front of you, unleashing a torrent of flame from the palm of your hand for as long as you channel your will into the artifact.^oThis is a channeled skill and must be held down to maintain. ^oAt 100% Cast Speed, Flames of Ignaffar deals damage and drains Energy every 0.3s.
+tagGDX1Class07SkillDescription04A=Hold the Stone of Ignaffar in front of you, unleashing a torrent of flame from the palm of your hand for as long as you channel your will into the artifact. ^oThis is a channeled skill and must be held down to maintain. At 100% Cast Speed, Flames of Ignaffar deals damage and drains Energy every 0.3s.
 tagGDX1Class07SkillName04B=Intensify
 tagGDX1Class07SkillDescription04B=The Flames of Ignaffar intensify, melting through defenses and turning flesh to ashes.
 tagGDX1Class07SkillName04C=Infernal Purge
@@ -136,7 +136,7 @@ tagGDX1Class08SkillDescription01B=The hunger for life's essence cannot be easily
 tagGDX1Class08SkillName01C=Decomposition
 tagGDX1Class08SkillDescription01C=Even before life has left their eyes, your foes begin to decompose and fall apart where they stand.
 tagGDX1Class08SkillName01D=Gravechill
-tagGDX1Class08SkillDescription01D=Necromancers well versed in the whispers of death can force the chill of the grave upon their unwilling victims, slowing their actions, but sapping less of their life essence.
+tagGDX1Class08SkillDescription01D=Necromancers well versed in the whispers of death can force the chill of the grave upon their unwilling victims, slowing their actions.
 xxtagGDX1Class08SkillName01D=Endless Thirst
 xxtagGDX1Class08SkillDescription01D=The transfer of life essence is generally a practice reserved only for dire situations, but some practitioners have difficulty resisting the temptation of raw vital energies and succumb to sustaining themselves solely on this spell, at the cost of those around them.
 
@@ -222,7 +222,7 @@ tagGDX1Class08SkillName14A=Mark of Torment
 tagGDX1Class08SkillDescription14A=Though all must ultimately answer to that final fate, your mastery of death has allowed you to delay the inevitable. By linking your soul to a nearby foe, you transfer some of the harm intended for you into them instead. ^oOnly one enemy can be Marked at any one time.
 
 tagGDX1Class08SkillName15A=Call of the Grave
-tagGDX1Class08SkillDescription15A=Upon their master's command, your minions can unleash the power of the grave that fuels them, throwing them into a vicious frenzy.
+tagGDX1Class08SkillDescription15A=Call upon the rot and decay of the grave to fuel your vile magic and throw your undying minions into a vicious frenzy.
 
 #ItemSkills
 
@@ -351,7 +351,7 @@ tagGDX1ItemSkillD125Name=Rageflame
 tagGDX1ItemSkillD125Desc=A burst of tainted flames erupts from the earth.
 
 tagGDX1ItemSkillD126Name=Flame of Gar'dal
-tagGDX1ItemSkillD126Desc=Engulf yourself in the wicked flames of Gar'dal, which are harmless to you and those you consider allies while singeing any foes that draw near.
+tagGDX1ItemSkillD126Desc=Engulf yourself in the wicked flames of Gar'dal, which are harmless to you and those you consider allies while singeing any foes that draw near. ^oThis ability must be toggled to maintain its effect.
 
 tagGDX1ItemSkillD127Name=Executioner's Edge
 tagGDX1ItemSkillD127Desc=Unleash a deadly spinning blade to decapitate your foes.

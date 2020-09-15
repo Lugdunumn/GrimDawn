@@ -1,0 +1,15 @@
+Building Site
+This bridge once connected Devil's Crossing to the Old Grove to the south. It must be restored before you can cross it, although you likely won't make it very far.{^n}{^n}It will take 25 Scrap and 50000 Iron Bits to repair.
+Not enough materials.
+Repair the Bridge to Old Grove.
+Leave it.
+This bridge once connected Devil's Crossing to the Old Grove to the south. It must be restored before you can cross it, although you likely won't make it very far.{^n}{^n}It will take 25 Scrap and 35000 Iron Bits to repair.
+Not enough materials.
+Repair the Bridge to Old Grove.
+Leave it.
+This bridge once connected Devil's Crossing to the Old Grove to the south. It must be restored before you can cross it, although you likely won't make it very far.{^n}{^n}It will take 25 Scrap and 20000 Iron Bits to repair.
+Not enough materials.
+Repair the Bridge to Old Grove.
+Leave it.
+You have restored this bridge.
+Ok.
