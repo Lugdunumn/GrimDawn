@@ -306,6 +306,10 @@ tagGDX2HeadD218=Targo's Helm
 tagGDX2HeadD219=Voidsoul Visage
 tagGDX2HeadD220=Rotgheist Mask
 tagGDX2HeadD221=Morgoneth's Visage
+tagGDX2HeadD222=Shattered Realm Ceremonial Mask
+tagGDX2HeadD223=Veilkeeper's Mask
+tagGDX2HeadD224=Goredrinker's Mask
+tagGDX2HeadD225=Mask of Ember's Calling
 
 tagGDX2HeadF201=Bysmiel Nightshroud Casque
 tagGDX2HeadF202=Bysmiel Dread Hood
@@ -356,6 +360,10 @@ tagGDX2ShoulderD216=Targo's Shoulderguard
 tagGDX2ShoulderD217=Voidsoul Mantle
 tagGDX2ShoulderD218=Rotgheist Shoulderguard
 tagGDX2ShoulderD219=Morgoneth's Dark Mantle
+tagGDX2ShoulderD220=Shattered Realm Ceremonial Mantle
+tagGDX2ShoulderD221=Veilkeeper's Mantle
+tagGDX2ShoulderD222=Goredrinker's Mantle
+tagGDX2ShoulderD223=Mantle of Ember's Calling
 
 tagGDX2ShoulderF201=Bysmiel Arcane Spaulders
 tagGDX2ShoulderF202=Bysmiel Stormshroud Mantle
@@ -410,6 +418,10 @@ tagGDX2TorsoD216=Targo's Chestguard
 tagGDX2TorsoD217=Voidsoul Armor
 tagGDX2TorsoD218=Rotgheist Chestguard
 tagGDX2TorsoD219=Morgoneth's Black Heart
+tagGDX2TorsoD220=Shattered Realm Ceremonial Armor
+tagGDX2TorsoD221=Veilkeeper's Armor
+tagGDX2TorsoD222=Goredrinker's Armor
+tagGDX2TorsoD223=Armor of Ember's Calling
 
 tagGDX2TorsoF201=Bysmiel Nightshroud Chestguard
 tagGDX2TorsoF202=Bysmiel Vile Vestments
@@ -582,6 +594,7 @@ tagGDX2NecklaceD211=Rah'Zin's Gem
 tagGDX2NecklaceD212=Blightlord's Vector
 tagGDX2NecklaceD213=Bysmiel's Iris
 tagGDX2NecklaceD214=Rotgheist Emblem
+tagGDX2NecklaceD215=Goredrinker's Ward
 
 tagGDX2NecklaceF201=Bysmiel Champion Pendant
 tagGDX2NecklaceF202=Bysmiel Veiled Pendant
@@ -622,6 +635,8 @@ tagGDX2MedalD206=Ludrigan's Mark
 tagGDX2MedalD207=Cyclone Mark
 tagGDX2MedalD208=Ghol's Mark
 tagGDX2MedalD209=Bysmiel's Mark
+tagGDX2MedalD210=Veilkeeper's Crest
+tagGDX2MedalD211=Crest of Ember's Calling
 
 tagGDX2MedalF201=Bysmiel Mark of Manipulation 
 tagGDX2MedalF202=Bysmiel Mark of Storms
@@ -1196,6 +1211,15 @@ tagGDX2ItemSetD218Desc=Rotgheist reveled in slaughter of man and creature alike,
 
 tagGDX2ItemSetD219Name=Armor of the Eternal Night
 tagGDX2ItemSetD219Desc="Morgoneth peered into the darkness, until the darkness stared back."
+
+tagGDX2ItemSetD220Name=Veilkeeper
+tagGDX2ItemSetD220Desc="Regalia once worn by the resolute Keepers of Ralyoth, who, an eternity ago, stood as custodians to a forgotten god."
+
+tagGDX2ItemSetD221Name=Goredrinker
+tagGDX2ItemSetD221Desc="Regalia once worn by the resolute Keepers of Ralyoth, who, an eternity ago, stood as custodians to a forgotten god."
+
+tagGDX2ItemSetD222Name=Ember's Calling
+tagGDX2ItemSetD222Desc="Regalia once worn by the resolute Keepers of Ralyoth, who, an eternity ago, stood as custodians to a forgotten god."
 
 
 
