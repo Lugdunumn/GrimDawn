@@ -845,4 +845,3 @@ tagGDX1EnemySkillD16_Desc=A great beast roams nearby, filling you with dread and
 
 tagGDX1EnemySkillD17=Burning Blood
 tagGDX1EnemySkillD17_Desc=Gargabol's Burning Blood singes your resistances.
-

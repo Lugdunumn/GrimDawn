@@ -1479,7 +1479,7 @@ tagItemSkillD046Name=Call of the Beast
 tagItemSkillD046Desc=Release a bestial roar, inspiring your minions.
 
 tagItemSkillD047Name=Call the Storm
-tagItemSkillD047Desc=Conjure a storm of static energy around yourself.
+tagItemSkillD047Desc=Conjure a storm of static energy.
 
 tagItemSkillD048Name=Caustic Pool
 tagItemSkillD048Desc=Conjure a pool of vile acid to disintegrate your foes.
@@ -1594,7 +1594,7 @@ tagItemSkillD082Name=Envenom
 tagItemSkillD082Desc=A well-placed strike releases the venom contained within these claws.
 
 tagItemSkillD083Name=Eternal Haunt
-tagItemSkillD083Desc=Inflict an tormenting haunt upon your foe that spreads among your foes.
+tagItemSkillD083Desc=Inflict a tormenting haunt upon your target that spreads among your foes.
 
 tagItemSkillD084Name=Exterminate
 tagItemSkillD084Desc=End your foe with a well-aimed shot. ^oThis is a ranged technique that activates off of default weapon attacks.
@@ -2759,7 +2759,7 @@ tagDevotionEffectB04Desc=Shred your foes, exposing delicate arteries and inducin
 tagDevotionEffectB05=Maul
 tagDevotionEffectB05Desc=Maul nearby foes with the might of a dire bear, feasting on their exposed insides.
 tagDevotionEffectB06=Blades of Wrath
-tagDevotionEffectB06Desc=Push the advantage by unleashing a burst of phantasmal blades that pass through enemies with ease.
+tagDevotionEffectB06Desc=Push the advantage by unleashing a burst of phantasmal blades that pass through enemies with ease. ^oBlades initially deal 30% reduced damage before reaching their full strength as they expand outward.
 tagDevotionEffectB07=Fissure
 tagDevotionEffectB07Desc=A fissure opens in the earth, spewing lava and brimstone upon nearby foes.
 tagDevotionEffectB07_Pet01=Magma

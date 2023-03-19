@@ -708,7 +708,7 @@ tagGDX2EnemySkillD14=Celestial Presence
 tagGDX2EnemySkillD14_Desc=You stand in awe of a celestial being.
 
 tagGDX2EnemySkillD15=Celestial Effigy
-tagGDX2EnemySkillD15_Desc=An nearby effigy empowers Korvaak and harms mortals.
+tagGDX2EnemySkillD15_Desc=A nearby effigy empowers Korvaak and harms mortals.
 
 tagGDX2EnemySkillD16=Howling Wind
 tagGDX2EnemySkillD16_Desc=A powerful wind chills you to the bone and causes some projectiles to miss their intended target.
@@ -717,7 +717,7 @@ tagGDX2EnemySkillD17=Visions of Terror
 tagGDX2EnemySkillD17_Desc=You have witnessed the infinite hunger of the encroaching darkness, sapping you of all strength.
 
 tagGDX2EnemySkillD18=Hungering Night
-tagGDX2EnemySkillD18_Desc=A dark sorcerer has sapped your essence, draining you of life and compromosing your resistances.
+tagGDX2EnemySkillD18_Desc=A dark sorcerer has sapped your essence, draining you of life and compromising your resistances.
 
 tagGDX2EnemySkillD19=Unraveled Mind
 tagGDX2EnemySkillD19_Desc=Your mind cannot process the horrors it has witnessed, crippling your aim and casting ability.
